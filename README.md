@@ -25,6 +25,29 @@ the projects have to be sound, with information available, and non-minimal circu
 
 Please do take a moment to look at an existing project to view how best to integrate into our list.
 
+#### Format
+info.json
+```
+{
+    "name": "BOG Token",
+    "website": "https://bogtools.io/",
+    "telegram": "https://t.me/bogtools",
+    "description": "Powering DeFi on BSC. The home of Charts, Limit Orders and more for Binance Smart Chain, all powered by the BOG Token.",
+    "explorer": "https://bscscan.com/token/0xD7B729ef857Aa773f47D37088A1181bB3fbF0099",
+    "type": "BEP20",
+    "symbol": "BOG",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xD7B729ef857Aa773f47D37088A1181bB3fbF0099"
+}
+```
+
+logo.png 
+```recommended size 256x256px, max. 512x512px, with max file size of 100kB.```
+
+in a Folder named after your Smart Contract Address in Checksum format.
+
+
 ## Disclaimer
 BogTools allows anyone to submit new assets to this repository. However, this does not mean that we are in partnership with the projects.
 BogTools will reject projects that are deemed as scam or fraudulent after careful review.
