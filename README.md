@@ -21,7 +21,8 @@ the projects have to be sound, with information available, and non-minimal circu
 - [ ] Upload your logo with file named `logo.png` to previously created folder with smartcontract address, and if you done all correctly your path should look like this. `bsc/assets/0x1234567461d3f8Db7496581774Bd869C83D51c93/logo.png`
 - [ ] Create `info.json` file with info about the token/project (we expand on Trustwallet's info.json, see below)
 - [ ] Create a pull request to the main repo
-- [ ] Pay the processing fee which is distributed to BOG Stakers.
+- [ ] Pay the 0.5 BNB processing fee to 0x075775b21Fc78FE9F12967715C360279d2Ee2472 which is distributed to BOG Stakers.
+- [ ] Tag @LukeBogTools once done with tx confirmation
 
 Please do take a moment to look at an existing project to view how best to integrate into our list.
 
