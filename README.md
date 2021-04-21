@@ -18,7 +18,7 @@ Processing Fee: 0.5BNB.
 ### Quick starter
 
 **Adding an BEP20 token checklist**:
-- [ ] Make sure your smartcontract has more than 3,000 address holders, otherwise you will be rejected
+- [ ] Make sure your smartcontract has more than 750 address holders & 1500 transactions, otherwise you will be rejected. Dust attacks do not qualify.
 - [ ] Fork the Github repository
 - [ ] Create folder with name of token smartcontact address in [_checksum format_](https://developer.trustwallet.com/add_new_asset#checksum_format) `bsc/assets/<token_smartcontract_address>/`.
 - [ ] Tell your designer that token image must be in PNG format, avoid transparent background, recommended size 256x256px, max. 512x512px, with max file size of 100kB. We use trust wallet's [image rules](https://developer.trustwallet.com/add_new_asset#image-requirements).
