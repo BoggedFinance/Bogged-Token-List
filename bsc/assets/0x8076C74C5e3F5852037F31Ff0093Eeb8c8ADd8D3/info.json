@@ -2,7 +2,7 @@
     "name": "SafeMoon",
     "website": "https://safemoon.net",
     "telegram": "https://t.me/safemoonv2",
-    "alert": "Safemoon has locked up $250m in Liquidity. Reports from \"War on  Rugs\" & \"poocoin\" that Safemoon is a scam are incorrect.",
+    "alert": "Safemoon has locked up $250m in Liquidity. Reports from unreliable sources that Safemoon is a scam are incorrect.",
     "alerturl": "https://bscscan.com/tx/0x22797bbc31384ea04dc6f06713a46359e8faabcb3d6ebe9a83fafc5cdd48fe40",
     "alerturldesc": "View Liquidity Lock",
     "contract": "0x8076C74C5e3F5852037F31Ff0093Eeb8c8ADd8D3",
