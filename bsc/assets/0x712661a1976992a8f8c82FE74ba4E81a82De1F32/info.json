@@ -1,0 +1,14 @@
+{
+    "name": "ROUL",
+    "website": "https://roultoken.com",
+    "telegram": "https://t.me/roulettedefi",
+    "contract": "0x712661a1976992a8f8c82FE74ba4E81a82De1F32",
+    "description": "5% JACKPOT redistribution every 4 hours. Every 4 hours you have a chance to win the JACKPOT. A random winner is selected using our custom algorithm based on Solidity Blockhash.",
+    "explorer": "https://bscscan.com/token/0x712661a1976992a8f8c82FE74ba4E81a82De1F32",
+    "research": "",
+    "type": "BEP20",
+    "symbol": "SAFEMOON",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x712661a1976992a8f8c82FE74ba4E81a82De1F32"
+}
