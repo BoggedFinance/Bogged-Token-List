@@ -1,0 +1,12 @@
+{
+    "name": "Frenchie Network",
+    "website": "https://frenchie.tech",
+    "telegram": "https://t.me/FrenchieNetwork",
+    "description": "FREN is a MEME token created inspired in the hype of the dogecoin and the other dog-related coins. We are aiming to create an ETH-like network to compete with DOGE old system.",
+    "explorer": "https://bscscan.com/token/0x13958e1eb63dfb8540eaf6ed7dcbbc1a60fd52af",
+    "symbol": "FREN",
+    "type": "BEP20",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x13958e1eb63dfb8540eaf6ed7dcbbc1a60fd52af"
+}
