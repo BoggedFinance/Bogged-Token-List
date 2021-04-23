@@ -5,6 +5,7 @@
     "alert": "WARNING - Poocoin presents a 'serious risk of losing [...] cash' according to Media Reports.",
     "alerturl": "https://www.thesun.co.uk/money/14731525/poocoin-safemoon-warning-investors-avoid-cryptocurrencies/",
     "alerturldesc": "View Warning",
+    "alertcolour": "red",
     "explorer": "https://bscscan.com/token/0xB27ADAfFB9fEa1801459a1a81B17218288c097cc",
     "type": "BEP20",
     "symbol": "POOCOIN",
