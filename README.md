@@ -4,6 +4,8 @@ The Bogged Token List is a list of tokens with accurate and up-to-date informati
 
 [Bogged Charts](https://charts.bogged.finance) uses token logos from this source, alongside a number of other projects.
 
+[Bogged.Finance Trading](https://bogged.finance) uses token logos and information from this source.
+
 The repository contains token info from the Binance smart Chain.
 
 ## How to add token
@@ -12,8 +14,11 @@ Please note that brand new tokens are not accepted,
 the projects have to be sound, with information available, and non-minimal circulation
 
 ### Requirements
-Requirements: 750 holders and 1500 transactions. 
-Processing Fee: 0.5BNB.
+Requirements: 500 holders and 1500 transactions. 
+
+Processing Fee: **0.5BNB.**
+
+Processing Fee for tokens which link to their BoggedChart on their Telegram and Website: **FREE!**
 
 ### Quick starter
 
@@ -57,6 +62,9 @@ in a Folder named after your Smart Contract Address in Checksum format.
 BogTools allows anyone to submit new assets to this repository. However, this does not mean that we are in partnership with the projects.
 BogTools will reject projects that are deemed as scam or fraudulent after careful review.
 BogTools reserves the right to reject any project for any reason from listing on this platform.
+
+## Rules
+Alerts in JSON are not accepted. Only BogTools is permitted to add alerts to tokens.
 
 ## License
 Please read License.md for details.
