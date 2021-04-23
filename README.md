@@ -63,5 +63,8 @@ BogTools allows anyone to submit new assets to this repository. However, this do
 BogTools will reject projects that are deemed as scam or fraudulent after careful review.
 BogTools reserves the right to reject any project for any reason from listing on this platform.
 
+## Rules
+Alerts in JSON are not accepted. Only BogTools is permitted to add alerts to tokens.
+
 ## License
 Please read License.md for details.
