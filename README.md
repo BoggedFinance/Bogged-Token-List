@@ -4,6 +4,8 @@ The Bogged Token List is a list of tokens with accurate and up-to-date informati
 
 [Bogged Charts](https://charts.bogged.finance) uses token logos from this source, alongside a number of other projects.
 
+[Bogged.Finance Trading](https://bogged.finance) uses token logos and information from this source.
+
 The repository contains token info from the Binance smart Chain.
 
 ## How to add token
