@@ -16,7 +16,7 @@ Requirements: 500 holders and 1500 transactions.
 
 Processing Fee: 0.5BNB.
 
-Processing Fee for tokens which link to BogTools on their Telegram and Website: FREE!
+Processing Fee for tokens which link to the BoggedChart on their Telegram and Website: FREE!
 
 ### Quick starter
 
