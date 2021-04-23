@@ -12,8 +12,8 @@ Please note that brand new tokens are not accepted,
 the projects have to be sound, with information available, and non-minimal circulation
 
 ### Requirements
-Requirements: 750 holders and 1500 transactions. 
-Processing Fee: 0.5BNB.
+Requirements: 500 holders and 1500 transactions. 
+Processing Fee: 0.1BNB.
 
 ### Quick starter
 
