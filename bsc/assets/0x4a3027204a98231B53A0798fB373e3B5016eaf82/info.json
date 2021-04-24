@@ -1,0 +1,11 @@
+{
+    "name": "SCAM Token",
+    "website": "http://www.scamtoken.biz",
+    "description": "SCAM token - the first audit platform that uses NFTs as certificate",
+    "explorer": "https://bscscan.com/token/0x4a3027204a98231B53A0798fB373e3B5016eaf82",
+    "type": "BEP20",
+    "symbol": "SCAM",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x4a3027204a98231B53A0798fB373e3B5016eaf82"
+}
