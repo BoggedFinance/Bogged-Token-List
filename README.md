@@ -42,6 +42,8 @@ info.json
     "name": "BOG Token",
     "website": "https://bogtools.io/",
     "telegram": "https://t.me/bogtools",
+    "discord": "https://discord.gg/bogtools",
+    "twitter": "https://twitter.com/bogtools",
     "description": "Powering DeFi on BSC. The home of Charts, Limit Orders and more for Binance Smart Chain, all powered by the BOG Token.",
     "explorer": "https://bscscan.com/token/0xD7B729ef857Aa773f47D37088A1181bB3fbF0099",
     "type": "BEP20",
