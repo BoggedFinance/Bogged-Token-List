@@ -1,0 +1,12 @@
+{
+    "name": "Toad.Farm",
+    "website": "https://toad.farm/",
+    "description": "Toad.Farm is part of Farmhub's multi-token yield farming ecosystem.",
+    "explorer": "https://bscscan.com/token/0x22D67B3f6aCdf8c0682f6FB20590E902DeEA6BA1",
+    "research": "https://docs.farmhub.community",
+    "type": "BEP20",
+    "symbol": "TOAD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x22D67B3f6aCdf8c0682f6FB20590E902DeEA6BA1"
+}

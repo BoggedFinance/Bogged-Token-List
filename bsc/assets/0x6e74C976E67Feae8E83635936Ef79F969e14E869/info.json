@@ -1,0 +1,12 @@
+{
+    "name": "Snek.Farm",
+    "website": "https://snek.farm/",
+    "description": "Snek.Farm is part of Farmhub's multi-token yield farming ecosystem.",
+    "explorer": "https://bscscan.com/token/0x6e74C976E67Feae8E83635936Ef79F969e14E869",
+    "research": "https://docs.farmhub.community",
+    "type": "BEP20",
+    "symbol": "SNEK",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x6e74C976E67Feae8E83635936Ef79F969e14E869"
+}
