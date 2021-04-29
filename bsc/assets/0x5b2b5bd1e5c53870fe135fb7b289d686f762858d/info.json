@@ -1,0 +1,25 @@
+{
+    "name": "PIXL Coin",
+    "website": "https://pixl.one",
+    "description": "Pixl Coin has been created to disrupt the blockchain advertising space oe pixl at a time. Leveraging partnerships with other projects and utilising our unique 1million pixl launchpad all inline with our retro 8bit theme",
+"socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/pixlcoin"
+        },
+        {
+            "name": "YouTube",
+            "url": "https://youtube.com/channel/UCapfVtQNmR444PAw8ufLK_w"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/pixlcoin"
+        }
+    ],
+    "explorer": "https://bscscan.com/token/0x5b2b5bd1e5c53870fe135fb7b289d686f762858d",
+    "type": "BEP20",
+    "symbol": "PXL",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x5b2b5bd1e5c53870fe135fb7b289d686f762858d"
+}
