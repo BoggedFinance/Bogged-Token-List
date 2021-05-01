@@ -1,0 +1,14 @@
+{
+    "name": "CuteCat Token",
+    "website": "https://cutecat.finance/",
+    "telegram": "https://t.me/CuteCatCommunity",
+    "discord": "https://discord.gg/gQPmKeBwat",
+    "twitter": "https://twitter.com/OfficialCuteCa1",
+    "description": "CuteCat Token is a meme token made and managed 100% by the community",
+    "explorer": "https://bscscan.com/token/0xFE3eC6769801Ca9167CCC5DE0A9DaE338ea3d94a",
+    "type": "BEP20",
+    "symbol": "CCAT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xFE3eC6769801Ca9167CCC5DE0A9DaE338ea3d94a"
+}
