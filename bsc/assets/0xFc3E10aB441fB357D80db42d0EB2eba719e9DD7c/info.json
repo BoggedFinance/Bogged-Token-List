@@ -1,0 +1,12 @@
+{
+    "name": "FARMHUB",
+    "website": "https://farmhub.community/",
+    "description": "The FARMHUB token rewards its holders, and punishes sellers. Whenever a new yield farm is added to the Farmhub ecosystem, FARMHUB holders will be airdropped a portion of its starting supply.",
+    "explorer": "https://bscscan.com/token/0xFc3E10aB441fB357D80db42d0EB2eba719e9DD7c",
+    "research": "https://docs.farmhub.community",
+    "type": "BEP20",
+    "symbol": "FARMHUB",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xFc3E10aB441fB357D80db42d0EB2eba719e9DD7c"
+}

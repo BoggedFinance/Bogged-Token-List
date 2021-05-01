@@ -1,0 +1,12 @@
+{
+    "name": "Cobra.Farm",
+    "website": "https://cobra.farm/",
+    "description": "Cobra.Farm is part of Farmhub's multi-token yield farming ecosystem.",
+    "explorer": "https://bscscan.com/token/0x21a29979D68F35a21E477e06BE96A8cD5dE1aB3D",
+    "research": "https://docs.farmhub.community",
+    "type": "BEP20",
+    "symbol": "COBRA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x21a29979D68F35a21E477e06BE96A8cD5dE1aB3D"
+}
