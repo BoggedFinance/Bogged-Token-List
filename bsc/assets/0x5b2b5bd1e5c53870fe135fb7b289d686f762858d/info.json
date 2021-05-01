@@ -13,9 +13,11 @@
         },
         {
             "name": "Telegram",
-            "url": "https://t.me/pixlcoin"
+            "url": "https://t.me/pixlcoin" 
         }
     ],
+    "telegram": "https://t.me/pixlcoin",
+    "twitter": "https://twitter.com/pixlcoin",
     "explorer": "https://bscscan.com/token/0x5b2b5bd1e5c53870fe135fb7b289d686f762858d",
     "type": "BEP20",
     "symbol": "PXL",
