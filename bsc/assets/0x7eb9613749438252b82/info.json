@@ -1,0 +1,14 @@
+{
+    "name": "BOG Token",
+    "website": "https://MuskBezo.xyz",
+    "telegram": "https://t.me/joinchat/C_MqX9DORwliZjlh",
+    "discord": "https://discord.gg/9XEs5E44",
+    "twitter": "https://twitter.com/MuskBezo",
+    "description": "Community Driven Across the Web and to Mars. With each Transaction 3 Functions happen Distribution, Token Burn, LP Aqusition!  We are the true definition of a Fair Launch No Presale = No Whales =Fair Launch for everyone!",
+    "explorer": "https://bscscan.com/token/0x7Eb9613749438252b82f6238DCF09dA302513b72",
+    "type": "BEP20",
+    "symbol": "MUSKBEZOS",
+    "decimals": 2,
+    "status": "active",
+    "id": "0x7Eb9613749438252b82f6238DCF09dA302513b72"
+}
