@@ -1,0 +1,12 @@
+{
+    "name": "Neuro.Charity",
+    "website": "https://neuro.charity/",
+    "telegram": "https://t.me/neurocharity",
+    "description": "Only 5000 tokens. Audited by Solidity Finance. Ten days old, under 1m MCAP and already donated $10k to The Pediatric Brain Tumor Foundation. Eliminate cancer.",
+    "explorer": "https://bscscan.com/token/0xd047bd94f90a95b38df6e1ea67796f571f46536b",
+    "type": "BEP20",
+    "symbol": "NEURO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xd047bd94f90a95b38df6e1ea67796f571f46536b"
+}
