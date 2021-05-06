@@ -1,0 +1,14 @@
+{
+    "name": "Marshot",
+    "website": "https://www.marshot.io",
+    "telegram": "https://t.me/Marshot_official",
+    "discord": "https://discord.gg/vfEp38AMVH",
+    "twitter": "https://twitter.com/MarshotOfficial",
+    "description": "$MARS is a yield-generating, community oriented token that gives back to the community by donating to charity organizations on a monthly basis.",
+    "explorer": "https://bscscan.com/token/0xabb2ee509e011d0b241d9837edb4fa7c25c09aa0",
+    "type": "BEP20",
+    "symbol": "MARS",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xabb2ee509e011d0b241d9837edb4fa7c25c09aa0"
+}
