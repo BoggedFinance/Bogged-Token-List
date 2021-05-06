@@ -6,7 +6,7 @@
     "twitter": "https://twitter.com/scorgi_official",
     "description": "SpaceCorgi leverages memenomics with real-world token utility.",
     "explorer": "https://bscscan.com/token/0x5a81b31b4a5f2d2a36bbd4d755dab378de735565",
-    "type": "BSC",
+    "type": "BEP20",
     "symbol": "SCORGI",
     "decimals": 18,
     "status": "active",
