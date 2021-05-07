@@ -1,0 +1,14 @@
+{
+    "name": "Dogeman",
+    "website": "https://dogeman.xyz",
+    "telegram": "https://t.me/dogemantoken",
+    "discord": "https://discord.io/dogeman",
+    "twitter": "https://twitter.com/DogemanToken",
+    "description": "Dogeman. The Man that's a Doge, He puts a smile on all of our faces. So go and buy yourself some of that Dogeman.",
+    "explorer": "https://bscscan.com/token/0xc0fb1a2b077518808c3a4fa361a1da5d190396a5",
+    "type": "BEP20",
+    "symbol": "DOGEMAN",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xc0fb1a2b077518808c3a4fa361a1da5d190396a5"
+}
