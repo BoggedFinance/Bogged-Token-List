@@ -1,0 +1,14 @@
+{
+    "name": "Sauron",
+    "website": "https://saurontoken.tech/",
+    "telegram": "https://t.me/saurontoken",
+    "discord": "https://discord.gg/fHcrpxKu8v",
+    "twitter": "https://twitter.com/saurontoken",
+    "description": "The SAURON token is advancing towards becoming the first dark cryptocurrency ever created that could be used for aquiring DARK NFTs stories or any other dark related NFTs.",
+    "explorer": "https://bscscan.com/token/0x0ab172176dd5f2ffcea55003967a90c1545de481",
+    "type": "BEP20",
+    "symbol": "SRNX",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x0ab172176dd5f2ffcea55003967a90c1545de481"
+}
