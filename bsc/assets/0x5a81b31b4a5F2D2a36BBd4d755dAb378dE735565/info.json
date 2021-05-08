@@ -5,10 +5,10 @@
     "discord": "https://discord.gg/Jpj9ZqX9",
     "twitter": "https://twitter.com/scorgi_official",
     "description": "SpaceCorgi leverages memenomics with real-world token utility.",
-    "explorer": "https://bscscan.com/token/0x5a81b31b4a5f2d2a36bbd4d755dab378de735565",
-    "type": "BEP2",
+    "explorer": "https://bscscan.com/token/0x5a81b31b4a5F2D2a36BBd4d755dAb378dE735565",
+    "type": "BEP20",
     "symbol": "SCORGI",
-    "decimals": 18,
+    "decimals": 9,
     "status": "active",
-    "id": "0x5a81b31b4a5f2d2a36bbd4d755dab378de735565"
+    "id": "0x5a81b31b4a5F2D2a36BBd4d755dAb378dE735565"
 }
