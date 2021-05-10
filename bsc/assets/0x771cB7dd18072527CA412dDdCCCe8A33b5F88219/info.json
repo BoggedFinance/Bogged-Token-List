@@ -5,10 +5,10 @@
     "discord": "https://discord.gg/NcmCVxq",
     "twitter": "https://twitter.com/trivechain_trvc",
     "description": "Trivechain is a game and entertainment protocol with the aims to make NFT and blockchain games closer to the user.",
-    "explorer": "https://bscscan.com/token/0x771cb7dd18072527ca412dddccce8a33b5f88219",
+    "explorer": "https://bscscan.com/token/0x771cB7dd18072527CA412dDdCCCe8A33b5F88219",
     "type": "BEP20",
     "symbol": "TRVC",
     "decimals": 18,
     "status": "active",
-    "id": "0x771cb7dd18072527ca412dddccce8a33b5f88219"
+    "id": "0x771cB7dd18072527CA412dDdCCCe8A33b5F88219"
 }
