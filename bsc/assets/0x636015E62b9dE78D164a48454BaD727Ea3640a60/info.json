@@ -1,0 +1,14 @@
+{
+    "name": "OFFY Token",
+    "website": "https://offy.uk/",
+    "telegram": "https://t.me/offychat",
+    "discord": "https://discord.gg/dxbKsKddb5",
+    "twitter": "https://twitter.com/UkOffy",
+    "description": "OFFY aims at introducing the craft ale community to cryptocurrency and making good craft ales easily accessible",
+    "explorer": "https://bscscan.com/token/0x636015E62b9dE78D164a48454BaD727Ea3640a60",
+    "type": "BEP20",
+    "symbol": "OFFY",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x636015E62b9dE78D164a48454BaD727Ea3640a60"
+}

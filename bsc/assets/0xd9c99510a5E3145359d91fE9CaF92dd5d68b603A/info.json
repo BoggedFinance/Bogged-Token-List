@@ -1,0 +1,14 @@
+{
+    "name": "Oasis",
+    "website": "https://wonderwall.finance/",
+    "telegram": "https://t.me/Cryptoasischat",
+    "discord": "https://discord.gg/cryptoasisds",
+    "twitter": "https://twitter.com/cryptoasisds",
+    "description": "Pre-sale snipe bot, New listing auto-buy/sell bot, news and feeds for selected coins, discussion board, portfolio tracking, in depth research reports, and more! ",
+    "explorer": "https://bscscan.com/token/0xd9c99510a5E3145359d91fE9CaF92dd5d68b603A#writeContract",
+    "type": "BEP20",
+    "symbol": "OASIS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xd9c99510a5E3145359d91fE9CaF92dd5d68b603A"
+}

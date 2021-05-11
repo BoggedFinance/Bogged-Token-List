@@ -1,0 +1,12 @@
+{
+    "name": "Lottery Token",
+    "website": "https://lotterytoken.net/",
+    "telegram": "https://t.me/lotterytokenchat",
+    "description": "LOT acts as one LIFETIME ticket that never expires! Each transaction has a basic fee of 6%. 2% is redistributed among all holders, 2% is burned and the last 2% are going into the lottery pool. If this reaches a quantity of 0.1% of the total supply, it will be distributed to one lucky holder. Since these draws depend on the size and number of transactions, this means that several draws are possible in one day.",
+    "explorer": "https://bscscan.com/token/0x4e7ae924fd9a5d60b56be486b2900efe0c6a9ca7",
+    "type": "BEP20",
+    "symbol": "LOT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x4e7ae924fd9a5d60b56be486b2900efe0c6a9ca7"
+}

@@ -16,9 +16,10 @@ the projects have to be sound, with information available, and non-minimal circu
 ### Requirements
 Requirements: 300 holders and 1000 transactions. 
 
-Processing Fee: **0.5BNB.**
+Processing Fee for tokens which link to their BoggedChart on their Telegram (whether that's in their bot, or in the description) and Website: **FREE!**
 
-Processing Fee for tokens which link to their BoggedChart on their Telegram and Website: **FREE!**
+Normal Processing Fee: **0.5BNB.**
+
 
 ### Quick starter
 
@@ -42,6 +43,8 @@ info.json
     "name": "BOG Token",
     "website": "https://bogtools.io/",
     "telegram": "https://t.me/bogtools",
+    "discord": "https://discord.gg/bogtools",
+    "twitter": "https://twitter.com/bogtools",
     "description": "Powering DeFi on BSC. The home of Charts, Limit Orders and more for Binance Smart Chain, all powered by the BOG Token.",
     "explorer": "https://bscscan.com/token/0xD7B729ef857Aa773f47D37088A1181bB3fbF0099",
     "type": "BEP20",
