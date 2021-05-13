@@ -50,6 +50,7 @@ info.json
     "type": "BEP20",
     "symbol": "BOG",
     "decimals": 18,
+    "slippage": 3,
     "status": "active",
     "id": "0xD7B729ef857Aa773f47D37088A1181bB3fbF0099"
 }
