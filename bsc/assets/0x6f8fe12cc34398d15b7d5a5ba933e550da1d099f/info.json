@@ -5,10 +5,10 @@
     "discord": "http://bit.ly/alchemistdefi-discord",
     "twitter": "https://twitter.com/alchemistdefi",
     "description": "Your alchemy lab, turning crypto into Mist and Digital Gold",
-    "explorer": "https://bscscan.com/token/0x6f8fe12cc34398d15b7d5a5ba933e550da1d099f",
+    "explorer": "https://bscscan.com/token/0x6f8FE12CC34398d15b7D5A5BA933E550DA1D099f",
     "type": "BEP20",
     "symbol": "MIST",
     "decimals": 18,
     "status": "active",
-    "id": "0x6f8fe12cc34398d15b7d5a5ba933e550da1d099f"
+    "id": "0x6f8FE12CC34398d15b7D5A5BA933E550DA1D099f"
 }
