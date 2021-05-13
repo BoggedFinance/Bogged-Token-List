@@ -1,0 +1,14 @@
+{
+    "name": "MoonPirate",
+    "website": "https://www.moonpirate.finance",
+    "telegram": "https://t.me/MoonPirate",
+    "discord": "https://discord.gg/bhg7pPuH",
+    "twitter": "https://twitter.com/MoonpirateBSC",
+    "description": "A deflationary governance token collaborating with REAL distilleries/breweries to produce REAL alcohol",
+    "explorer": "https://bscscan.com/token/0xf09b7b6ba6dab7cccc3ae477a174b164c39f4c66",
+    "type": "BEP20",
+    "symbol": "MOONPIRATE",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xf09b7b6ba6dab7cccc3ae477a174b164c39f4c66"
+}
