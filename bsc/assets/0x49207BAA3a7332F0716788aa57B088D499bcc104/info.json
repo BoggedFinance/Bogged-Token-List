@@ -1,0 +1,14 @@
+{
+    "name": "Alchemist Defi - AURUM",
+    "website": "https://alchemistdefi.com/",
+    "telegram": "https://t.me/alchemistdefi",
+    "discord": "http://bit.ly/alchemistdefi-discord",
+    "twitter": "https://twitter.com/alchemistdefi",
+    "description": "Your alchemy lab, turning crypto into Mist and Digital Gold",
+    "explorer": "https://bscscan.com/token/0x49207BAA3a7332F0716788aa57B088D499bcc104",
+    "type": "BEP20",
+    "symbol": "AURUM",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x49207BAA3a7332F0716788aa57B088D499bcc104"
+}
