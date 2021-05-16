@@ -1,0 +1,14 @@
+{
+    "name": "Elephant Money",
+    "website": "https://elephant.money",
+    "telegram": "https://t.me/elephant_money",
+    "twitter": "https://twitter.com/ElephantStatus",
+    "description": "A future-proof way to compound profits made on BSC as a rewards based store of value. A transaction fee of 10% is charged on all transfers of the ELEPHANT token to create a perpetual community trust",
+    "explorer": "https://bscscan.com/token/0xE283D0e3B8c102BAdF5E8166B73E02D96d92F688",
+    "type": "BEP20",
+    "symbol": "ELEPHANT",
+    "decimals": 18,
+    "slippage": 11,
+    "status": "active",
+    "id": "0xE283D0e3B8c102BAdF5E8166B73E02D96d92F688"
+}
