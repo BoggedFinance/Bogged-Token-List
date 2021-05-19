@@ -1,9 +1,10 @@
 {
-    "name": "BOG Token",
+    "name": "STEALTH Protocol",
     "website": "https://stealth-protocol.com/",
     "telegram": "https://t.me/stealthprotocol",
+    "discord": "https://discord.gg/nNGXTxfu",
     "twitter": "https://twitter.com/ProtocolStealth",
-    "description": "The Smart DeFi Token With Built In Systems To Reward Holders & Skyrocket Investments",
+    "description": "The Smart DeFi Token With Built In Systems To Reward Holders, Skyrocket Investments & Brings Technology To Underdeveloped Regions",
     "explorer": "https://bscscan.com/token/0x60AF9254e370a86428Ba2045af6cd91984b8545c",
     "type": "BEP20",
     "symbol": "STEALTH",
@@ -11,4 +12,4 @@
     "slippage": 11,
     "status": "active",
     "id": "0x60AF9254e370a86428Ba2045af6cd91984b8545c"
-}
+} 
