@@ -9,7 +9,7 @@
   "type": "BEP20",
   "symbol": "SP",
   "decimals": 15,
-  "slippage". 12,
+  "slippage": 12,
   "status": "active",
   "id": "0xC24bF9808617Db1C9F7Ba4B43bDBEd5875Ddc7c7",
 }
