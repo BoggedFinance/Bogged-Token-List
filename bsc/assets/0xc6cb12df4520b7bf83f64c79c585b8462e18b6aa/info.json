@@ -9,7 +9,7 @@
     "type": "BEP20",
     "symbol": "BEVO",
     "decimals": 9,
-	"slippage": 8,
+    "slippage": 8,
     "status": "active",
     "id": "0xc6Cb12df4520B7Bf83f64C79c585b8462e18B6Aa"
 }
