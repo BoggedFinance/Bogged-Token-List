@@ -1,0 +1,15 @@
+{
+    "name": "RageToken",
+    "website": "https://ragetoken.com/",
+    "telegram": "https://t.me/RageTokenTalk",
+    "discord": "https://discord.gg/v9ZD3VGxEZ",
+    "twitter": "https://twitter.com/ragetoken",
+    "description": "Powering DeFi on BSC. The home of Charts, Limit Orders and more for Binance Smart Chain, all powered by the BOG Token.",
+    "explorer": "https://bscscan.com/token/0x82b085f724b9a822320c84233291b62c13dd0712",
+    "type": "BEP20",
+    "symbol": "FUU",
+    "decimals": 18,
+    "slippage": 3,
+    "status": "active",
+    "id": "0x82b085f724b9a822320c84233291b62c13dd0712"
+}
