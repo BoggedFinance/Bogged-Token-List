@@ -1,8 +1,12 @@
 {
     "name": "Bakerytools",
     "website": "http://bakerytools.io",
-    "description": "Bakerytools is the ultimate hub & trading tool for Binance smart chain pairs & pool explorer and a hotspot for Private and pre-sale listings.",
+    "description": "SCAM: Bakerytools is a copy paste of bogged.finance.",
     "explorer": "https://bscscan.com/token/0x26D6e280F9687c463420908740AE59f712419147",
+    "alert": "'TBAKE' has created a copy+paste of Charts.Bogged.Finance in violation of Copyright, we are investigating the way forward. Do not invest in this scam.",
+    "alerturl": "",
+    "alerturldesc": "",
+    "alertcolour": "red",
     "type": "BEP20",
     "symbol": "TBAKE",
     "decimals": 18,
