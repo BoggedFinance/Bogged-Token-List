@@ -1,0 +1,14 @@
+{
+    "name": "AiChain",
+    "website": "https://aichain.pro/",
+    "telegram": "https://t.me/group_Aichain",
+    "twitter": "https://twitter.com/TheAiChain",
+    "description": "AiChain is an Ai & BlockChain based marketplace, where our communities meet to carry out operations involving digital goods and assets with crypto currency transactions.",
+    "explorer": "https://bscscan.com/token/0xaf27dB302351B470669E65707ABA9f674Af0d270",
+    "type": "BEP20",
+    "symbol": "AiChain",
+    "decimals": 9,
+    "slippage": 12,
+    "status": "active",
+    "id": "0xaf27dB302351B470669E65707ABA9f674Af0d270"
+}
