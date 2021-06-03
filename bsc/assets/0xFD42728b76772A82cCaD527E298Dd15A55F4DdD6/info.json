@@ -8,8 +8,8 @@
     "explorer": "https://bscscan.com/token/0xFD42728b76772A82cCaD527E298Dd15A55F4DdD6",
     "type": "BEP20",
     "symbol": "KAREN",
-    "decimals": 12,
-    "slippage": 3,
+    "decimals": 10,
+    "slippage": 12,
     "status": "active",
     "id": "0xFD42728b76772A82cCaD527E298Dd15A55F4DdD6"
 }
