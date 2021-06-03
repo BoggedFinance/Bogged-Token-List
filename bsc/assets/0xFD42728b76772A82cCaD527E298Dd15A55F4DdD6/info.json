@@ -1,0 +1,15 @@
+{ 
+   "name": "KarenCoin",
+    "website": "https://www.karencointoken.com/",
+    "telegram": "https://t.me/karencointothemoon",
+    "discord": "https://discord.com/invite/M27jzcZWQh",
+    "twitter": "https://twitter.com/karencointoken",
+    "description": "Karen Coin is a meme based token built on value driven tokenomics",
+    "explorer": "https://bscscan.com/token/0xFD42728b76772A82cCaD527E298Dd15A55F4DdD6",
+    "type": "BEP20",
+    "symbol": "KAREN",
+    "decimals": 10,
+    "slippage": 12,
+    "status": "active",
+    "id": "0xFD42728b76772A82cCaD527E298Dd15A55F4DdD6"
+}
