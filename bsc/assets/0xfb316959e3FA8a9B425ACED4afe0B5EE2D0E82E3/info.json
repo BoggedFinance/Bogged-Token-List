@@ -1,0 +1,15 @@
+{
+    "name": "ThePinkWojak",
+    "website": "https://www.pinkwojak.com/",
+    "telegram": "https://t.me/pinkwojaktoken",
+    "discord": "https://discord.com/invite/KEbMRjJn",
+    "twitter": "https://twitter.com/ThePinkWojak",
+    "description": "ThePinkWojak is a degenerate meme token for traders with added utility within the Pink Wojak ecosystem.",
+    "explorer": "https://bscscan.com/token/0xfb316959e3FA8a9B425ACED4afe0B5EE2D0E82E3",
+    "type": "BEP20",
+    "symbol": "PINK",
+    "decimals": 9,
+    "slippage": 10,
+    "status": "active",
+    "id": "0xfb316959e3FA8a9B425ACED4afe0B5EE2D0E82E3"
+}
