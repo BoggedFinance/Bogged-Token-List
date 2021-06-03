@@ -1,0 +1,15 @@
+{
+    "name": "Piggy Bank Token",
+    "website": "https://piggybanktoken.com/",
+    "telegram": "https://t.me/PiggyBankToken",
+    "discord": "https://discord.gg/GMxzjwXPzx",
+    "twitter": "https://twitter.com/PiggyBankToken",
+    "description": "PiggyBank is a fairly launched token on the Binance Smart Chain Network. A new concept on getting away from centralized banking!",
+    "explorer": "https://bscscan.com/token/0xCd2eCd5e06b1a330789B30e8AdA3D11c51503a71",
+    "type": "BEP20",
+    "symbol": "PIGGY",
+    "decimals": 9,
+    "slippage": 16,
+    "status": "active",
+    "id": "0xCd2eCd5e06b1a330789B30e8AdA3D11c51503a71"
+}
