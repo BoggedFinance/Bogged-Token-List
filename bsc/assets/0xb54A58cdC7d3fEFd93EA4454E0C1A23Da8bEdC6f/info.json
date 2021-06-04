@@ -1,0 +1,15 @@
+{
+    "name": "HoodRat",
+    "website": "https://hoodrat.finance/",
+    "telegram": "https://t.me/HoodratOfficial",
+    "discord": "ttps://discord.gg/P6g5sBPT",
+    "twitter": "https://twitter.com/FinanceHoodrat",
+    "description": "HoodRat is a BEP-20 utility token building an AI anti rug-pull scanner.",
+    "explorer": "https://bscscan.com/token/0xb54A58cdC7d3fEFd93EA4454E0C1A23Da8bEdC6f",
+    "type": "BEP20",
+    "symbol": "HOODRAT",
+    "decimals": 12,
+    "slippage": 5,
+    "status": "active",
+    "id": "0xb54A58cdC7d3fEFd93EA4454E0C1A23Da8bEdC6f"
+}
