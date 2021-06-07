@@ -5,11 +5,11 @@
     "discord": "https://discord.com/invite/bTPGUMW2Wa",
     "twitter": "https://twitter.com/officialboompay",
     "description": "BoomCoin is a utility token for the purpose of providing semi anonymously purchase, trade and spend of cryptocurrency across various merchant sites",
-    "explorer": "https://bscscan.com/token/0x761684e229f04ce8985b49e3beb1cd994c776a21",
+    "explorer": "https://bscscan.com/token/0x761684e229f04ce8985b49e3BEB1CD994C776A21",
     "type": "BEP20",
     "symbol": "BOOMC",
     "decimals": 18,
     "slippage": 2,
     "status": "active",
-    "id": "0x761684e229f04ce8985b49e3beb1cd994c776a21"
+    "id": "0x761684e229f04ce8985b49e3BEB1CD994C776A21"
 }
