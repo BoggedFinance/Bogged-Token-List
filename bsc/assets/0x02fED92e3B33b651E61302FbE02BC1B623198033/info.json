@@ -1,0 +1,15 @@
+{
+    "name": "DADE Token",
+    "website": "https://www.dadetoken.com",
+    "telegram": "https://t.me/dadetokenchat",
+    "discord": "https://discord.gg/N4A6p942Hv",
+    "twitter": "https://twitter.com/TokenDade",
+    "description": "The token of the 305. For everything Miami.",
+    "explorer": "https://bscscan.com/token/0x02fED92e3B33b651E61302FbE02BC1B623198033",
+    "type": "BEP20",
+    "symbol": "DADE",
+    "decimals": 9,
+    "slippage": 3,
+    "status": "active",
+    "id": "0x02fED92e3B33b651E61302FbE02BC1B623198033"
+}
