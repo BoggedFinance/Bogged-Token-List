@@ -1,0 +1,14 @@
+{
+  "name": "Dogecoin Cash",
+  "website": "https://dogecoincash.org/",
+  "telegram": "https://t.me/tipestry",
+  "twitter": "https://twitter.com/DogecoinCashDOG",
+  "description": "Dogecoin Cash introduces the new Proof of Content protocol, where people earn crypto by creating content instead of wasteful mining.",
+  "explorer": "https://bscscan.com/token/0x9596a56c73CA6f50CBd05cB8D85865F75659dC78",
+  "type": "BEP20",
+  "symbol": "DOG",
+  "decimals": 18,
+  "slippage": 3,
+  "status": "active",
+  "id": "0x9596a56c73CA6f50CBd05cB8D85865F75659dC78"
+}
