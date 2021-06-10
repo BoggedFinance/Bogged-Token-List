@@ -7,7 +7,7 @@
     "discord": "https://discord.gg/bogtools",
     "twitter": "https://twitter.com/bogtools",
     "alertcolour": "red",
-    "alert": "DO NOT TRADE BOG DURING THE TOKEN MIGRATION. THIS IS OLD BOG, IT IS WORTHLESS. YOU WILL RECEIVE NEW BOG SOON.",
+    "alert": "This is the OLD BOG TOKEN and is no longer valid for use with BogTools.",
     "alerturl": "https://t.me/bogtoolsann",
     "alerturldesc": "Visit BogTools Telegram for Updates",
     "type": "BEP20",

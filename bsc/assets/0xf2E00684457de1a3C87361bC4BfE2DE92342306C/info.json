@@ -5,11 +5,11 @@
     "discord": "https://discord.gg/8H4e6DwA",
     "twitter": "https://twitter.com/shieldnetio",
     "description": "Shield Network, a token audit platform where every token is thoroughly audited to ensure safety and avoid scams.",
-    "explorer": "https://bscscan.com/token/0xf2e00684457de1a3c87361bc4bfe2de92342306c",
+    "explorer": "https://bscscan.com/token/0xf2E00684457de1a3C87361bC4BfE2DE92342306C",
     "type": "BEP20",
     "symbol": "SHIELDNET",
     "decimals": 18,
     "slippage": 6,
     "status": "active",
-    "id": "0xf2e00684457de1a3c87361bc4bfe2de92342306c"
+    "id": "0xf2E00684457de1a3C87361bC4BfE2DE92342306C"
 }

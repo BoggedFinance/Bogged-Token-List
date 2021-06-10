@@ -1,0 +1,15 @@
+{
+    "name": "FIREFLY",
+    "website": "https://fireflytoken.co/",
+    "telegram": "https://t.me/fireflycommunity",
+    "discord": "https://discord.gg/c9naEr8s",
+    "twitter": "https://twitter.com/firefly_token",
+    "description": "Community-driven DeFi charitable project focused on small charities with big goals, rewarding the community with passive income.",
+    "explorer": "https://bscscan.com/token/0xa5A5cD9e490662672f287eb147e38e22876FC342",
+    "type": "BEP20",
+    "symbol": "FIREFLY",
+    "decimals": 9,
+    "slippage": 3,
+    "status": "active",
+    "id": "0xa5A5cD9e490662672f287eb147e38e22876FC342"
+}
