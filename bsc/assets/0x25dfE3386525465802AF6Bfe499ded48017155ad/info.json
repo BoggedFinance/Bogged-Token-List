@@ -1,0 +1,12 @@
+{
+    "name": "VTube Token",
+    "website": "https://vtubetoken.moe/",
+    "telegram": "https://t.me/vtube_token",
+    "description": "Partnered with the world's first open-source VTuber and pioneers of a DeFi cryptocurrency donation system for streamers.",
+    "explorer": "https://bscscan.com/token/0x25dfe3386525465802af6bfe499ded48017155ad",
+    "type": "BEP20",
+    "symbol": "VTUBE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x25dfe3386525465802af6bfe499ded48017155ad"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "OLD BOG Token",
+    "website": "https://bogtools.io/",
+    "telegram": "https://t.me/bogtools",
+    "description": "OLD BOG TOKEN - DO NOT TRADE",
+    "explorer": "https://bscscan.com/token/0xD7B729ef857Aa773f47D37088A1181bB3fbF0099",
+    "discord": "https://discord.gg/bogtools",
+    "twitter": "https://twitter.com/bogtools",
+    "alertcolour": "red",
+    "alert": "This is the OLD BOG TOKEN and is no longer valid for use with BogTools.",
+    "alerturl": "https://t.me/bogtoolsann",
+    "alerturldesc": "Visit BogTools Telegram for Updates",
+    "type": "BEP20",
+    "symbol": "BOG",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xD7B729ef857Aa773f47D37088A1181bB3fbF0099"
+}

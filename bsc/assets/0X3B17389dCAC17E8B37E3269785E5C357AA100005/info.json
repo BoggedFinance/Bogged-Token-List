@@ -1,0 +1,14 @@
+{
+    "name": "Swiss Fund",
+    "website": "https://swiss.fund",
+    "telegram": "https://t.me/MySwissFund",
+    "twitter": "https://twitter.com/MySwissFund",
+    "description": "Swiss Fund is a state-of-the-art DeFi-system that combines the Swiss Banking system with modern Blockchain technology.",
+    "explorer": "https://bscscan.com/token/0x3b17389dcac17e8b37e3269785e5c357aa100005",
+    "type": "BEP20",
+    "symbol": "SWSS",
+    "decimals": 9,
+    "slippage": 11,
+    "status": "active",
+    "id": "0x3b17389dcac17e8b37e3269785e5c357aa100005"
+}

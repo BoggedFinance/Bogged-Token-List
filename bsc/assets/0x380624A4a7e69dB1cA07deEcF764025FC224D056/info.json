@@ -1,0 +1,13 @@
+{
+    "name": "SafeBTC",
+    "website": "https://www.safebitcoin.io",
+    "telegram": "https://t.me/SafeBTCOriginal",
+    "source_code": "https://github.com/SAFEBTCOFFICIAL",
+    "description": "SafeBTC is a Yield Generation Protocol which has a 4% fee per transaction: 2% locked in liquidity and burned, 2% distributed to holders. 60% of the tokens have been burned. Fair-launched, audited, community owned. Ownership renounced – contract is safe and locked.",
+    "explorer": "https://bscscan.com/token/0x380624A4a7e69dB1cA07deEcF764025FC224D056",
+    "symbol": "SAFEBTC",
+    "type": "BEP20",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x380624A4a7e69dB1cA07deEcF764025FC224D056"
+}

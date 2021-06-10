@@ -1,0 +1,17 @@
+{
+    "name": "Tacocat",
+    "website": "https://tacocat.finance/",
+    "telegram": "https://t.me/TacoCatCrew",
+    "alert": "Pssst… ¿Qué pasa, ese?",
+    "alerturl": "https://bogged.finance/trade?token=0xA8fcEe78B782eF97380326E90DF80D72f025f020",
+    "alerturldesc": "Ape In on Bogged.Finance",
+    "contract": "0xA8fcEe78B782eF97380326E90DF80D72f025f020",
+    "description": "TacoCat is here!",
+    "explorer": "https://bscscan.com/token/0xA8fcEe78B782eF97380326E90DF80D72f025f020",
+    "research": "",
+    "type": "BEP20",
+    "symbol": "SAFEMOON",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xA8fcEe78B782eF97380326E90DF80D72f025f020"
+}

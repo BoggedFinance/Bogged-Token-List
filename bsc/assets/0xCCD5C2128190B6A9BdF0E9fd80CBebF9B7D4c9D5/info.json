@@ -1,0 +1,16 @@
+{
+    "name": "Ebuy Finance",
+    "website": "https://ebuy.finance/",
+    "telegram": "https://t.me/ebuy_finance",
+    "medium": "https://ebuy-finance.medium.com/",
+    "reddit": "https://www.reddit.com/r/Ebuy_Finance/",
+    "twitter": "https://twitter.com/EbuyFinance",
+    "description": "EBUY is an application for all online buying and selling without intermediaries",
+    "explorer": "https://bscscan.com/token/0xCCD5C2128190B6A9BdF0E9fd80CBebF9B7D4c9D5",
+    "type": "BEP20",
+    "symbol": "EBUY",
+    "decimals": 18,
+    "slippage": 12,
+    "status": "active",
+    "id": "0xCCD5C2128190B6A9BdF0E9fd80CBebF9B7D4c9D5"
+}

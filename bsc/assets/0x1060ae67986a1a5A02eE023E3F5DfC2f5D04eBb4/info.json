@@ -1,0 +1,12 @@
+{
+    "name": "DogeBSC",
+    "website": "https://dogebsc.finance/",
+    "telegram": "https://t.me/DogeCoinBSC",
+    "description": "Welcome to DogeBSC, the Binance Smart Chain home for the Doge community.",
+    "explorer": "https://bscscan.com/token/0x1060ae67986a1a5a02ee023e3f5dfc2f5d04ebb4",
+    "type": "BEP20",
+    "symbol": "DogeBSC",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x1060ae67986a1a5a02ee023e3f5dfc2f5d04ebb4"
+}
