@@ -4,11 +4,11 @@
   "telegram": "https://t.me/Bcarcadechat",
   "twitter": "https://twitter.com/bitcrusharcade",
   "description": "The first Hybrid Defi Casino on BSC.",
-  "explorer": "https://bscscan.com/token/0x0ef0626736c2d484a792508e99949736d0af807e",
+  "explorer": "https://bscscan.com/token/0x0Ef0626736c2d484A792508e99949736D0AF807e",
   "type": "BEP20",
   "symbol": "CRUSH",
   "decimals": 18,
   "slippage": 3,
   "status": "active",
-  "id": "0x0ef0626736c2d484a792508e99949736d0af807e"
+  "id": "0x0Ef0626736c2d484A792508e99949736D0AF807e"
 }
