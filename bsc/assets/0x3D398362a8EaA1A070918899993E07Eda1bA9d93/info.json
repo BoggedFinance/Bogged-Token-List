@@ -1,0 +1,15 @@
+{
+    "name": "AURO",
+    "website": "https://auro.finance/",
+    "telegram": "https://t.me/aurofinance",
+    "discord": "https://discord.gg/yXJ8qdJYyk",
+    "twitter": "https://twitter.com/aurofinance",
+    "description": "Charitable DeFi Token deployed on Binance Smart Chain.",
+    "explorer": "https://bscscan.com/token/0x3d398362a8eaa1a070918899993e07eda1ba9d93",
+    "type": "BEP20",
+    "symbol": "AURO",
+    "decimals": 9,
+    "slippage": 11,
+    "status": "active",
+    "id": "0x3D398362a8EaA1A070918899993E07Eda1bA9d93"
+}
