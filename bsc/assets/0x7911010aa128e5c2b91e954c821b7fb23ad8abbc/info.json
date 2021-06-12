@@ -1,0 +1,15 @@
+{
+    "name": "DexMoon $DXM",
+    "website": "https://dex-moon.com/",
+    "telegram": "https://t.me/twok_finance",
+    "discord": "https://discord.gg/VAtcRt7K",
+    "twitter": "https://twitter.com/DexMoon_by_2K",
+    "description": "Deflationary DeFi on BSC. YieldFarming and more for Binance Smart Chain.",
+    "explorer": "https://bscscan.com/token/0x7911010aa128e5c2b91e954c821b7fb23ad8abbc",
+    "type": "BEP20",
+    "symbol": "DXM",
+    "decimals": 9,
+    "slippage": 7,
+    "status": "active",
+    "id": "0x7911010aa128e5c2b91e954c821b7fb23ad8abbc"
+}
