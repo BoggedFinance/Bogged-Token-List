@@ -1,0 +1,13 @@
+{
+    "name": "Simargl Token",
+    "website": "https://simar.gl",
+    "description": "Simargl Token is going to be a cross-chain DeFi with auto trading capabilities",
+    "explorer": "https://bscscan.com/token/0xbdac5c8bc3ff38083437bb712d55b668f44f6df1",
+    "symbol": "SIMA",
+    "telegram": "https://t.me/SimarglToken",
+    "twitter": "https://twitter.com/SimarglToken",
+    "type": "BEP20",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xbdac5c8bc3ff38083437bb712d55b668f44f6df1"
+}
