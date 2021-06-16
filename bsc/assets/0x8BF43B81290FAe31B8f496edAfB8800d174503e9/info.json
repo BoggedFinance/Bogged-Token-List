@@ -1,0 +1,14 @@
+{
+    "name": "Official BNB Max",
+    "website": "https://bnb-max.com/",
+    "telegram": "https://t.me/bnbmaxcommunity",
+    "twitter": "https://twitter.com/bnbmaxcommunity?s=11",
+    "description": "The BNB max is launched in order to link the community token and famous crypto coin, creating a unique token that provide 3 % financial rewards per transaction fot their holders.",
+    "explorer": "https://bscscan.com/token/0x8bf43b81290fae31b8f496edafb8800d174503e9",
+    "type": "BEP20",
+    "symbol": "BNBMAX",
+    "decimals": 9,
+    "slippage": 3,
+    "status": "active",
+    "id": "0x8bf43b81290fae31b8f496edafb8800d174503e9"
+}
