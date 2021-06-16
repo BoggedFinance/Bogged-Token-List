@@ -1,15 +1,14 @@
 {
-    "name": "Pamp Finance",
-    "website": "https://pampfinance.com/",
-    "telegram": "https://t.me/LetsGetPampy",
-    "discord": "https://discord.gg/4wvXn7ghqB",
-    "twitter": "https://twitter.com/pampfinance",
-    "description": "We are the people's coin. An unruggable project with built in buying pressure, designed to only go up.",
-    "explorer": "https://bscscan.com/address/0x0a695de36514080c37712267eda8ac61ad6cf209#code",
-    "type": "BSC",
-    "symbol": "PAMPY",
-    "decimals": 11,
-    "slippage": 6,
+    "name": "YoCoin",
+    "website": "https://YOCO.finance/",
+    "telegram": "https://t.me/joinchat/BgHkuDg0TIgwN2Vh",
+    "twitter": "https://twitter.com/YocoinY",
+    "description": "A Safe, Eco-Friendly Fair-Launched DeFi Token Engineered for Long Term Trust & Automatic Rewards",
+    "explorer": "https://www.bscscan.com/token/0xdd17629d05e068a9d118ee35d11101d4140d0586",
+    "type": "BEP20",
+    "symbol": "YOCO",
+    "decimals": 9,
+    "slippage": 5,
     "status": "active",
-    "id": "0x0a695De36514080C37712267edA8AC61aD6Cf209"
+    "id": "0xdd17629d05e068a9d118ee35d11101d4140d0586"
 }
