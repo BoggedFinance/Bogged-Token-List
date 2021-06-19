@@ -1,0 +1,15 @@
+{
+    "name": "Cloudbit Cash",
+    "website": "https://cloudbitex.com/",
+    "telegram": "https://t.me/cloudbit",
+    "discord": "",
+    "twitter": "https://twitter.com/Cloudbit_Global",
+    "description": "Cloudbit Cash aims to offer cryptocurrency exchange service. Investors can use services to divide their investments between various services like P2P loans, crowdfunding, crypto exchange services, etc.",
+    "explorer": "https://bscscan.com/token/0xf782c5f9fb8870720ee4323abf52ba67d116851d",
+    "type": "BEP20",
+    "symbol": "CDBC",
+    "decimals": 8,
+    "slippage": 3,
+    "status": "active",
+    "id": "0xf782c5f9fb8870720ee4323abf52ba67d116851d"
+}
