@@ -1,0 +1,15 @@
+{
+    "name": "Not Another Shit Altcoin",
+    "website": "https://nasatoken.net/",
+    "telegram": "https://t.me/officialnasatoken",
+    "discord": "https://discord.gg/ec3MwnbsRG",
+    "twitter": "https://twitter.com/NASAtoken",
+    "description": "NASA is a token deployed on the Binance Smart Chain network that utilizes the raw power of memes, transparency, innovation and pure fundamentals to facilitate its goal of becoming the dependable altcoin of the future",
+    "explorer": "https://bscscan.com/token/0x70cf8d40a3d0f7bc88077ba7d103050d0001a653",
+    "type": "BEP20",
+    "symbol": "NASA",
+    "decimals": 9,
+    "slippage": 12,
+    "status": "active",
+    "id": "0x70CF8d40A3D0F7BC88077Ba7D103050d0001A653"
+}
