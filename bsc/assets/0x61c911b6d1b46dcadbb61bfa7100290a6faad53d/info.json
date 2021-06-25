@@ -1,0 +1,14 @@
+{
+    "name": "RiseUp",
+    "website": "https://riseupofficial.com/",
+    "telegram": "https://t.me/riseup_officiall",
+    "twitter": "https://twitter.com/riseup_we_stand",
+    "description": "RiseUp is a deflationary token with auto buyback feature. We are a movement against rugs. We are all Doxxed with videos and ID’s.",
+    "explorer": "https://bscscan.com/token/0x61c911b6d1b46dcadbb61bfa7100290a6faad53d",
+    "type": "BEP20",
+    "symbol": "RiseUp",
+    "decimals": 9,
+    "slippage": 13,
+    "status": "active",
+    "id": "0x61C911B6D1B46DcaDbB61bFa7100290a6faaD53D"
+} 
