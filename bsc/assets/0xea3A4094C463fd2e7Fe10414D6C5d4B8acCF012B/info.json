@@ -1,0 +1,15 @@
+{
+    "name": "Barbooth Token",
+    "website": "https://barbooth.bet/",
+    "telegram": "https://t.me/barboothbet",
+    "discord": "",
+    "twitter": "https://twitter.com/barbooth_bet",
+    "description": "Barbooth.Bet is a provably fair P2P decentralized dice game and yield farming on BSC Network.",
+    "explorer": "https://bscscan.com/token/0xea3A4094C463fd2e7Fe10414D6C5d4B8acCF012B",
+    "type": "BEP20",
+    "symbol": "BBET",
+    "decimals": 18,
+    "slippage": 3,
+    "status": "active",
+    "id": "0xea3A4094C463fd2e7Fe10414D6C5d4B8acCF012B"
+}
