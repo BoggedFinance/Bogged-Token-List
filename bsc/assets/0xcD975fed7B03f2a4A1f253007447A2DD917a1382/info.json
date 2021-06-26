@@ -1,0 +1,13 @@
+{
+    "name": "Nitrogen",
+    "website": "https://pineapple.cash/",
+    "telegram": "https://t.me/pnapltokengroup",
+    "twitter": "https://twitter.com/pnapltoken",
+    "description": "The Nitrogen ($NITRO) token is a piece of the Pineapple Cash ecosystem. Pineapple Cash is the future of all mining cryptocurrencies, for those that are seeking a green and energy efficient method to have tokens farmed. Nitrogen is the solution, view our website to learn more.",
+    "explorer": "https://bscscan.com/token/0xcD975fed7B03f2a4A1f253007447A2DD917a1382",
+    "type": "BEP20",
+    "symbol": "NITRO",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xcD975fed7B03f2a4A1f253007447A2DD917a1382"
+}
