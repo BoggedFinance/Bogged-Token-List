@@ -1,0 +1,15 @@
+{
+    "name": "YGame",
+    "website": "https://www.ygame.finance/",
+    "telegram": "https://t.me/YGAME_Official",
+    "discord": "",
+    "twitter": "https://twitter.com/YGAME_Finance",
+    "description": "YGAME is a deflationary, self-regenerating automatic liquidity providing protocol that pays out static rewards to holders. YGAME is also a utility token that will be used in our ecosystem: Lottery, Lending, Charity, NFT Marketplace, and more.",
+    "explorer": "https://bscscan.com/token/0x00e7c1BEDFf7Cc0815FB51A129a5893FEC604262",
+    "type": "BEP20",
+    "symbol": "YGAME",
+    "decimals": 9,
+    "slippage": 12,
+    "status": "active",
+    "id": "0x00e7c1BEDFf7Cc0815FB51A129a5893FEC604262"
+}
