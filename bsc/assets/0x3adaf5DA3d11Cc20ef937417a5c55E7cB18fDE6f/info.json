@@ -1,0 +1,14 @@
+{
+    "name": "Bucky",
+    "website": "https://buckycoin.finance/",
+    "telegram": "https://t.me/BUCKYCOINARMY",
+    "twitter": "https://twitter.com/buckycoinarmy",
+    "description": "Bucky Coin will be an open-source network for currencies and payments.",
+    "explorer": "https://bscscan.com/token/0x3adaf5DA3d11Cc20ef937417a5c55E7cB18fDE6f",
+    "type": "BEP20",
+    "symbol": "BCKY",
+    "decimals": 9,
+    "slippage": 12,
+    "status": "active",
+    "id": "0x3adaf5DA3d11Cc20ef937417a5c55E7cB18fDE6f"
+}
