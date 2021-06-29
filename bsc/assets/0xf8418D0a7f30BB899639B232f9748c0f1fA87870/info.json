@@ -1,0 +1,15 @@
+{
+    "name": "The Collective Coin",
+    "website": "https://www.thecollectivecoin.co/",
+    "telegram": "https://t.me/thecollectivecoin",
+    "discord": "https://discord.gg/Gg6DsFPv",
+    "twitter": "https://twitter.com/CollectiveCoin_",
+    "description": "Decentralized Freelance Marketplace. The future platform for alt coins powered by the collective coin",
+    "explorer": "https://bscscan.com/token/0xf8418d0a7f30bb899639b232f9748c0f1fa87870",
+    "type": "BEP20",
+    "symbol": "TCC",
+    "decimals": 9,
+    "slippage": 12,
+    "status": "active",
+    "id": "0xf8418d0a7f30bb899639b232f9748c0f1fa87870"
+}
