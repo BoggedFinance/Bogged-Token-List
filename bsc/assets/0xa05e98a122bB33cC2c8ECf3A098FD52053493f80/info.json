@@ -1,0 +1,15 @@
+{
+    "name": "Orange Grove Token",
+    "website": "https://orangegrove.finance/",
+    "telegram": "https://t.me/orangegrovedefi",
+    "discord": "https://discord.gg/ug9QMUf75G",
+    "twitter": "https://twitter.com/orangegrovedefi",
+    "description": "Orange Grove is a decentralized yield optimization protocol, NFT marketplace, and Online casino. It combines innovative features and transparency to ensure you get an impressive return whether staking or selling NFTs.",
+    "explorer": "https://bscscan.com/token/0xa05e98a122bB33cC2c8ECf3A098FD52053493f80",
+    "type": "BEP20",
+    "symbol": "GROVE",
+    "decimals": 9,
+    "slippage": 8,
+    "status": "active",
+    "id": "0xa05e98a122bB33cC2c8ECf3A098FD52053493f80"
+}
