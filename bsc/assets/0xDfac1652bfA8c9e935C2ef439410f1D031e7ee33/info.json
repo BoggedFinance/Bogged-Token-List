@@ -1,0 +1,15 @@
+{
+    "name": "EGGS Token",
+    "website": "https://eggsonbsc.com/",
+    "telegram": "https://t.me/EggsOnBSC" ,
+    "discord": "https://discord.gg/S7RRxbJDJw" ,
+    "twitter": "https://twitter.com/EGGSonBSC" ,
+    "description": "Building its own Ecosystem on binance smartchain for community" ,
+    "explorer": "https://bscscan.com/token/0xDfac1652bfA8c9e935C2ef439410f1D031e7ee33",
+    "type": "BEP20",
+    "symbol": "EGGS",
+    "decimals": 9,
+    "slippage": 13,
+    "status": "active",
+    "id": "0xDfac1652bfA8c9e935C2ef439410f1D031e7ee33"
+}
