@@ -1,0 +1,11 @@
+{
+    "name": "Asian Inu",
+    "website": "https://AsianInu.com",
+    "description": "A Decentralized Charity Meme Token with it's own Eco & Lottery system.",
+    "explorer": "https://bscscan.com/token/0x070af3c4315daf1d9d9b10473ad342c9fd8a010d",
+    "symbol": "ASIANINU",
+    "type": "BEP20",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x070af3c4315daf1d9d9b10473ad342c9fd8a010d"
+}
