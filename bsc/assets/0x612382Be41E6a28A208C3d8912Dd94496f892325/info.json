@@ -1,0 +1,15 @@
+{
+    "name": "DangerMoon",
+    "website": "https://dangermoon.io/",
+    "telegram": "https://t.me/DangerMoonIO",
+    "discord": "https://discord.gg/tEWpADeyP4",
+    "twitter": "https://twitter.com/dangermoonio",
+    "description": "SafeMoon, but reflection is distributed randomly. Buy Once, Play Forever.",
+    "explorer": "https://bscscan.com/token/0x612382Be41E6a28A208C3d8912Dd94496f892325",
+    "type": "BEP20",
+    "symbol": "DANGERMOON",
+    "decimals": 9,
+    "slippage": 12,
+    "status": "active",
+    "id": "0x612382Be41E6a28A208C3d8912Dd94496f892325"
+}
