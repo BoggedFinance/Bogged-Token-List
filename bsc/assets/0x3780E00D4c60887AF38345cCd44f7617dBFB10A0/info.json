@@ -1,0 +1,15 @@
+{
+    "name": "Dogecoin 2.0",
+    "website": "https://dogecoin2.org/",
+    "telegram": "https://telegram.me/Dogecoin2point0 ",
+    "discord": "https://discord.gg/doge2",
+    "twitter": "https://twitter.com/Doge2_Official",
+    "description": "Dogecoin 2.0 is a DEFI token on the BSC network. Born out of the original Dogecoin community.",
+    "explorer": "https://bscscan.com/token/0x3780e00d4c60887af38345ccd44f7617dbfb10a0",
+    "type": "BEP20",
+    "symbol": "DOGE2",
+    "decimals": 9,
+    "slippage": 12,
+    "status": "active",
+    "id": "0x3780E00D4c60887AF38345cCd44f7617dBFB10A0"
+}
