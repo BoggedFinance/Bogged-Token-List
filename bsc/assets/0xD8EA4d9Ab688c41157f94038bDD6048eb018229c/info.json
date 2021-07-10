@@ -1,0 +1,14 @@
+{
+    "name": "SoonMoon",
+    "website": "https://soonmoon.io/",
+    "telegram": "https://t.me/soonmoon_official",
+    "twitter": "https://twitter.com/SoonMoonToken",
+    "description": "Autonomous yield and liquidity generation protocol on BSC. SoonMoon taxes transactions and distributes 2% to holders and locks 2% to liquidity.",
+    "explorer": "https://bscscan.com/token/0xD8EA4d9Ab688c41157f94038bDD6048eb018229c",
+    "type": "BEP20",
+    "symbol": "SOONMOON",
+    "decimals": 9,
+    "slippage": 11,
+    "status": "active",
+    "id": "0xD8EA4d9Ab688c41157f94038bDD6048eb018229c"
+}
