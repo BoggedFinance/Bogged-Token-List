@@ -1,0 +1,15 @@
+{
+    "name": "TruBadger Token",
+    "website": "https://trubadger.io",
+    "telegram": "https://t.me/TruBadgerOfficial",
+    "discord": "https://discord.gg/ajssE9hPmW",
+    "twitter": "https://twitter.com/TheTruBadger",
+    "description": "TruBadger is a Reflection, Deflationary and Utility DeFi token that cares about its holders, implementing true community governance. The TruBadger ecosystem is making crypto accessible to everyone.",
+    "explorer": "https://bscscan.com/token/0xc003f5193cabe3a6cbb56948dfeaae2276a6aa5e",
+    "type": "BEP20",
+    "symbol": "TRUBGR",
+    "decimals": 18,
+    "slippage": 3,
+    "status": "active",
+    "id": "0xc003f5193cabe3a6cbb56948dfeaae2276a6aa5e"
+}
