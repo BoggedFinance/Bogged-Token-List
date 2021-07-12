@@ -1,0 +1,15 @@
+{
+    "name": "TRDC Token",
+    "website": "https://trdctoken.com",
+    "telegram": "https://t.me/trdc_family",
+    "discord": "https://discord.com/channels/864270829356318760/864271003140227103",
+    "twitter": "https://twitter.com/TradersCoinTRDC",
+    "description": "Traders Coin (TRDC) is a blockchain-powered decentralized platform built on Binance Smart Chain (BSC) Network.",
+    "explorer": "https://bscscan.com/token/0x7e8db69dcff9209e486a100e611b0af300c3374e",
+    "type": "BEP20",
+    "symbol": "TRDC",
+    "decimals": 18,
+    "slippage": 1,
+    "status": "active",
+    "id": "0x7e8db69dcff9209e486a100e611b0af300c3374e"
+}
