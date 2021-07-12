@@ -1,0 +1,15 @@
+{
+    "name": "Wyvern",
+    "website": "https://wyverntoken.com/",
+    "telegram": "https://t.me/WyvernToken",
+    "discord": "https://discord.gg/ma5ag3xHKj",
+    "twitter": "https://twitter.com/WyvernToken",
+    "description": "Wyvern is a fully decentralized, frictionless, yield-producing, Artificially Intelligent token, on the Binance Smart Chain. Offering automated DeFi rewards to holders.",
+    "explorer": "https://bscscan.com/address/0x470862af0cf8d27ebfe0ff77b0649779c29186db",
+    "type": "BEP20",
+    "symbol": "WYVERN",
+    "decimals": 9,
+    "slippage": 12,
+    "status": "active",
+    "id": "0x470862af0cf8d27ebfe0ff77b0649779c29186db"
+}
