@@ -1,0 +1,14 @@
+{
+    "name": "POFY Coin",
+    "website": "https://pofy.net/",
+    "telegram": "https://t.me/PofyCoin",
+    "twitter": "https://twitter.com/PofyCoin",
+    "description": "$POFY is an anti-whale, auto staking DeFi Protocol with 5% Auto Liquidity and 3% Redistribution to holders for every transaction.",
+    "explorer": "https://bscscan.com/token/0x01Eb0a6a3Bcb1876Ea751f6439FB55eE80D2Ac09",
+    "type": "BEP20",
+    "symbol": "POFY",
+    "decimals": 8,
+    "slippage": 8,
+    "status": "active",
+    "id": "0x01Eb0a6a3Bcb1876Ea751f6439FB55eE80D2Ac09"
+}
