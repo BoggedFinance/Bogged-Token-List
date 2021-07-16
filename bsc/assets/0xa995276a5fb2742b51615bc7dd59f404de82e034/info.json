@@ -2,7 +2,6 @@
     "name": "Nobility Token",
     "website": "https://nobilitytoken.com/",
     "telegram": "https://t.me/nobilitytoken",
-    "discord": "",
     "twitter": "https://twitter.com/nobilitytoken",
     "description": "Nobility is a cryptocurrency token that will revolutionize the esports landspace by injecting the industry with high quality offerings, prize pools, and tournaments.",
     "explorer": "https://bscscan.com/token/0xa995276a5fb2742b51615bc7dd59f404de82e034",
@@ -11,5 +10,5 @@
     "decimals": 9,
     "slippage": 12,
     "status": "active",
-    "id": "0xa995276a5fb2742b51615bc7dd59f404de82e034"
+    "id": "0xA995276A5fb2742B51615bc7DD59F404De82E034"
 }
