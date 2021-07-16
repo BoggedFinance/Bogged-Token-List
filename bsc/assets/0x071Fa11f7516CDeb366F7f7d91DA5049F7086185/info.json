@@ -1,0 +1,13 @@
+{
+  "name": "Rocket Boys",
+  "website": "https://rocketboys.io/",
+  "telegram": "https://t.me/RocketBoys0fficial",
+  "twitter": "https://twitter.com/rocketboysbsc",
+  "description": "RocketBoys Launchpad will be the go to platform for serious projects aiming to launch with longevity and with a true commercial business plan.",
+  "explorer": "https://bscscan.com/token/0x071Fa11f7516CDeb366F7f7d91DA5049F7086185",
+  "type": "BEP20",
+  "symbol": "RBOYS",
+  "decimals": 9,
+  "status": "active",
+  "id": "0x071Fa11f7516CDeb366F7f7d91DA5049F7086185"
+}

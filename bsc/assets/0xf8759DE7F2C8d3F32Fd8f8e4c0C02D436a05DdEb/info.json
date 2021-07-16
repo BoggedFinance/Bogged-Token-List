@@ -1,0 +1,15 @@
+{
+    "name": "URUBIT",
+    "website": "https://www.urubit.net/",
+    "telegram": "https://t.me/urubitnet",
+    "discord": "https://discord.gg/aUVfNpArHk",
+    "twitter": "https://twitter.com/urubiten",
+    "description": "URUBIT is a DeFi Token whose main features are the automatic redistribution of static rewards, the low transfer rate and the optional use of its own mobile wallet: U-Wallet",
+    "explorer": "https://bscscan.com/token/0xf8759DE7F2C8d3F32Fd8f8e4c0C02D436a05DdEb",
+    "type": "BEP20",
+    "symbol": "URUB",
+    "decimals": 8,
+    "slippage": 4,
+    "status": "active",
+    "id": "0xf8759DE7F2C8d3F32Fd8f8e4c0C02D436a05DdEb"
+}

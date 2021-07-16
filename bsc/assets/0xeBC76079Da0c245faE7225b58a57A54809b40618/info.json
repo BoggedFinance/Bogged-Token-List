@@ -1,0 +1,13 @@
+{
+    "name": "BNBPay",
+    "type": "BEP20",
+    "symbol": "BPAY",
+    "decimals": 9,
+    "website": "https://www.bnbpay.io/",
+    "telegram": "https://t.me/bnbpay",
+    "twitter": "https://twitter.com/bnbpay",
+    "description": "The Future of Merchant Crypto Payments - Pay expenses, earn $BPAY rewards, with your crypto tokens",
+    "explorer": "https://bscscan.com/token/0xeBC76079Da0c245faE7225b58a57A54809b40618",
+    "status": "active",
+    "id": "0xeBC76079Da0c245faE7225b58a57A54809b40618"
+}
