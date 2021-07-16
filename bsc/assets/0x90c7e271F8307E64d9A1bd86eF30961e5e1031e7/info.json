@@ -1,0 +1,15 @@
+{
+    "name": "DangerMoon",
+    "website": "https://dangermoon.io/",
+    "telegram": "https://t.me/DangerMoonIO",
+    "discord": "https://discord.gg/YpYgyQUfNa",
+    "twitter": "https://twitter.com/dangermoonio",
+    "description": "Similar to SafeMoon, but reflection is distributed randomly to one lucky holder at a time.",
+    "explorer": "https://bscscan.com/token/0x90c7e271F8307E64d9A1bd86eF30961e5e1031e7",
+    "type": "BEP20",
+    "symbol": "DANGERMOON",
+    "decimals": 9,
+    "slippage": 12,
+    "status": "active",
+    "id": "0x90c7e271F8307E64d9A1bd86eF30961e5e1031e7"
+}
