@@ -1,0 +1,15 @@
+{
+    "name": "BankRoll",
+    "website": "https://bankroll.holdings/",
+    "telegram": "https://t.me/bankrollbsc",
+    "discord": "https://discord.gg/bankrollofficial",
+    "twitter": "https://twitter.com/BankRollBSC/",
+    "description": "BankRoll, more than just a BNB Reflection Token. BankRoll is developing the first Blockchain Escrow Marketplace.",
+    "explorer": "https://bscscan.com/token/0x240eb70aafe740f753066a413ddad73b7c72b4e2",
+    "type": "BEP20",
+    "symbol": "BaNkr",
+    "decimals": 18,
+    "slippage": 16,
+    "status": "active",
+    "id": "0x240eb70aafe740f753066a413ddad73b7c72b4e2"
+}
