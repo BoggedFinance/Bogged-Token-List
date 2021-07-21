@@ -1,25 +1,15 @@
 {
     "name": "DCIP",
     "website": "https://dcip.finance",
+    "telegram": "https://t.me/DCIPfinance",
+    "discord": "",
+    "twitter": "https://twitter.com/dcip_finance",
     "description": "DCIP is world's first Decentralized Community Investment Protocol.",
     "explorer": "https://bscscan.com/token/0x308FC5CdD559Be5cB62B08A26a4699bBef4a888f",
     "type": "BEP20",
     "symbol": "DCIP",
     "decimals": 9,
+    "slippage": 12,
     "status": "active",
     "id": "0x308FC5CdD559Be5cB62B08A26a4699bBef4a888f",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/DCIP-Finance/"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/dcip_finance"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/DCIPfinance"
-        }
-    ]
 }
