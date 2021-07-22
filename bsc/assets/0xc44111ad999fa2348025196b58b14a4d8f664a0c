@@ -1,0 +1,31 @@
+{
+
+    "name": "Perfect Joe",
+
+    "website": "https://perfectjoe.finance",
+
+    "telegram": "https://t.me/perfect_joe",
+
+    "discord": "",
+
+    "twitter": "https://twitter.com/PerfectJoe3",
+
+    "description": "$PJOE - is a community driven project built on Binance Smart Chain #BSC. Buy and Hold $PJOE and you will automatically get more in your wallet. The token contract employs a static rewards system - 5% of every transaction is split in two:
+3% is redistributed to holders;
+2% is used to fuel the liquidity pool exchange growth",
+
+    "explorer": "https://bscscan.com/token/0xc44111ad999fa2348025196b58b14a4d8f664a0c",
+
+    "type": "BEP20",
+
+    "symbol": "PJOE",
+
+    "decimals": 9,
+
+    "slippage": 6,
+
+    "status": "active",
+
+    "id": "0xc44111ad999fa2348025196b58b14a4d8f664a0c"
+
+}
