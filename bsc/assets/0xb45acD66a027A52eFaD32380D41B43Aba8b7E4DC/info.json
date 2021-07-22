@@ -1,0 +1,11 @@
+{
+    "name": "Graphene Hands",
+    "website": "https://graphenehands.com",
+    "description": "A fully democratized currency controlled by the people for the people.",
+    "explorer": "https://bscscan.com/token/0xb45acD66a027A52eFaD32380D41B43Aba8b7E4DC",
+    "type": "BEP20",
+    "symbol": "GHT",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xb45acD66a027A52eFaD32380D41B43Aba8b7E4DC6"
+}

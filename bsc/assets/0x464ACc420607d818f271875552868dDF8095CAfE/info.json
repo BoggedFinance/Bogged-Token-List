@@ -1,0 +1,19 @@
+{
+    "name": "MEONG Token",
+    "website": "https://meongtoken.com/",
+    "telegram": "https://t.me/meongtoken",
+    "discord": "https://discord.com/ajsG8UwZ8p",
+    "twitter": "https://twitter.com/meongtoken",
+    "facebook": "https://www.facebook.com/meongtoken",
+    "instagram": "https://www.instagram.com/meongtoken",
+    "reddit": "https://www.reddit.com/user/MeongToken/",
+    "medium": "https://meongtoken.medium.com/",
+    "description": "A Social Cat's Meme with community-focused decentralised transaction network",
+    "explorer": "https://bscscan.com/token/0x464ACc420607d818f271875552868dDF8095CAfE",
+    "type": "BEP20",
+    "symbol": "MEONG",
+    "decimals": 9,
+    "slippage": 13,
+    "status": "active",
+    "id": "0x464ACc420607d818f271875552868dDF8095CAfE"
+}

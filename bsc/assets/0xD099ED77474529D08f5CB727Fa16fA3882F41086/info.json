@@ -1,0 +1,11 @@
+{
+    "name": "Dogged Finance",
+    "type": "BEP20",
+    "symbol": "DOG",
+    "decimals": 18,
+    "website": "https://t.me/DoggedFinance",
+    "description": "Dogged Finance is a new passive income-centered crypto on BSC that rewards holders with $BOG tokens.",
+    "explorer": "https://bscscan.com/token/0xD099ED77474529D08f5CB727Fa16fA3882F41086",
+    "status": "active",
+    "id": "0xD099ED77474529D08f5CB727Fa16fA3882F41086"
+}

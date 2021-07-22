@@ -1,7 +1,7 @@
 {
     "name": "WaldCoin",
     "website": "https://waldcoin.com",
-    "telegram": "https://t.me/waldcoin,
+    "telegram": "https://t.me/waldcoin",
     "twitter": "https://twitter.com/WaldCoin",
     "description": "A Static Liquidity Pool To Protect The Forests Around The Globe powered bij Binance Smart Chain.",
     "explorer": "https://bscscan.com/token/0xe59d382ebfa8034b35e8f51a01a2546d7cfab23f",
@@ -10,3 +10,4 @@
     "decimals": 9,
     "status": "active",
     "id": "0xe59d382ebfa8034b35e8f51a01a2546d7cfab23f"
+}

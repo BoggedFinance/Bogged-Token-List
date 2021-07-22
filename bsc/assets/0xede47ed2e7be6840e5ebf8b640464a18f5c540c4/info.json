@@ -1,0 +1,14 @@
+{
+    "name": "$KUSD Token",
+    "website": "https://kringles.finance/",
+    "telegram": "https://t.me/kringlesFinance",
+    "twitter": "https://twitter.com/datechlord",
+    "description": "Kringles Finance is here to bring back the kringle community Dream. We are a decentralized community driven cryptocurrency with built-in automated rewards for its holders. Keeping holding $KUSD in your wallet, and watch the amount increase over time!.",
+    "explorer": "https://bscscan.com/token/0xede47ed2e7be6840e5ebf8b640464a18f5c540c4",
+    "type": "BEP20",
+    "symbol": "$KUSD",
+    "decimals": 9,
+    "slippage": 11,
+    "status": "active",
+    "id": "0xede47ed2e7be6840e5ebf8b640464a18f5c540c4"
+}

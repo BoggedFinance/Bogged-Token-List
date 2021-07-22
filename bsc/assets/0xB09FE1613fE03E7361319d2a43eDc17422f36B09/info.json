@@ -1,0 +1,14 @@
+{
+    "name": "BOG Token",
+    "website": "https://bogtools.io/",
+    "telegram": "https://t.me/bogtools",
+    "description": "The new BOG token, powering BogTools and Bogged.Finance.",
+    "explorer": "https://bscscan.com/token/0xB09FE1613fE03E7361319d2a43eDc17422f36B09",
+    "discord": "https://discord.gg/bogtools",
+    "twitter": "https://twitter.com/bogtools",
+    "type": "BEP20",
+    "symbol": "BOG",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xB09FE1613fE03E7361319d2a43eDc17422f36B09"
+}

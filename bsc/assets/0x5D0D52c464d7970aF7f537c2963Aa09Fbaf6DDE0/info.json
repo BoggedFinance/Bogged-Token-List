@@ -1,0 +1,14 @@
+{
+    "name": "Meyers Token",
+    "website": "https://www.MeyersToken.com",
+    "telegram": "https://t.me/meyerstoken",
+    "twitter": "https://twitter.com/MeyersToken",
+    "description": "Meyers Token is a Worldwide Geocaching Treasure Hunt for physically hidden wallets containing 100,000 Meyers Tokens on Each. Explore the world & Inherit the Future!",
+    "explorer": "https://bscscan.com/token/0x5d0d52c464d7970af7f537c2963aa09fbaf6dde0",
+    "type": "BEP20",
+    "symbol": "MEYERS",
+    "decimals": 9,
+    "slippage": 12,
+    "status": "active",
+    "id": "0x5d0d52c464d7970af7f537c2963aa09fbaf6dde0"
+}

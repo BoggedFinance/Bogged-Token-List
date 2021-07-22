@@ -1,0 +1,15 @@
+{
+  "name": "SafeBag",
+  "website": "https://safebag.io/",
+  "telegram": "https://t.me/safebagtalk",
+  "discord": "https://discord.gg/xQUG8esCRx",
+  "twitter": "https://twitter.com/safebagio",
+  "description": "Swiss-Army knife for all things DeFi, a next generation DeFi analysis and statistical platform.",
+  "explorer": "https://bscscan.com/token/0xeb6dBdB14B0045557a8587B32767ae0dAce9FF73",
+  "type": "BEP20",
+  "symbol": "SBAG",
+  "decimals": 9,
+  "slippage": 5,
+  "status": "active",
+  "id": "0xeb6dBdB14B0045557a8587B32767ae0dAce9FF73"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "HIFI Gaming Society",
+    "website": "https://www.hifigamingsociety.com/",
+    "telegram": "https://t.me/HiFiGamingSocietyPlatform",
+    "discord": "https://discord.gg/bogtools",
+    "twitter": "https://twitter.com/HiFiDeFi",
+    "description": "HIFI Gaming Society is a retro gaming platform that rewards users for their participation",
+    "explorer": "https://bscscan.com/token/0x0a38bc18022b0ccb043f7b730b354d554c6230f1",
+    "type": "BEP20",
+    "symbol": "HIFI",
+    "decimals": 18,
+    "slippage": 3,
+    "status": "active",
+    "id": "0x0a38bc18022b0ccb043f7b730b354d554c6230f1"
+}

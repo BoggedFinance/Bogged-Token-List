@@ -1,0 +1,14 @@
+{
+    "name": "Pawsome",
+    "website": "https://pawsome.ml",
+    "telegram": "https://t.me/PawsomeToken",
+    "discord": "https://discord.gg/M8GqKVy2Yw",
+    "twitter": "https://twitter.com/PawsomeToken",
+    "description": "A Token which aims to help out the animals in need by donating to various animal rescue organizations, We don't just make memes, We take action!",
+    "explorer": "https://bscscan.com/token/0x6a512199d9edc6b388352d9a1f5d3e0c2237db58",
+    "type": "BEP20",
+    "symbol": "PAWSOME",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x6a512199d9edc6b388352d9a1f5d3e0c2237db58"
+}

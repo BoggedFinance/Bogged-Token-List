@@ -1,0 +1,14 @@
+{
+    "name": "Australian Kelpie",
+    "website": "https://knockerscoin.com/",
+    "telegram": "https://t.me/knockerscoin",
+    "twitter": "https://twitter.com/knockerscoin",
+    "description": "Australian Kelpie (KNOCKERS) is a BEP20 Utility token on a moon mission to end human trafficking. As a leader in the fast growing charity coin space, KNOCKERS is the first charity coin to exclusively benefit one organization. ",
+    "explorer": "https://bscscan.com/token/0x711F03c19e54133B1D940112580CC1E94e246f1f",
+    "type": "BEP20",
+    "symbol": "KNOCKERS",
+    "decimals": 9,
+    "slippage": 12,
+    "status": "active",
+    "id": "0x711F03c19e54133B1D940112580CC1E94e246f1f"
+}
