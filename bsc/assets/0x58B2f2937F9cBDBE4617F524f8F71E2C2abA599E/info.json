@@ -1,0 +1,14 @@
+{
+    "name": "FUCKYOU",
+    "description": "The official fuck you token. Someone gave you this token to say, fuck you.",
+    "explorer": "https://bscscan.com/token/0x58B2f2937F9cBDBE4617F524f8F71E2C2abA599E",
+    "alertcolour": "red",
+    "alert": "Fuck you.",
+    "alerturl": "https://www.reddit.com/r/CryptoCurrency/comments/opq7we/i_created_a_shtcoin_to_send_to_scammers/",
+    "alerturldesc": "Fuck me?",
+    "type": "BEP20",
+    "symbol": "FUCKYOU",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x58B2f2937F9cBDBE4617F524f8F71E2C2abA599E"
+}
