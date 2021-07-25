@@ -1,0 +1,16 @@
+{
+    "name": "HalwaSwap",
+    "website": "https://halwaswap.com/",
+    "telegram": "https://t.me/HalwaSwap",
+    "Reddit": "https://www.reddit.com/r/HalwaSwap/",
+    "Youtube": "https://www.youtube.com/channel/UClz65tterP2hyVOL35wCkJA",
+    "twitter": "https://twitter.com/HalwaSwap",
+    "description": "HalwaSwap is the first Arabic decentralized exchange (DEX) built on the Binance Smart Chain (BSC).",
+    "explorer": "https://bscscan.com/token/0xc28abfd5283e724f45ef71d59311d433b4b301fa",
+    "type": "BEP20",
+    "symbol": "HALWA",
+    "decimals": 18,
+    "slippage": 3,
+    "status": "active",
+    "id": "0xc28abfd5283e724f45ef71d59311d433b4b301fa"
+}
