@@ -1,0 +1,12 @@
+{
+    "name": "Baby Shiba Inu",
+    "website": "https://babyshibatoken.com",
+    "telegram": "https://t.me/babyshibatoken",
+    "twitter": "https://twitter.com/babyshibatoken",
+    "explorer": "https://bscscan.com/token/0xAECf6d1afF214feF70042740054f0f6D0Caa98Ab",
+    "type": "BEP20",
+    "symbol": "BabyShibaToken",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xAECf6d1afF214feF70042740054f0f6D0Caa98Ab"
+}

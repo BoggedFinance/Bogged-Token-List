@@ -1,12 +1,11 @@
 {
     "name": "GlobalGive Token",
-    "website": "http://GlobalGive.finance",
-    "description": "GlobalGive is a deflationary Charity Token. No taxes on Pancakeswap Buying, ONLY taxes on selling! Also has a 'Toxic Whale Tax' and 'Bot Killer' code.",
-    "telegram": "https://t.me/globalgivetokencommunity",
-    "explorer": "https://bscscan.com/token/0x60e9880daef10e960da3c45b076dbdac4f111edf",
     "type": "BEP20",
     "symbol": "GGIVE",
-    "decimals": 18,
+    "decimals": 8,
+    "website": "https://globalgive.finance/",
+    "description": "GlobalGive is a deflationary token built to grow wealth, and make the world a better place by donating a percentage of proceeds to a charity to be determined every month. GlobalGive is therefore a rotatory Charity Token representing a ground-breaking option for Charities to raise funds in an ever changing world.",
+    "explorer": "https://bscscan.com/token/0x60e9880DAeF10E960dA3c45b076dbdAc4f111Edf",
     "status": "active",
-    "id": "0x60e9880daef10e960da3c45b076dbdac4f111edf"
+    "id": "0x60e9880DAeF10E960dA3c45b076dbdAc4f111Edf"
 }

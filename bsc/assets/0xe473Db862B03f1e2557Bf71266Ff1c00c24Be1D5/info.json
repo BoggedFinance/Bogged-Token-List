@@ -1,0 +1,14 @@
+{
+    "name": "Bitcoin Shiba",
+    "website": "https://btcshiba.finance",
+    "telegram": "https://t.me/BTCShiba",
+    "twitter": "https://twitter.com/btcshiba",
+    "description": "Bitcoin Shiba is Bitcoin now with Shiba. Meme gold for the people. Now lets go save some Aliens!",
+    "explorer": "https://bscscan.com/token/0xe473Db862B03f1e2557Bf71266Ff1c00c24Be1D5",
+    "type": "BEP20",
+    "symbol": "btcshiba",
+    "decimals": 9,
+    "slippage": 11,
+    "status": "active",
+    "id": "0xe473Db862B03f1e2557Bf71266Ff1c00c24Be1D5"
+}

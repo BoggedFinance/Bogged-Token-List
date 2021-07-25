@@ -1,0 +1,15 @@
+{
+    "name": "World Money Token",
+    "website": "https://wmt.finance/",
+    "telegram": "https://t.me/WMTv2",
+    "discord": "https://discord.gg/McD9hM9qKg",
+    "twitter": "https://twitter.com/WMTfinance",
+    "description": "World Money Token (WMT) is an BEP-20 token meant to generate profit for its holders, at each transaction. Each WMT transaction is charged 5% from which 4% is distributed to all (WMT) holders. There is no team or central party that awards profits.",
+    "explorer": "https://bscscan.com/token/0xCBFb6Cc72779116fc7486a9D835047f75a15F0D4",
+    "type": "BEP20",
+    "symbol": "WMT",
+    "decimals": 9,
+    "slippage": 3,
+    "status": "active",
+    "id": "0xCBFb6Cc72779116fc7486a9D835047f75a15F0D4"
+}

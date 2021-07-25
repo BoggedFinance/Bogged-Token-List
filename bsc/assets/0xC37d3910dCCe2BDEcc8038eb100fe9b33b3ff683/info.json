@@ -1,0 +1,16 @@
+{
+    "name": "Protect Our Planet",
+    "website": "https://protectourplanet.io",
+    "telegram": "https://t.me/protectourplanet",
+    "discord": "https://discord.gg/ucW4NbkzKs",
+    "twitter": "https://twitter.com/POPcharitytoken",
+    "description": "Protectourplanet is a charity token to help charities which help nature.",
+    "explorer": "https://bscscan.com/token/0xC37d3910dCCe2BDEcc8038eb100fe9b33b3ff683",
+    "research": "https://protectourplanet.io",
+    "type": "BEP20",
+    "symbol": "POP",
+    "decimals": 9,
+    "slippage": 6,
+    "status": "active",
+    "id": "0xC37d3910dCCe2BDEcc8038eb100fe9b33b3ff683"
+}

@@ -1,10 +1,7 @@
 {
     "name": "Terra Exchange",
     "website": "https://terra-exchange.com/",
-    "telegram": "https://t.me/terx_terra_exchange",
-    "facebook": "https://www.facebook.com/terx.terra.exchange",
-    "twitter": "https://twitter.com/Terra_Exchange",
-    "description": "TERX - Terra Exchange is a smart project for land exchange (a very good idea).",
+    "description": "TERX is a smart project for land exchange. Token used to buy land and real estate using cryptocurrency.",
     "explorer": "https://bscscan.com/token/0x3e8FC047F1BaEf443C43c400c996ebCC7cde9B94",
     "type": "BEP20",
     "symbol": "TERX",

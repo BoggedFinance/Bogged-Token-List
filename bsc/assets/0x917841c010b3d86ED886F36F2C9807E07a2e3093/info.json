@@ -1,0 +1,13 @@
+{
+    "name": "RisingSun Token",
+    "website": "https://risingsun.finance/",
+    "telegram": "https://t.me/risingsun_token",
+    "twitter": "https://twitter.com/risingsuntoken",
+    "description": "RisingSun is a hyper-deflationary token featuring tokenomics designed to bring confidence and security into an environment often plagued by uncertainty.",
+    "explorer": "https://bscscan.com/token/0x917841c010b3d86ED886F36F2C9807E07a2e3093",
+    "type": "BEP20",
+    "symbol": "RSUN",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x917841c010b3d86ED886F36F2C9807E07a2e3093"
+}
