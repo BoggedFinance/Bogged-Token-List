@@ -1,0 +1,15 @@
+{
+  "name": "BABY CAKE",
+  "website": "https://babycake.app/",
+  "telegram": "https://t.me/babycakeBSC",
+  "discord": "https://discord.gg/Fp7bunH7Y4",
+  "twitter": "https://twitter.com/BabyCakeBSC",
+  "description": "HOLD BABY CAKE AND EARN CAKE\nThe first CAKE reflection token 🎂",
+  "explorer": "https://bscscan.com/token/0xdB8D30b74bf098aF214e862C90E647bbB1fcC58c",
+  "type": "BEP20",
+  "symbol": "BABYCAKE",
+  "decimals": 18,
+  "slippage": 16,
+  "status": "active",
+  "id": "0xdB8D30b74bf098aF214e862C90E647bbB1fcC58c"
+}
