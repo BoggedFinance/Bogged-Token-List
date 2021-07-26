@@ -1,0 +1,14 @@
+{
+    "name": "SALSA TOKEN",
+    "website": "https://salsatoken.com/",
+    "telegram": "https://t.me/salsavalleyann",
+    "twitter": "https://twitter.com/SalsaToken",
+    "description": "Powering DeFi on BSC. The home of Charts, Limit Orders and more for Binance Smart Chain, all powered by the BOG Token.",
+    "explorer": "https://bscscan.com/token/0xBb5515d1CfcD6F667cA2B2A56872797C889cb048",
+    "type": "BEP20",
+    "symbol": "SALSA",
+    "decimals": 9,
+    "slippage": 5,
+    "status": "active",
+    "id": "0xBb5515d1CfcD6F667cA2B2A56872797C889cb048"
+}
