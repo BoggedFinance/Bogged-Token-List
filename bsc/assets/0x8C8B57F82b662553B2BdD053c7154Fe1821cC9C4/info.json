@@ -1,0 +1,15 @@
+{
+  "name": "EpicBuy",
+  "website": "https://epicbuy.fi",
+  "telegram": "https://t.me/epicbuy",
+  "twitter": "https://twitter.com/epicbuynow",
+  "contract": "0x8C8B57F82b662553B2BdD053c7154Fe1821cC9C4",
+  "description": "EpicBuy is the first Fluid BuyBack HyperDeflationary Token with Sell CoolDown and Sell AntiWhale.",
+  "explorer": "https://bscscan.com/token/0x8C8B57F82b662553B2BdD053c7154Fe1821cC9C4",
+  "research": "",
+  "type": "BEP20",
+  "symbol": "EPIC",
+  "decimals": 9,
+  "status": "active",
+  "id": "0x8C8B57F82b662553B2BdD053c7154Fe1821cC9C4"
+}
