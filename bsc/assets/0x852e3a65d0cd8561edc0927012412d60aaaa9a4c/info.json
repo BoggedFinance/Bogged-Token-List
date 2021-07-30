@@ -1,0 +1,14 @@
+{
+    "name": "Amnext Token",
+    "website": "https://amnext.io",
+    "telegram": "https://t.me/amnext_official",
+    "twitter": "https://twitter.com/OfficialAmnext",
+    "description": "Power up your savings with the No Loss Prize Pools, earn AMC Tokens, gain rewards by inviting your friends and catch the oppurtunity to win forever with the Lifetime Lottery!",
+    "explorer": "https://bscscan.com/token/0x852e3a65d0cd8561edc0927012412d60aaaa9a4c",
+    "type": "BEP20",
+    "symbol": "AMC",
+    "decimals": 18,
+    "slippage": 1,
+    "status": "active",
+    "id": "0x852e3a65d0cd8561edc0927012412d60aaaa9a4c"
+}
