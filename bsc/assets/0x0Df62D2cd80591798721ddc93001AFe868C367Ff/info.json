@@ -1,0 +1,18 @@
+{
+    "name": "SCAM! - 'VERA'",
+    "website": "",
+    "telegram": "",
+    "description": "SCAM TOKEN. DO NOT VISIT THEIR WEBSITE -- THEY WILL ATTEMPT TO TRANSFER YOUR OTHER TOKENS/BNB.",
+    "explorer": "https://bscscan.com/token/0x0Df62D2cd80591798721ddc93001AFe868C367Ff",
+    "discord": "",
+    "twitter": "",
+    "alertcolour": "red",
+    "alert": "SCAM TOKEN. DO NOT VISIT THEIR WEBSITE -- THEY WILL ATTEMPT TO TRANSFER YOUR OTHER TOKENS/BNB WHEN 'APPROVING' THEIR TOKEN.",
+    "alerturl": "",
+    "alerturldesc": "",
+    "type": "BEP20",
+    "symbol": "VERA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x0Df62D2cd80591798721ddc93001AFe868C367Ff"
+}
