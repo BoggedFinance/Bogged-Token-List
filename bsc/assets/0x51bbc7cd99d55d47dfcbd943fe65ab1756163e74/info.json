@@ -1,0 +1,12 @@
+"name": "BitBucks",
+    "website": "https://bitbucks.finance/",
+    "telegram": "https://t.me/joinchat/Rt-P5ygk0A43ZTA5",
+    "twitter": "https://twitter.com/Bitbucksbsc",
+    "description": "$Bitbucks holders are rewarded in BTC for 8% of each Buy and Sell order to their wallets automatically once an hour or can be claimed manually",
+    "explorer": "https://bscscan.com/token/0x51bbc7cd99d55d47dfcbd943fe65ab1756163e74",
+    "type": "BEP20",
+    "symbol": "BITBUCKS",
+    "decimals": 9,
+    "slippage": 3,
+    "status": "active",
+    "id": "0x51bbc7cd99d55d47dfcbd943fe65ab1756163e74"
