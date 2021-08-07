@@ -9,7 +9,7 @@
     "type": "BEP20",
     "symbol": "CARD",
     "decimals": 9,
-    "slippage": 11,
+    "slippage": 12,
     "status": "active",
     "id": "0x88C28D94C260340BEBE32e3574D10380d0bf236a"
 }
