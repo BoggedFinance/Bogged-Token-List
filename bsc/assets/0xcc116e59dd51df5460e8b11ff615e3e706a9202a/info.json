@@ -1,1 +1,15 @@
-
+{
+    "name": "Micromachines 3.0 - Rise of the Warbots",
+    "website": "https://riseofthewarbots.com/",
+    "telegram": "https://t.me/MicroMachinesBSC",
+    "youtube": "https://www.youtube.com/channel/UCXNsqmceqWCdbgHDYcUPRIg",
+    "twitter": "https://twitter.com/MicroMacBSC",
+    "description": "MMAC are the tokens that will power WARBOTS, the NFT characters in our upcoming AR game.",
+    "explorer": "https://bscscan.com/token/0xcc116e59dd51df5460e8b11ff615e3e706a9202a",
+    "type": "BEP20",
+    "symbol": "MMAC",
+    "decimals": 9,
+    "slippage": 12,
+    "status": "active",
+    "id": "0xcc116e59dd51df5460e8b11ff615e3e706a9202a"
+}
