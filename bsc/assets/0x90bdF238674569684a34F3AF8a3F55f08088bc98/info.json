@@ -1,0 +1,14 @@
+{
+    "name": "ShibCake",
+    "website": "https://shibcake.com/",
+    "telegram": "https://t.me/shibcake",
+    "twitter": "https://twitter.com/shibcake",
+    "description": "The Meme CAKE Reward",
+    "explorer": "https://bscscan.com/token/0x90bdF238674569684a34F3AF8a3F55f08088bc98",
+    "type": "BEP20",
+    "symbol": "SHIBCAKE",
+    "decimals": 18,
+    "slippage": 15,
+    "status": "active",
+    "id": "0x90bdF238674569684a34F3AF8a3F55f08088bc98"
+} 
