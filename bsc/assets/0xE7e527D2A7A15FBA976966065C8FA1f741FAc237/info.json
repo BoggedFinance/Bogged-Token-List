@@ -1,0 +1,15 @@
+{
+    "name": "LiteHouse",
+    "website": "https://litehouse.network/",
+    "telegram": "https://t.me/LiteHouseLTC",
+    "discord": "https://discord.gg/vDtXRjRjPf",
+    "twitter": "https://twitter.com/LiteHouse20",
+    "description": "LiteHouse bridges the gap between altcoins and the BSC blockchain by offering exceptional rewards in LiteCoin.",
+    "explorer": "https://bscscan.com/token/0xE7e527D2A7A15FBA976966065C8FA1f741FAc237",
+    "type": "BEP20",
+    "symbol": "LITEHOUSE",
+    "decimals": 18,
+    "slippage": 30,
+    "status": "active",
+    "id": "0xE7e527D2A7A15FBA976966065C8FA1f741FAc237"
+}
