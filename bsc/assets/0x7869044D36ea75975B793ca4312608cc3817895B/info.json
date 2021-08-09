@@ -1,9 +1,9 @@
 {
-  "name": "Sensible.Finance",
-  "website": "https://sensible.finance/",
-  "telegram": "https://t.me/sensiblefinance",
+  "name": "Sensi",
+  "website": "https://sensi.fi",
+  "telegram": "https://t.me/sensi_fi",
   "discord": "https://discord.gg/VxUvsFCQ7Z",
-  "twitter": "https://twitter.com/sensiblefinanc1",
+  "twitter": "https://twitter.com/sensi_fi",
   "description": "A new generation deflationary DeFi token, supporting a new 'Smart Staking' technology platform.",
   "explorer": "https://bscscan.com/token/0x7869044d36ea75975b793ca4312608cc3817895b",
   "type": "BEP20",
@@ -12,4 +12,4 @@
   "slippage": 5,
   "status": "active",
   "id": "0x7869044d36ea75975b793ca4312608cc3817895b"
-} 
+}
