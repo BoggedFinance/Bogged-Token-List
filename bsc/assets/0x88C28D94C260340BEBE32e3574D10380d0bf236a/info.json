@@ -1,0 +1,15 @@
+{
+    "name": "Cardana",
+    "website": "https://cardana.io/",
+    "telegram": "https://t.me/cardanafin",
+    "discord": "https://discord.gg/vaE7YHKYzk",
+    "twitter": "https://twitter.com/CardanaFin",
+    "description": "Introducing Cardana, an international decentralized peer-to-peer (P2P) lending platform that allows you to borrow against your crypto assets!",
+    "explorer": "https://bscscan.com/token/0x88C28D94C260340BEBE32e3574D10380d0bf236a",
+    "type": "BEP20",
+    "symbol": "CARD",
+    "decimals": 9,
+    "slippage": 12,
+    "status": "active",
+    "id": "0x88C28D94C260340BEBE32e3574D10380d0bf236a"
+}
