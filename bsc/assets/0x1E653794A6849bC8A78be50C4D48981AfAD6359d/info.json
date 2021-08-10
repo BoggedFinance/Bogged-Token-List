@@ -1,7 +1,7 @@
 {
-    "name": "ADABoy",
+    "name": "ADA BOY",
     "website": "https://adaboytoken.com",
-    "description": "All business but will accept belly rubs.",
+    "description": "Means Bussiness but will snuggle.",
     "socials": [
         {
             "name": "Twitter",
@@ -14,7 +14,7 @@
     ],
     "explorer": "https://bscscan.com/token/0x1E653794A6849bC8A78be50C4D48981AfAD6359d",
     "type": "BEP20",
-    "symbol": "ADABOY",
+    "symbol": "ADABoy",
     "decimals": 18,
     "status": "active",
     "id": "0x1E653794A6849bC8A78be50C4D48981AfAD6359d"
