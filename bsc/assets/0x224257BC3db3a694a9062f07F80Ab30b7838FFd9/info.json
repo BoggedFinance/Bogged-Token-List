@@ -1,0 +1,13 @@
+{
+    "name": "Maktub Finance",
+    "website": "https://maktubfinance.com",
+	"telegram": "https://t.me/MaktubFinance",
+    "twitter": "https://twitter.com/FinanceMaktub",
+    "description": "Maktub is an experiment in decentralized community driven. No founders, no team tokens. This groups purpose is to allocate skills within the community to appropriate roles in MAKTUB development and collectively agree on decisions for MAKTUB future.",
+    "explorer": "https://bscscan.com/token/0x224257BC3db3a694a9062f07F80Ab30b7838FFd9",
+    "type": "BEP20",
+    "symbol": "Maktub",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x224257BC3db3a694a9062f07F80Ab30b7838FFd9"
+}
