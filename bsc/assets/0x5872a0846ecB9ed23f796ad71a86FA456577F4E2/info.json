@@ -1,0 +1,14 @@
+{
+    "name": "Republic of Dogs",
+    "website": "https://rodtoken.com/",
+    "telegram": "https://t.me/rodtoken",
+    "twitter": "https://twitter.com/RODTOKEN_",
+    "description": "Republic of Dogs (ROD) is a Proprietary, Hyper Deflationary token on the Binance smart chain network. We aim to make a positive impact by collaborating with community chosen charitable projects. Our holders are rewarded with ROD tokens without having to lift a paw! On top of the automated buybacks from the Saviour Wallet with every market sell, 'calltheSAVIOUR' will be activated at certain milestones. Scroll down for more information. ",
+    "explorer": "https://bscscan.com/token/0x5872a0846ecB9ed23f796ad71a86FA456577F4E2",
+    "type": "BEP20",
+    "symbol": "ROG",
+    "decimals": 18,
+    "slippage": 15,
+    "status": "active",
+    "id": "0x5872a0846ecB9ed23f796ad71a86FA456577F4E2"
+} 
