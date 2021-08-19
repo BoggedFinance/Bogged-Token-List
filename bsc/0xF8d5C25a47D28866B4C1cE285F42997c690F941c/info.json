@@ -1,0 +1,15 @@
+{
+    "name": "Layer-1 Quality Index",
+    "website": "https://longdrink.finance/#/l1q",
+    "telegram": "https://t.me/LongdrinkFinance",
+    "discord": "https://discord.com/invite/5tPFExe5Sm",
+    "twitter": "https://twitter.com/LongdrinkDefi",
+    "description": "The index token for diversifying across major Layer-1 solutions. Initiated by Longdrink Finance.",
+    "explorer": "https://bscscan.com/token/0xF8d5C25a47D28866B4C1cE285F42997c690F941c",
+    "type": "BEP20",
+    "symbol": "L1Q",
+    "decimals": 18,
+    "slippage": 3,
+    "status": "active",
+    "id": "0xF8d5C25a47D28866B4C1cE285F42997c690F941c"
+}

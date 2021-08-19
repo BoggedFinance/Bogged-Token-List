@@ -1,0 +1,15 @@
+{
+    "name": "Longdrink Finance",
+    "website": "https://longdrink.finance/",
+    "telegram": "https://t.me/LongdrinkFinance",
+    "discord": "https://discord.com/invite/5tPFExe5Sm",
+    "twitter": "https://twitter.com/LongdrinkDefi",
+    "description": "Creating Indices on BSC. Offering diversified exposure to cryptoassets on Binance Smart Chain, powered by the LONG Token.",
+    "explorer": "https://bscscan.com/token/0x5317fA16f8603bE9C461DeF5D5A1Bf28DfE42d55",
+    "type": "BEP20",
+    "symbol": "LONG",
+    "decimals": 18,
+    "slippage": 3,
+    "status": "active",
+    "id": "0x5317fA16f8603bE9C461DeF5D5A1Bf28DfE42d55"
+}
