@@ -1,0 +1,14 @@
+{
+    "name": "BOG Token",
+    "website": "https://potluckprotocol.com",
+    "telegram": "https://t.me/PTLKCHATS",
+    "twitter": "https://twitter.com/potluckprotocol",
+    "description": "The spookiest AMM with defi for non-defi projects, gamified binary options and simple leverage trading.",
+    "explorer": "https://bscscan.com/token/0xe821ff93acd958d8ef637ff9627217d28a5b6845",
+    "type": "BEP20",
+    "symbol": "PTLKX",
+    "decimals": 18,
+    "slippage": 3,
+    "status": "active",
+    "id": "0xE821FF93aCd958D8EF637ff9627217d28A5B6845"
+}
