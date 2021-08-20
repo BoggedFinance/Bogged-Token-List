@@ -1,0 +1,15 @@
+{
+    "name": "Binance Ecosystem Value",
+    "website": "https://longdrink.finance/#/bev",
+    "telegram": "https://t.me/LongdrinkFinance",
+    "discord": "https://discord.com/invite/5tPFExe5Sm",
+    "twitter": "https://twitter.com/LongdrinkDefi",
+    "description": "The leading index for projects on BSC, bringing together the most promising protocols. Initiated by Longdrink Finance.",
+    "explorer": "https://bscscan.com/token/0xc7dAC962C166a26038EC4Bc5d0E2a3Fe0ff3cE58",
+    "type": "BEP20",
+    "symbol": "BEV",
+    "decimals": 18,
+    "slippage": 3,
+    "status": "active",
+    "id": "0xc7dAC962C166a26038EC4Bc5d0E2a3Fe0ff3cE58"
+}
