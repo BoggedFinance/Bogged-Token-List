@@ -1,6 +1,6 @@
 {
     "name": "YSL.IO",
-    "website": "https://ysl.io/",
+    "website": "https://ysl.io",
     "telegram": "https://t.me/ysl_io",
     "twitter": "https://twitter.com/ysl_io",
     "description": "A cutting-edge DeFi tool designed to OPTIMISE and AMPLIFY the returns from yield farming platforms, whilst maximising the benefits of LOCKED LIQUIDITY to create a truly unparalleled token economy.",
@@ -8,7 +8,6 @@
     "type": "BEP20",
     "symbol": "sYSL",
     "decimals": 18,
-    "slippage": 3,
     "status": "active",
     "id": "0x64D3638a7d8747EEE7bD5D402CC5f5bD00dc27dc"
 }
