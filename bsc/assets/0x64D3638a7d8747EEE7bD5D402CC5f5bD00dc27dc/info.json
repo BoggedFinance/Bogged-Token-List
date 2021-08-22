@@ -1,0 +1,15 @@
+{
+    "name": "YSL.IO",
+    "website": "https://ysl.io/",
+    "telegram": "https://t.me/ysl_io",
+    "discord": "",
+    "twitter": "https://twitter.com/ysl_io",
+    "description": "Powering DeFi on BSC. The home of Charts, Limit Orders and more for Binance Smart Chain, all powered by the BOG Token.",
+    "explorer": "https://bscscan.com/token/0x64D3638a7d8747EEE7bD5D402CC5f5bD00dc27dc",
+    "type": "BEP20",
+    "symbol": "sYSL",
+    "decimals": 18,
+    "slippage": 3,
+    "status": "active",
+    "id": "0x64D3638a7d8747EEE7bD5D402CC5f5bD00dc27dc"
+}
