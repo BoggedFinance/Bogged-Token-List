@@ -1,0 +1,14 @@
+{
+    "name": "Gorilla TOKEN v2",
+    "website": "https://gorilla-token.com/",
+    "telegram": "https://t.me/GorlCommunity",
+    "twitter": "https://twitter.com/TokenGorilla",
+    "description": "Save Gorillas, Save the world.",
+    "explorer": "https://bscscan.com/token/0x0d3D13eE3df3a6c8a5705301Ac1571De3eF73d5E",
+    "type": "BEP20",
+    "symbol": "GORL",
+    "decimals": 9,
+    "slippage": 13,
+    "status": "active",
+    "id": "0x0d3D13eE3df3a6c8a5705301Ac1571De3eF73d5E"
+} 
