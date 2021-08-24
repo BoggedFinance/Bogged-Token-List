@@ -1,0 +1,21 @@
+{
+    "name": "ADA BOY",
+    "website": "https://adaboytoken.com",
+    "description": "Means Bussiness but will snuggle.",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/ADABoyToken"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/ADABoyToken"
+        }
+    ],
+    "explorer": "https://bscscan.com/token/0x1E653794A6849bC8A78be50C4D48981AfAD6359d",
+    "type": "BEP20",
+    "symbol": "ADABoy",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1E653794A6849bC8A78be50C4D48981AfAD6359d"
+}
