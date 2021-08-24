@@ -1,0 +1,15 @@
+{
+    "name": "Dogggo",
+    "website": "https://dogggo.biz",
+    "telegram": "https://t.me/dogggotoken",
+    "twitter": "https://twitter.com/DogggoToken",
+    "description": "Dogggo is a token on Binance Smart Chain that wants to be part of the memecoins landscape, taking the concept to extremes.
+",
+    "explorer": "https://bscscan.com/token/0x857dd3b493c49a8b060faf227d2b901e72621293",
+    "type": "BEP20",
+    "symbol": "DOGGGO",
+    "decimals": 18,
+    "slippage": 11,
+    "status": "active",
+    "id": "0x857dd3b493c49a8b060faf227d2b901e72621293"
+}
