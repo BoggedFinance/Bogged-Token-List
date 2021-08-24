@@ -1,0 +1,15 @@
+{
+    "name": "MEGATOKEN",
+    "website": "https://megatoken.io/",
+    "telegram": "https://t.me/megatoken_io",
+    "instagram": "https://www.instagram.com/megatoken",
+    "twitter": "https://twitter.com/megatoken_io",
+    "description": "MEGATOKEN was created as a large scale community driven token. The idea behind a deflationary, static yield farming token with liquidity generation is to achieve a goal of long term price stabilization and escalation. In addition to that, our focus is on the continued development and release of DeFi projects that will benefit our entire community.",
+    "explorer": "https://bscscan.com/token/0x148c560a9ce8a9d7f869aa97efa2c2aa623927c9",
+    "type": "BEP20",
+    "symbol": "MEGATOKEN",
+    "decimals": 9,
+    "slippage": 12,
+    "status": "active",
+    "id": "0x148c560a9ce8a9d7f869aa97efa2c2aa623927c9"
+}
