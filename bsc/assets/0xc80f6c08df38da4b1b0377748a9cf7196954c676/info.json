@@ -1,0 +1,16 @@
+{
+    "name": "Royal Doge",
+    "website": "https://royaldogetoken.com/",
+    "telegram": "https://t.me/royaldogearmy",
+    "discord": "",
+    "twitter": "https://twitter.com/royaldoge_bsc",
+    "description": "Royal Doge is the first ever multiplayer poker room on the BSC network. Hold RDOGE and earn BNB rewards.",
+    "explorer": "https://bscscan.com/token/0xc80F6C08Df38dA4B1B0377748A9CF7196954C676",
+    "type": "BEP20",
+    "symbol": "RDOGE",
+    "decimals": 9,
+    "slippage": 20,
+    "status": "active",
+    "id": "0xc80F6C08Df38dA4B1B0377748A9CF7196954C676"
+
+}
