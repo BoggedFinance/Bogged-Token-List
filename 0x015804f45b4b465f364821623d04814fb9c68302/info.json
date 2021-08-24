@@ -1,0 +1,15 @@
+{
+  "name": "HoneyX",
+  "website": "https://honeyx.io/",
+  "telegram": "https://t.me/honeyxofficial",
+  "discord": "https://discord.gg/m56HNrD65Z",
+  "twitter": "https://twitter.com/honeyxofficial",
+  "description": "A revolutionary crypto powered platform to share adult content.",
+  "explorer": "https://bscscan.com/token/0x015804F45B4b465F364821623d04814fb9c68302",
+  "type": "BEP20",
+  "symbol": "HONEYX",
+  "decimals": 18,
+  "slippage": 12,
+  "status": "active",
+  "id": "0x015804F45B4b465F364821623d04814fb9c68302"
+}
