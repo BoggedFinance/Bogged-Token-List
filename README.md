@@ -27,6 +27,7 @@ Normal Processing Fee: **0.5BNB.**
 - [ ] Make sure your smartcontract has more than 300 address holders & 1000 transactions, otherwise you will be rejected. Dust attacks do not qualify.
 - [ ] Fork the Github repository
 - [ ] Create folder with name of token smartcontact address in [_checksum format_](https://developer.trustwallet.com/add_new_asset#checksum_format) `bsc/assets/<token_smartcontract_address>/`.
+- [ ] *** MAKE SURE THE FOLDER NAME IS IN CHECKSUM FORMAT *** https://ethsum.netlify.app/
 - [ ] Tell your designer that token image must be in PNG format, avoid transparent background, recommended size 256x256px, max. 512x512px, with max file size of 100kB. We use trust wallet's [image rules](https://developer.trustwallet.com/add_new_asset#image-requirements).
 - [ ] Upload your logo with file named `logo.png` to previously created folder with smartcontract address, and if you done all correctly your path should look like this. `bsc/assets/0x1234567461d3f8Db7496581774Bd869C83D51c93/logo.png`
 - [ ] Create `info.json` file with info about the token/project (we expand on Trustwallet's info.json, see below)
