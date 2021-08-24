@@ -1,0 +1,14 @@
+{
+    "name": "CURE Token",
+    "website": "http://curetoken.net/",
+    "telegram": "https://t.me/CureTokenV2",
+    "twitter": "https://twitter.com/cure_token",
+    "description": "CURE Token is the first deflationary crypto token built around doing good. By design, this community powered token has exponential price growth benefits for both holders and charities.",
+    "explorer": "https://bscscan.com/token/0xcD1cFD5FAfF934C33134b96171b1D29D55eb215F",
+    "type": "BEP20",
+    "symbol": "CURE",
+    "decimals": 18,
+    "slippage": 8,
+    "status": "active",
+    "id": "0xcD1cFD5FAfF934C33134b96171b1D29D55eb215F"
+}
