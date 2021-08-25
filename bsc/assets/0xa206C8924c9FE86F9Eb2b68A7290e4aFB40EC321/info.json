@@ -1,0 +1,15 @@
+{
+    "name": "MYMC Token",
+    "website": "https://pay.asiaweb.com.my",
+    "telegram": "https://t.me/mymctoken",
+    "discord": "https://discord.gg/mymctoken",
+    "twitter": "https://twitter.com/MymcToken",
+    "description": "MYMC is a fully Asset Backed Utility Token. Unique features such as pay for your travel services, such as flights, accommodation, cruises, tours, and more also a range of financial services also such as Money Transfer and Bill Payments. MYMC is Replacing Obsolete Conventional Pay Channels.",
+    "explorer": "https://bscscan.com/token/0xa206C8924c9FE86F9Eb2b68A7290e4aFB40EC321",
+    "type": "BEP20",
+    "symbol": "MYMC",
+    "decimals": 2,
+    "slippage": 5,
+    "status": "active",
+    "id": "0xa206C8924c9FE86F9Eb2b68A7290e4aFB40EC321"
+}
