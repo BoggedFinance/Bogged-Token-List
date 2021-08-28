@@ -1,0 +1,13 @@
+{
+    "name": "Don't KYC",
+    "website": "https://dontkyc.com/",
+    "telegram": "https://t.me/dontkyc",
+    "twitter": "https://twitter.com/dontkyc",
+    "description": "Don’t Know Your Customer (DKYC) is a novel and seamless integration between Decentralized Finance (DeFi) and real-world anonymous spending. Invest on the Binance Smart Chain (BSC) while funding your everyday life with the dividends. No identification required. Ever.": "https://bscscan.com/token/0xdf5Fac537aa09e1eb0F3f8DD1d34CBdC42CA1076",
+    "type": "BEP20",
+    "symbol": "DKYC",
+    "decimals": 9,
+    "slippage": 15,
+    "status": "active",
+    "id": "0xdf5Fac537aa09e1eb0F3f8DD1d34CBdC42CA1076"
+}
