@@ -1,0 +1,15 @@
+{
+    "name": "DEEPSPACE",
+    "website": "https://deepspace.game/",
+    "telegram": "https://dps.fyi/tg",
+    "discord": "https://dps.fyi/discord",
+    "twitter": "https://dps.fyi/twitter",
+    "description": "DEEPSPACE – A revolutionary evolving platform that leverages and gamifies risk for dynamic yield generating strategies!",
+    "explorer": "https://bscscan.com/token/0xf275e1AC303a4C9D987a2c48b8E555A77FeC3F1C",
+    "type": "BEP20",
+    "symbol": "DPS",
+    "decimals": 9,
+    "slippage": 10,
+    "status": "active",
+    "id": "0xf275e1AC303a4C9D987a2c48b8E555A77FeC3F1C"
+}
