@@ -1,0 +1,11 @@
+{
+    "name": "Lamden TAU",
+    "website": "https://lamden.io/en/",
+    "description": "Lamden is the performant Python-Based blockchain platform that makes using and creating the next generation of dApps easy for everyone. With distributed governance and rewards for smart contract developers, Lamden democratises access to the blockchain.",
+    "explorer": "https://bscscan.com/token/0xe3bb78134338487429e06b799a955096626c1A17",
+    "type": "BEP20",
+    "symbol": "TAU",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xe3bb78134338487429e06b799a955096626c1A17"
+}
