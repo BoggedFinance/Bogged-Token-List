@@ -1,0 +1,12 @@
+{
+    "name": "MiniBogged",
+    "website": "http://minibogged.live/",
+    "description": "MiniBogged - Rewards In $BOG",
+    "explorer": "https://bscscan.com/token/0x0A169e2718782586DCF98F9C19B23dbFBF81373F",
+    "type": "BEP20",
+    "telegram": "https://t.me/MiniBogged_BSC",
+    "symbol": "MINIBOG",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x0A169e2718782586DCF98F9C19B23dbFBF81373F"
+}
