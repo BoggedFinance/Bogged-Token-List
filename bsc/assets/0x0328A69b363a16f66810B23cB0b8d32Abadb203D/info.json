@@ -1,0 +1,14 @@
+{
+    "name": "Kanaloa Network",
+    "website": "https://kanaloa.network/",
+    "telegram": "https://t.me/kanaloanetwork",
+    "twitter": "https://twitter.com/kanaloanetwork",
+    "description": "Kanaloa Network is your one-stop shop for easy on-chain contract deployments and use case based NFT",
+    "explorer": "https://bscscan.com/token/0x0328A69b363a16f66810B23cB0b8d32Abadb203D",
+    "type": "BEP20",
+    "symbol": "BOG",
+    "decimals": 18,
+    "slippage": 0.01,
+    "status": "active",
+    "id": "0x0328A69b363a16f66810B23cB0b8d32Abadb203D"
+}
