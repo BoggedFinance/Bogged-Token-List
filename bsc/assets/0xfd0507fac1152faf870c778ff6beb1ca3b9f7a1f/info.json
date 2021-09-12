@@ -1,0 +1,11 @@
+{
+    "name": "BUSTA",
+    "website": "https://busta.gg",
+    "description": "BUSTA is a Gamefi and DEX platform",
+    "explorer": "https://bscscan.com/token/0xfd0507fac1152faf870c778ff6beb1ca3b9f7a1f",
+    "type": "BEP20",
+    "symbol": "BUST",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xfd0507fac1152faf870c778ff6beb1ca3b9f7a1f"
+}
