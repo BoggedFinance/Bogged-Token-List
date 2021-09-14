@@ -1,0 +1,14 @@
+{
+    "name": "BabyBTC",
+    "website": "https://babybtc.cash/",
+    "telegram": "https://t.me/BabyBTCCash",
+    "twitter": "https://twitter.com/BabyBTCOfficial",
+    "description": "Earn 10% in Bitcoin ($BTC) from every transaction! Our innovative tokenomics rewards $BabyBTC holders with free Bitcoin which you can withdraw any time! All you need to do is just buy & hold $BabyBTC and you keep accumulating Bitcoin every hour!",
+    "explorer": "https://bscscan.com/token/0x8C66E3C453aE19b5dBaE303CE5b43bD479AC7eD6",
+    "type": "BEP20",
+    "symbol": "BabyBTC",
+    "decimals": 9,
+    "slippage": 16,
+    "status": "active",
+    "id": "0x8C66E3C453aE19b5dBaE303CE5b43bD479AC7eD6"
+}
