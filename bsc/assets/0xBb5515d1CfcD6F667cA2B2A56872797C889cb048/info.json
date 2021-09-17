@@ -1,0 +1,14 @@
+{
+    "name": "SALSA TOKEN",
+    "website": "https://salsatoken.com/",
+    "telegram": "https://t.me/salsavalleyann",
+    "twitter": "https://twitter.com/SalsaToken",
+    "description": "Salsa token is a meme-token and a real-world usage coin in Salsa Valley project ecosystem which unites crypto-& meme-fans, NFT collectors and gamers.",
+    "explorer": "https://bscscan.com/token/0xBb5515d1CfcD6F667cA2B2A56872797C889cb048",
+    "type": "BEP20",
+    "symbol": "SALSA",
+    "decimals": 9,
+    "slippage": 14,
+    "status": "active",
+    "id": "0xBb5515d1CfcD6F667cA2B2A56872797C889cb048"
+}

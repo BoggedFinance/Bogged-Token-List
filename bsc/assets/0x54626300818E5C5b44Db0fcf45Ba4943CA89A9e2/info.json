@@ -1,0 +1,15 @@
+{
+    "name": "CHECOIN",
+    "website": "https://launch.checoin.finance/",
+    "telegram": "https://t.me/checointoken",
+    "discord": "https://discord.com/channels/869686421487771648/869686421932351519",
+    "twitter": "https://twitter.com/CheCoinOfficial",
+    "description": "A community token who reward you in BNB every hour.",
+    "explorer": "https://bscscan.com/token/0x54626300818E5C5b44Db0fcf45Ba4943CA89A9e2",
+    "type": "BEP20",
+    "symbol": "CHECOIN",
+    "decimals": 18,
+    "slippage": 22,
+    "status": "active",
+    "id": "0x54626300818E5C5b44Db0fcf45Ba4943CA89A9e2"
+}

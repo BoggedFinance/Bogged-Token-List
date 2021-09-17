@@ -1,0 +1,15 @@
+{
+    "name": "Vanity",
+    "website": "https://vanitytoken.net/",
+    "telegram": "https://t.me/vanitytokenofficial",
+    "discord": "https://discord.gg/rxr4Xc8KnS",
+    "twitter": "https://twitter.com/vanitytoken",
+    "description": "$VNY is the first token ever released on any blockchain to provide Custom Wallet Addresses for BTC, ETH, BSC, LTC and DOGE.",
+    "explorer": "https://bscscan.com/token/0xAbc69f2025bDb12efcdB8fd048d240fFf943ca82",
+    "type": "BEP20",
+    "symbol": "VNY",
+    "decimals": 9,
+    "slippage": 10,
+    "status": "active",
+    "id": "0xAbc69f2025bDb12efcdB8fd048d240fFf943ca82"
+}

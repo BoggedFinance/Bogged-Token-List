@@ -1,0 +1,15 @@
+{
+  "name": "Golden Doge",
+  "website": "https://goldendoge.finance/",
+  "telegram": "https://t.me/joinchat/Or9NnJut_XI1MjAx",
+  "discord": "https://discord.gg/PngHD7EaBX",
+  "twitter": "https://twitter.com/GoldenDoge11",
+  "description": "Golden Doge (GDOGE) is a community token that has a special Golden Vault which gets filled by 10% of every GDOGE buy transaction and 3% of every GDOGE sell transactions on Pancakeswap and rewards the GDOGE holders with BNB.",
+  "explorer": "https://bscscan.com/token/0xA53E61578fF54f1ad70186Be99332a6e20b6ffa9",
+  "type": "BEP20",
+  "symbol": "GDOGE",
+  "decimals": 9,
+  "slippage": 12,
+  "status": "active",
+  "id": "0xA53E61578fF54f1ad70186Be99332a6e20b6ffa9"
+}

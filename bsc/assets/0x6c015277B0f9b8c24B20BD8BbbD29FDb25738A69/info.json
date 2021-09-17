@@ -1,0 +1,14 @@
+{
+    "name": "Wrapped NewYorkCoin",
+    "website": "https://wrappednyc.com/",
+    "telegram": "https://t.me/joinchat/LDZicZdOl2hmNGY5",
+    "discord": "https://discord.gg/3HjUpMkW9y",
+    "twitter": "https://twitter.com/Wrapped_NYC",
+    "description": "WNYC stands for Wrapped NewYorkCoin and is simply an BEP-20 token that represents NewYorkCoin. One WNYC equals one NYC.",
+    "explorer": "https://bscscan.com/token/0x6c015277b0f9b8c24b20bd8bbbd29fdb25738a69",
+    "type": "BEP20",
+    "symbol": "WNYC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x6c015277b0f9b8c24b20bd8bbbd29fdb25738a69"
+}

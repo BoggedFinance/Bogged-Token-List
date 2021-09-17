@@ -1,0 +1,15 @@
+{
+    "name": "United Farmers Finance",
+    "website": "https://unitedfarmers.finance/",
+    "telegram": "https://t.me/united_farmers_defi",
+    "discord": "https://discord.gg/Nyf94956Eg",
+    "twitter": "https://twitter.com/UnitedFarmersF",
+    "description": "United Farmers is an entire ecosystem with yield farming and automated market-making (AMM) for the BSC network",
+    "explorer": "https://bscscan.com/token/0x3993a8f82F5e1a5381E678Fc237a3da668C1F4eB",
+    "type": "BEP20",
+    "symbol": "UFF",
+    "decimals": 18,
+    "slippage": 8,
+    "status": "active",
+    "id": "0x3993a8f82F5e1a5381E678Fc237a3da668C1F4eB"
+}

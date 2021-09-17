@@ -1,0 +1,15 @@
+{
+    "name": "Treat DAO",
+    "website": "https://treatdao.com/",
+    "telegram": "https://t.me/TreatDAO",
+    "discord": "https://discord.gg/zru5qC3Trq",
+    "twitter": "https://twitter.com/treatdao",
+    "description": "Treat is an exclusive platform for models to sell NFTs. Hold $TREAT to have a say on which models are chosen & new platform features.",
+    "explorer": "https://bscscan.com/address/0xac0c7d9b063ed2c0946982ddb378e03886c064e6",
+    "type": "BEP20",
+    "symbol": "TREAT",
+    "decimals": 18,
+    "slippage": 0.1,
+    "status": "active",
+    "id": "0xac0c7d9b063ed2c0946982ddb378e03886c064e6"
+}

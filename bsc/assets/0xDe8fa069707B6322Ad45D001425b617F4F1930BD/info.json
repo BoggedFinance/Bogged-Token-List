@@ -1,0 +1,14 @@
+{
+    "name": "Locklet",
+    "website": "https://www.locklet.finance",
+    "telegram": "https://t.me/locklet_finance",
+    "twitter": "https://twitter.com/locklet_finance",
+    "description": "Locklet is the world's first decentralized multi-chain vesting platform.",
+    "explorer": "https://bscscan.com/address/0xDe8fa069707B6322Ad45D001425b617F4F1930BD",
+    "type": "BEP20",
+    "symbol": "LKT",
+    "decimals": 18,
+    "slippage": 1,
+    "status": "active",
+    "id": "0xDe8fa069707B6322Ad45D001425b617F4F1930BD"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "ApeMoon",
+  "website": "https://apemoon.net",
+  "telegram": "https://t.me/ApeMoonOfficial",
+  "discord": "https://discord.com/invite/kEwnzBDckH",
+  "twitter": "https://twitter.com/ApeMoonToken",
+  "description": "ApeMoon, to be the first documented cryptocurrency from start to launch on social media. Our mission is to provide educational content and by doing so, make the crypto industry more safe and transparent for everyone ",
+  "explorer": "https://www.bscscan.com/address/0x44DAB610d6fDb9CAfF53388251042C02A8792459",
+  "type": "BEP20",
+  "symbol": "APE",
+  "decimals": 9,
+  "status": "active",
+  "id": "0x44DAB610d6fDb9CAfF53388251042C02A8792459"
+}

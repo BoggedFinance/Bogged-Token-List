@@ -1,0 +1,15 @@
+{
+    "name": "Coin of Nature",
+    "website": "https://coinofnature.io",
+    "telegram": "https://t.me/coin_of_nature",
+    "discord": "https://discord.gg/38rC6ec7SB",
+    "twitter": "https://twitter.com/CoinOfNature",
+    "description": "Coin of Nature ($CON) is a proprietary, hyper deflationary token based on the Binance Smart Chain which rewards all hodlers with 5% of every transaction, at the same time, protecting the liquidity",
+    "explorer": "https://bscscan.com/token/0xe0e0Fbc7E8D881953d39CF899409410B50b8C924",
+    "type": "BEP20",
+    "symbol": "CON",
+    "decimals": 9,
+    "slippage": 16,
+    "status": "active",
+    "id": "0xe0e0Fbc7E8D881953d39CF899409410B50b8C924"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Zooshi",
+    "website": "https://zooshi.io/",
+    "telegram": "https://t.me/zooshicoin",
+    "discord": "https://discord.gg/zooshicoin",
+    "twitter": "https://twitter.com/zooshicoin",
+    "description": "Bringing the best in gaming to BSC. $ZOOSHI rewards $SUSHI every hour. Arcade games, an NFT gaming powerhouse.",
+    "explorer": "https://bscscan.com/token/0xA060E0c0588D26CabA4a0009513337aCE50752dd",
+    "type": "BEP20",
+    "symbol": "ZOOSHI",
+    "decimals": 18,
+    "slippage": 15,
+    "status": "active",
+    "id": "0xA060E0c0588D26CabA4a0009513337aCE50752dd"
+} 
