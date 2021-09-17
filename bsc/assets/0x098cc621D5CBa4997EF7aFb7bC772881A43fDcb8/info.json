@@ -1,0 +1,21 @@
+{
+    "name": "SafeMoon JR",
+    "website": "https://safemoonjr.net/",
+    "description": "Safemoon Jr is a BEP-20 automatic deployment token that rewards holders with actual Safemoon.",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/safemoonjr"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/safemoonjr"
+        }
+    ],
+    "explorer": "https://bscscan.com/token/0x098cc621d5cba4997ef7afb7bc772881a43fdcb8",
+    "type": "BEP20",
+    "symbol": "SAFEMOONJR",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x098cc621D5CBa4997EF7aFb7bC772881A43fDcb8"
+}
