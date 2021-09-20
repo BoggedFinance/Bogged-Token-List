@@ -1,0 +1,15 @@
+{
+    "name": "REVIVAL",
+    "website": "https://revivaldefi.com",
+    "telegram": "https://t.me/revivaldefi",
+    "discord": "https://discord.gg/revivaldefi",
+    "twitter": "https://twitter.com/revivaldefi",
+    "description": "Revival is a community based DeFi project in which holders are given the power to self govern major decisions regarding our continued development. Revivals rewards system generates BNB deposits to holders automatically. Hold REVIVAL, get BNB. Join us!",
+    "explorer": "https://bscscan.com/token/0x7EaeE60040135F20f508A393ca400dEd339d654e",
+    "type": "BEP20",
+    "symbol": "RVL",
+    "decimals": 9,
+    "slippage": 16,
+    "status": "active",
+    "id": "0x7EaeE60040135F20f508A393ca400dEd339d654e"
+}
