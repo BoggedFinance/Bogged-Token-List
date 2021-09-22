@@ -54,7 +54,27 @@ info.json
     "decimals": 18,
     "slippage": 3,
     "status": "active",
-    "id": "0xD7B729ef857Aa773f47D37088A1181bB3fbF0099"
+    "id": "0xD7B729ef857Aa773f47D37088A1181bB3fbF0099",
+    "vested": [
+        "0x1EA4b64A3BA73849ef9f53176EBeAF47D6cC25F4"
+    ],
+    "audits": [
+        "https://github.com/BogTools/Bogged-Token-List/blob/main/audit.pdf"
+    ]
+}
+```
+
+The vested field is for addresses holding tokens that are not currently in circulation, any tokens held in these addresses will be excluded from marketcap calculations.
+
+The audits field is for any token audits you would like to be displayed on charts.
+
+If neither of these apply to your token you may leave them empty as follows:
+
+```
+{
+    ...
+    "vested": [ ],
+    "audits": [ ]
 }
 ```
 

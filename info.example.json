@@ -1,0 +1,20 @@
+{
+  "name": "Bogged Finance Token",
+  "website": "https://bogged.finance/",
+  "telegram": "https://t.me/boggedfinance",
+  "description": "The BOG token powers Bogged.Finance as the payment token for the platform. You can stake BOG to earn a portion of the revenue, or you can hold it to unlock access to exclusive trading tools.",
+  "explorer": "https://bscscan.com/token/0xB09FE1613fE03E7361319d2a43eDc17422f36B09",
+  "discord": "https://discord.gg/boggedfinance",
+  "twitter": "https://twitter.com/boggedfinance",
+  "type": "BEP20",
+  "symbol": "BOG",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xB09FE1613fE03E7361319d2a43eDc17422f36B09",
+  "vested": [
+    "0x1EA4b64A3BA73849ef9f53176EBeAF47D6cC25F4"
+  ],
+  "audits": [
+    "https://github.com/BogTools/Bogged-Token-List/blob/main/audit.pdf"
+  ]
+}
