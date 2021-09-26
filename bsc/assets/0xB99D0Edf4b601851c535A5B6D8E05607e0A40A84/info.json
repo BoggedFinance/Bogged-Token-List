@@ -1,0 +1,39 @@
+{
+    "name": "Liger DeFi",
+    "website": "https://ligerfinance.org",
+    "telegram": "https://t.me/LigerFinance_Chat",
+    "twitter": "https://twitter.com/ligerfinance/",
+    "description": "🐯 Another AMM on BSC! Earn LIGER by holding in your wallet or state LIGER-BNB LP through Treasury Pool to earn more WBNB! and more product coming soon. The Liger DeFi (LIGER) Protocol is a community-driven, fair launched DeFi Token with simple functions that occur during each trade: Reflection, LP Acquisition, & Burn. Development of DEX project in which holders are able to swap between BEP20 tokens or participate in Staking and Farming to earn more reward.",
+    "explorer": "https://bscscan.com/token/0xB99D0Edf4b601851c535A5B6D8E05607e0A40A84",
+    "type": "BEP20",
+    "symbol": "LIGER",
+    "decimals": 18,
+    "slippage": 12,
+    "status": "active",
+    "id": "0xB99D0Edf4b601851c535A5B6D8E05607e0A40A84",
+    "vested": [
+        "0xeaEd594B5926A7D5FBBC61985390BaAf936a6b8d",
+        "0x669184c359151a1E49163524AE83a9eA98E8d34F"
+    ],
+    "audits": [
+        "https://github.com/ligerfinance/liger-token/blob/master/Liger-Audit-CoinScope.pdf"
+    ],
+    "links": [
+        {
+            "name": "news",
+            "url": "https://t.me/LigerFinance"
+        },
+        {
+            "name": "medium",
+            "url": "https://ligerfinance.medium.com/"
+        },
+        {
+            "name": "pancakeinfo",
+            "url": "https://pancakeswap.info/token/0xB99D0Edf4b601851c535A5B6D8E05607e0A40A84/"
+        },
+        {
+            "name": "nomics",
+            "url": "https://nomics.com/assets/liger-liger-defi/"
+        }
+    ]
+}
