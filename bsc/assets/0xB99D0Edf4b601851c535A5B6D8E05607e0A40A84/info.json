@@ -20,6 +20,10 @@
     ],
     "links": [
         {
+            "name": "ligerswap",
+            "url": "https://ligerswap.org"
+        },
+        {
             "name": "news",
             "url": "https://t.me/LigerFinance"
         },
