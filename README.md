@@ -64,7 +64,7 @@ info.json
 }
 ```
 
-The vested field is for addresses holding tokens that are not currently in circulation, any tokens held in these addresses will be excluded from marketcap calculations.
+The vested field is for addresses holding tokens that are not currently in circulation, any tokens held in these addresses will be excluded from marketcap calculations. We automatically filter out burn addresses 0x0...1, 0x0...0 and 0x0...dead, you do not need to add these.
 
 The audits field is for any token audits you would like to be displayed on charts.
 
