@@ -5,11 +5,11 @@
   "telegram": "https://t.me/gain_protocol",
   "discord": "https://discord.com/invite/r9cUef4Ste",
   "twitter": "https://twitter.com/gainprotocol",
-  "explorer": "https://bscscan.com/token/0xa24e87efb0a6599c18f3710db47f724acef5254b",
+  "explorer": "https://bscscan.com/token/0xa24e87efb0a6599C18F3710DB47f724ACef5254b",
   "type": "BEP20",
   "symbol": "GAIN",
   "decimals": 9,
   "slippage": 3.5,
   "status": "active",
-  "id": "0xa24e87efb0a6599c18f3710db47f724acef5254b"
+  "id": "0xa24e87efb0a6599C18F3710DB47f724ACef5254b"
 }
