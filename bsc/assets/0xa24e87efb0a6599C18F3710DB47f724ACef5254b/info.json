@@ -1,0 +1,15 @@
+{
+  "name": "Gain Protocol",
+  "website": "https://www.gainprotocol.com/",
+  "description": "Gain Protocol has launched a new BEP-20 token that offers innovative features with holders at the center of the ecosystem. Additionally, the project is “whale safe”, helping prevent user risk wherein whales crash the price of the token. Enjoy safe trading and massive rewards when you invest in GAIN. Holders first.",
+  "telegram": "https://t.me/gain_protocol",
+  "discord": "https://discord.com/invite/r9cUef4Ste",
+  "twitter": "https://twitter.com/gainprotocol",
+  "explorer": "https://bscscan.com/token/0xa24e87efb0a6599C18F3710DB47f724ACef5254b",
+  "type": "BEP20",
+  "symbol": "GAIN",
+  "decimals": 9,
+  "slippage": 3.5,
+  "status": "active",
+  "id": "0xa24e87efb0a6599C18F3710DB47f724ACef5254b"
+}
