@@ -1,0 +1,11 @@
+{
+    "name": "BabyFomo",
+    "website": "https://www.fomo.baby/",
+    "description": "BabyFomo is a price-elastic token with adjusting supply, moving towards the price of Elon's DNA. Rebases make price-elastic tokens into synthetic commodities with fluctuating values and supplies.",
+    "explorer": "https://bscscan.com/token/0xa6c5ad09b8f49ebd9db839eb2d970bedaa012df3",
+    "type": "BEP20",
+    "symbol": "BabyFOMO",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xa6c5ad09b8f49ebd9db839eb2d970bedaa012df3"
+}
