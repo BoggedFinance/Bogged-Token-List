@@ -1,0 +1,13 @@
+{
+    "name": "Shell Token",
+    "website": "https://clamisland.fi/",
+    "description": "Clam Island is an immersive 3D island where you can invest using the power of blockchain and yield farming by interacting with in-game characters. The Shell token is the governance token of Clam Island.",
+    "explorer": "https://bscscan.com/token/0x9fb4DEF63f8caEC83Cb3EBcC22Ba0795258C988a",
+    "type": "BEP20",
+    "symbol": "SHELL",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x01c16da6E041Cf203959624Ade1F39652973D0EB",
+    "telegram": "https://t.me/clamisland",
+    "website": "https://clamisland.fi"
+}
