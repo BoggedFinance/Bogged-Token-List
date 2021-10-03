@@ -1,0 +1,19 @@
+{
+    "name": "Adamant",
+    "website": "https://adamantcoin.com/",
+    "telegram": "https://t.me/admcadamant",
+    "discord": "https://discord.gg/adamant",
+    "twitter": "https://twitter.com/adamantcoin",
+    "description": "Adamant is a hyperdeflationary token and is the governance token of the NFT play to earn, donate, and burn game Adamant Mine.",
+    "explorer": "https://bscscan.com/token/0xa55ef2fb2b7b6a60371fd3def9b806e74a48be69",
+    "type": "BEP20",
+    "symbol": "ADMC",
+    "decimals": 9,
+    "slippage": 11,
+    "status": "active",
+    "id": "0xa55ef2fb2b7b6a60371fd3def9b806e74a48be69",
+    "vested": [],
+    "audits": [
+        "https://github.com/BlockAudit-Report/Adamant"
+    ]
+}
