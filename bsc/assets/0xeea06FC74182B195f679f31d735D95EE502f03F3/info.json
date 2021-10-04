@@ -1,0 +1,22 @@
+{
+    "name": "VICE",
+    "website": "https://vicewrld.com/",
+    "telegram": "https://t.me/VICEWRLD_TOKEN",
+    "reddit": "https://www.reddit.com/r/VICEWRLD_IO",
+    "twitter": "https://twitter.com/Vicewrld_",
+    "description": "$VICE Powering 18+ social network VICEWRLD , built in charity and community rewards.",
+    "explorer": "https://bscscan.com/token/0xeea06FC74182B195f679f31d735D95EE502f03F3",
+    "type": "BEP20",
+    "symbol": "VICE",
+    "decimals": 18,
+    "slippage": 8,
+    "status": "active",
+    "id": "0xeea06FC74182B195f679f31d735D95EE502f03F3",
+    "vested": [
+        "0xeea06FC74182B195f679f31d735D95EE502f03F3",
+        "0x9D247F413f6A495Bf8EE66811e38fb96B345E969"
+    ],
+    "audits": [
+        "https://www.vicewrld.com/pdf/audit.pdf"
+    ]
+}
