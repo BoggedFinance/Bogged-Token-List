@@ -1,0 +1,16 @@
+{
+    "name": "StaySAFU Token",
+    "website": "https://staysafu.org/",
+    "telegram": "https://t.me/StaySAFUOrg",
+    "twitter": "https://twitter.com/StaySAFUOrg",
+    "description": "Providing a suit of tools to make DeFi a safer place.",
+    "explorer": "https://bscscan.com/token/0x890cc7d14948478c98A6CD7F511E1f7f7f99F397",
+    "type": "BEP20",
+    "symbol": "SAFU",
+    "decimals": 9,
+    "slippage": 1,
+    "status": "active",
+    "id": "0x890cc7d14948478c98A6CD7F511E1f7f7f99F397",
+    "vested": [    ],
+    "audits": [    ]
+}
