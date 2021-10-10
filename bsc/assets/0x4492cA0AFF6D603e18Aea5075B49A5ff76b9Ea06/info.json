@@ -1,0 +1,14 @@
+{
+    "name": "Farmageddon",
+    "website": "https://farmageddon.farm",
+    "telegram": "https://t.me/FARMAGEDDON_TOKEN",
+    "twitter": "https://twitter.com/Farmaggedon_",
+    "description": "Farmageddon will be used to power a platform used to bring the lucrative yet complicated process of yield farming to the masses.",
+    "explorer": "https://bscscan.com/token/0x4492ca0aff6d603e18aea5075b49a5ff76b9ea06",
+    "type": "BEP20",
+    "symbol": "FG",
+    "decimals": 9,
+    "slippage": 11,
+    "status": "active",
+    "id": "0x4492ca0aff6d603e18aea5075b49a5ff76b9ea06",
+}
