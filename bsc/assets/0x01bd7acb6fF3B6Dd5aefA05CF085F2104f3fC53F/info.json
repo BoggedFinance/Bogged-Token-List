@@ -5,11 +5,11 @@
     "discord": "https://discord.gg/zru5qC3Trq",
     "twitter": "https://twitter.com/treatdao",
     "description": "Treat is an exclusive platform for models to sell NFTs. Hold $TREAT to have a say on which models are chosen & new platform features.",
-    "explorer": "https://bscscan.com/address/0xac0c7d9b063ed2c0946982ddb378e03886c064e6",
+    "explorer": "https://bscscan.com/address/0x01bd7acb6fF3B6Dd5aefA05CF085F2104f3fC53F",
     "type": "BEP20",
     "symbol": "TREAT",
     "decimals": 18,
     "slippage": 0.1,
-    "status": "inactive",
-    "id": "0xac0c7d9b063ed2c0946982ddb378e03886c064e6"
+    "status": "active",
+    "id": "0x01bd7acb6fF3B6Dd5aefA05CF085F2104f3fC53F"
 }
