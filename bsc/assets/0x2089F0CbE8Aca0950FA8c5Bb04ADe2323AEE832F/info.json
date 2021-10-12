@@ -1,0 +1,13 @@
+{
+    "name": "Londex",
+    "website": "https://londex.io/",
+    "description": "LONDEX (LDX) is a revolutionary rewards token pioneering trust, transparency and integrity on the Binance Smart Chain. We have introduced a vast utility platform called to accompany the LONDEX Token for all crypto investors.  ",
+    "explorer": "https://bscscan.com/token/0x2089f0cbe8aca0950fa8c5bb04ade2323aee832f",
+    "type": "BEP20",
+    "symbol": "LDX",
+    "twitter": "https://twitter.com/LondexOfficial",
+    "telegram": "http://t.me/londexofficial",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x2089f0cbe8aca0950fa8c5bb04ade2323aee832f"
+}
