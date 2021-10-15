@@ -1,0 +1,14 @@
+{
+    "name": "ForeverBNB",
+    "website": "https://ForeverBNB.online/",
+    "telegram": "https://t.me/TheForeverBNB",
+    "twitter": "https://twitter.com/ForeverBNBBSC",
+    "description": "ForeverBNB is a simple concept combining the three trending mechanisms : Rebasing, dividends and buyback.",
+    "explorer": "https://bscscan.com/token/0x4b7bf20baae7f04abea55b49c0ffbc31758a05a4",
+    "type": "BEP20",
+    "symbol": "FBNB",
+    "decimals": 4,
+    "slippage": 18,
+    "status": "active",
+    "id": "0x4b7bf20baae7f04abea55b49c0ffbc31758a05a4",
+}
