@@ -1,0 +1,20 @@
+{
+  "name": "SOAKMONT Token",
+  "website": "https://soakmont.com/",
+  "telegram": "https://t.me/soakmont",
+  "discord": "https://discord.com/invite/v2AvE6N7c9",
+  "twitter": "https://twitter.com/GetSOAK",
+  "description": "SOAK is a cryptocurrency powering the ecosystem of the future that will tokenize real estate and other assets.",
+  "explorer": "https://bscscan.com/token/0x841dc7A49e0825bDF3eE585cfB6E553495915AcE",
+  "type": "BEP20",
+  "symbol": "SOAK",
+  "decimals": 18,
+  "slippage": 0,
+  "status": "active",
+  "id": "0x841dc7A49e0825bDF3eE585cfB6E553495915AcE",
+  "vested": [
+      "0xbedc476a055f2122875e40bdfba3156007008a79",
+      "0x9dbe46facb9f12211be812638352c87098903ed5"
+  ],
+  "audit": []
+}
