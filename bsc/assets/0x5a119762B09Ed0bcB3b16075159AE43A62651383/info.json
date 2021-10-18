@@ -1,0 +1,40 @@
+{
+    "name": "Dali",
+    "website": "https://dalitoken.io/",
+    "description": "Next generation NFT marketplace built on BSC",
+    "explorer": "https://bscscan.com/token/0x5a119762B09Ed0bcB3b16075159AE43A62651383",
+    "type": "BEP20",
+    "symbol": "DALI",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x5a119762B09Ed0bcB3b16075159AE43A62651383",
+    "audits": [
+        "https://github.com/solidproof/smart-contract-audits/blob/main/SmartContract_Audit_Solidproof_Dali.pdf"
+    ],
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/dalitoken"
+        },
+		{
+            "name": "telegram_group",
+            "url": "https://t.me/dalienglish"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/dalitoken"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.gg/22fsy7zjb4"
+        },
+        {
+            "name": "Github",
+            "url": "https://github.com/DaliToken"
+        },
+		 {
+            "name": "whitepaper",
+            "url": "https://dalitoken.io/docs/whitepaper.pdf"
+        }
+    ]
+}
