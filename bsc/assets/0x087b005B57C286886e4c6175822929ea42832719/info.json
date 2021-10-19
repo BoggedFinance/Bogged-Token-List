@@ -1,0 +1,17 @@
+{
+    "name": "Tiger Token",
+    "website": "https://tigertoken.finance/",
+    "telegram": "https://t.me/TIGERTokenFinance",
+    "discord": "https://discord.gg/TigerTokenFinance",
+    "twitter": "https://twitter.com/TigerTokenFinance",
+    "description": "TIGER TOKEN, The World’s 1st BEP20 TOKEN That Offers Rewards to Contributors",
+    "explorer": "https://bscscan.com/token/0x087b005B57C286886e4c6175822929ea42832719",
+    "type": "BEP20",
+    "symbol": "TGNB",
+    "decimals": 9,
+    "slippage": 20,
+    "status": "active",
+    "id": "0x087b005B57C286886e4c6175822929ea42832719",
+    "vested": [],
+    "audits": []
+}
