@@ -1,15 +1,16 @@
 {
     "name": "Farmageddon",
-    "website": "https://farmageddon-token.com/",
+    "website": "https://farmageddon.farm",
     "telegram": "https://t.me/FARMAGEDDON_TOKEN",
-    "discord": "https://discord.gg/GBF9dUG8CQ",
     "twitter": "https://twitter.com/Farmaggedon_",
-    "description": "FARMING MADE EASY. Farmageddon will be used to power a platform that will bring the lucrative yet complicated process of yield farming to the masses. The high ROIs are very attractive, but the confusion is real! Farmageddon will be a one-stop shop for all things crypto farming - simplifying and sorting through all the confusion for you.",
+    "description": "Farmageddon will be used to power a platform used to bring the lucrative yet complicated process of yield farming to the masses.",
     "explorer": "https://bscscan.com/token/0x4492ca0aff6d603e18aea5075b49a5ff76b9ea06",
     "type": "BEP20",
     "symbol": "FG",
     "decimals": 9,
-    "slippage": 10,
+    "slippage": 11,
     "status": "active",
-    "id": "0x4492ca0aff6d603e18aea5075b49a5ff76b9ea06"
+    "id": "0x4492ca0aff6d603e18aea5075b49a5ff76b9ea06",
+    "vested": [ ],
+    "audits": [ ]
 }
