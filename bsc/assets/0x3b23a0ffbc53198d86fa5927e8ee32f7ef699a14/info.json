@@ -1,0 +1,34 @@
+{
+    "name": "moonbird",
+    "website": "https://www.moonbird.finance",
+    "description": "Bitcoin monetary policy, on a bird, to the moon",
+    "explorer": "https://bscscan.com/token/0x3b23a0ffbc53198d86fa5927e8ee32f7ef699a14",
+    "type": "BEP20",
+    "symbol": "MBIRD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x3b23a0ffbc53198d86fa5927e8ee32f7ef699a14",
+    "vested": [
+        "0x77ae060a24928a75795b3eb5bf828f8ff4fb8596",
+        "0x24ea9c465812e0b44cd789c80f90c882a77fb49f",
+        "0xe536Ca4E42C5c674Cd7C159C49E68de6855f1D0c"
+
+    ],
+    "audits": [
+        "https://github.com/HashEx/public_audits/blob/master/moonbird/Moonbird%20report.pdf"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Mbirdfinance"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/MBirdFinance"
+        },
+        {
+            "name": "docs",
+            "url": "https://docs.moonbird.finance/"
+        }
+    ]
+}
