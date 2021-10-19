@@ -1,0 +1,17 @@
+{
+    "name": "Caash",
+    "website": "https://www.caash.io/",
+    "telegram": "https://t.me/caashio",
+    "discord": "https://discord.gg/BHR49vqy",
+    "twitter": "https://twitter.com/CaashTeam",
+    "description": "Your user-friendly Web3 ecosystem, powered by $CASH",
+    "explorer": "https://bscscan.com/token/0x18950820A9108A47295b40B278F243DfC5D327B5",
+    "type": "BEP20",
+    "symbol": "CASH",
+    "decimals": 18,
+    "slippage": 0.1,
+    "status": "active",
+    "id": "0x18950820A9108A47295b40B278F243DfC5D327B5",
+    "vested": "0x19e29fefc4e06417c04f69ab6e4a247eec3b8ab4, 0x18950820a9108a47295b40b278f243dfc5d327b5",
+    "audits": []
+}
