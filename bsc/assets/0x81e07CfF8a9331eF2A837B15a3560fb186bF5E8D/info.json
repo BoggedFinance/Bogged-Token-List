@@ -1,0 +1,14 @@
+{
+    "name": "Dappsy",
+    "website": "https://dappsy.io",
+    "telegram": "https://t.me/dappsy_official",
+    "twitter": "https://twitter.com/itsdappsy",
+    "description": "Dappsy is the next DeFi Social Network powered by an internal exchange where users may exchange $APP for other tokens, invest, copy-trade and share information with their community. ",
+    "explorer": "https://bscscan.com/token/0x81e07cff8a9331ef2a837b15a3560fb186bf5e8d",
+    "type": "BEP20",
+    "symbol": "APP",
+    "decimals": 8,
+    "slippage": 12,
+    "status": "active",
+    "id": "0x81e07cff8a9331ef2a837b15a3560fb186bf5e8d"
+}
