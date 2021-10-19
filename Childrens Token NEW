@@ -1,0 +1,16 @@
+bsc/assets/<0xFf0258b39432493a92Aa1a182362b62808132935>/
+bsc/assets/<0xFf0258b39432493a92Aa1a182362b62808132935>/info.JSON
+{
+"name": "Childrens Token",
+"website": "https://www.childrenstoken.com/",
+"telegram": "https://t.me/Childrenstoken",
+"discord": "",
+"twitter": "https://twitter.com/Childrenstoken",
+"description": "Community Driven Charity Token especially for the Children who needed the most.",
+"explorer": "https://bscscan.com/token/0xff0258b39432493a92aa1a182362b62808132935",
+"type": "BEP20",
+"symbol": "$CTN",
+"decimals": 9,
+"slippage": 12,
+"status": "active",
+"id": "0xff0258b39432493a92aa1a182362b62808132935"
