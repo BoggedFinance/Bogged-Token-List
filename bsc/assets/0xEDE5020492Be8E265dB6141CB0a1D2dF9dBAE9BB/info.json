@@ -1,0 +1,19 @@
+{
+   "name":"Dough",
+   "website":"https://doughbsc.com",
+   "telegram":"https://t.me/doughbsc",
+   "discord":"https://discord.gg/5t4Qj55F",
+   "twitter":"https://twitter.com/Doughbsc",
+   "description":"$DOUGH is the first BSC token to introduce an automated reward-switching system based on real time price movement: buys give rewards in CAKE; sells give rewards in DOUGH. The DoughPad will be a central hub for crypto (launchpad), including a automated token creator, locker, NFT marketplace, Merchstore and Game Hub.",
+   "explorer":"https://bscscan.com/token/0xEDE5020492Be8E265dB6141CB0a1D2dF9dBAE9BB",
+   "type":"BEP20",
+   "symbol":"DOUGH",
+   "decimals":18,
+   "slippage":15,
+   "status":"active",
+   "id":"0xEDE5020492Be8E265dB6141CB0a1D2dF9dBAE9BB",
+   "vested":[],
+   "audits":[
+      "https://github.com/interfinetwork/smart-contract-audits/blob/main/Dough_AuditReport_InterFi.pdf"
+   ]
+}
