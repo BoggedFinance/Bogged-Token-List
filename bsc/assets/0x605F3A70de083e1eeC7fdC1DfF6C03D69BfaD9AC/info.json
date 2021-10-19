@@ -1,0 +1,11 @@
+{
+    "name": "DragonFortune",
+    "type": "BEP20",
+    "symbol": "DF",
+    "decimals": 9,
+    "website": "https://www.tbcc.com/footer/token",
+    "description": "TBCC token is a utility token that was issued by TBCC development team. ",
+    "explorer": "https://bscscan.com/token/0x605F3A70de083e1eeC7fdC1DfF6C03D69BfaD9AC",
+    "status": "active",
+    "id": "0x605F3A70de083e1eeC7fdC1DfF6C03D69BfaD9AC"
+}
