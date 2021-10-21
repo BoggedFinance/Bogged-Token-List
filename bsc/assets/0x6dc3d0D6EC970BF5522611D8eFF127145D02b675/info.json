@@ -1,0 +1,17 @@
+{
+    "name": "Revolotto",
+    "website": "https://revolotto.org",
+    "telegram": "https://t.me/revolotto",
+    "discord": "https://discord.gg/MKNEAXRPT3",
+    "twitter": "https://twitter.com/revolotto",
+    "description": "Revolotto is a Deflationary token; four-dimensional, 80% to buyer, 9% to LP, 5% burns & 6% distribution.",
+    "explorer": "https://bscscan.com/token/0x6dc3d0D6EC970BF5522611D8eFF127145D02b675",
+    "type": "BEP20",
+    "symbol": "RVL",
+    "decimals": 18,
+    "slippage": 25,
+    "status": "active",
+    "id": "0x6dc3d0D6EC970BF5522611D8eFF127145D02b675",
+    "vested": [ ],
+    "audits": [ ]
+}
