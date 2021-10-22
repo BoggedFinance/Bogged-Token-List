@@ -1,0 +1,17 @@
+{
+    "name": "Baby DeFido",
+    "type": "BEP20",
+    "symbol": "BABYDEFIDO",
+    "decimals": 9,
+    "website": "https://babydefido.finance",
+    "telegram": "https://t.me/BabyDeFido_BSC",
+    "twitter": "https://twitter.com/Baby_Defido",
+    "description": "BabyDefido represents Coinbase's official dog mascot, and we predict they will soon focus more on him. Join crypto's cutest bulldog journey in crypto's bull market!",
+    "explorer": "https://bscscan.com/token/0xEFEa4829b1bc90658784f15116C2dFD0E0929B0d",
+    "status": "active",
+    "id": "0xEFEa4829b1bc90658784f15116C2dFD0E0929B0d",
+    "slippage": 10,
+    "audits": [
+        "https://babydefido.finance/audit.pdf"
+    ]
+}
