@@ -1,0 +1,18 @@
+{
+    "name": "LONDEFY Token",
+    "website": "https://londefy.com/",
+    "telegram": "https://t.me/LonDefy",
+    "twitter": "https://twitter.com/londefy",
+    "description": "Defying the rules of gravity. A truly reliable rebase token solidified by professional people and a community of real investors. Londefy (LDF) rewards holders in a true rising star of the defi space, Londex. By holding Londex you’ll also receive BEP20 Ethereum.",
+    "explorer": "https://bscscan.com/token/0xfFEE80e4BC6767A89F897D10d6011C8C188e2a64",
+    "type": "BEP20",
+    "symbol": "LDF",
+    "decimals": 18,
+    "slippage": 17,
+    "status": "active",
+    "id": "0xfFEE80e4BC6767A89F897D10d6011C8C188e2a64",
+    "vested": [
+    ],
+    "audits": [
+    ]
+}
