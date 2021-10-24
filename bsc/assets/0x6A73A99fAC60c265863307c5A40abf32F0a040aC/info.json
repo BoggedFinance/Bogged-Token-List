@@ -12,6 +12,8 @@
     "slippage": 15,
     "status": "active",
     "id": "0x6A73A99fAC60c265863307c5A40abf32F0a040aC",
-    "vested": [],
+    "vested": [
+        "0x7ee058420e5937496f5a2096f04caa7721cf70cc"
+    ],
     "audits": []
 }
