@@ -1,0 +1,14 @@
+{
+    "name": "Polygon",
+    "website": "https://polygon.technology/",
+    "telegram": "https://t.me/polygonofficial",
+    "twitter": "https://twitter.com/0xPolygon",
+    "description": "Polygon (previously Matic Network) is the first well-structured, easy-to-use platform for Ethereum scaling and infrastructure development. Its core component is Polygon SDK, a modular, flexible framework that supports building multiple types of applications.",
+    "explorer": "https://bscscan.com/token/0x3b17389dcac17e8b37e3269785e5c357aa100005",
+    "type": "MATIC",
+    "symbol": "MATIC",
+    "decimals": 18,
+    "slippage": 0,
+    "status": "active",
+    "id": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270"
+}
