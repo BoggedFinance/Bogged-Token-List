@@ -1,0 +1,14 @@
+{
+    "name": "Pazzive",
+    "website": "https://paz.fuzion.team",
+    "telegram": "https://t.me/tesla_safe",
+    "contract": "0xb9f5C03d733C9F7eBA6B81c48A55ef0bEBBB200A",
+    "description": "Pazzive is the next evolution of crypto assets. Reflections are automatically sent to holders in BUSD or other customized rewards. It's also equipped with an advanced anti-whale & a powerful self-activating buyback & burn.",
+    "explorer": "https://bscscan.com/token/0xb9f5C03d733C9F7eBA6B81c48A55ef0bEBBB200A",
+    "research": "https://docs.fuzion.team/pazzive",
+    "type": "BEP20",
+    "symbol": "PAZ",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xb9f5C03d733C9F7eBA6B81c48A55ef0bEBBB200A"
+}
