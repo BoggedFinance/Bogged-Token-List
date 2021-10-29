@@ -1,0 +1,19 @@
+{
+    "name": "CRYOGEN",
+    "website": "https://cryogen.life/",
+    "telegram": "https://t.me/cryowebtoken",
+    "discord": "https://discord.com/invite/W2S68Ka8uc",
+    "twitter": "https://twitter.com/CRYOWEBOFFICIAL",
+    "description": "Creating the future of hybrid internet dApps fused with blockchain",
+    "explorer": "https://bscscan.com/token/0x6A73A99fAC60c265863307c5A40abf32F0a040aC",
+    "type": "BEP20",
+    "symbol": "CRYOGEN",
+    "decimals": 18,
+    "slippage": 15,
+    "status": "active",
+    "id": "0x6A73A99fAC60c265863307c5A40abf32F0a040aC",
+    "vested": [
+        "0x7ee058420e5937496f5a2096f04caa7721cf70cc"
+    ],
+    "audits": []
+}
