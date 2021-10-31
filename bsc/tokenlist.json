@@ -1,0 +1,182 @@
+export default [
+    {
+        "name": "",
+        "symbol": "BNB",
+        "token": "BNB",
+        "ordered": true
+    },
+    {
+        "name": "Bogged Finance",
+        "symbol": "BOG",
+        "token": "0xB09FE1613fE03E7361319d2a43eDc17422f36B09",
+        "ordered": true
+    },
+    {
+        "name": "BUSD Token",
+        "symbol": "BUSD",
+        "token": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+        "ordered": true
+    },
+    {
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "token": "0x55d398326f99059fF775485246999027B3197955",
+        "ordered": true
+    },
+    {
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "token": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "ordered": true
+    },
+    {
+        "name": "Dai Token",
+        "symbol": "DAI",
+        "token": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3"
+    },
+    {
+        "name": "BTCB Token",
+        "symbol": "BTCB",
+        "token": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c"
+    },
+    {
+        "name": "Ethereum Token",
+        "symbol": "ETH",
+        "token": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8"
+    },
+    {
+        "name": "XRP Token",
+        "symbol": "XRP",
+        "token": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE"
+    },
+    {
+        "name": "ApeSwapFinance Banana",
+        "symbol": "BANANA",
+        "token": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95"
+    },
+    {
+        "name": "WaultSwap",
+        "symbol": "WEX",
+        "token": "0xa9c41A46a6B3531d28d5c32F6633dd2fF05dFB90"
+    },
+    {
+        "name": "OLYMPUS",
+        "symbol": "OLYMPUS",
+        "token": "0x18b426813731C144108c6D7FAf5EdE71a258fD9A"
+    },
+    {
+        "name": "PancakeSwap Token",
+        "symbol": "CAKE",
+        "token": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82"
+    },
+    {
+        "name": "1INCH Token",
+        "symbol": "1INCH",
+        "token": "0x111111111117dC0aa78b770fA6A738034120C302"
+    },
+    {
+        "name": "AlphaToken",
+        "symbol": "ALPHA",
+        "token": "0xa1faa113cbE53436Df28FF0aEe54275c13B40975"
+    },
+    {
+        "name": "Ankr",
+        "symbol": "ANKR",
+        "token": "0xf307910A4c7bbc79691fD374889b36d8531B08e3"
+    },
+    {
+        "name": "Bonfire",
+        "symbol": "BONFIRE",
+        "token": "0x5e90253fbae4Dab78aa351f4E6fed08A64AB5590"
+    },
+    {
+        "name": "BakeryToken",
+        "symbol": "BAKE",
+        "token": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5"
+    },
+    {
+        "name": "BINGUS",
+        "symbol": "BINGUS",
+        "token": "0xdA20C8a5c3B1AB48e31ba6e43f0F2830E50218D8"
+    },
+    {
+        "name": "BlowFish",
+        "symbol": "BLOWF",
+        "token": "0xA55BB91dE33B4abdf3aC64913D98A55ad84Dc3A8"
+    },
+    {
+        "name": "Bunny Token",
+        "symbol": "BUNNY",
+        "token": "0xC9849E6fdB743d08fAeE3E34dd2D1bc69EA11a51"
+    },
+    {
+        "name": "Burger Swap",
+        "symbol": "BURGER",
+        "token": "0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f"
+    },
+    {
+        "name": "CatzCoin",
+        "symbol": "CATZ",
+        "token": "0xbfBEe3dAc982148aC793161f7362344925506903"
+    },
+    {
+        "name": "CLU",
+        "symbol": "CLU",
+        "token": "0x1162E2EfCE13f99Ed259fFc24d99108aAA0ce935"
+    },
+    {
+        "name": "FOX",
+        "symbol": "FOX",
+        "token": "0xFAd8E46123D7b4e77496491769C167FF894d2ACB"
+    },
+    {
+        "name": "Linear Token",
+        "symbol": "LINA",
+        "token": "0x762539b45A1dCcE3D36d080F74d1AED37844b878"
+    },
+    {
+        "name": "Trust Wallet",
+        "symbol": "TWT",
+        "token": "0x4B0F1812e5Df2A09796481Ff14017e6005508003"
+    },
+    {
+        "name": "Reef.finance",
+        "symbol": "REEF",
+        "token": "0xF21768cCBC73Ea5B6fd3C687208a7c2def2d966e"
+    },
+    {
+        "name": "SafeBTC",
+        "symbol": "SAFEBTC",
+        "token": "0x380624A4a7e69dB1cA07deEcF764025FC224D056"
+    },
+    {
+        "name": "SAFEMARS",
+        "symbol": "SAFEMARS",
+        "token": "0x3aD9594151886Ce8538C1ff615EFa2385a8C3A88"
+    },
+    {
+        "name": "SafeMoon",
+        "symbol": "SAFEMOON",
+        "token": "0x8076C74C5e3F5852037F31Ff0093Eeb8c8ADd8D3"
+    },
+    {
+        "name": "Super Launcher",
+        "symbol": "LAUNCH",
+        "token": "0xb5389A679151C4b8621b1098C6E0961A3CFEe8d4"
+    },
+    {
+        "name": "SafePal Token",
+        "symbol": "SFP",
+        "token": "0xD41FDb03Ba84762dD66a0af1a6C8540FF1ba5dfb"
+    },
+    {
+        "name": "Swipe",
+        "symbol": "SXP",
+        "token": "0x47BEAd2563dCBf3bF2c9407fEa4dC236fAbA485A"
+    },
+    {
+        "name": "Venus",
+        "symbol": "XVS",
+        "token": "0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63"
+    },
+]
