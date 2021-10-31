@@ -1,0 +1,17 @@
+{
+    "name": "MGP V2",
+    "website": "https://www.microoo-gaming-protocol.org/",
+    "telegram": "https://t.me/MicroGamingProtocol",
+    "discord": "",
+    "twitter": "https://twitter.com/mgp_token",
+    "description": "We are a Gamingtoken who want to dezentralize e-sports",
+    "explorer": "https://www.bscscan.com/token/0xDf77539D45aBFe4Aea13f1240EF82B991EE0F023",
+    "type": "BEP20",
+    "symbol": "MGPV2",
+    "decimals": 9,
+    "slippage": 25,
+    "status": "active",
+    "id": "0xDf77539D45aBFe4Aea13f1240EF82B991EE0F023",
+    "vested": [""],
+    "audits": []
+}
