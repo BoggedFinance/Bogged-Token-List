@@ -1,1 +1,21 @@
-
+{
+    "name": "Memecoin Factory",
+    "website": "https://www.memecoinfactory.com",
+    "telegram": "https://t.me/memecoinfactory",
+    "discord": "https://discord.gg/memecoinfactory",
+    "twitter": "https://twitter.com/MemecoinF",
+    "description": "The Memecoin Factory aims to bring together a crypto launchpad, DEX, casino and lottery, providing our users access to crypto services and entertainment all under one roof.",
+    "explorer": "https://bscscan.com/token/0x6E1f76017024BaF9dc52a796dC4e5Ae3110005c2",
+    "type": "BEP20",
+    "symbol": "FACTORY",
+    "decimals": 18,
+    "slippage": 12,
+    "status": "active",
+    "id": "0x6E1f76017024BaF9dc52a796dC4e5Ae3110005c2",
+    "vested": [
+        "0x000000000000000000000000000000000000dEaD"
+    ],
+    "audits": [
+        "https://solidity.finance/audits/MemeCoinFactory"
+    ]
+}
