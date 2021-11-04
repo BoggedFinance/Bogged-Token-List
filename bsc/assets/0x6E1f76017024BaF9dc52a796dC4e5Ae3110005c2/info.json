@@ -12,9 +12,7 @@
     "slippage": 12,
     "status": "active",
     "id": "0x6E1f76017024BaF9dc52a796dC4e5Ae3110005c2",
-    "vested": [
-        "0x000000000000000000000000000000000000dEaD"
-    ],
+    "vested": [ ],
     "audits": [
         "https://solidity.finance/audits/MemeCoinFactory"
     ]
