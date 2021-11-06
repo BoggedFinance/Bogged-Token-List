@@ -1,0 +1,15 @@
+{
+    "name": "BlockMonsters",
+    "type": "BEP20",
+    "symbol": "MNSTRS",
+    "decimals": 18,
+    "description": "BlockMonsters is a play to earn game where players can earn MNSTRS tokens and collect and trade Blockmonster NFTs.",
+    "explorer": "https://bscscan.com/token/0x287Db351d5230716246CfB46AF8153025eDa6A0a",
+    "status": "active",
+    "slippage": 6,
+    "id": "0x287Db351d5230716246CfB46AF8153025eDa6A0a",
+    "website": "https://ssbtoken.com",
+    "telegram": "https://t.me/BlockMonsters",
+    "twitter": "https://twitter.com/Block_Monsters",    
+    "discord": "https://discord.com/invite/dYyK2MGw"
+}
