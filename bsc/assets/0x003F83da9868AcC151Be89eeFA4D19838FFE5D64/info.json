@@ -1,0 +1,21 @@
+{
+    "name": "8Bit Doge",
+    "website": "https://8bitdoge.com",
+    "telegram": "https://t.me/The8BitDoge",
+    "discord": "https://discord.gg/KmH3retz",
+    "twitter": "https://twitter.com/8bit_doge",
+    "description": "8Bit Doge ($BITD) is a Play To Earn GameFi NFT BEP20 Token.",
+    "explorer": "https://bscscan.com/token/0xD7B729ef857Aa773f47D37088A1181bB3fbF0099",
+    "type": "BEP20",
+    "symbol": "BITD",
+    "decimals": 9,
+    "slippage": 10,
+    "status": "active",
+    "id": "0x003F83da9868AcC151Be89eeFA4D19838FFE5D64",
+    "vested": [
+        "0x6Eab790B69ddA608D27Ed248ED0eC2fedC97ff5E"
+    ],
+    "audits": [
+        "https://dessertswap.finance/audits/8BitDoge%20BEP-20%20Audit%2010286513.pdf"
+    ]
+}
