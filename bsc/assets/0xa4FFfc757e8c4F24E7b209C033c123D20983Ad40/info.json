@@ -1,0 +1,19 @@
+{
+    "name": "Hoge Finance",
+    "website": "https://hogefinance.com/",
+    "telegram": "https://t.me/hogefinance",
+    "discord": "",
+    "twitter": "https://twitter.com/hogefinance",
+    "description": "Hoge is a community-driven DeFi auto-staking ERC-20 token with a capped and deflationary supply.",
+    "explorer": "https://bscscan.com/token/0xa4FFfc757e8c4F24E7b209C033c123D20983Ad40",
+    "type": "BEP20",
+    "symbol": "HOGE",
+    "decimals": 9,
+    "slippage": 3,
+    "status": "active",
+    "id": "0xa4FFfc757e8c4F24E7b209C033c123D20983Ad40",
+    "vested": [],
+    "audits": [
+        "https://www.certik.org/projects/hogefinance"
+    ]
+}
