@@ -14,5 +14,23 @@
         "0xE9A57245BfD7F8Fb0c4eD9FeEA00D15982a24118"
     ],
     "status": "active",
-    "id": "0x08C811aE0B0d20a396fb07cdAeb7301F2967CE5C"
+    "id": "0x08C811aE0B0d20a396fb07cdAeb7301F2967CE5C",
+    "links": [
+         {
+            "name": "Github",
+            "url": "https://github.com/GnomeFather"
+        },
+		{
+            "name": "whitepaper",
+            "url": "https://docs.gnome.army/longer-reads/gnome-paper"
+        },
+		{
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/gnometoken/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/en/coins/gnometoken"
+        }
+    ]
 }
