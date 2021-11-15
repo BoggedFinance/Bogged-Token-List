@@ -1,0 +1,18 @@
+{
+    "name": "GnomeToken",
+    "website": "https://gnome.army/",
+    "telegram": "https://t.me/GnomeArmy",
+    "twitter": "https://twitter.com/GnomeArmy_",
+    "discord": "https://discord.gg/WzuyRyf3Q4",
+    "description": "GnomeToken is a highly deflationary BEP20 token. We disrupt the mediocrity of dog coins with Gnomes. Stake GNOME to earn BNB rewards, design and mint Gnome NFTs using our NFT design-studio. we offer complete transparency and user participation in decision making via our DAO. We utilise beautiful design and smooth user experience on our dApps and website to make GnomeToken a joyful experience for all holders. Our roadmap is focused on delivering value to our investors by the memeification of Gnomes.",
+    "explorer": "https://bscscan.com/token/0x08C811aE0B0d20a396fb07cdAeb7301F2967CE5C",
+    "type": "BEP20",
+    "symbol": "GNOME",
+    "decimals": 9,
+    "slippage": 8,
+    "vested": [
+        "0xE9A57245BfD7F8Fb0c4eD9FeEA00D15982a24118"
+    ],
+    "status": "active",
+    "id": "0x08C811aE0B0d20a396fb07cdAeb7301F2967CE5C"
+}
