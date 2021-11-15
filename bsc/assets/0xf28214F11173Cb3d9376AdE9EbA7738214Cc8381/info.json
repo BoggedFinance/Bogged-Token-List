@@ -1,0 +1,13 @@
+{
+    "name": "Squid Season 2 Token",
+    "website": "http://www.squids2-token.ink/",
+    "telegram": "https://t.me/squids2",
+    "description": "After the tragic rug pull situation with Squid, Squid.S2 is built on secure code with anti-rug pull mechanics and no backdoor mechanisms.  True to the Squid Game itself, everyone is equal here.",
+    "explorer": "https://bscscan.com/token/0xf28214F11173Cb3d9376AdE9EbA7738214Cc8381",
+    "type": "BEP20",
+    "symbol": "SQUID.S2",
+    "decimals": 9,
+    "slippage": 0.1,
+    "status": "active",
+    "id": "0xf28214F11173Cb3d9376AdE9EbA7738214Cc838"
+}
