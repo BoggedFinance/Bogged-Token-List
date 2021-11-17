@@ -1,0 +1,15 @@
+{
+    "name": "ULAND",
+    "website": "https://uland.io",
+    "telegram": "",
+    "twitter": "https://twitter.com/uland_io",
+    "description": "The First Virtual Land, Revenue-generating NFT Metaverse Platform built on the Real World!
+A one of a kind DeFi project where NFT virtual land is mapped to real countries, states and cities COMBINED with it’s own $ULAND currency token to create an insulated, organic and secure economy.",
+    "explorer": "https://bscscan.com/token/0x9789dF6753B7F813A1C55ed20eCF83571DfDe428",
+    "type": "BEP20",
+    "symbol": "ULAND",
+    "decimals": 18,
+    "slippage": 9,
+    "status": "active",
+    "id": "0x9789dF6753B7F813A1C55ed20eCF83571DfDe428"
+}
