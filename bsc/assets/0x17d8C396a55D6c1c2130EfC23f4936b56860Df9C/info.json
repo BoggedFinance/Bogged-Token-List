@@ -3,8 +3,11 @@
     "type": "BEP20",
     "symbol": "LMOOSE",
     "decimals": 9,
-    "website": "https://littlemoosefinance.wixsite.com/website",
-    "description": "We Moose HODL! We Moose Unite! We Moose Stay Strong Together!",
+    "website": "https://lmoosecoin.com",
+    "telegram": "https://t.me/lmooseglobal",
+    "twitter": "https://twitter.com/lmooseofficial",
+    "description": "Littlemoose (LMOOSE) is a community token built on the BSC (BEP-20) chain. We plan to make LMOOSE strong through engagement, promotion and various technology applications and use cases to support.
+",
     "explorer": "https://bscscan.com/token/0x17d8C396a55D6c1c2130EfC23f4936b56860Df9C",
     "status": "active",
     "id": "0x17d8C396a55D6c1c2130EfC23f4936b56860Df9C"
