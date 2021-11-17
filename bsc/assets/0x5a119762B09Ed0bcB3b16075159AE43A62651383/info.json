@@ -13,11 +13,11 @@
     ],
     "links": [
         {
-            "name": "telegram",
+            "name": "telegram_news",
             "url": "https://t.me/dalitoken"
         },
 		{
-            "name": "telegram_group",
+            "name": "telegram",
             "url": "https://t.me/dalienglish"
         },
         {
@@ -32,9 +32,17 @@
             "name": "Github",
             "url": "https://github.com/DaliToken"
         },
-		 {
+		{
             "name": "whitepaper",
             "url": "https://dalitoken.io/docs/whitepaper.pdf"
+        },
+		{
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/dali"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/en/coins/dali"
         }
     ]
 }
