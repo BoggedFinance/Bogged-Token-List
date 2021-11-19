@@ -1,0 +1,15 @@
+{
+    "name": "OptimusCat",
+    "website": "https://optimuscat.com",
+    "telegram": "https://t.me/OptimusCat",
+    "discord": "https://discord.gg/n6VutPnVSe",
+    "twitter": "https://twitter.com/OptimusCatBSC",
+    "description": "Meet OPTIMUS, protector of all CATs, inspired by Elon Musk’s AI robot",
+    "explorer": "https://bscscan.com/token/0x6a7a68397b47ecaab4bb3acd7c710be8e906e4ce",
+    "type": "BEP20",
+    "symbol": "OPCAT",
+    "decimals": 9,
+    "slippage": 12,
+    "status": "active",
+    "id": "0x6A7A68397b47ECaab4Bb3acD7c710Be8e906E4cE"
+} 

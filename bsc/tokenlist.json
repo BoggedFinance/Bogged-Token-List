@@ -40,40 +40,120 @@
         "token": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c"
     },
     {
-        "name": "Ethereum Token",
+        "name": "Ethereum",
         "symbol": "ETH",
         "token": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8"
     },
     {
-        "name": "XRP Token",
+        "name": "Avalanche",
+        "symbol": "AVAX",
+        "token": "0x1ce0c2827e2ef14d5c4f29a091d735a204794041"
+    },
+    {
+        "name": "Fantom",
+        "symbol": "FTM",
+        "token": "0xad29abb318791d579433d831ed122afeaf29dcfe"
+    },
+    {
+        "name": "Harmony",
+        "symbol": "ONE",
+        "token": "0x03fF0ff224f904be3118461335064bB48Df47938"
+    },
+    {
+        "name": "Zilliqa",
+        "symbol": "ZIL",
+        "token": "0xb86abcb37c3a4b64f74f59301aff131a1becc787"
+    },
+	{
+        "name": "Venus",
+        "symbol": "XVS",
+        "token": "0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63"
+    },
+    {
+        "name": "Polkadot",
+        "symbol": "DOT",
+        "token": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402"
+    },
+    {
+        "name": "Cardano",
+        "symbol": "ADA",
+        "token": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47"
+    },
+    {
+        "name": "ChainLink",
+        "symbol": "LINK",
+        "token": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd"
+    },
+    {
+        "name": "Dogecoin ",
+        "symbol": "DOGE",
+        "token": "0xba2ae424d960c26247dd6c32edc70b295c744c43"
+    },
+    {
+        "name": "SHIBA INU",
+        "symbol": "SHIB",
+        "token": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8"
+    },
+	{
+        "name": "TRON",
+        "symbol": "TRX",
+        "token": "0x85eac5ac2f758618dfa09bdbe0cf174e7d574d5b"
+    },
+    {
+        "name": "Cosmos",
+        "symbol": "ATOM",
+        "token": "0x0eb3a705fc54725037cc9e008bdede697f62f335"
+    },
+    {
+        "name": "XRP",
         "symbol": "XRP",
         "token": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE"
+    },
+	{
+        "name": "OLYMPUS",
+        "symbol": "OLYMPUS",
+        "token": "0x18b426813731C144108c6D7FAf5EdE71a258fD9A"
     },
     {
         "name": "ApeSwapFinance Banana",
         "symbol": "BANANA",
         "token": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95"
     },
-    {
-        "name": "WaultSwap",
-        "symbol": "WEX",
-        "token": "0xa9c41A46a6B3531d28d5c32F6633dd2fF05dFB90"
+	{
+        "name": "Mdex",
+        "symbol": "MDEX",
+        "token": "0x9c65ab58d8d978db963e63f2bfb7121627e3a739"
     },
     {
-        "name": "OLYMPUS",
-        "symbol": "OLYMPUS",
-        "token": "0x18b426813731C144108c6D7FAf5EdE71a258fD9A"
-    },
-    {
-        "name": "PancakeSwap Token",
+        "name": "PancakeSwap",
         "symbol": "CAKE",
         "token": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82"
+    },
+	{
+        "name": "SushiSwap",
+        "symbol": "SUSHI",
+        "token": "0x947950BcC74888a40Ffa2593C5798F11Fc9124C4"
+    },
+	{
+        "name": "Uniswap",
+        "symbol": "UNI",
+        "token": "0xbf5140a22578168fd562dccf235e5d43a02ce9b1"
     },
     {
         "name": "1INCH Token",
         "symbol": "1INCH",
         "token": "0x111111111117dC0aa78b770fA6A738034120C302"
     },
+	{
+		"name": "ACryptoS",
+		"symbol": "ACS",
+		"token": "0x4197c6ef3879a08cd51e5560da5064b773aa1d29"
+	},
+	{
+		"name": "Alpaca Finance",
+		"symbol": "ALPACA",
+		"token": "0x8f0528ce5ef7b51152a59745befdd91d97091d2f"
+	},
     {
         "name": "AlphaToken",
         "symbol": "ALPHA",
@@ -85,24 +165,24 @@
         "token": "0xf307910A4c7bbc79691fD374889b36d8531B08e3"
     },
     {
-        "name": "Bonfire",
-        "symbol": "BONFIRE",
-        "token": "0x5e90253fbae4Dab78aa351f4E6fed08A64AB5590"
-    },
-    {
         "name": "BakeryToken",
         "symbol": "BAKE",
         "token": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5"
     },
-    {
-        "name": "BINGUS",
-        "symbol": "BINGUS",
-        "token": "0xdA20C8a5c3B1AB48e31ba6e43f0F2830E50218D8"
+	{
+        "name": "Biswap",
+        "symbol": "BSW",
+        "token": "0x965f527d9159dce6288a2219db51fc6eef120dd1"
+    },
+	{
+        "name": "Beefy Finance",
+        "symbol": "BIFI",
+        "token": "0xCa3F508B8e4Dd382eE878A314789373D80A5190A"
     },
     {
-        "name": "BlowFish",
-        "symbol": "BLOWF",
-        "token": "0xA55BB91dE33B4abdf3aC64913D98A55ad84Dc3A8"
+        "name": "Bonfire",
+        "symbol": "BONFIRE",
+        "token": "0x5e90253fbae4Dab78aa351f4E6fed08A64AB5590"
     },
     {
         "name": "Bunny Token",
@@ -115,6 +195,96 @@
         "token": "0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f"
     },
     {
+        "name": "Coin98",
+        "symbol": "C98",
+        "token": "0xaec945e04baf28b135fa7c640f624f8d90f1c3a6"
+    },
+    {
+        "name": "Compound",
+        "symbol": "COMP",
+        "token": "0x52ce071bd9b1c4b00a0b92d298c512478cad67e8"
+    },
+	{
+        "name": "DODO",
+        "symbol": "DODO",
+        "token": "0x67ee3cb086f8a16f34bee3ca72fad36f7db929e2"
+    },
+	{
+        "name": "Ellipsis",
+        "symbol": "EPS",
+        "token": "0xa7f552078dcc247c2684336020c03648500c6d9f"
+    },
+    {
+        "name": "FEG Token",
+        "symbol": "FEG",
+        "token": "0xacfc95585d80ab62f67a14c566c1b7a49fe91167"
+    },
+	{
+        "name": "WaultSwap",
+        "symbol": "WEX",
+        "token": "0xa9c41A46a6B3531d28d5c32F6633dd2fF05dFB90"
+    },
+    {
+        "name": "Linear Token",
+        "symbol": "LINA",
+        "token": "0x762539b45A1dCcE3D36d080F74d1AED37844b878"
+    },
+    {
+        "name": "Ontology",
+        "symbol": "ONT",
+        "token": "0xfd7b3a77848f1c2d67e05e54d78d174a0c850335"
+    },
+    {
+        "name": "Trust Wallet",
+        "symbol": "TWT",
+        "token": "0x4B0F1812e5Df2A09796481Ff14017e6005508003"
+    },
+    {
+        "name": "Reef.finance",
+        "symbol": "REEF",
+        "token": "0xF21768cCBC73Ea5B6fd3C687208a7c2def2d966e"
+    },
+	{
+        "name": "Swipe",
+        "symbol": "SXP",
+        "token": "0x47BEAd2563dCBf3bF2c9407fEa4dC236fAbA485A"
+    },
+	{
+        "name": "yearn.finance",
+        "symbol": "YFI",
+        "token": "0x88f1a5ae2a3bf98aeaf342d26b30a79438c9142e"
+    },
+    {
+        "name": "SafeMoon",
+        "symbol": "SAFEMOON",
+        "token": "0x8076C74C5e3F5852037F31Ff0093Eeb8c8ADd8D3"
+    },
+	{
+        "name": "SafeMars",
+        "symbol": "SAFEMARS",
+        "token": "0x3aD9594151886Ce8538C1ff615EFa2385a8C3A88"
+    },
+	{
+        "name": "SafePal Token",
+        "symbol": "SFP",
+        "token": "0xD41FDb03Ba84762dD66a0af1a6C8540FF1ba5dfb"
+    },
+	{
+        "name": "SafeBTC",
+        "symbol": "SAFEBTC",
+        "token": "0x380624A4a7e69dB1cA07deEcF764025FC224D056"
+    },
+	{
+        "name": "Basic Attention Token",
+        "symbol": "BAT",
+        "token": "0x101d82428437127bf1608f699cd651e6abf9766e"
+    },
+	{
+        "name": "BINGUS",
+        "symbol": "BINGUS",
+        "token": "0x12adadddc8d86081561a3ff107a2cb347779e717"
+    },
+	{
         "name": "CatzCoin",
         "symbol": "CATZ",
         "token": "0xbfBEe3dAc982148aC793161f7362344925506903"
@@ -129,54 +299,9 @@
         "symbol": "FOX",
         "token": "0xFAd8E46123D7b4e77496491769C167FF894d2ACB"
     },
-    {
-        "name": "Linear Token",
-        "symbol": "LINA",
-        "token": "0x762539b45A1dCcE3D36d080F74d1AED37844b878"
-    },
-    {
-        "name": "Trust Wallet",
-        "symbol": "TWT",
-        "token": "0x4B0F1812e5Df2A09796481Ff14017e6005508003"
-    },
-    {
-        "name": "Reef.finance",
-        "symbol": "REEF",
-        "token": "0xF21768cCBC73Ea5B6fd3C687208a7c2def2d966e"
-    },
-    {
-        "name": "SafeBTC",
-        "symbol": "SAFEBTC",
-        "token": "0x380624A4a7e69dB1cA07deEcF764025FC224D056"
-    },
-    {
-        "name": "SAFEMARS",
-        "symbol": "SAFEMARS",
-        "token": "0x3aD9594151886Ce8538C1ff615EFa2385a8C3A88"
-    },
-    {
-        "name": "SafeMoon",
-        "symbol": "SAFEMOON",
-        "token": "0x8076C74C5e3F5852037F31Ff0093Eeb8c8ADd8D3"
-    },
-    {
+	{
         "name": "Super Launcher",
         "symbol": "LAUNCH",
         "token": "0xb5389A679151C4b8621b1098C6E0961A3CFEe8d4"
-    },
-    {
-        "name": "SafePal Token",
-        "symbol": "SFP",
-        "token": "0xD41FDb03Ba84762dD66a0af1a6C8540FF1ba5dfb"
-    },
-    {
-        "name": "Swipe",
-        "symbol": "SXP",
-        "token": "0x47BEAd2563dCBf3bF2c9407fEa4dC236fAbA485A"
-    },
-    {
-        "name": "Venus",
-        "symbol": "XVS",
-        "token": "0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63"
     }
 ]

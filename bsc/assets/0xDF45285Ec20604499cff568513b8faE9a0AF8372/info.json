@@ -1,0 +1,17 @@
+{
+    "name": "SHIBACK",
+    "website": "https://shiback.io/",
+    "telegram": "https://t.me/shiback",
+    "twitter": "https://twitter.com/ShibackToken",
+    "description": "The first $SHIB reflection token and the first with auto-claim feature. Simply hold $SHIBACK tokens in your wallet and you'll earn $SHIB.",
+    "explorer": "https://bscscan.com/token/0xDF45285Ec20604499cff568513b8faE9a0AF8372",
+    "type": "BEP20",
+    "symbol": "SHIBACK",
+    "decimals": 9,
+    "slippage": 18,
+    "status": "active",
+    "id": "0xDF45285Ec20604499cff568513b8faE9a0AF8372",
+    "audits": [
+        "https://github.com/SHIBACK/Shiback/blob/main/$SHIBACK%20-%20Techrate%20Audit.pdf"
+    ]
+}

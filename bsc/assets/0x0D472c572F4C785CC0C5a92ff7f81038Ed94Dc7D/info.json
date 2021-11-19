@@ -1,0 +1,21 @@
+{
+    "name": "Bezos Coin",
+    "website": "https://www.bezoscoin.io",
+    "telegram": "https://t.me/BezosCoin",
+    "discord": "https://discord.com/channels/887245480474587156/887247427017535489",
+    "twitter": "https://twitter.com/BezosCoin",
+    "description": "Bezos Coin aims to be a Real Elite Coin of the Binance Smart Chain with a Maximum Supply of only 10 Million Tokens, a Simple Manual Burn System and a Strategic Holders Driven Buy-Back Program. It is the Official Governance Token of the BezOS Project.  BezOS Project is composed by three different high innovative product features.  BezOS Multi-Chain Wallet: An anonymous and Unbannable Multi-Chain Wallet with Safe-Lock and Ghost Mode Functions.  BezOS Protocol: A Protocol built to guarantee safe data communications and transfers From and To BezOS Multi-Chain Wallet.  BezOS Security Layer-2: A Second Level Layer dedicated to ensure anonymous transactions From and To BezOS Multi-Chain Wallet.  Bezos Coin Use Case: To use the BezOS Multi-Chain Wallet and have fully access to the BezOS Protocol & the BezOS Security Layer-2 you have to be a Bezos Coin Holder.",
+    "explorer": "https://bscscan.com/token/0x0D472c572F4C785CC0C5a92ff7f81038Ed94Dc7D",
+    "type": "BEP20",
+    "symbol": "BZSC",
+    "decimals": 18,
+    "slippage": 0,
+    "status": "active",
+    "id": "0x0D472c572F4C785CC0C5a92ff7f81038Ed94Dc7D",
+    "vested": [
+        "0x8bfe84f926712a1a725ab8f9fc3a1a4d665a2165"
+    ],
+    "audits": [
+        "https://github.com/TeamBezosCoin/TeamBezosCoin/files/7487301/LitePaper.1.06.-.BezOS.Project.Bezos.Coin.-.MIP.11.01.21.pdf"
+    ]
+}
