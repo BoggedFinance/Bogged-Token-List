@@ -1,0 +1,178 @@
+[
+    {
+        "name": "",
+        "symbol": "Matic",
+        "token": "MATIC",
+        "ordered": true
+    },
+    {
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "token": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+        "ordered": true
+    },
+    {
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "token": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+        "ordered": true
+    },
+    {
+        "name": "BUSD Token",
+        "symbol": "BUSD",
+        "token": "0xdab529f40e671a1d4bf91361c21bf9f0c9712ab7",
+        "ordered": true
+    },
+    {
+        "name": "Dai Token",
+        "symbol": "DAI",
+        "token": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+        "ordered": true
+    },
+    {
+        "name": "MAI",
+        "symbol": "MIMATIC",
+        "token": "0xdab529f40e671a1d4bf91361c21bf9f0c9712ab7",
+        "ordered": true
+    },
+    {
+        "name": "Ethereum",
+        "symbol": "WETH",
+        "token": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619"
+    },
+    {
+        "name": "Bitcoin",
+        "symbol": "WBTC",
+        "token": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6"
+    },
+    {
+        "name": "Crypto.com Coin",
+        "symbol": "CRO",
+        "token": "0xada58df0f643d959c2a47c9d4d4c1a4defe3f11c"
+    },
+    {
+        "name": "Fantom",
+        "symbol": "FTM",
+        "token": "0xc9c1c1c20b3658f8787cc2fd702267791f224ce1"
+    },
+    {
+        "name": "ChainLink",
+        "symbol": "LINK",
+        "token": "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39"
+    },
+    {
+        "name": "Celsius Network",
+        "symbol": "CEL",
+        "token": "0xd85d1e945766fea5eda9103f918bd915fbca63e6"
+    },
+    {
+        "name": "Decentraland",
+        "symbol": "MANA",
+        "token": "0xa1c57f48f0deb89f569dfbe6e2b7f46d33606fd4"
+    },
+    {
+        "name": "The Sandbox",
+        "symbol": "SAND",
+        "token": "0xc6d54d2f624bc83815b49d9c2203b1330b841ca0"
+    },
+    {
+        "name": "Dogelon Mars",
+        "symbol": "ELON",
+        "token": "0xe0339c80ffde91f3e20494df88d4206d86024cdf"
+    },
+    {
+        "name": "PolyDoge",
+        "symbol": "POLYDOGE",
+        "token": "0x8a953cfe442c5e8855cc6c61b1293fa648bae472"
+    },
+    {
+        "name": "Quickswap",
+        "symbol": "QUICK",
+        "token": "0x831753DD7087CaC61aB5644b308642cc1c33Dc13"
+    },
+    {
+        "name": "SushiSwap",
+        "symbol": "SUSHI",
+        "token": "0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a"
+    },
+    {
+        "name": "Uniswap",
+        "symbol": "UNI",
+        "token": "0xb33eaad8d922b1083446dc23f610c2567fb5180f"
+    },
+    {
+        "name": "1INCH Token",
+        "symbol": "1INCH",
+        "token": "0x9c2c5fd7b07e95ee044ddeba0e97a665f142394f"
+    },
+    {
+        "name": "JetSwap Token",
+        "symbol": "WINGS",
+        "token": "0x845e76a8691423fbc4ecb8dd77556cb61c09ee25"
+    },
+    {
+        "name": "CafeSwap Token",
+        "symbol": "BREW",
+        "token": "0xb5106a3277718ecad2f20ab6b86ce0fee7a21f09"
+    },
+    {
+        "name": "Compound",
+        "symbol": "COMP",
+        "token": "0x8505b9d2254a7ae468c0e9dd10ccea3a837aef5c"
+    },
+    {
+        "name": "Curve DAO Token",
+        "symbol": "CRV",
+        "token": "0x172370d5cd63279efa6d502dab29171933a610af"
+    },
+    {
+        "name": "Beefy Finance",
+        "symbol": "BIFI",
+        "token": "0xFbdd194376de19a88118e84E279b977f165d01b8"
+    },
+    {
+        "name": "Swipe",
+        "symbol": "SXP",
+        "token": "0x6abb753c1893194de4a83c6e8b4eadfc105fd5f5"
+    },
+    {
+        "name": "yearn.finance",
+        "symbol": "YFI",
+        "token": "0xda537104d6a5edd53c6fbba9a898708e465260b6"
+    },
+    {
+        "name": "Aave",
+        "symbol": "AAVE",
+        "token": "0xd6df932a45c0f255f85145f286ea0b292b21c90b"
+    },
+    {
+        "name": "Balancer",
+        "symbol": "BAL",
+        "token": "0x9a71012b13ca4d3d0cdc72a177df3ef03b0e76a3"
+    },
+    {
+        "name": "Qi Dao",
+        "symbol": "QI",
+        "token": "0x580a84c73811e1839f75d86d75d88cca0c241ff4"
+    },
+    {
+        "name": "Basic Attention Token",
+        "symbol": "BAT",
+        "token": "0x3cef98bb43d732e2f285ee605a8158cde967d219"
+    },
+    {
+        "name": "Dfyn Network",
+        "symbol": "DFYN",
+        "token": "0xc168e40227e4ebd8c1cae80f7a55a4f0e6d66c97"
+    },
+    {
+        "name": "Ethermon Token",
+        "symbol": "EMON",
+        "token": "0xd6a5ab46ead26f49b03bbb1f9eb1ad5c1767974a"
+    },
+    {
+        "name": "Atari Token",
+        "symbol": "ATRI",
+        "token": "0x3cef98bb43d732e2f285ee605a8158cde967d219"
+    }
+]
