@@ -1,0 +1,15 @@
+{
+    "name": "The Veteran",
+    "website": "https://therealveterantoken.com/",
+    "telegram": "https://t.me/theveteran",
+    "discord": "https://discord.gg/theveteran",
+    "twitter": "https://twitter.com/theREALveteran1",
+    "description": "The first Charity token what safe Veterans all over the world and Rewards you.",
+    "explorer": "https://bscscan.com/token/0xf4a75c94aF0155017C632AC55B522F99ece9e500",
+    "type": "BEP20",
+    "symbol": "VTN",
+    "decimals": 9,
+    "slippage": 12,
+    "status": "active",
+    "id": "0xf4a75c94aF0155017C632AC55B522F99ece9e500",
+}
