@@ -1,0 +1,21 @@
+{
+    "name": "Tendon Token",
+    "website": "https://tendontoken.com/",
+    "telegram": "https://t.me/tendonchat",
+    "discord": "",
+    "twitter": "https://twitter.com/TendonToken",
+    "description": "Tendon Token (TEND) Fair Launched and Community Driven de-fi token our community benefit through Automatic Reflections and Automated Liquidity on all transactions",
+    "explorer": "https://bscscan.com/token/0x222f737285d0b60d8d4f27fa22ce8884c9f119f8",
+    "type": "BEP20",
+    "symbol": "TEND",
+    "decimals": 18,
+    "slippage": 6,
+    "status": "active",
+    "id": "0x222f737285d0b60d8d4f27fa22ce8884c9f119f8",
+    "vested": [
+        ""
+    ],
+    "audits": [
+        ""
+    ]
+}
