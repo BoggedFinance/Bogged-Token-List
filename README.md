@@ -3,7 +3,7 @@
 The Bogged Token List is a list of tokens with accurate and up-to-date information, powering additional information on the BSC.
 
 [Bogged Charts](https://charts.bogged.finance) uses token logos from this source, alongside a number of other projects.
-[Bogged.Finance Trading](https://bogged.finance) uses token logos and information from this source.
+[Bogged.Finance Trading](https://bogged.finance) uses token logos 40,000 and information from this source.
 
 There are also third party projects which use this source for more up-to-the minute data.
 
@@ -43,23 +43,23 @@ info.json
 ```
 {
     "name": "BOG Token",
-    "website": "https://bogtools.io/",
-    "telegram": "https://t.me/bogtools",
-    "discord": "https://discord.gg/bogtools",
-    "twitter": "https://twitter.com/bogtools",
+    "website": "https://bogged.finance/",
+    "telegram": "https://t.me/boggedfinance",
+    "discord": "https://discord.gg/boggedfinance",
+    "twitter": "https://twitter.com/boggedfinance",
     "description": "Powering DeFi on BSC. The home of Charts, Limit Orders and more for Binance Smart Chain, all powered by the BOG Token.",
-    "explorer": "https://bscscan.com/token/0xD7B729ef857Aa773f47D37088A1181bB3fbF0099",
+    "explorer": "https://bscscan.com/token/0xB09FE1613fE03E7361319d2a43eDc17422f36B09",
     "type": "BEP20",
     "symbol": "BOG",
     "decimals": 18,
     "slippage": 3,
     "status": "active",
-    "id": "0xD7B729ef857Aa773f47D37088A1181bB3fbF0099",
+    "id": "0xB09FE1613fE03E7361319d2a43eDc17422f36B09",
     "vested": [
         "0x1EA4b64A3BA73849ef9f53176EBeAF47D6cC25F4"
     ],
     "audits": [
-        "https://github.com/BogTools/Bogged-Token-List/blob/main/audit.pdf"
+        "https://github.com/BoggedFinance/Bogged-Token-List/blob/main/audit.pdf"
     ]
 }
 ```
@@ -89,12 +89,12 @@ in a Folder named after your Smart Contract Address in Checksum format.
 * [Add your token to the promoted token list on BogCharts and reach 1m people a week!](https://charts.bogged.finance/promote)
 
 ## Disclaimer
-BogTools allows anyone to submit new assets to this repository. However, this does not mean that we are in partnership with the projects.
-BogTools will reject projects that are deemed as scam or fraudulent after careful review.
-BogTools reserves the right to reject any project for any reason from listing on this platform.
+Bogged Finance allows anyone to submit new assets to this repository. However, this does not mean that we are in partnership with the projects.
+Bogged Finance will reject projects that are deemed as scam or fraudulent after careful review.
+Bogged Finance reserves the right to reject any project for any reason from listing on this platform.
 
 ## Rules
-Alerts in JSON are not accepted. Only BogTools is permitted to add alerts to tokens.
+Alerts in JSON are not accepted. Only Bogged Finance is permitted to add alerts to tokens.
 
 ## License
 Please read License.md for details.
