@@ -1,0 +1,29 @@
+{
+    "name": "Zebrocoin",
+    "website": "https://zebrocoin.info",
+    "description": "ZEBRO is BSC BEP-20 utility cum payment token for use in ecommerce platform ZebroCart. Zebrocoin is also a DeFi for yield farming.",
+    "explorer": "https://bscscan.com/token/0x89c4434119b237922069673439c35f90025563c9",
+    "type": "BEP20",
+    "symbol": "ZEBRO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x89C4434119b237922069673439C35F90025563C9",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/ZebroTech/ZebroCoin"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Zebrocoin"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/@zebrocoin/zebrocoin-9a4a9b82f0a9"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/ZebroTalk"
+        }
+    ]
+}
