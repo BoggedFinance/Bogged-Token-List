@@ -1,29 +1,21 @@
 {
     "name": "Zebrocoin",
     "website": "https://zebrocoin.info",
-    "description": "ZEBRO is BSC BEP-20 utility cum payment token for use in ecommerce platform ZebroCart. Zebrocoin is also a DeFi for yield farming.",
+    "twitter": "https://twitter.com/Zebrocoin",
+    "telegram": "https://t.me/ZebroTalk",
+    "blog": "https://zebrocoin.medium.com/",
+    "reddit": "https://www.reddit.com/r/Zebrocoin/",
+    "facebook": "https://facebook.com/Zebrocoin",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=5357796",
+    "discord": "https://discord.gg/d6hAEbU8CG",
+    "youtube": "https://www.youtube.com/channel/UCiRxXQ5VtpRY6IilUcvatjQ",
+    "nomics": "https://nomics.com/assets/zebro-zebrocoin",
+    "whitepaper": "https://zebrocoin.info/zebrocoin_whitepaper_en_v1_4.pdf",
+    "description": "Zebrocoin is BSC BEP-20 a utility, ecommerce payment and DeFi token for use in ecommerce platform ZebroCart.",
     "explorer": "https://bscscan.com/token/0x89c4434119b237922069673439c35f90025563c9",
     "type": "BEP20",
     "symbol": "ZEBRO",
     "decimals": 18,
     "status": "active",
-    "id": "0x89C4434119b237922069673439C35F90025563C9",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/ZebroTech/ZebroCoin"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/Zebrocoin"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/@zebrocoin/zebrocoin-9a4a9b82f0a9"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/ZebroTalk"
-        }
-    ]
+    "id": "0x89c4434119b237922069673439c35f90025563c9"
 }
