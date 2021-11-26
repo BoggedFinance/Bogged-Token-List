@@ -7,7 +7,7 @@
     "reddit": "https://www.reddit.com/r/Zebrocoin/",
     "facebook": "https://facebook.com/Zebrocoin",
     "bitcointalk": "https://bitcointalk.org/index.php?topic=5357796",
-    "discord": "https://discord.gg/d6hAEbU8CG",
+    "discord": "https://discord.com/channels/790861106511085591",
     "youtube": "https://www.youtube.com/channel/UCiRxXQ5VtpRY6IilUcvatjQ",
     "nomics": "https://nomics.com/assets/zebro-zebrocoin",
     "whitepaper": "https://zebrocoin.info/zebrocoin_whitepaper_en_v1_4.pdf",
@@ -17,5 +17,7 @@
     "symbol": "ZEBRO",
     "decimals": 18,
     "status": "active",
-    "id": "0x89c4434119b237922069673439c35f90025563c9"
+    "id": "0x89c4434119b237922069673439c35f90025563c9",
+    "vested": [ ],
+    "audits": [ ]
 }
