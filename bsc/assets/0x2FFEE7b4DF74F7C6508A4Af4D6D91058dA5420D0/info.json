@@ -4,7 +4,7 @@
     "symbol": "ChainCade",
     "decimals": 9,
     "website": "https://chaincade.com/",
-    "description": "ChainCade brings the arcade experience to the blockchain. Play, Hold, and Earn.",
+    "description": "ChainCade brings the arcade experience to the blockchain. Play to Win! Metaverse and Creator Economy!",
     "explorer": "https://bscscan.com/token/0x2FFEE7b4DF74F7C6508A4Af4D6D91058dA5420D0",
     "status": "active",
     "id": "0x2FFEE7b4DF74F7C6508A4Af4D6D91058dA5420D0",
@@ -35,7 +35,7 @@
         },
         {
             "name": "whitepaper",
-            "url": "https://chaincade.com/wp-content/uploads/2021/07/WhitepaperV1.pdf"
+            "url": "https://chaincade.com/assets/data/playtowin-litepaper.pdf"
         },
         {
             "name": "youtube",
