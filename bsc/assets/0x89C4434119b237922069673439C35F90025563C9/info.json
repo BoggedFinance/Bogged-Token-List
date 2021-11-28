@@ -1,0 +1,23 @@
+{
+    "name": "Zebrocoin",
+    "website": "https://zebrocoin.info",
+    "twitter": "https://twitter.com/Zebrocoin",
+    "telegram": "https://t.me/ZebroTalk",
+    "blog": "https://zebrocoin.medium.com/",
+    "reddit": "https://www.reddit.com/r/Zebrocoin/",
+    "facebook": "https://facebook.com/Zebrocoin",
+    "bitcointalk": "https://bitcointalk.org/index.php?topic=5357796",
+    "discord": "https://discord.com/channels/790861106511085591",
+    "youtube": "https://www.youtube.com/channel/UCiRxXQ5VtpRY6IilUcvatjQ",
+    "nomics": "https://nomics.com/assets/zebro-zebrocoin",
+    "whitepaper": "https://zebrocoin.info/zebrocoin_whitepaper_en_v1_4.pdf",
+    "description": "Zebrocoin is BSC BEP-20 a utility, ecommerce payment and DeFi token for use in ecommerce platform ZebroCart.",
+    "explorer": "https://bscscan.com/token/0x89c4434119b237922069673439c35f90025563c9",
+    "type": "BEP20",
+    "symbol": "ZEBRO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x89c4434119b237922069673439c35f90025563c9",
+    "vested": [ ],
+    "audits": [ ]
+}
