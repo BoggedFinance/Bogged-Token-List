@@ -1,0 +1,24 @@
+{
+    "name": "SymBULL",
+    "website": "https://symbull.com",
+    "twitter": "https://twitter.com/SymBULLCoin",
+    "telegram": "https://t.me/symbull",
+    "blog": "https://symbull.medium.com/",
+    "reddit": "https://reddit.com/r/symbull/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/symbull/",
+    "coingecko": "https://coingecko.com/en/coins/symbull",
+    "facebook": "https://facebook.com/SymBull",
+    "whitepaper": "https://secureservercdn.net/50.62.172.157/9h7.c40.myftpupload.com/wp-content/uploads/2021/10/SymBull-Whitepaper-1.pdf",
+    "description": "A Decentralized Token that created a Crypto EcoVERSE! SymBULL, RIDE, CHARGE, BullSwap, Innovative Reward System,and BullRUN NFT Game! All holders of SymBULL will earn 8% reward from every Buy/Sell Transaction in BUSD, which is automatically sent to your wallet by simply holding SymBULL.",
+    "explorer": "https://bscscan.com/token/0xA176fa55bef56D18ab671251957aCB0Db630539b",
+    "type": "BEP20",
+    "symbol": "SYMBULL",
+    "decimals": 9,
+    "slippage": 17,
+    "status": "active",
+    "id": "0xA176fa55bef56D18ab671251957aCB0Db630539b",
+    "vested": [ ],
+    "audits": [
+        "https://solidity.finance/audits/SymBULL/"
+      ]  
+}
