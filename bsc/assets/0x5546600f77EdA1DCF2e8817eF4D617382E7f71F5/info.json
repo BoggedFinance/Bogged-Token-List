@@ -5,6 +5,10 @@
     "explorer": "https://bscscan.com/token/0x5546600f77eda1dcf2e8817ef4d617382e7f71f5",
     "type": "BEP20",
     "symbol": "PING",
+    "alertcolour": "red",
+    "alert": "This token appears to have a 99% tax and act as a honeypot. Exercise extreme caution when interacting with this token.",
+    "alerturl": "https://twitter.com/SonarToken",
+    "alerturldesc": "Token Twitter",    
     "decimals": 9,
     "status": "active",
     "id": "0x5546600f77EdA1DCF2e8817eF4D617382E7f71F5"
