@@ -1,0 +1,22 @@
+{
+    "name": "Flokimooni",
+    "website": "https://www.flokimooni.com",
+    "twitter": "https://twitter.com/FlokiMooni",
+    "telegram": "https://t.me/https://t.me/flokimooni",
+    "reddit": "https://reddit.com/r/FLOKIMOONI/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/flokimooni/",
+    "coingecko": "https://coingecko.com/en/coins/flokimooni",
+    "whitepaper": "http://www.flokimooni.com/wp-content/uploads/2021/11/Whitepaper.pdf",
+    "description": "Flokimooni Decentralized meme coin with DeFi features.",
+    "explorer": "https://bscscan.com/token/0x0f5351B9EAefd6687dfF143DE6eA5d01cB9c1205",
+    "type": "BEP20",
+    "symbol": "Flokim",
+    "decimals": 18,
+    "slippage": 11,
+    "status": "active",
+    "id": "0x0f5351B9EAefd6687dfF143DE6eA5d01cB9c1205",
+    "vested": [ ],
+    "audits": [
+        "https://github.com/interfinetwork/smart-contract-audits/blob/main/FlokiMooni_AuditReport_InterFi.pdf"
+      ]  
+}
