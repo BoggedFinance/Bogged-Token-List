@@ -1,0 +1,20 @@
+{
+    "name": "ATL Token",
+    "website": "https://atlantis.loans",
+    "telegram": "https://t.me/AtlantisLoans",
+    "discord": "https://discord.gg/4dbMZG7aqk",
+    "twitter": "https://twitter.com/atlantis_loans",
+    "description": "Atlantis is a decentralized money market that enables users to borrow and supply digital assets to the protocol within a non-custodial environment",
+    "explorer": "https://bscscan.com/token/0x1fD991fb6c3102873ba68a4e6e6a87B3a5c10271",
+    "type": "BEP20",
+    "symbol": "ATL",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1fD991fb6c3102873ba68a4e6e6a87B3a5c10271",
+    "vested": [
+        "0xf7B99fD3d768cDA36C09C27805D06ec46cb38037", "0x9BFE121758603E8DA5c00254C19da3404654E4da", "0x70Bcda05679734aE381e774aC6f32c1c2A5a2270", "0xFCEBBd04d8fFEE0A5B07e4d39b57B976a9e54B8c"
+    ],
+    "audits": [
+        "https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-Atlantis-v1.0.pdf"
+    ]
+}
