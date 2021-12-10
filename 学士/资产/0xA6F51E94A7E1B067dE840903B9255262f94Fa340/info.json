@@ -1,0 +1,14 @@
+{
+    "name": "Golden Kingdom",
+    "website": "http://www.goldenkingdom.one/",
+    "telegram": "https://t.me/Golden_Kingdom",
+    "twitter": "https://twitter.com/GOLDENKINGDOM6",
+    "description": "Golden Kingdom combines the two major blockchain categories of NFT and Metaverse to create a decentralized online virtual reality game platform. Provide high-quality one-stop multi-platform interactive entertainment services for global users. GK will be used as a game platform token for payment settlement",
+    "explorer": "https://bscscan.com/token/0xA6F51E94A7E1B067dE840903B9255262f94Fa340",
+    "type": "BEP20",
+    "symbol": "GK",
+    "decimals": 8,
+    "slippage": 13,
+    "status": "active",
+    "id": "0xA6F51E94A7E1B067dE840903B9255262f94Fa340"
+}
