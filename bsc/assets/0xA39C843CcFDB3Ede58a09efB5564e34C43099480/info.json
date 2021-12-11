@@ -1,0 +1,18 @@
+{
+  "name": "AirDropper",
+  "website": "https://airdropper.xyz/",
+  "telegram": "https://t.me/airdropper_official",
+  "discord": "",
+  "twitter": "https://twitter.com/Airdrp_official",
+  "description": "We are developing a decentralized application that allows anyone to create an airdrop via our platform.",
+  "explorer": "https://bscscan.com/token/0xa39c843ccfdb3ede58a09efb5564e34c43099480",
+  "type": "BEP20",
+  "symbol": "AIR",
+  "decimals": 9,
+  "slippage": 7,
+  "status": "active",
+  "id": "0xA39C843CcFDB3Ede58a09efB5564e34C43099480",
+  "audits": [
+    "https://github.com/coinscope-co/audits/blob/main/air/audit.pdf"
+  ]
+}
