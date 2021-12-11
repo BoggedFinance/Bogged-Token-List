@@ -1,0 +1,28 @@
+{
+    "name": "LicoToken",
+    "website": "https://www.liquidcollectibles.io",
+    "description": "The revolution of NFT indexes and farming in Binance Smart Chain. Making NFTs more accessible to people",
+    "explorer": "https://bscscan.com/address/0x4F3266a56589357B4f8082918b14B923693e57f0",
+    "type": "BEP20",
+    "symbol": "LICO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x4F3266a56589357B4f8082918b14B923693e57f0",
+    "audits": [
+        "https://github.com/HashEx/public_audits/blob/master/LiquidCollectibles/LiquidCollectibles_audit-report.pdf"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/LiqCollectibles"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/liquidcollectibles"
+        },
+        {
+            "name": "docs",
+            "url": "https://docs.liquidcollectibles.io"
+        }
+    ]
+}

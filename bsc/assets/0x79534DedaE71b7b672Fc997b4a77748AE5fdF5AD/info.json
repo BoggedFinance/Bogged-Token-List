@@ -1,0 +1,25 @@
+{
+    "name": "Liquid Monsters Index",
+    "website": "https://www.liquidcollectibles.io",
+    "description": "The revolution of NFT indexes and farming in Binance Smart Chain. Making NFTs more accessible to people",
+    "explorer": "https://bscscan.com/address/0x79534dedae71b7b672fc997b4a77748ae5fdf5ad",
+    "type": "BEP20",
+    "symbol": "LIMOi",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x79534dedae71b7b672fc997b4a77748ae5fdf5ad",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/LiqCollectibles"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/liquidcollectibles"
+        },
+        {
+            "name": "docs",
+            "url": "https://docs.liquidcollectibles.io"
+        }
+    ]
+}
