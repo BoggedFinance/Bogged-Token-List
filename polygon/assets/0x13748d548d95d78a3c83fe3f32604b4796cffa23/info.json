@@ -1,0 +1,33 @@
+{
+    "name": "Kogecoin - A Multi-Chain Defi Community Token.",
+    "website": "https://www.kogecoin.io/",
+    "description": "KogeCoin is the native token of KogeFarm a multi-chain farm yield aggregator.",
+    "explorer": "https://polygonscan.com/token/0x13748d548d95d78a3c83fe3f32604b4796cffa23",
+    "type": "POLYGON",
+    "symbol": "KOGECOIN",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x13748d548d95d78a3c83fe3f32604b4796cffa23",
+    "links": [
+        {
+            "name": "discord",
+            "url": "https://discord.gg/77rKsTcW"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/kogecoin"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/kogecoin"
+        },
+        {
+            "name": "medium",
+            "url": "https://kogecoin.medium.com/"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/kogecoin"
+        }
+    ]
+}
