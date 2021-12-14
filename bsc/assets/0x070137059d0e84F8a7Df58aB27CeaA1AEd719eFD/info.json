@@ -1,0 +1,11 @@
+{
+    "name": "HDR Token",
+    "type": "BEP20",
+    "symbol": "HDR2",
+    "decimals": 4,
+    "website": "https://www.buyhdr.com",
+    "description": "HDR token is a utility token combined with a reward token that distributes 3% of each transaction to holders in BUSD. ",
+    "explorer": "https://bscscan.com/token/0x070137059d0e84F8a7Df58aB27CeaA1AEd719eFD",
+    "status": "active",
+    "id": "0x070137059d0e84F8a7Df58aB27CeaA1AEd719eFD"
+}
