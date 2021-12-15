@@ -1,0 +1,17 @@
+{
+  "name": "BSHARE",
+  "website": "https://bomb.money/",
+  "telegram": "https://t.me/bombmoneybsc",
+  "discord": "https://discord.bomb.money",
+  "twitter": "https://twitter.com/bombmoneybsc",
+  "description": "Governane and protocol coin of bomb.money.  bomb.money is an algocoin on BSC pegged to BTC at a ratio of 10,000:1.",
+  "explorer": "https://bscscan.com/token/0x531780FAcE85306877D7e1F05d713D1B50a37F7A",
+  "type": "BEP20",
+  "symbol": "BSHARE",
+  "decimals": 18,
+  "slippage": 2,
+  "status": "active",
+  "id": "0x531780FAcE85306877D7e1F05d713D1B50a37F7A",
+  "vested": [],
+  "audits": []
+}

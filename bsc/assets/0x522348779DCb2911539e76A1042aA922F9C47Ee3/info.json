@@ -1,0 +1,17 @@
+{
+  "name": "bomb.money",
+  "website": "https://bomb.money/",
+  "telegram": "https://t.me/bombmoneybsc",
+  "discord": "https://discord.bomb.money",
+  "twitter": "https://twitter.com/bombmoneybsc",
+  "description": "Algocoin on BSC pegged to BTC at a ratio of 10,000:1.",
+  "explorer": "https://bscscan.com/token/0x522348779DCb2911539e76A1042aA922F9C47Ee3",
+  "type": "BEP20",
+  "symbol": "BOMB",
+  "decimals": 18,
+  "slippage": 2,
+  "status": "active",
+  "id": "0x522348779DCb2911539e76A1042aA922F9C47Ee3",
+  "vested": [],
+  "audits": []
+}
