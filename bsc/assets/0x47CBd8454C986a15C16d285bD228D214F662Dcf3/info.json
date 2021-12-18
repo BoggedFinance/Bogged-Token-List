@@ -1,0 +1,18 @@
+{
+    "name": "MoonGame Token",
+    "website": "https://moongame.io/",
+    "telegram": "https://t.me/moongame_io",
+    "twitter": "https://twitter.com/MoonGame_io",
+    "description": "MGT is the unified token of MoonGame platform launched on BSC. MGT’s unique mining solution, by placing bets, and Staking opportunity became a hallmark of the MoonGame project.",
+    "explorer": "https://bscscan.com/token/0x47CBd8454C986a15C16d285bD228D214F662Dcf3",
+    "type": "BEP20",
+    "symbol": "MGT",
+    "decimals": 18,
+    "slippage": 3,
+    "status": "active",
+    "id": "0x47CBd8454C986a15C16d285bD228D214F662Dcf3",
+    "vested": [],
+    "audits": [
+        "https://github.com/TechRate/Smart-Contract-Audits/blob/main/October/MOONGAME%20Full%20Smart%20Contract%20Security%20Audit.pdf"
+    ]
+}
