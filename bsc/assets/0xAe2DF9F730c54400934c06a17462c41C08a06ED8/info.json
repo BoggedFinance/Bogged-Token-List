@@ -3,12 +3,19 @@
     "website": "https://dogebonk.com/",
     "telegram": "https://t.me/dogebonk_community",
     "twitter": "https://twitter.com/dogebonk_token",
-    "description": "Fluffy token on BSC with deflationary properties and automatic yield generation. 10% tax on each transaction. No presale. Anti-snipe protection.",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/dogebonk/",
+    "coingecko": "https://coingecko.com/en/coins/dogebonk",
+    "discord": "https://discord.com/invite/Xq2NMGp7Rt",
+    "reddit": "https://reddit.com/r/DogeBONK",
+    "description": "The first cryptocurrency sent into space. Missed DogeCoin? Bonk it! With DOBO being the utility token for the crypto platform MemeTools, DogeBonk combines memes with utility.",
     "explorer": "https://bscscan.com/token/0xae2df9f730c54400934c06a17462c41c08a06ed8",
     "type": "BEP20",
     "symbol": "DOBO",
     "decimals": 9,
-    "slippage": 11,
+    "slippage": 12,
     "status": "active",
-    "id": "0xAe2DF9F730c54400934c06a17462c41C08a06ED8"
+    "id": "0xAe2DF9F730c54400934c06a17462c41C08a06ED8",
+    "audits": [
+        "https://solidity.finance/audits/DogeBonk/"
+    ]
 }
