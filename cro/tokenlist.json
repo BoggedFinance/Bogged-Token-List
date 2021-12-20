@@ -28,7 +28,7 @@
       {
         "name": "Tether",
         "symbol": "Tether USD",
-        "address": "0x66e428c3f67a68878562e79a0234c1f83c208770",
+        "address": "0x66e428c3f67a68878562e79A0234c1F83c208770",
         "chainId": 25,
         "decimals": "",
         "logoURI": "https://vvs.finance/images/tokens/0x66e428c3f67a68878562e79A0234c1F83c208770.svg"
@@ -36,7 +36,7 @@
       {
         "name": "Wrapped Ether",
         "symbol": "WETH",
-        "address": "0xe44fd7fcb2b1581822d0c862b68222998a0c299a",
+        "address": "0xe44Fd7fCb2b1581822D0c862B68222998a0c299a",
         "chainId": 25,
         "decimals": "",
         "logoURI": "https://vvs.finance/images/tokens/0xe44Fd7fCb2b1581822D0c862B68222998a0c299a.svg"
@@ -132,7 +132,7 @@
       {
         "name": "CROW",
         "symbol": "CROW",
-        "address": "0xcd693f158865d071f100444c7f3b96e7463bae8d",
+        "address": "0xCd693F158865D071f100444c7F3b96e7463bAe8d",
         "chainId": 25,
         "decimals": "",
         "logoURI": "https://crowfi.app/images/tokens/0xf9872a4ea77278f06613a817d563012bfc7761b3.svg"
