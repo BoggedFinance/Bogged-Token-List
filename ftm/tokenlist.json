@@ -203,14 +203,6 @@
         "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707"
       },
       {
-        "name": "Comb Finance",
-        "symbol": "COMB",
-        "address": "0xaE45a827625116d6C0C40B5D7359EcF68F8e9AFD",
-        "chainId": 250,
-        "decimals": "",
-        "logoURI": ""
-      },
-      {
         "name": "Dai Stablecoin",
         "symbol": "DAI",
         "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
