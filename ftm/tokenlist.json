@@ -188,7 +188,7 @@
     {
       "name": "Magic Internet Money",
       "symbol": "MIM",
-      "address": "0x82f0b8b456c1a451378467398982d4834b6829c1",
+      "address": "0x82f0B8B456c1A451378467398982d4834b6829c1",
       "chainId": 250,
       "decimals": "",
       "logoURI": "https://assets.coingecko.com/coins/images/16786/small/mimlogopng.png?1624979612"
