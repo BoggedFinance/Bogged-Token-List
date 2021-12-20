@@ -1,0 +1,21 @@
+{
+  "name": "Bogged Finance Fantom",
+  "tokens": [
+    {
+      "name": "Wrapped Fantom",
+      "symbol": "WFTM",
+      "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/4001/small/Fantom.png"
+    },
+    {
+      "name": "Popsicle Finance",
+      "symbol": "ICE",
+      "address": "0xf16e81dce15B08F326220742020379B855B87DF9",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/14586/small/ice.png"
+    }
+  ]
+}
