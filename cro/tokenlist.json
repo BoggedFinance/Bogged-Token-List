@@ -128,14 +128,6 @@
         "chainId": 25,
         "decimals": "",
         "logoURI": "https://i.ibb.co/WFD1B3Z/logo.png"
-      },
-      {
-        "name": "CROW",
-        "symbol": "CROW",
-        "address": "0xCd693F158865D071f100444c7F3b96e7463bAe8d",
-        "chainId": 25,
-        "decimals": "",
-        "logoURI": "https://crowfi.app/images/tokens/0xf9872a4ea77278f06613a817d563012bfc7761b3.svg"
       }
     ]
   }
