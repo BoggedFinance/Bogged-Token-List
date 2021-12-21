@@ -1,3 +1,4 @@
+
 {
     "name": "Bogged Finance Polygon",
     "tokens": [
@@ -138,7 +139,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/14770/small/1617088937196.png?1619414736"
       },
       {
-        "name": "(PoS) Tether USD",
+        "name": "Tether USD",
         "symbol": "USDT",
         "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
         "chainId": 137,
@@ -146,7 +147,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/14770/small/1617088937196.png?1619414736"
       },
       {
-        "name": "(PoS) Dai Stablecoin",
+        "name": "Dai Stablecoin",
         "symbol": "DAI",
         "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
         "chainId": 137,
@@ -162,7 +163,7 @@
         "logoURI": "https://i.imgur.com/8G7QIrR.png"
       },
       {
-        "name": "(PoS) Wrapped Bitcoin",
+        "name": "Wrapped Bitcoin",
         "symbol": "WBTC",
         "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
         "chainId": 137,
@@ -186,7 +187,7 @@
         "logoURI": "https://pbs.twimg.com/profile_images/1443182135410634754/l1wH-p3b_400x400.jpg"
       },
       {
-        "name": "(PoS) Telcoin",
+        "name": "Telcoin",
         "symbol": "TEL",
         "address": "0xdF7837DE1F2Fa4631D716CF2502f8b230F1dcc32",
         "chainId": 137,
@@ -218,7 +219,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/17438/small/derace-logo-black-coingecko.png?1627656907"
       },
       {
-        "name": "(PoS) Adshares",
+        "name": "Adshares",
         "symbol": "ADS",
         "address": "0x598e49f01bEfeB1753737934a5b11fea9119C796",
         "chainId": 137,
@@ -247,10 +248,10 @@
         "address": "0x2C89bbc92BD86F8075d1DEcc58C7F4E0107f286b",
         "chainId": 137,
         "decimals": "",
-        "logoURI": "https://assets.coingecko.com/coins/images/12559/small/coin-round-red.png?1604021818"
+        "logoURI": "https://raw.githubusercontent.com/BoggedFinance/Bogged-Token-List/main/avax/assets/AVAX/logo.png"
       },
       {
-        "name": "(PoS) Hanu Yokia",
+        "name": "Hanu Yokia",
         "symbol": "HANU",
         "address": "0x709A4B6217584188DDb93c82f5d716D969accE1C",
         "chainId": 137,
@@ -258,7 +259,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/17161/small/Goji_Hanu_Logo_200x200.png?1627127472"
       },
       {
-        "name": "(PoS) Aave",
+        "name": "Aave",
         "symbol": "AAVE",
         "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
         "chainId": 137,
@@ -282,7 +283,7 @@
         "logoURI": "https://assets.coingecko.com/coins/images/18632/small/DdcZZeP_%282%29.png?1632716316"
       },
       {
-        "name": "(PoS) HEX",
+        "name": "HEX",
         "symbol": "HEX",
         "address": "0x23D29D30e35C5e8D321e1dc9A8a61BFD846D4C5C",
         "chainId": 137,
@@ -370,12 +371,20 @@
         "logoURI": "https://assets.coingecko.com/coins/images/14301/small/logo_poly_sym.png?1624893386"
       },
       {
-        "name": "(PoS) Dogelon",
+        "name": "Dogelon",
         "symbol": "ELON",
         "address": "0xE0339c80fFDE91F3e20494Df88d4206D86024cdF",
         "chainId": 137,
         "decimals": "",
         "logoURI": "https://assets.coingecko.com/coins/images/14962/small/6GxcPRo3_400x400.jpg?1619157413"
-      }
+      },
+      {
+        "name": "Jetswap",
+        "symbol": "pWings",
+        "address": "0x845E76A8691423fbc4ECb8Dd77556Cb61c09eE25",
+        "chainId": 137,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12774.png"
+      } 
     ]
   }
