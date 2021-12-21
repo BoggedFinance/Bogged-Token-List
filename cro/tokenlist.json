@@ -1,5 +1,6 @@
+
 {
-    "name": "Bogged Finance Cronos",
+    "name": "Bogged Finance Polygon",
     "tokens": [
       {
         "name": "Wrapped CRO",
@@ -115,8 +116,8 @@
       },
       {
         "name": "Mad Meerkat Finance",
-        "symbol": "PHOTON",
-        "address": "0xbA452A1c0875D33a440259B1ea4DcA8f5d86D9Ae",
+        "symbol": "MM",
+        "address": "0x97749c9B61F878a880DfE312d2594AE07AEd7656",
         "chainId": 25,
         "decimals": "",
         "logoURI": "https://dexscreener.com/img/dexes/mmfinance.png"
@@ -128,7 +129,38 @@
         "chainId": 25,
         "decimals": "",
         "logoURI": "https://i.ibb.co/WFD1B3Z/logo.png"
-      }
+      },
+      {
+        "name": "CROW",
+        "symbol": "CROW",
+        "address": "0x285c3329930a3fd3C7c14bC041d3E50e165b1517",
+        "chainId": 25,
+        "decimals": "",
+        "logoURI": "https://crowfi.app/images/tokens/0xf9872a4ea77278f06613a817d563012bfc7761b3.svg"
+      },
+      {
+        "name": "ELK Finance",
+        "symbol": "ELK",
+        "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
+        "chainId": 25,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10095.png"
+      },
+      {
+        "name": "Crodex Token",
+        "symbol": "CRX",
+        "address": "0xe243CCab9E66E6cF1215376980811ddf1eb7F689",
+        "chainId": 25,
+        "decimals": "",
+        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0xe243CCab9E66E6cF1215376980811ddf1eb7F689/logo.png"
+      },
+      {
+        "name": "CronaSwap",
+        "symbol": "CRONA",
+        "address": "0xadbd1231fb360047525BEdF962581F3eee7b49fe",
+        "chainId": 25,
+        "decimals": "",
+        "logoURI": "https://app.cronaswap.org/images/tokens/0xadbd1231fb360047525BEdF962581F3eee7b49fe.svg"
+      } 
     ]
   }
-  
