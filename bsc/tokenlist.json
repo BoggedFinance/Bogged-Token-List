@@ -617,6 +617,22 @@
         "chainId": 56,
         "decimals": "",
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10303.png"
+      },
+      {
+        "name": "Nemesis DAO",
+        "symbol": "NMS",
+        "address": "0x8AC9DC3358A2dB19fDd57f433ff45d1fc357aFb3",
+        "chainId": 56,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14492.png"
+      },
+      {
+        "name": "CryptoMines",
+        "symbol": "ETERNAL",
+        "address": "0xD44FD09d74cd13838F137B590497595d6b3FEeA4",
+        "chainId": 56,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11736.png"
       }
       
     ]
