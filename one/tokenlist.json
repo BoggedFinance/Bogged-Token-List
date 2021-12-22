@@ -1,0 +1,214 @@
+
+{
+    "name": "Bogged Finance Harmony one",
+    "tokens": [
+      {
+        "name": "Wrapped One",
+        "symbol": "WONE",
+        "address": "0xcF664087a5bB0237a0BAd6742852ec6c8d69A27a",
+        "chainId": 1666600000,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11696.png"
+      },
+      {
+        "name": "SushiSwap",
+        "symbol": "SUSHI",
+        "address": "0xBEC775Cb42AbFa4288dE81F387a9b1A3c4Bc552A",
+        "chainId": 1666600000,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6758.png"
+      },
+      {
+        "name": "WagmiDAO",
+        "symbol": "GMI",
+        "address": "0x8750F5651AF49950b5419928Fecefca7c82141E3",
+        "chainId": 1666600000,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16154.png"
+      },
+      {
+        "name": "Viper Protocol",
+        "symbol": "VIPER",
+        "address": "0xEa589E93Ff18b1a1F1e9BaC7EF3E86Ab62addc79",
+        "chainId": 1666600000,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8850.png"
+      },
+      {
+        "name": "OpenSwap",
+        "symbol": "OpenX",
+        "address": "0x01A4b054110d57069c1658AFBC46730529A3E326",
+        "chainId": 1666600000,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15354.png"
+      },
+      {
+        "name": "Binance USD",
+        "symbol": "BUSD",
+        "address": "0xE176EBE47d621b984a73036B9DA5d834411ef734",
+        "chainId": 1666600000,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4687.png"
+      },
+      {
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "address": "0x985458E523dB3d53125813eD68c274899e9DfAb4",
+        "chainId": 1666600000,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
+      },
+      {
+        "name": "Wrapped BTC",
+        "symbol": "WBTC",
+        "address": "0x3095c7557bCb296ccc6e363DE01b760bA031F2d9",
+        "chainId": 1666600000,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png"
+      },
+      {
+        "name": "DeFi Kingdoms",
+        "symbol": "JEWEL",
+        "address": "0x72Cb10C6bfA5624dD07Ef608027E366bd690048F",
+        "chainId": 1666600000,
+        "decimals": "",
+        "logoURI": "https://assets.coingecko.com/coins/images/18570/small/fAisLIV.png?1632449282"
+      },
+      {
+        "name": "Euphoria",
+        "symbol": "WAGMI",
+        "address": "0x0dc78c79B4eB080eaD5C1d16559225a46b580694",
+        "chainId": 1666600000,
+        "decimals": "",
+        "logoURI": "https://assets.coingecko.com/coins/images/20054/small/euphoria-512x512.png?1636443725"
+      },
+      {
+        "name": "Party Hat",
+        "symbol": "PHAT",
+        "address": "0xBCF532871415Bc6e3D147d777C6ad3e68E50cd92",
+        "chainId": 1666600000,
+        "decimals": "",
+        "logoURI": "https://assets.coingecko.com/coins/images/21110/small/phat.png?1638331630"
+      },
+      {
+        "name": "Artemis",
+        "symbol": "MIS",
+        "address": "0xD74433B187Cf0ba998Ad9Be3486B929c76815215",
+        "chainId": 1666600000,
+        "decimals": "",
+        "logoURI": "https://assets.coingecko.com/coins/images/18916/small/136704691-920ef315-4906-4a82-bca1-144b07dea3fb.png?1633919295"
+      },
+      {
+        "name": "Freyala",
+        "symbol": "XYA",
+        "address": "0x9b68BF4bF89c115c721105eaf6BD5164aFcc51E4",
+        "chainId": 1666600000,
+        "decimals": "",
+        "logoURI": "https://assets.coingecko.com/coins/images/17017/small/freya.PNG?1626079165"
+      },
+      {
+        "name": "Tranquil Staked ONE",
+        "symbol": "STONE",
+        "address": "0x22d62b19b7039333ad773b7185bb61294f3adc19",
+        "chainId": 1666600000,
+        "decimals": "",
+        "logoURI": "https://assets.coingecko.com/coins/images/21848/small/7zRXwiV.png?1640132557"
+      },
+      {
+        "name": "Tranquil Finance",
+        "symbol": "TRANQ",
+        "address": "0xCf1709Ad76A79d5a60210F23e81cE2460542A836",
+        "chainId": 1666600000,
+        "decimals": "",
+        "logoURI": "https://assets.coingecko.com/coins/images/18708/small/tranquil.png?1633060587"
+      },
+      {
+        "name": "Reverse Protocol",
+        "symbol": "RVRS",
+        "address": "0xED0B4b0F0E2c17646682fc98ACe09feB99aF3adE",
+        "chainId": 1666600000,
+        "decimals": "",
+        "logoURI": "https://assets.coingecko.com/coins/images/20362/small/93101455.png?1636945731"
+      },
+      {
+        "name": "OneDao Finance",
+        "symbol": "ODAO",
+        "address": "0x947394294F75D7502977AC6813FD99f77C2931ec",
+        "chainId": 1666600000,
+        "decimals": "",
+        "logoURI": "https://assets.coingecko.com/coins/images/20659/small/logo-one-dao.png?1637532536"
+      },
+      {
+        "name": "Farmers Only",
+        "symbol": "FOX",
+        "address": "0x0159ED2E06DDCD46a25E74eb8e159Ce666B28687",
+        "chainId": 1666600000,
+        "decimals": "",
+        "logoURI": "https://assets.coingecko.com/coins/images/18792/small/FOX-Logo.png?1633421379"
+      },
+      {
+        "name": "ViperPit",
+        "symbol": "XVIPER",
+        "address": "0xE064a68994e9380250CfEE3E8C0e2AC5C0924548",
+        "chainId": 1666600000,
+        "decimals": "",
+        "logoURI": "https://assets.coingecko.com/coins/images/16574/small/xVIPER-200x200.png?1624499144"
+      },
+      {
+        "name": "ViperPit",
+        "symbol": "XVIPER",
+        "address": "0xE064a68994e9380250CfEE3E8C0e2AC5C0924548",
+        "chainId": 1666600000,
+        "decimals": "",
+        "logoURI": "https://assets.coingecko.com/coins/images/16574/small/xVIPER-200x200.png?1624499144"
+      },
+      {
+        "name": "TerraUSD",
+        "symbol": "UST",
+        "address": "0x224e64ec1BDce3870a6a6c777eDd450454068FEC",
+        "chainId": 1666600000,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7129.png"
+      },
+      {
+        "name": "TerraUSD",
+        "symbol": "UST",
+        "address": "0x224e64ec1BDce3870a6a6c777eDd450454068FEC",
+        "chainId": 1666600000,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7129.png"
+      },
+      {
+        "name": "Tether",
+        "symbol": "USDT",
+        "address": "0x3C2B8Be99c50593081EAA2A724F0B8285F5aba8f",
+        "chainId": 1666600000,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7129.png"
+      },
+      {
+        "name": "DaVinci Token",
+        "symbol": "VINCI",
+        "address": "0xB8E0497018c991E86311b64EFd9D57b06aEDbBAE",
+        "chainId": 1666600000,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15526.png"
+      },
+      {
+        "name": "Axie Infinity",
+        "symbol": "AXS",
+        "address": "0x14A7B318fED66FfDcc80C1517C172c13852865De",
+        "chainId": 1666600000,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6783.png"
+      },
+      {
+        "name": "Ethereum",
+        "symbol": "WETH",
+        "address": "0x6983D1E6DEf3690C4d616b13597A09e6193EA013",
+        "chainId": 1666600000,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
+      } 
+    ]
+  }
