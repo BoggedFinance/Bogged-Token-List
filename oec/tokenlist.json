@@ -115,14 +115,6 @@
         "logoURI": "https://assets.coingecko.com/coins/images/18599/small/daik.png?1632653621"
       },
       {
-        "name": "OEC DAI",
-        "symbol": "DAIK",
-        "address": "0x21cDE7E32a6CAF4742d00d44B07279e7596d26B9",
-        "chainId": 66,
-        "decimals": "",
-        "logoURI": "https://assets.coingecko.com/coins/images/18599/small/daik.png?1632653621"
-      },
-      {
         "name": "USDK",
         "symbol": "USDK",
         "address": "0xdCAC52E001f5bd413aa6ea83956438F29098166b",
