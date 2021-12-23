@@ -1,0 +1,214 @@
+
+{
+    "name": "Bogged Finance OEC",
+    "tokens": [
+      {
+        "name": "Wrapped OKT",
+        "symbol": "WOKT",
+        "address": "0x8F8526dbfd6E38E3D8307702cA8469Bae6C56C15",
+        "chainId": 66,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11132.png"
+      },
+      {
+        "name": "Tether",
+        "symbol": "USDT",
+        "address": "0x382bB369d343125BfB2117af9c149795C6C65C50",
+        "chainId": 66,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
+      },
+      {
+        "name": "CherrySwap",
+        "symbol": "CHE",
+        "address": "0x8179D97Eb6488860d816e3EcAFE694a4153F216c",
+        "chainId": 66,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9437.png"
+      },
+      {
+        "name": "OEC UNI",
+        "symbol": "UNIK",
+        "address": "0x59D226BB0a4d74274D4354EBb6a0E1A1Aa5175B6",
+        "chainId": 66,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12158.png"
+      },
+      {
+        "name": "OKB",
+        "symbol": "OKB",
+        "address": "0xdF54B6c6195EA4d948D03bfD818D365cf175cFC2",
+        "chainId": 66,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3897.png"
+      },
+      {
+        "name": "Celestial",
+        "symbol": "CELT",
+        "address": "0x5Ab622494AB7C5e81911558c9552DBd517F403fb",
+        "chainId": 66,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12118.png"
+      },
+      {
+        "name": "OEC ETH",
+        "symbol": "ETHK",
+        "address": "0xEF71CA2EE68F45B9Ad6F72fbdb33d707b872315C",
+        "chainId": 66,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11131.png"
+      },
+      {
+        "name": "Health Potion",
+        "symbol": "HEP",
+        "address": "0xfD83168291312A0800f44610974350C569d12e42",
+        "chainId": 66,
+        "decimals": "",
+        "logoURI": "https://okinfo.cherryswap.net/swapimages/images/coins/0xfd83168291312a0800f44610974350c569d12e42.png"
+      },
+      {
+        "name": "OEC BTC",
+        "symbol": "BTCK",
+        "address": "0x54e4622DC504176b3BB432dCCAf504569699a7fF",
+        "chainId": 66,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11134.png"
+      },
+      {
+        "name": "Jswap Finance Token",
+        "symbol": "JF",
+        "address": "0x5fAc926Bf1e638944BB16fb5B787B5bA4BC85b0A",
+        "chainId": 66,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11146.png"
+      },
+      {
+        "name": "Crypto Gladiator Shards",
+        "symbol": "CGS",
+        "address": "0x81fDe2721F556e402296B2a57E1871637c27D5E8",
+        "chainId": 66,
+        "decimals": "",
+        "logoURI": "https://assets.coingecko.com/coins/images/18291/small/Scalable.png?1631312146"
+      },
+      {
+        "name": "Xensa",
+        "symbol": "XENSA",
+        "address": "0x01d346F740E27B0f3f5513bC4D2e132E3A43Cc6e",
+        "chainId": 66,
+        "decimals": "",
+        "logoURI": "https://assets.coingecko.com/coins/images/20941/small/Xensa_token-200.png?1638023991"
+      },
+      {
+        "name": "BladeWarrior",
+        "symbol": "BLADE",
+        "address": "0xA07403C1Bd0C5cF53DF07F15fAA589241352527B",
+        "chainId": 66,
+        "decimals": "",
+        "logoURI": "https://assets.coingecko.com/coins/images/17677/small/LOGO_256_x_256.png?1632699362"
+      },
+      {
+        "name": "OEC DAI",
+        "symbol": "DAIK",
+        "address": "0x21cDE7E32a6CAF4742d00d44B07279e7596d26B9",
+        "chainId": 66,
+        "decimals": "",
+        "logoURI": "https://assets.coingecko.com/coins/images/18599/small/daik.png?1632653621"
+      },
+      {
+        "name": "OEC DAI",
+        "symbol": "DAIK",
+        "address": "0x21cDE7E32a6CAF4742d00d44B07279e7596d26B9",
+        "chainId": 66,
+        "decimals": "",
+        "logoURI": "https://assets.coingecko.com/coins/images/18599/small/daik.png?1632653621"
+      },
+      {
+        "name": "USDK",
+        "symbol": "USDK",
+        "address": "0xdCAC52E001f5bd413aa6ea83956438F29098166b",
+        "chainId": 66,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4064.png"
+      },
+      {
+        "name": "USDK",
+        "symbol": "USDK",
+        "address": "0xdCAC52E001f5bd413aa6ea83956438F29098166b",
+        "chainId": 66,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4064.png"
+      },
+      {
+        "name": "AST",
+        "symbol": "AST",
+        "address": "0x493d8CBd9533E57D4BEfb17cc2eC1dB76828261d",
+        "chainId": 66,
+        "decimals": "",
+        "logoURI": "https://resources.jswap.finance/blockchains/okex-mainnet/assets/0x493d8CBd9533E57D4BEfb17cc2eC1dB76828261d/logo.png"
+      },
+      {
+        "name": "Conflux",
+        "symbol": "CFXK",
+        "address": "0xFcd4d15f09548cd90EfcAF0B1d9531BBa670B7B1",
+        "chainId": 66,
+        "decimals": "",
+        "logoURI": "https://resources.jswap.finance/blockchains/okex-mainnet/assets/0xFcd4d15f09548cd90EfcAF0B1d9531BBa670B7B1/logo.png"
+      },
+      {
+        "name": "OEC Tron",
+        "symbol": "TRXK",
+        "address": "0xFcd4d15f09548cd90EfcAF0B1d9531BBa670B7B1",
+        "chainId": 66,
+        "decimals": "",
+        "logoURI": "https://assets.coingecko.com/coins/images/18710/small/Screenshot_2021-10-01_at_3.08.00_PM.png?1633073064"
+      },
+      {
+        "name": "OEC Sushi",
+        "symbol": "SUSHIK",
+        "address": "0x2218E0D5E0173769F5b4939a3aE423f7e5E4EAB7",
+        "chainId": 66,
+        "decimals": "",
+        "logoURI": "https://assets.coingecko.com/coins/images/18597/small/sushik.png?1632652849"
+      },
+      {
+        "name": "OEC DOT",
+        "symbol": "DOTK",
+        "address": "0xabc732f6f69a519F6d508434481376B6221eb7d5",
+        "chainId": 66,
+        "decimals": "",
+        "logoURI": "https://assets.coingecko.com/coins/images/18603/small/dotk.png?1632654839"
+      },
+      {
+        "name": "OEC FIL",
+        "symbol": "FILK",
+        "address": "0x3F8969Be2FC0770dCc174968e4B4ff146E0ACDaF",
+        "chainId": 66,
+        "decimals": "",
+        "logoURI": "https://assets.coingecko.com/coins/images/18607/small/filk.png?1632655922"
+      },
+      {
+        "name": "OEC Chainlink",
+        "symbol": "LINKK",
+        "address": "0xbeb67dE6cC5aF652b2d9B0235750eD70F5a2cB0D",
+        "chainId": 66,
+        "decimals": "",
+        "logoURI": "https://assets.coingecko.com/coins/images/18539/small/0xbeb67de6cc5af652b2d9b0235750ed70f5a2cb0d.png?1632305141"
+      },
+      {
+        "name": "USD coin",
+        "symbol": "USDC",
+        "address": "0xc946DAf81b08146B1C7A8Da2A851Ddf2B3EAaf85",
+        "chainId": 66,
+        "decimals": "",
+        "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389"
+      },
+      {
+        "name": "JswapDAO",
+        "symbol": "JDAO",
+        "address": "0x7AC8fD3B804D70596e326641e184f864F55f2430",
+        "chainId": 66,
+        "decimals": "",
+        "logoURI": "https://resources.jswap.finance/blockchains/okex-mainnet/assets/0x7AC8fD3B804D70596e326641e184f864F55f2430/logo.png"
+      }
+    ]
+}
