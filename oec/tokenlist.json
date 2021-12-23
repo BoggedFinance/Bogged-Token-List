@@ -123,14 +123,6 @@
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4064.png"
       },
       {
-        "name": "USDK",
-        "symbol": "USDK",
-        "address": "0xdCAC52E001f5bd413aa6ea83956438F29098166b",
-        "chainId": 66,
-        "decimals": "",
-        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4064.png"
-      },
-      {
         "name": "AST",
         "symbol": "AST",
         "address": "0x493d8CBd9533E57D4BEfb17cc2eC1dB76828261d",
