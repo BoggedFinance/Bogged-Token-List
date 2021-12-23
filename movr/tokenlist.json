@@ -169,14 +169,6 @@
         "chainId": 1285,
         "decimals": "",
         "logoURI": "https://raw.githubusercontent.com/zenlinkpro/assets/master/blockchains/moonriver/assets/0x3b25BC1dC591D24d60560d0135D6750A561D4764/logo.png"
-      },
-      {
-        "name": "Voucher Ethereum",
-        "symbol": "vETH",
-        "address": "0x3b25BC1dC591D24d60560d0135D6750A561D4764",
-        "chainId": 1285,
-        "decimals": "",
-        "logoURI": "https://raw.githubusercontent.com/zenlinkpro/assets/master/blockchains/moonriver/assets/0x3b25BC1dC591D24d60560d0135D6750A561D4764/logo.png"
-      } 
+      }
     ]
 }
