@@ -1,0 +1,20 @@
+{
+    "name": "BEPIS Token",
+    "website": "https://bepis.dog/",
+    "telegram": "https://t.me/bepis_token",
+    "twitter": "https://twitter.com/bepis_token",
+    "description": "$BEPIS is a deflationary meme token with a unique dog-like mascot. The token provides rewards for its holders and a self-generating automatic liquidity pool by taking fees from every transaction.",
+    "explorer": "https://bscscan.com/address/0xa031d93DD0dC21Bb799D3f7780e9D29df5210114",
+    "type": "BEP20",
+    "symbol": "BEPIS",
+    "decimals": 6,
+    "slippage": 12,
+    "status": "active",
+    "id": "0xa031d93DD0dC21Bb799D3f7780e9D29df5210114",
+    "vested": [
+        "0x41873C456D27bD37979972F20e23A3E1119Cf3AC"
+    ],
+    "audits": [
+        "https://github.com/Tech-Audit/Smart-Contract-Audits/blob/main/TECHAUDIT_BEPIS.pdf"
+    ]
+}
