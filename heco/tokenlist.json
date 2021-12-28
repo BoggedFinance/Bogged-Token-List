@@ -41,6 +41,14 @@
         "decimals": "",
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4779.png"
       },
+           {
+        "name": "DAI",
+        "symbol": "DAI",
+        "address": "0x3D760a45D0887DFD89A2F5385a236B29Cb46ED2a",
+        "chainId": 128,
+        "decimals": "",
+        "logoURI": "https://assets.coingecko.com/coins/images/9956/small/4943.png?1636636734"
+      },
       {
         "name": "Mdex",
         "symbol": "MDX",
