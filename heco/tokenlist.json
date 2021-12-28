@@ -202,6 +202,14 @@
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7278.png"
       },
       {
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "address": "0x9362Bbef4B8313A8Aa9f0c9808B80577Aa26B73B",
+        "chainId": 128,
+        "decimals": "",
+        "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389"
+      },
+      {
         "name": "DOJO",
         "symbol": "DOJO",
         "address": "0x180dAe91D6d56235453a892d2e56a3E40Ba81DF8",
