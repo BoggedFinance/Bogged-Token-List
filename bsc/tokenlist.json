@@ -16,7 +16,8 @@
         "address": "0xB09FE1613fE03E7361319d2a43eDc17422f36B09",
         "chainId": 56,
         "decimals": "",
-        "logoURI": "https://raw.githubusercontent.com/BoggedFinance/Bogged-Token-List/main/bsc/assets/0xB09FE1613fE03E7361319d2a43eDc17422f36B09/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/BoggedFinance/Bogged-Token-List/main/bsc/assets/0xB09FE1613fE03E7361319d2a43eDc17422f36B09/logo.png",
+        "top": true
       },
       {
         "name": "BTCB Token",
