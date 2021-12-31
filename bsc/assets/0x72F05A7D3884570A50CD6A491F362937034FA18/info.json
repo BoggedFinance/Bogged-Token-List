@@ -1,0 +1,25 @@
+{
+    "name": "LIFEBIRDTOKEN",
+    "website": "https://www.lifebirdtoken.com/",
+    "description": "LIFEBIRD TOKEN is a decentralized Token built on the Binance Smart Chain network that offers a modularized and modern way to ensure maximum benefits to all involved users. ",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/LIFEBIRDTOKEN"
+        },
+        {
+            "name": "Telegram Official",
+            "url": "https://t.me/s/LIFEBIRD"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/LIFEBIRDTOKEN"
+        }
+    ],
+    "explorer": "https://bscscan.com/token/0x72f05a7d3884570a50cd6a491f3629370304fa18",
+    "type": "BEP20",
+    "symbol": "LIFEBIRD",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x72f05a7d3884570a50cd6a491f3629370304fa18"
+}
