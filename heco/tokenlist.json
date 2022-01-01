@@ -1,0 +1,237 @@
+{
+    "name": "Bogged Finance Heco",
+    "tokens": [
+      {
+        "name": "Wrapped Huobi Token",
+        "symbol": "WHT",
+        "address": "0x5545153CCFcA01fbd7Dd11C0b23ba694D9509A6F",
+        "chainId": 128,
+        "decimals": "",
+        "logoURI": "https://raw.githubusercontent.com/BoggedFinance/Bogged-Token-List/main/heco/assets/0x5545153CCFcA01fbd7Dd11C0b23ba694D9509A6F/logo.png"
+      },
+      {
+        "name": "Tether",
+        "symbol": "USDT",
+        "address": "0xa71EdC38d189767582C38A3145b5873052c3e47a",
+        "chainId": 128,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
+      },
+      {
+        "name": "Ethereum",
+        "symbol": "WETH",
+        "address": "0x64FF637fB478863B7468bc97D30a5bF3A428a1fD",
+        "chainId": 128,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
+      },
+      {
+        "name": "Huobi BTC",
+        "symbol": "HBTC",
+        "address": "0x66a79D23E58475D2738179Ca52cd0b41d73f0BEa",
+        "chainId": 128,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6941.png"
+      },
+      {
+        "name": "Huobi USD",
+        "symbol": "HUSD",
+        "address": "0x0298c2b32eaE4da002a15f36fdf7615BEa3DA047",
+        "chainId": 128,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4779.png"
+      },
+           {
+        "name": "DAI",
+        "symbol": "DAI",
+        "address": "0x3D760a45D0887DFD89A2F5385a236B29Cb46ED2a",
+        "chainId": 128,
+        "decimals": "",
+        "logoURI": "https://assets.coingecko.com/coins/images/9956/small/4943.png?1636636734"
+      },
+      {
+        "name": "Mdex",
+        "symbol": "MDX",
+        "address": "0x25D2e80cB6B86881Fd7e07dd263Fb79f4AbE033c",
+        "chainId": 128,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8335.png"
+      },
+      {
+        "name": "Huobi Fil",
+        "symbol": "HFIL",
+        "address": "0xae3a768f9aB104c69A7CD6041fE16fFa235d1810",
+        "chainId": 128,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8688.png"
+      },
+      {
+        "name": "NEXTYPE",
+        "symbol": "NT",
+        "address": "0x8B70512b5248E7C1f0F6996E2FDE2E952708c4C9",
+        "chainId": 128,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10742.png"
+      },
+      {
+        "name": "Huobi Dot",
+        "symbol": "HDOT",
+        "address": "0xA2c49cEe16a5E5bDEFDe931107dc1fae9f7773E3",
+        "chainId": 128,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png"
+      },
+      {
+        "name": "Torum",
+        "symbol": "XTM",
+        "address": "0xCd1fAFf6e578Fa5cAC469d2418C95671bA1a62Fe",
+        "chainId": 128,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10421.png"
+      },
+      {
+        "name": "xMDX",
+        "symbol": "xMDX",
+        "address": "0xF5Cf092c93cDDFe9087B86BDcA5CB3f4f72b7242",
+        "chainId": 128,
+        "decimals": "",
+        "logoURI": "https://mdex.co/token-icons/heco/0xf5cf092c93cddfe9087b86bdca5cb3f4f72b7242.png"
+      },
+      {
+        "name": "Beacon ETH",
+        "symbol": "BETH",
+        "address": "0xB6F4c418514dd4680F76d5caa3bB42dB4A893aCb",
+        "chainId": 128,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8353.png"
+      },
+      {
+        "name": "SubGame",
+        "symbol": "SGB",
+        "address": "0x7f8AB1593f84B0C450385a3f70e921cB796401Ba",
+        "chainId": 128,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11158.png"
+      },
+      {
+        "name": "Huobi LTC",
+        "symbol": "HLTC",
+        "address": "0xecb56cf772B5c9A6907FB7d32387Da2fCbfB63b4",
+        "chainId": 128,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2.png"
+      },
+      {
+        "name": "Dogecoin",
+        "symbol": "DOGE",
+        "address": "0x40280E26A572745B1152A54D1D44F365DaA51618",
+        "chainId": 128,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/74.png"
+      },
+      {
+        "name": "Shiba Inu",
+        "symbol": "SHIB",
+        "address": "0xC38072AA3F8E049De541223A9c9772132bB48634",
+        "chainId": 128,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5994.png"
+      },
+      {
+        "name": "Minto",
+        "symbol": "BTCMT",
+        "address": "0x410a56541bD912F9B60943fcB344f1E3D6F09567",
+        "chainId": 128,
+        "decimals": "",
+        "logoURI": "https://mdex.co/token-icons/heco/0x410a56541bd912f9b60943fcb344f1e3d6f09567.png"
+      },
+      {
+        "name": "Synthetix",
+        "symbol": "SNX",
+        "address": "0x777850281719d5a96C29812ab72f822E0e09F3Da",
+        "chainId": 128,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2586.png"
+      },
+      {
+        "name": "Uniswap",
+        "symbol": "UNI",
+        "address": "0x22C54cE8321A4015740eE1109D9cBc25815C46E6",
+        "chainId": 128,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7083.png"
+      },
+      {
+        "name": "Basis Gold Share",
+        "symbol": "BAGS",
+        "address": "0x6868D406a125Eb30886A6DD6B651D81677d1F22c",
+        "chainId": 128,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8264.png"
+      },
+      {
+        "name": "HBELT",
+        "symbol": "HBELT",
+        "address": "0x8c517631a7cD20FC365aA9A4025955FcDAA11f57",
+        "chainId": 128,
+        "decimals": "",
+        "logoURI": "https://mdex.co/token-icons/heco/0x8c517631a7cd20fc365aa9a4025955fcdaa11f57.png"
+      },
+      {
+        "name": "PokeMine Diamond",
+        "symbol": "PMD",
+        "address": "0xbFB932eE032f04e0Bd72200e31043e63aA650FC9",
+        "chainId": 128,
+        "decimals": "",
+        "logoURI": "https://mdex.co/token-icons/heco/0xbfb932ee032f04e0bd72200e31043e63aa650fc9.png"
+      },
+      {
+        "name": "CoinWind Token",
+        "symbol": "COW",
+        "address": "0x80861A817106665bcA173DB6AC2ab628a738c737",
+        "chainId": 128,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10011.png"
+      },
+      {
+        "name": "AAVE",
+        "symbol": "AAVE",
+        "address": "0x202b4936fE1a82A4965220860aE46d7d3939Bb25",
+        "chainId": 128,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7278.png"
+      },
+      {
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "address": "0x9362Bbef4B8313A8Aa9f0c9808B80577Aa26B73B",
+        "chainId": 128,
+        "decimals": "",
+        "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389"
+      },
+      {
+        "name": "DOJO",
+        "symbol": "DOJO",
+        "address": "0x180dAe91D6d56235453a892d2e56a3E40Ba81DF8",
+        "chainId": 128,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10928.png"
+      },
+      {
+        "name": "BNB",
+        "symbol": "BNB",
+        "address": "0x4F99d10e16972FF2FE315EEe53A95FC5A5870CE3",
+        "chainId": 128,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png"
+      },
+      {
+        "name": "O3 Swap",
+        "symbol": "O3",
+        "address": "0xEe9801669C6138E84bD50dEB500827b776777d28",
+        "chainId": 128,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9588.png"
+      }
+    ]
+}

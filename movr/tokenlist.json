@@ -1,0 +1,174 @@
+
+{
+    "name": "Bogged Finance Moonriver",
+    "tokens": [
+      {
+        "name": "Wrapped MOVR",
+        "symbol": "MOVR",
+        "address": "0x98878B06940aE243284CA214f92Bb71a2b032B8A",
+        "chainId": 1285,
+        "decimals": "",
+        "logoURI": "https://raw.githubusercontent.com/BoggedFinance/Bogged-Token-List/main/movr/assets/0x98878B06940aE243284CA214f92Bb71a2b032B8A/logo.png"
+      },
+      {
+        "name": "Rome",
+        "symbol": "ROME",
+        "address": "0x4a436073552044D5f2f49B176853ad3Ad473d9d6",
+        "chainId": 1285,
+        "decimals": "",
+        "logoURI": "https://assets.coingecko.com/coins/images/21078/small/rome-dao.jpeg?1638291936"
+      },
+      {
+        "name": "Solarbeam",
+        "symbol": "SOLAR",
+        "address": "0x6bD193Ee6D2104F14F94E2cA6efefae561A4334B",
+        "chainId": 1285,
+        "decimals": "",
+        "logoURI": "https://assets.coingecko.com/coins/images/18260/small/solarbeamlogo.png?1636080005"
+      },
+      {
+        "name": "Huckleberry",
+        "symbol": "FINN",
+        "address": "0x9A92B5EBf1F6F6f7d93696FCD44e5Cf75035A756",
+        "chainId": 1285,
+        "decimals": "",
+        "logoURI": "https://assets.coingecko.com/coins/images/19642/small/Finn_1_%28200x200%29.png?1635726736"
+      },
+      {
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+        "chainId": 1285,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
+      },
+      {
+        "name": "Frax",
+        "symbol": "FRAX",
+        "address": "0x1A93B23281CC1CDE4C4741353F3064709A16197d",
+        "chainId": 1285,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6952.png"
+      },
+      {
+        "name": "Binance USD",
+        "symbol": "BUSD",
+        "address": "0x5D9ab5522c64E1F6ef5e3627ECCc093f56167818",
+        "chainId": 1285,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4687.png"
+      },
+      {
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
+        "chainId": 1285,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
+      },
+      {
+        "name": "Dai",
+        "symbol": "DAI",
+        "address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
+        "chainId": 1285,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4943.png"
+      },
+      {
+        "name": "Tether",
+        "symbol": "USDT",
+        "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+        "chainId": 1285,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
+      },
+      {
+        "name": "Wrapped BTC",
+        "symbol": "WBTC",
+        "address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
+        "chainId": 1285,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png"
+      },
+      {
+        "name": "Binance",
+        "symbol": "BNB",
+        "address": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",
+        "chainId": 1285,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png"
+      },
+      {
+        "name": "Magic Internet Money",
+        "symbol": "MIM",
+        "address": "0x0caE51e1032e8461f4806e26332c030E34De3aDb",
+        "chainId": 1285,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/162.png"
+      },
+      {
+        "name": "Avalanche Token",
+        "symbol": "AVAX",
+        "address": "0x14a0243C333A5b238143068dC3A7323Ba4C30ECB",
+        "chainId": 1285,
+        "decimals": "",
+        "logoURI": "https://raw.githubusercontent.com/BoggedFinance/Bogged-Token-List/main/avax/assets/AVAX/logo.png"
+      },
+      {
+        "name": "MAI",
+        "symbol": "miMATIC",
+        "address": "0x7f5a79576620C046a293F54FFCdbd8f2468174F1",
+        "chainId": 1285,
+        "decimals": "",
+        "logoURI": "https://assets.coingecko.com/coins/images/15264/small/mimatic-red.png?1620281018"
+      },
+      {
+        "name": "Matic Token",
+        "symbol": "MATIC",
+        "address": "0x682F81e57EAa716504090C3ECBa8595fB54561D8",
+        "chainId": 1285,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png"
+      },
+      {
+        "name": "PETS Token",
+        "symbol": "PETS",
+        "address": "0x1e0F2A75Be02c025Bd84177765F89200c04337Da",
+        "chainId": 1285,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13157.png"
+      },
+      {
+        "name": "Relay Token",
+        "symbol": "RELAY",
+        "address": "0xAd7F1844696652ddA7959a49063BfFccafafEfe7",
+        "chainId": 1285,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11317.png"
+      },
+      {
+        "name": "Riverboat",
+        "symbol": "RIB",
+        "address": "0xbD90A6125a84E5C512129D622a75CDDE176aDE5E",
+        "chainId": 1285,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13986.png"
+      },
+      {
+        "name": "Moonscape",
+        "symbol": "MSCP",
+        "address": "0x5c22ba65F65ADfFADFc0947382f2E7C286A0Fe45",
+        "chainId": 1285,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/14522.png"
+      },
+      {
+        "name": "Voucher Ethereum",
+        "symbol": "vETH",
+        "address": "0x3b25BC1dC591D24d60560d0135D6750A561D4764",
+        "chainId": 1285,
+        "decimals": "",
+        "logoURI": "https://raw.githubusercontent.com/zenlinkpro/assets/master/blockchains/moonriver/assets/0x3b25BC1dC591D24d60560d0135D6750A561D4764/logo.png"
+      }
+    ]
+}

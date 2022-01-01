@@ -1,0 +1,109 @@
+{
+    "name": "Bogged Finance KCC",
+    "tokens": [
+      {
+        "name": "Wrapped KCS",
+        "symbol": "WKCS",
+        "address": "0x4446Fc4eb47f2f6586f9fAAb68B3498F86C07521",
+        "chainId": 321,
+        "decimals": "",
+        "logoURI": "https://github.com/BoggedFinance/Bogged-Token-List/blob/main/kcc/assets/0x4446Fc4eb47f2f6586f9fAAb68B3498F86C07521/logo.png"
+      },
+      {
+        "name": "MojitoToken",
+        "symbol": "MJT",
+        "address": "0x2cA48b4eeA5A731c2B54e7C3944DBDB87c0CFB6F",
+        "chainId": 321,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13400.png"
+      },
+      {
+        "name": "Tether",
+        "symbol": "USDT",
+        "address": "0x0039f574eE5cC39bdD162E9A88e3EB1f111bAF48",
+        "chainId": 321,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
+      },
+      {
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "address": "0x980a5AfEf3D17aD98635F6C5aebCBAedEd3c3430",
+        "chainId": 321,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
+      },
+      {
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "address": "0xf55aF137A98607F7ED2eFEfA4cd2DfE70E4253b1",
+        "chainId": 321,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
+      },
+      {
+        "name": "BTCK",
+        "symbol": "BTCK",
+        "address": "0xfA93C12Cd345c658bc4644D1D4E1B9615952258C",
+        "chainId": 321,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png"
+      },
+      {
+        "name": "BNB",
+        "symbol": "BNB",
+        "address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
+        "chainId": 321,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png"
+      },
+      {
+        "name": "Binace USD",
+        "symbol": "BUSD",
+        "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+        "chainId": 321,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4687.png"
+      },
+      {
+        "name": "Dai Stablecoin",
+        "symbol": "DAI",
+        "address": "0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055",
+        "chainId": 321,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4943.png"
+      },
+      {
+        "name": "Spice",
+        "symbol": "SFI",
+        "address": "0xd55D9DF77B23A7455613f2244Ee4B6a45b6e2D00",
+        "chainId": 321,
+        "decimals": "",
+        "logoURI": "https://cdn.jsdelivr.net/gh/MojitoFinance/mjtTokenList@master/sfi.png"
+      },
+      {
+        "name": "KuDoge",
+        "symbol": "KuDo",
+        "address": "0xd55D9DF77B23A7455613f2244Ee4B6a45b6e2D00",
+        "chainId": 321,
+        "decimals": "",
+        "logoURI": "https://assets.coingecko.com/coins/images/16928/small/kudoge_200.png?1625835921"
+      },
+      {
+        "name": "KuSwap",
+        "symbol": "KUS",
+        "address": "0x4A81704d8C16d9FB0d7f61B747D0B5a272badf14",
+        "chainId": 321,
+        "decimals": "",
+        "logoURI": "https://assets.coingecko.com/coins/images/16917/small/kus.PNG?1625625949"
+      },
+      {
+        "name": "KOFFEE",
+        "symbol": "KOFFEE",
+        "address": "0xc0ffeE0000921eB8DD7d506d4dE8D5B79b856157",
+        "chainId": 321,
+        "decimals": "",
+        "logoURI": "https://raw.githubusercontent.com/KoffeeSwap/kcc-assets/main/mainnet/tokens/0xc0ffeE0000921eB8DD7d506d4dE8D5B79b856157/logo.png"
+      }
+    ]
+}
