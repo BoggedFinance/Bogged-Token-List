@@ -1,0 +1,19 @@
+{
+    "name": "Titania Token",
+    "website": "https://titaniatoken.com/",
+    "telegram": "https://t.me/TitaniaToken",
+    "discord": "https://discord.gg/tVcCBDQ4",
+    "twitter": "https://twitter.com/titania_token",
+    "description": "Titania is a new-generation platform that uses blockchain technology and smart contracts to provide users with more efficient and transparent interaction with society.",
+    "explorer": "https://bscscan.com/token/0x5108c0e857b30a8d191554134628fe0f1b7e78b4",
+    "type": "BEP20",
+    "symbol": "TITANIA",
+    "decimals": 9,
+    "slippage": 3,
+    "status": "active",
+    "id": "0x5108c0e857b30a8d191554134628fe0f1b7e78b4",
+    "vested": [ ],
+    "audits": [
+        "https://github.com/TechRate/Smart-Contract-Audits/blob/main/November/Titania%20Token.pdf"
+    ]
+}
