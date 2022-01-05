@@ -379,6 +379,14 @@
         "logoURI": "https://assets.coingecko.com/coins/images/14962/small/6GxcPRo3_400x400.jpg?1619157413"
       },
       {
+        "name": "Frax",
+        "symbol": "FRAX",
+        "address": "0x45c32fA6DF82ead1e2EF74d17b76547EDdFaFF89",
+        "chainId": 137,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6952.png"
+      },
+      {
         "name": "Jetswap",
         "symbol": "pWings",
         "address": "0x845E76A8691423fbc4ECb8Dd77556Cb61c09eE25",
