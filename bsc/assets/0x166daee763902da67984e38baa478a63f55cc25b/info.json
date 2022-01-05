@@ -12,5 +12,7 @@
     "status": "active",
     "id": "0x166daee763902da67984e38baa478a63f55cc25b",
     "vested": [ ],
-    "audits": [ ]
+    "audits": [
+        "https://cdn.shopify.com/s/files/1/0426/7701/0593/files/FLIFER_coin_security_analysis_and_audit_12.15.2021.pdf"
+    ]
 }
