@@ -1,0 +1,18 @@
+{
+    "name": "Tether Plus",
+    "website": "https://tetherplus.to/",
+    "telegram": "https://t.me/tetherplustonews",
+    "discord": "https://discord.gg/6kwHeVmCh8",
+    "twitter": "https://twitter.com/tetherplusto",
+    "description": "Hold $TetherPlus tokens and get rewarded on every transaction that is made!",
+    "explorer": "https://bscscan.com/token/0x66c8F195Ec4FDA7e6327C59cdC2cD203A6a151e3",
+    "type": "BEP20",
+    "symbol": "TetherPlus",
+    "decimals": 18,
+    "slippage": 15,
+    "status": "active",
+    "id": "0x66c8F195Ec4FDA7e6327C59cdC2cD203A6a151e3",
+    "audits": [
+        "https://www.coinscope.co/coin/tetherplus/audit"
+    ]
+}
