@@ -1,0 +1,11 @@
+{
+"name": "Naanayam",
+"type": "BEP20",
+"symbol": "NAAM",
+"decimals": 18,
+"website": "https://naamtoken.com/",
+"description": "Naanayam (NAAM) is a cryptocurrency, deployed on Binance Smart Chain(BSC BEP-20)",
+"explorer": "https://bscscan.com/token/0xc81ab0514c6ada6e3d55782219d7ca73345edf63",
+"status": "active",
+"id": "0xc81ab0514c6ada6e3d55782219d7ca73345edf63"
+}
