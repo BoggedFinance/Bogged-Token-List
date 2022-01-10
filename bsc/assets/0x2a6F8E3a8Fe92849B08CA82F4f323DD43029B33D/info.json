@@ -1,0 +1,15 @@
+{
+    "name": "AAptitude (AAPT)",
+    "website": "https://aaptitude.com/",
+    "telegram": "https://t.me/aaptitudetoken",
+    "discord": "https://discord.gg/E2HUnjgmu6",
+    "twitter": "https://twitter.com/AAptitudeToken/",
+    "description": "AAptitude is a deflationary token on the Binance Smart Chain network with plans to work toward increasing safety and security within the cryptocurrency space. AAptitude will initially be developing down two separate pathways, with the implementation of a near completed (final stages of beta testing) Metaverse into the AAptitude ecosystem, and also the deployment of an Escrow Marketplace to facilitate secure purchases of goods and services using Cryptocurrency.",
+    "explorer": "https://bscscan.com/token/0x2a6F8E3a8Fe92849B08CA82F4f323DD43029B33D",
+    "type": "BEP20",
+    "symbol": "AAPT",
+    "decimals": 9,
+    "slippage": 11,
+    "status": "active",
+    "id": "0x2a6F8E3a8Fe92849B08CA82F4f323DD43029B33D"
+}
