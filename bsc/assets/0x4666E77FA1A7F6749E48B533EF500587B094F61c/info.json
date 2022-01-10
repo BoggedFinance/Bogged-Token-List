@@ -1,0 +1,21 @@
+{
+    "name": "VIVAL",
+    "website": "https://revivaldefi.com",
+    "telegram": "https://t.me/revivaldefi",
+    "discord": "https://discord.gg/revivaldefi",
+    "twitter": "https://twitter.com/revivaldefi",
+    "description": "VIVAL (VIV), the governance token of the REVIVAL DeFi ecosystem, was created with the intention of rewarding holders while also supporting expansion into the wider centralised crypto-sphere.",
+    "explorer": "https://bscscan.com/address/0x4666e77fa1a7f6749e48b533ef500587b094f61c",
+    "type": "BEP20",
+    "symbol": "VIV",
+    "decimals": 18,
+    "slippage": 0.1,
+    "status": "active",
+    "id": "0x4666E77FA1A7F6749E48B533EF500587B094F61c",
+    "vested": [
+        ""
+    ],
+    "audits": [
+        "https://www.certik.com/projects/vival"
+    ]
+}
