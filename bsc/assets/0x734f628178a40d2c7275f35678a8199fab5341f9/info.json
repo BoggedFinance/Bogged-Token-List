@@ -1,7 +1,6 @@
 {
     "name": "Aramis Token",
     "website": "https://www.aramistoken.com",
-    "telegram": "https://t.me/boggedfinance",
     "discord": "https://discord.gg/yTPyMNxpQ5",
     "twitter": "https://twitter.com/AramisToken",
     "description": "Aramis ($ARM) is a DECENTRALIZED multi-purpose token that is mainly focused in investments and social-media reward programs.",
@@ -9,7 +8,6 @@
     "type": "BEP20",
     "symbol": "ARM",
     "decimals": 18,
-    "slippage": 3,
     "status": "active",
     "id": "0x734f628178a40d2c7275f35678a8199fab5341f9",
     "vested": [ ],
