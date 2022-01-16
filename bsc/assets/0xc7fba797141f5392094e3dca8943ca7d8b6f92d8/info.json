@@ -1,0 +1,14 @@
+{
+    "name": "ROBOT SHIB",
+    "website": "https://rbshib.finance",
+    "telegram": "https://t.me/rbshib",
+    "twitter": "https://twitter.com/rbshib",
+    "description": "ROBOT SHIB SWAP helps you make the most out of your crypto in three ways: Trade, Earn, and Win. Instantly swap crypto tokens: no registration or account needed. Why pay more? ROBOT SHIB SWAP runs on Binance Smart Chain, a blockchain with much lower transaction costs than Ethereum or Bitcoin. Trading fees. Trade directly from your wallet app. Unlike centralized exchanges like Binance or Coinbase, PancakeSwap doesn’t hold your funds when you trade: you have 100% ownership of your own crypto.",
+    "explorer": "https://bscscan.com/token/0x56dfa9d2c6ad34ee2fd7bafc7f449d7ce22e3722",
+    "type": "BEP20",
+    "symbol": "RBSHIB",
+    "decimals": 9,
+    "slippage": 0,
+    "status": "active",
+    "id": "0x56dfa9d2c6ad34ee2fd7bafc7f449d7ce22e3722"
+}
