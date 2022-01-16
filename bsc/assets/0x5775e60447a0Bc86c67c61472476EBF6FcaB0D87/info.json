@@ -1,0 +1,20 @@
+{
+	"name": "Green Chart",
+	"website": "https://www.greenchart.finance/",
+	"telegram": "https://twitter.com/greenchartbsc",
+	"twitter": "https://twitter.com/greenchartbsc",
+	"description": "Only one thing sells in the BSC, and thats a green chart. We have created a token who’s sole purpose is to do just that.",
+	"explorer": "https://bscscan.com/token/0x5775e60447a0Bc86c67c61472476EBF6FcaB0D87",
+	"type": "BEP20",
+	"symbol": "GREEN",
+	"decimals": 18,
+	"slippage": 27,
+	"status": "active",
+	"id": "0x5775e60447a0Bc86c67c61472476EBF6FcaB0D87",
+	"vested": [
+		"0x4F1baf3b8DCD4b7882D10E64e4625DC0D792d787"
+	],
+	"audits": [
+		"https://alike-crush-08b.notion.site/Green-Chart-Audit-c9871f2ed75b4c61a739d93448cba5f6"
+	]
+}
