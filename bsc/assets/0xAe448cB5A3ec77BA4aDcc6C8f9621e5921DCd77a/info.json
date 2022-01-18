@@ -1,0 +1,37 @@
+{
+  "name": "GrumpyShiba",
+  "type": "BEP20",
+  "symbol": "GRUMPYSHIB",
+  "decimals": 18,
+  "website": "https://grumpyshib.com",
+  "description": "A DeFi altruism token created to power a decentralized network of fundraising campaigns and provide a transparent platform to inspire change.",
+  "explorer": "https://bscscan.com/token/0xAe448cB5A3ec77BA4aDcc6C8f9621e5921DCd77a",
+  "status": "active",
+  "id": "0xAe448cB5A3ec77BA4aDcc6C8f9621e5921DCd77a",
+  "links": [
+      {
+          "name": "twitter",
+          "url": "https://twitter.com/fellowshib"
+      },
+      {
+          "name": "github",
+          "url": "https://github.com/grumpyshiba/GrumpyShiba"
+      },
+      {
+          "name": "telegram",
+          "url": "https://t.me/grumpyshiba"
+      },
+      {
+          "name": "whitepaper",
+          "url": "https://grumpyshib.com/doc/GrumpyPaper.pdf"
+      },
+      {
+          "name": "facebook",
+          "url": "https://facebook.com/grumpyshib"
+      },
+      {
+          "name": "reddit",
+          "url": "https://reddit.com/r/fellowshib"
+      }
+  ]
+}
