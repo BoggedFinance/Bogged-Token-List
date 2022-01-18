@@ -1,0 +1,25 @@
+{
+    "name": "LSR Finance",
+    "website": "https://lsr.finance/",
+    "telegram": "https://t.me/lasereyestoken",
+    "twitter": "https://twitter.com/LsrFinance",
+    "description": "LSR Finance - best tools for passive investing in crypto space",
+    "explorer": "https://bscscan.com/token/0x1cb9ca00538265a22e56b758026948608ba5d86f",
+    "type": "BEP20",
+    "symbol": "LSR",
+    "decimals": 8,
+    "status": "active",
+    "id": "0x1cb9ca00538265a22e56b758026948608ba5d86f",
+    "vested": [
+        "0x0c89c0407775dd89b12918b9c0aa42bf96518820",
+        "0xeeec658955f7b2d363c26c5f195ca06dbfa35b0c",
+        "0x01565ad6d85a9eff5b8ee73d8a5a87ea048c0054",
+        "0xfa9df89c4ff261a6f8d648148f14b2381b32b627",
+        "0xf2033772edf025f58960652c952f06b2302f4052",
+        "0xebb0f5097a7273e270eadea6fdcc3e6b4c3d7d44",
+        "0x3910da4b85d80a88140fa6c984d8e776f43edf4c"
+    ],    
+    "audits": [
+        "https://www.certik.com/projects/lsr"
+    ]
+}
