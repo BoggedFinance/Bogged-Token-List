@@ -1,0 +1,22 @@
+{
+    "name": "KURO",
+    "website": "https://kurocoin.com/",
+    "telegram": "https://t.me/kurocoin",
+	"facebook": "https://www.facebook.com/KURO-111914151299613",
+	"github" : "https://github.com/Kurocoin",
+	"instagram" : "https://www.instagram.com/kurocoin/",
+	"Linkedin" : "https://www.linkedin.com/company/kuro-coin",
+    "twitter": "https://twitter.com/CoinKuro",
+    "description": "Kuro is a cryptocurrency that aims at supporting youth projects around the world and providing humanitarian",
+    "explorer": "https://bscscan.com/token/0xa6fb39d69b09ecdc1a8b5f829df11a40b7742603",
+    "type": "BEP20",
+    "symbol": "KUR",
+    "decimals": 9,
+    "slippage": 3,
+    "status": "active",
+    "id": "0xa6fb39d69b09ecdc1a8b5f829df11a40b7742603",
+    "vested": [
+        "0x0c89c0407775dd89b12918b9c0aa42bf96518820"
+    ],
+    "audits": []
+}
