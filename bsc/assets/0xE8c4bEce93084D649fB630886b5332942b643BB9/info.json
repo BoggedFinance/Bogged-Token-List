@@ -1,0 +1,22 @@
+{
+  "name": "Hodl4Gold Token",
+  "website": "https://hodl4gold.com/",
+  "telegram": "https://t.me/H4G_Official_Chat",
+  "discord": "https://discord.com/invite/hodl4gold",
+  "twitter": "https://twitter.com/Hodl4Gold",
+  "description": "Reflecting your future. The only reward token with volume-producing utilities live at launch. 13% BUSD rewards and weekly lottery sweepstakes.",
+  "explorer": "https://bscscan.com/address/0xE8c4bEce93084D649fB630886b5332942b643BB9",
+  "type": "BEP20",
+  "symbol": "H4G",
+  "decimals": 9,
+  "slippage": 3,
+  "status": "active",
+  "id": "0xE8c4bEce93084D649fB630886b5332942b643BB9",
+  "vested": [
+      "0x500a3bfadb7308e932bb6d07f49c674d088c981b",
+      "0x6e61b564969dbc838a14d5db0afe2a082620a284"
+  ],
+  "audits": [
+      "https://www.rugfreecoins.com/details/6726"
+  ]
+}
