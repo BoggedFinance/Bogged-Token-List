@@ -1,0 +1,17 @@
+{
+    "name": "MED2U Token",
+    "website": "https://MED2Utoken.io/",
+    "telegram": "https://t.me/MED2U",
+    "discord": "https://discord.gg/b9U9TFnR",
+    "twitter": "https://twitter.com/HoldingsVester",
+    "description": "Vester Holdings Medical Innovation Access Token empoweringh all VH-Suitrer applications and MEDIPUNKS NFT's.",
+    "explorer": "https://bscscan.com/token/0x83d809cb8ba2116cbb847b760657087dce1d33ad",
+    "type": "BEP20",
+    "symbol": "MED2U",
+    "decimals": 18,
+    "slippage": 3,
+    "status": "active",
+    "id": "0x83d809cb8ba2116cbb847b760657087dce1d33ad",
+    "vested": [ ],
+    "audits": [ ]
+}
