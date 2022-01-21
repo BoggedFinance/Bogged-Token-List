@@ -385,6 +385,14 @@
         "chainId": 43114,
         "decimals": "",
         "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x4f60a160D8C2DDdaAfe16FCC57566dB84D674BD6/logo.png"
+      },
+      {
+        "name": "Thor",
+        "symbol": "THOR",
+        "address": "0x8F47416CaE600bccF9530E9F3aeaA06bdD1Caa79",
+        "chainId": 43114,
+        "decimals": "",
+        "logoURI": "https://assets.coingecko.com/coins/images/21322/small/logo_%284%29.png?1642666510"
       } 
     ]
   }
