@@ -228,14 +228,6 @@
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6758.png"
       },
       {
-        "name": "SushiSwap",
-        "symbol": "SUSHI",
-        "address": "0x947950BcC74888a40Ffa2593C5798F11Fc9124C4",
-        "chainId": 56,
-        "decimals": "",
-        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6758.png"
-      },
-      {
         "name": "Mobox",
         "symbol": "MBOX",
         "address": "0x3203c9E46cA618C8C1cE5dC67e7e9D75f5da2377",
@@ -341,14 +333,6 @@
       },
       {
         "name": "ApeSwap Finance",
-        "symbol": "BANANA",
-        "address": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95",
-        "chainId": 56,
-        "decimals": "",
-        "logoURI": "https://assets.coingecko.com/coins/images/14870/small/banana.png?1638884287"
-      },
-      {
-        "name": "ApeSwaqp Finance",
         "symbol": "BANANA",
         "address": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95",
         "chainId": 56,
