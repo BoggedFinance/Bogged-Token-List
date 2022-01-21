@@ -211,30 +211,6 @@
         "logoURI": "https://assets.coingecko.com/coins/images/15169/small/versa.PNG?1620011126"
       },
       {
-        "name": "SmarterCoin",
-        "symbol": "SMRTR",
-        "address": "0x6D923f688C7FF287dc3A5943CAeefc994F97b290",
-        "chainId": 43114,
-        "decimals": "",
-        "logoURI": "https://assets.coingecko.com/coins/images/19634/small/kXN8SJ0.png?1635735394"
-      },
-      {
-        "name": "Zabu Token",
-        "symbol": "ZABU",
-        "address": "0xDd453dBD253fA4E5e745047d93667Ce9DA93bbCF",
-        "chainId": 43114,
-        "decimals": "",
-        "logoURI": "https://assets.coingecko.com/coins/images/18175/small/3rUkqlr.png?1630895615"
-      },
-      {
-        "name": "Thors Mead",
-        "symbol": "MEAD",
-        "address": "0x245C2591403e182e41d7A851eab53B01854844CE",
-        "chainId": 43114,
-        "decimals": "",
-        "logoURI": "https://assets.coingecko.com/coins/images/20837/small/mead.png?1638251983"
-      },
-      {
         "name": "Blizzard Network",
         "symbol": "Blizz",
         "address": "0xa2776A53Da0bf664EA34B8Efa1c8aB4241A10968",
@@ -243,20 +219,12 @@
         "logoURI": "https://assets.coingecko.com/coins/images/18446/small/blizz.PNG?1632059955"
       },
       {
-        "name": "Ape-X",
-        "symbol": "APE-X",
-        "address": "0xd039C9079ca7F2a87D632A9C0d7cEa0137bAcFB5",
-        "chainId": 43114,
-        "decimals": "",
-        "logoURI": "https://assets.coingecko.com/coins/images/17991/small/apexCGlogo.jpg?1630045934"
-      },
-      {
         "name": "Snowball",
         "symbol": "SNOB",
         "address": "0xC38f41A296A4493Ff429F1238e030924A1542e50",
         "chainId": 43114,
         "decimals": "",
-        "logoURI": "https://assets.coingecko.com/coins/images/14347/small/snowball.png?1615879335"
+        "logoU I": "https://assets.coingecko.com/coins/images/14347/small/snowball.png?1615879335"
       },
       {
         "name": "Lydia Finance",
@@ -265,14 +233,6 @@
         "chainId": 43114,
         "decimals": "",
         "logoURI": "https://assets.coingecko.com/coins/images/15195/small/512_pure_logo.png?1620083279"
-      },
-      {
-        "name": "GalaxyGoggle",
-        "symbol": "GG",
-        "address": "0xF2F7CE610a091B94d41D69f4fF1129434a82E2f0",
-        "chainId": 43114,
-        "decimals": "",
-        "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xF2F7CE610a091B94d41D69f4fF1129434a82E2f0/logo.png"
       },
       {
         "name": "Wrapped Ether",
@@ -393,6 +353,62 @@
         "chainId": 43114,
         "decimals": "",
         "logoURI": "https://assets.coingecko.com/coins/images/21322/small/logo_%284%29.png?1642666510"
-      } 
+      },
+      {
+        "name": "Defrost Finance",
+        "symbol": "MELT",
+        "address": "0x47EB6F7525C1aA999FBC9ee92715F5231eB1241D",
+        "chainId": 43114,
+        "decimals": "",
+        "logoURI": "https://assets.coingecko.com/coins/images/20902/small/defrost.PNG?1637879294"
+      },
+      {
+        "name": "Avalaunch",
+        "symbol": "XAVA",
+        "address": "0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4",
+        "chainId": 43114,
+        "decimals": "",
+        "logoURI": "https://assets.coingecko.com/coins/images/15466/small/avalaunch.png?1620913298"
+      },
+      {
+        "name": "HeroesChained",
+        "symbol": "HEC",
+        "address": "0xC7f4debC8072e23fe9259A5C0398326d8EfB7f5c",
+        "chainId": 43114,
+        "decimals": "",
+        "logoURI": "https://assets.coingecko.com/coins/images/22813/small/logo_-_2022-01-20T140628.062.png?1642658814"
+      },
+      {
+        "name": "VaporNodes",
+        "symbol": "VPND",
+        "address": "0x83a283641C6B4DF383BCDDf807193284C84c5342",
+        "chainId": 43114,
+        "decimals": "",
+        "logoURI": "https://assets.coingecko.com/coins/images/21977/small/logo.16cd6051.png?1640572759"
+      },
+      {
+        "name": "Platypus Finance",
+        "symbol": "PTP",
+        "address": "0x22d4002028f537599bE9f666d1c4Fa138522f9c8",
+        "chainId": 43114,
+        "decimals": "",
+        "logoURI": "https://assets.coingecko.com/coins/images/21724/small/7r2U_2Ig_400x400.jpg?1639961666"
+      },
+      {
+        "name": "Statik",
+        "symbol": "STATIK",
+        "address": "0x97d367A5f900F5c9dB4370D0D801Fc52332244C7",
+        "chainId": 43114,
+        "decimals": "",
+        "logoURI": "https://assets.coingecko.com/coins/images/22298/small/STATIK_200x200.png?1641424859"
+      },
+      {
+        "name": "Thorus",
+        "symbol": "STATIK",
+        "address": "0xAE4AA155D2987B454C29450ef4f862CF00907B61",
+        "chainId": 43114,
+        "decimals": "",
+        "logoURI": "https://assets.coingecko.com/coins/images/22297/small/THO_200x200.png?1641425001"
+      },
     ]
   }
