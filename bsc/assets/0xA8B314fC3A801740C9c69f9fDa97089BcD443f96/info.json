@@ -1,1 +1,21 @@
-
+{
+    "name": "Hades",
+    "website": "https://hades-bsc.com/",
+    "telegram": "https://t.me/hades_bsc",
+    "discord": [],
+    "twitter": "https://twitter.com/hades_bsc",
+    "description": "Our goal is to support our army of holders through Auto-Generating Liquidity Protocols, Marketing, and BNB rewards. Together we can reach every moon in the Metaverse Galaxy.",
+    "explorer": "https://bscscan.com/token/0xA8B314fC3A801740C9c69f9fDa97089BcD443f96",
+    "type": "BEP20",
+    "symbol": "HAD",
+    "decimals": 4,
+    "slippage": 15,
+    "status": "active",
+    "id": "0xA8B314fC3A801740C9c69f9fDa97089BcD443f96",
+    "vested": [
+        "0xa74985f546a514c41852f2631951919c56bb35f4", "0x16e4a689b24b779205241f4b909087260f12087a", "0xf2c10acf1e97381bcf24948de920d3576ae2ae6b"
+    , "0xfd674877dc5e87131dfe6ca3b7e545924c430801", "0x604e7809e004de0034e8f4e0afa31d22fae483b2", "0xb36d190b92bfdd9126a139b620e4e819eecf42d2", "0xcbb8582ddf5638f463b0afb668585cd18bce5973", "0xc70415527a98c725c3617fc4eb5e9e4f0628ed4f", "0x952db5398199c4f1d1283fc04f0d900e09eaae8c"    ],
+    "audits": [
+        "https://auditrate.tech/images/pdf/Hades_0xA8B314fC3A801740C9c69f9fDa97089BcD443f96.pdf"
+    ]
+}
