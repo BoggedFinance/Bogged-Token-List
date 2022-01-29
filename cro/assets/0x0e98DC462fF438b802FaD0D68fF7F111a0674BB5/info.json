@@ -1,0 +1,21 @@
+{
+    "name": "DNA Share",
+    "type": "CRC20",
+    "symbol": "DSHARE",
+    "decimals": 18,
+    "website": "https://dnadollar.com",
+    "description": "The first algorithmic stablecoin on Cronos, pegged to the price of 1 $USDC via seigniorage.",
+    "explorer": "https://cronoscan.com/token/0x0e98DC462fF438b802FaD0D68fF7F111a0674BB5",
+    "status": "active",
+    "id": "0x0e98DC462fF438b802FaD0D68fF7F111a0674BB5",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/dna_dollar"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/DNADollarlab"
+        }
+    ]
+} 

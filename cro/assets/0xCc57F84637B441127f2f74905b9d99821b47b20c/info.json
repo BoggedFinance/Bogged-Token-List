@@ -1,0 +1,21 @@
+{
+    "name": "DNA Dollar",
+    "type": "CRC20",
+    "symbol": "DNA",
+    "decimals": 18,
+    "website": "https://dnadollar.com",
+    "description": "The first algorithmic stablecoin on Cronos, pegged to the price of 1 $USDC via seigniorage.",
+    "explorer": "https://cronoscan.com/token/0xCc57F84637B441127f2f74905b9d99821b47b20c",
+    "status": "active",
+    "id": "0xCc57F84637B441127f2f74905b9d99821b47b20c",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/dna_dollar"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/DNADollarlab"
+        }
+    ]
+} 
