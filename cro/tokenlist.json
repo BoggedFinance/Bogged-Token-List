@@ -161,22 +161,6 @@
         "chainId": 25,
         "decimals": "",
         "logoURI": "https://app.cronaswap.org/images/tokens/0xadbd1231fb360047525BEdF962581F3eee7b49fe.svg"
-      },
-      {
-        "name": "DNA Dollar",
-        "symbol": "DNA",
-        "address": "0xCc57F84637B441127f2f74905b9d99821b47b20c",
-        "chainId": 25,
-        "decimals": "",
-        "logoURI": "https://dnadollar.com/dna.png"
-      },
-      {
-        "name": "DNA Share",
-        "symbol": "DSHARE",
-        "address": "0x0e98DC462fF438b802FaD0D68fF7F111a0674BB5",
-        "chainId": 25,
-        "decimals": "",
-        "logoURI": "https://dnadollar.com/share.png"
       }
     ]
   }
