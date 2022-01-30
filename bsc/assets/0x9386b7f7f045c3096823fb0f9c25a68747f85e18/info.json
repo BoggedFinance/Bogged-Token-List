@@ -1,0 +1,19 @@
+{
+    "name": "CHEEMSCAT",
+    "website": "https://cheemscat.com",
+    "telegram": "https://t.me/CheemsCats",
+    "twitter": "https://twitter.com/Cheems_cat",
+    "description": "Stealth launched to give everyone the same opportunity. No paperhands and no pump and dump. A fair launch for for a community with diamond hands. This is a token for the people, by the people. We are sick of constantly being left behind, While the rich get richer. This is a token that will reward all of us. Hold on dear life friends, because we are here for u all.",
+    "explorer": "https://bscscan.com/token/0x9386b7f7f045c3096823fb0f9c25a68747f85e18",
+    "type": "BEP20",
+    "symbol": "CAT",
+    "decimals": 9,
+    "slippage": 10,
+    "status": "active",
+    "id": "0x9386b7f7f045c3096823fb0f9c25a68747f85e18",
+    "vested": [
+        "0xeaed594b5926a7d5fbbc61985390baaf936a6b8d"
+    ],
+    "audits": [ ]
+}
+
