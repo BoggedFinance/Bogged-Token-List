@@ -1,0 +1,25 @@
+{
+  "name": "Puli Inu",
+  "website": "https://www.puli-inu.com",
+  "telegram": "https://t.me/Puli_Inu",
+  "description": "Powering P2E games every month. Store, swap, play, chat and earn tokens while introducing new investors to crypto.",
+  "explorer": "https://bscscan.com/token/0xaef0a177c8c329cbc8508292bb7e06c00786bbfc",
+  "discord": "https://discord.gg/252Fs93hM8",
+  "twitter": "https://twitter.com/puli_inu",
+  "type": "BEP20",
+  "symbol": "PULI",
+  "decimals": 9,
+  "status": "active",
+  "id": "0xB09FE1613fE03E7361319d2a43eDc17422f36B09",
+  "vested": [
+    "0x864d434308997e9648838d23f3eedf5d0fd17bea",
+	"0xB0f3bCf61425Fcf3D24966e7ae8B4C83F92357a7",
+	"0x0A2cB95D2Ef1EE6511b45e366D0349FedB406c75",
+	"0xc569C21b0862B112Ed69bA9d2C6e9Ed86A036f9C",
+	"0x3ff5cbe338153063d8251d2b6a22a437ec09eef3"
+  ],
+  "audits": [
+    "https://github.com/interfinetwork/smart-contract-audits/blob/audit-updates/PuliInu_0xAEf0a177c8c329CBC8508292Bb7E06c00786BBfC.pdf",
+	"https://github.com/coinscope-co/audits/blob/main/puli/audit.pdf"
+  ]
+}
