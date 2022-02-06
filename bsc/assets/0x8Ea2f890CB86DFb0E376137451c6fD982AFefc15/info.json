@@ -1,0 +1,19 @@
+{
+    "name": "AutoCrypto",
+    "website": "https://autocrypto.ai/",
+    "telegram": "https://t.me/AutoCryptoInternational",
+    "discord": "https://discord.gg/autocrypto",
+    "twitter": "https://twitter.com/autocrypto_ai",
+    "description": "AutoCrypto is an automated broker app managed by an Artificial Intelligence that combines mathematical extrapolation polynomials alongside a pre-trained time-series prediction neuronal network to predict very precisely the evolution of the top 200 cryptocurrencies and investing automatically for you.",
+    "explorer": "https://bscscan.com/token/0x8Ea2f890CB86DFb0E376137451c6fD982AFefc15",
+    "type": "BEP20",
+    "symbol": "AU",
+    "decimals": 18,
+    "slippage": 14,
+    "status": "active",
+    "id": "0x8Ea2f890CB86DFb0E376137451c6fD982AFefc15",
+    "vested": [],
+    "audits": [
+        "https://github.com/solidproof/smart-contract-audits/blob/main/SmartContract_Audit_Solidproof_AutoCrypto.pdf"
+    ]
+}
