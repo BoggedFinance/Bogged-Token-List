@@ -1,0 +1,15 @@
+{
+    "name": "SatoshiSwap",
+    "website": "https://satoshiswap.net/",
+    "telegram": "https://t.me/SatoshiSwapAnnouncements",
+    "twitter": "https://twitter.com/SatoshiSwapHQ",
+    "discord": "https://discord.gg/SatoshiStreetBets",
+    "description": "Trade, lend, borrow, earn and more, in a growing suite of DeFi products.",
+    "explorer": "https://bscscan.com/token/0x2F917C9f6BB4186E57841f5747FCc3fEdf026b35",
+    "type": "BEP20",
+    "symbol": "SWAP",
+    "decimals": 18,
+    "slippage": 0,
+    "status": "active",
+    "id": "0x2F917C9f6BB4186E57841f5747FCc3fEdf026b35"
+}
