@@ -1,0 +1,19 @@
+{
+  "name": "Bogged Finance",
+  "symbol": "BOG",
+  "decimals": 18,
+  "description": "My great description",
+  "discord": "https:/discord.gg/test",
+  "telegram": "https://t.me.com",
+  "twitter": "https://twitter.com/test",
+  "website": "https://test.com",
+  "vested": [
+    "0x0000000000000000000000000000000000000007",
+    "0x0000000000000000000000000000000000000008"
+  ],
+  "audits": [
+    "https://audit.com/file.pdf"
+  ],
+  "explorer": "https://explorer.harmony.one/address/0x0000000000000000000000000000000000000000",
+  "id": "0x0000000000000000000000000000000000000000"
+}
