@@ -1,0 +1,23 @@
+{
+    "name": "Restore Truth Token",
+    "type": "BEP20",
+    "symbol": "RTT",
+    "decimals": 18,
+    "website": "https://restoretruthtoken.com/",
+    "description": "Using the power of crypto, RTT puts American values at the forefront of its decision making, and you can play your part by using the RTT ecosystem to help fix issues important to you.",
+    "explorer": "https://bscscan.com/token/0x8f046a2457a8f1618cae4706fa57bf790e2532a6",
+    "github": "https://github.com/restoretruthtoken/restoretruthtoken",
+    "twitter": "https://twitter.com/restoretruthRTT",
+    "telegram": "https://t.me/RestoreTruthTokenChat",
+    "whitepaper": "https://restoretruthtoken.com/rtt-business-plan/",
+    "discord": "https://discord.com/invite/R7G7YMXYjt",
+    "reddit": "https://reddit.com/r/RestoreTruthToken/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/restoretruthtoken/",
+    "coingecko": "https://coingecko.com/en/coins/restore-truth-token",
+    "status": "active",
+    "id": "0x8F046a2457a8F1618cAe4706Fa57Bf790e2532a6",
+    "audits": [
+        "https://github.com/restoretruthtoken/restoretruthtoken/blob/main/RestoreTruthTokenAudit.pdf"
+    ]
+   
+} 
