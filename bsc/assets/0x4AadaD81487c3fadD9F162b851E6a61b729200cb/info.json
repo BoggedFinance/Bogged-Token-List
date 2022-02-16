@@ -1,0 +1,29 @@
+{
+    "name": "Shiba Floki Inu",
+    "website": "https://flokiinu.com",
+    "description": "Shibas are highly affectionate and would make a great choice for a novice pet parent. However, they’re highly sensitive and do not like being left alone for long periods of the day. As companion dogs, they crave the company of their humans and may develop separation anxiety when they don’t get the attention they need.",
+    "explorer": "https://bscscan.com/token/0x4AadaD81487c3fadD9F162b851E6a61b729200cb",
+    "symbol": "FLOKI",
+    "type": "BEP20",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x4AadaD81487c3fadD9F162b851E6a61b729200cb",
+    "links": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/shibaflokitoken"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/Shibafloki-106738328345160"
+      },
+      {
+        "name": "blog",
+        "url": "https://shibafloki.medium.com/"
+      },
+      {
+        "name": "telegram",
+        "url": "https://t.me/shibaflokitoken"
+      }
+    ]
+  }
