@@ -1,0 +1,17 @@
+{
+    "name": "Token Chipz",
+    "website": "https://mychipz.io/",
+    "telegram": "https://t.me/chipzio",
+    "discord": "https://discord.com/invite/v9Z6UqphqH",
+    "twitter": "https://twitter.com/MyChipzio",
+    "description": "Chipz is the first to introduce DeFi-backed solutions for betting situations, allowing gamblers to stake assets and earn yield over time based on the result of major events",
+    "explorer": "https://bscscan.com/token/0x0fABCB70eeDA798F9241F4bb11cceEa7d93B157a",
+    "type": "BEP20",
+    "symbol": "CHPZ",
+    "decimals": 18,
+    "slippage": 1,
+    "status": "active",
+    "id": "0x0fABCB70eeDA798F9241F4bb11cceEa7d93B157a",
+    "vested": [],
+    "audits": []
+}
