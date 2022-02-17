@@ -1,0 +1,19 @@
+{
+  "name": "Crypto Jackpot",
+  "symbol": "CJP",
+  "decimals": 18,
+  "description": "$CJP token is a BEP-20 utility token on BSC which will be the native token of Crypto Jackpot ecosystem. Crypto Jackpot is the first decentralised global lottery ticket that never expires. Crypto Jackpots never seen before tokenomics will transform the way people think about crypto. Your wallet address is your ticket number. This gives holders the ability to enter the jackpot multiple times by holding the minimum required in multiple wallets. We aim to give away a 1 million dollar jackpot in 2022.",
+  "discord": "",
+  "telegram": "https://t.me/Crypto_Jackpot_Official",
+  "twitter": "https://twitter.com/cryptojackpot88",
+  "website": "http://www.crypto-jackpot.com",
+  "vested": [
+    "0x7ee058420e5937496f5a2096f04caa7721cf70cc",
+    "0x072d5521b3b47e39aecfe434a15ebbdd41a49f34"
+  ],
+  "audits": [
+    "https://crypto-jackpot.com/wp-content/uploads/2022/01/Crypto-Jackpot-Audit.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0xEB78DfD268cEE4d50cFA3228b4d112aBa7C105BC",
+  "id": "0xEB78DfD268cEE4d50cFA3228b4d112aBa7C105BC"
+}
