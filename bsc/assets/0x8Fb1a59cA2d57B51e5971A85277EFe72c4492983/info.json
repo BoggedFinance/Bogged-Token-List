@@ -6,13 +6,13 @@
 "address": "0x8fb1a59ca2d57b51e5971a85277efe72c4492983",
 "ens_address": "",
 "decimals": 6,
-"website": "http://daftoken.io",
+"website": "https://daftoken.io",
 "slippage": 5,
 "Status": "active",
-"description": "DAF is a DEFI token made for easy investors with the help from crypto experts.",
+"description": "DAF is the creation from legendary rock band Boston drummer Jim Madea.",
     "explorer": "https://bscscan.com/token/0x8fb1a59ca2d57b51e5971a85277efe72c4492983",
 "logo": {
-"src": "https://i.ibb.co/r65VgsJ/FFCD7-C1-D-FBEA-4413-8-B11-89-A4-A8981809.png",
+"src": "https://raw.githubusercontent.com/daftoken/DAF/main/logo2.png",
 "width": "32px",
 "height": "32px",
 "ipfs_hash": ""
@@ -22,11 +22,11 @@
 "url": "https://daftoken.io"
 },
 "social": {
-"chat": "https://t.me/daftoken",
+"chat": "https://t.me/kingcrypto83",
 "discord": "https://discord.gg/DAFtoken#9454",
 "facebook": "https://www.facebook.com/daftoken",
-"github": "https://github.com/Frozenjeff/DAF",
-"telegram": "https://t.me/daftoken",
+"github": "https://github.com/daftoken/DAF",
+"telegram": "https://t.me/daf9token",
 "twitter": "https://twitter.com/daf_token",
   "id": "0x8fb1a59ca2d57b51e5971a85277efe72c4492983",
     "vested": [],
