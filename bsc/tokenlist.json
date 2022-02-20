@@ -468,14 +468,6 @@
         "logoURI": "https://assets.coingecko.com/coins/images/21863/small/photo_2021-12-22_14.43.36.jpeg?1640155440"
       },
       {
-        "name": "SafeMoon",
-        "symbol": "SAFEMOON",
-        "address": "0x42981d0bfbAf196529376EE702F2a9Eb9092fcB5",
-        "chainId": 56,
-        "decimals": "",
-        "logoURI": "https://assets.coingecko.com/coins/images/21863/small/photo_2021-12-22_14.43.36.jpeg?1640155440"
-      },
-      {
         "name": "Binamon",
         "symbol": "BMON",
         "address": "0x08ba0619b1e7A582E0BCe5BBE9843322C954C340",
