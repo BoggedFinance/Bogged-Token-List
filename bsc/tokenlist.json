@@ -444,14 +444,6 @@
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8335.png"
       },
       {
-        "name": "Mdex",
-        "symbol": "MDX",
-        "address": "0x9C65AB58d8d978DB963e63f2bfB7121627e3a739",
-        "chainId": 56,
-        "decimals": "",
-        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8335.png"
-      },
-      {
         "name": "OLYMPUS",
         "symbol": "OLYMPUS",
         "address": "0x9C65AB58d8d978DB963e63f2bfB7121627e3a739",
