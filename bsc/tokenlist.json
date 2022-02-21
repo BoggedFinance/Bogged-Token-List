@@ -212,14 +212,6 @@
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3513.png"
       },
       {
-        "name": "1inch Network",
-        "symbol": "1INCH",
-        "address": "0x111111111117dC0aa78b770fA6A738034120C302",
-        "chainId": 56,
-        "decimals": "",
-        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8104.png"
-      },
-      {
         "name": "SushiSwap",
         "symbol": "SUSHI",
         "address": "0x947950BcC74888a40Ffa2593C5798F11Fc9124C4",
