@@ -1,0 +1,19 @@
+{
+    "name": "TRNDZ Token",
+    "website": "https://trendsy.io",
+    "telegram": "https://t.me/+DCvHTi6lTNY3ZTRk",
+    "discord": "https://discord.gg/VznHEkWARP",
+    "twitter": "https://twitter.com/trendsy_token",
+    "description": "Trendsy Token is the native crypto utility asset, playing a central role in the Trendsy ecosystem. Trendsy token is on the Binance Smartchain Network, it has a 5 trillion total fixed supply, with burn functionality. Some key features include locked liquidity, smart contract fully audited with KYC check and legal opinion done by the reputable 3rd party firm called Soken.",
+    "explorer": "https://bscscan.com/token/0xbd8ccac4bd523cb2fdb34876de2f596dbf75885e",
+    "type": "BEP20",
+    "symbol": "TRNDZ",
+    "decimals": 8,
+    "slippage": 3,
+    "status": "active",
+    "id": "0xBD8ccac4bD523Cb2FDB34876De2f596dBF75885e",
+    "vested": [ ],
+    "audits": [
+        "https://github.com/sokenteam/smart_contract_audits/blob/main/Trendsy%20Token%20Comprehensive%20Smart%20Contract%20Audit.pdf"
+    ]
+}
