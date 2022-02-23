@@ -24,8 +24,12 @@ Normal Processing Fee: **0.5BNB.**
 
 ### Quick starter
 
-**Adding an BEP20 token checklist**:
+**EASY WAY**
 - [ ] Make sure your smartcontract has more than 300 address holders & 1000 transactions, otherwise you will be rejected. Dust attacks do not qualify.
+- Visit [Our easy upload site](https://tokens.bogged.finance)
+- Simple!
+
+**Adding an BEP20 token checklist**:
 - [ ] Fork the Github repository
 - [ ] Create folder with name of token smartcontact address in [_checksum format_](https://developer.trustwallet.com/add_new_asset#checksum_format) `bsc/assets/<token_smartcontract_address>/`.
 - [ ] *** MAKE SURE THE FOLDER NAME IS IN CHECKSUM FORMAT *** https://ethsum.netlify.app/
