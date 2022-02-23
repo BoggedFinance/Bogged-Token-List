@@ -1,0 +1,19 @@
+{
+    "name": "Minato DAO",
+    "website": "https://minatodao.com/",
+    "telegram": "https://t.me/MINATOKANJI",
+    "twitter": "https://twitter.com/Minato_Kanji",
+	"discord": "https://discord.gg/6XvzjeQWXt",
+	"reddit": "https://www.reddit.com/r/Minato_DAO/",
+	"facebook": "https://www.facebook.com/MinatoKanji/",
+	"coinmarketcap": "https://coinmarketcap.com/currencies/shiba2k22/"
+	"coingecko": "https://www.coingecko.com/en/coins/shiba2k22"
+    "description": "Minato. Sustainability driven, Utility-Focused and completely Decentralized Autonomous Organization",
+    "explorer": "https://bscscan.com/token/0x768B88C10E24b8947398734aee37F376C6eCCe97",
+    "type": "BEP20",
+    "symbol": "MNTO",
+    "decimals": 18,
+    "slippage": 5,
+    "status": "active",
+    "id": "0x768B88C10E24b8947398734aee37F376C6eCCe97"
+}
