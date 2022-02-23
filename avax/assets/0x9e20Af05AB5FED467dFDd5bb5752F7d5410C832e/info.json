@@ -1,0 +1,16 @@
+{
+  "name": "ProjectX2",
+  "symbol": "PXT2",
+  "decimals": 18,
+  "description": "Project X, was formed by the 100 Founders - a mature group of corporate executives who are supported by highly capable and intelligent young energy to create, nurture, and grow a node type project to be massively successful. From the beginning the mission was clear; Build, nurture, and operate a sustainable passive income cryptocurrency with an inclusive and ethical community of global supporters.\n\n10 Project X tokens are required to create a single Project X node. Once a node is created, passive income generation begins. Just node up and chill, it's as easy as that. The Project X team will do the necessary research and improvements to ensure your cryptocurrency-based passive income is sustainable, trustworthy and transparent.",
+  "discord": "https://discord.gg/projectx",
+  "telegram": "https://t.me/projectxnodes",
+  "twitter": "https://twitter.com/ProjectXNodes",
+  "website": "https://projectx.financial/#home",
+  "vested": [],
+  "audits": [
+    "https://twitter.com/AssureDefi/status/1478773296367759361"
+  ],
+  "explorer": "https://snowtrace.io/token/0x9e20Af05AB5FED467dFDd5bb5752F7d5410C832e",
+  "id": "0x9e20Af05AB5FED467dFDd5bb5752F7d5410C832e"
+}
