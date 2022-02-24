@@ -418,6 +418,14 @@
         "chainId": 43114,
         "decimals": "",
         "logoURI": "https://assets.coingecko.com/coins/images/22297/small/THO_200x200.png?1641425001"
+      },
+      {
+        "name": "Project X Nodes",
+        "symbol": "PXT2",
+        "address": "0x9e20Af05AB5FED467dFDd5bb5752F7d5410C832e",
+        "chainId": 43114,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17080.png"
       }
     ]
   }
