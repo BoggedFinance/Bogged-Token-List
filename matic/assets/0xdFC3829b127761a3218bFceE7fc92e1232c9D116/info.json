@@ -1,0 +1,14 @@
+{
+  "name": "Wrapped PRCY",
+  "symbol": "PPRCY",
+  "decimals": 8,
+  "description": "PRCY is a privacy blockchain with a focus on security, scalability and total privacy.The PRCY protocol has been built in a fully anonymous staking coin and payment system with a trustless governance structure, based upon the latest privacy technologies.",
+  "discord": "https://discord.gg/prcycoin",
+  "telegram": "https://t.me/prcycoinofficial",
+  "twitter": "https://twitter.com/prcycoin",
+  "website": "https://prcycoin.com",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://polygonscan.com/token/0xdFC3829b127761a3218bFceE7fc92e1232c9D116",
+  "id": "0xdFC3829b127761a3218bFceE7fc92e1232c9D116"
+}
