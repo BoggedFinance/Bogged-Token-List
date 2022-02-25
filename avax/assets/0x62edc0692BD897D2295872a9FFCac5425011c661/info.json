@@ -1,0 +1,14 @@
+{
+  "name": "GMX",
+  "symbol": "GMX",
+  "decimals": 18,
+  "description": "GMX is a decentralized spot and perpetual exchange that supports low swap fees and zero price impact trades.\nTrading is supported by a unique multi-asset pool that earns liquidity providers fees from market making, swap fees and leverage trading.\nDynamic pricing is supported by Chainlink Oracles along with TWAPs from leading volume DEXs.",
+  "discord": "https://discord.gg/3NBxXNHS",
+  "telegram": "https://t.me/GMX_IO",
+  "twitter": "https://twitter.com/GMX_IO",
+  "website": "https://gmx.io/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://snowtrace.io/token/0x62edc0692BD897D2295872a9FFCac5425011c661",
+  "id": "0x62edc0692BD897D2295872a9FFCac5425011c661"
+}
