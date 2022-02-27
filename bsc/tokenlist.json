@@ -10,6 +10,14 @@
         "decimals": "",
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7192.png"
       },
+         {
+        "name": "Safu Inu",
+        "symbol": "SFI",
+        "address": "0x2Af9bDCFBe74a64a3A2B258700259Bc42eA6F2f4",
+        "chainId": 56,
+        "decimals": "18",
+        "logoURI": "https://safuinu.space/theme-assets/images/frontlogo.png"
+      },
       {
         "name": "Bogged Finance",
         "symbol": "BOG",
