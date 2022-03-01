@@ -11,6 +11,15 @@
         "logoURI": "https://raw.githubusercontent.com/BoggedFinance/Bogged-Token-List/main/ftm/assets/0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83/logo.png"
       },
       {
+        "name": "Bogged Finance",
+        "symbol": "BOG",
+        "address": "0xB09FE1613fE03E7361319d2a43eDc17422f36B09",
+        "chainId": 250,
+        "decimals": "",
+        "logoURI": "https://raw.githubusercontent.com/BoggedFinance/Bogged-Token-List/main/bsc/assets/0xB09FE1613fE03E7361319d2a43eDc17422f36B09/logo.png",
+        "top": true
+      },
+      {
         "name": "Popsicle Finance",
         "symbol": "ICE",
         "address": "0xf16e81dce15B08F326220742020379B855B87DF9",
