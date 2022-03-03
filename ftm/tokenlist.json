@@ -338,6 +338,14 @@
         "chainId": 250,
         "decimals": "",
         "logoURI": "https://fantom-exchange.jetswap.finance/images/coins/wings.png"
+      },
+      {
+        "name": "DarkKnightSwap Token",
+        "symbol": "dKNIGHT",
+        "address": "0x6cc0E0AedbbD3C35283e38668D959F6eb3034856",
+        "chainId": 250,
+        "decimals": "",
+        "logoURI": "https://darkdex.knightswap.financial/images/coins/dKNIGHT.png"
       }
     ]
   }
