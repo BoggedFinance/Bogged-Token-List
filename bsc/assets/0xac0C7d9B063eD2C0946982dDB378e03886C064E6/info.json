@@ -10,6 +10,6 @@
     "symbol": "TREAT",
     "decimals": 18,
     "slippage": 0.1,
-    "status": "active",
+    "status": "inactive",
     "id": "0xac0c7d9b063ed2c0946982ddb378e03886c064e6"
 }
