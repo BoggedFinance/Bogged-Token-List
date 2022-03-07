@@ -1,0 +1,14 @@
+{
+  "name": "Real Coin",
+  "symbol": "RC",
+  "decimals": 8,
+  "description": "Offering a decentralized way to pay for any good or service, our goal is to be recognized, accepted, and used throughout the globe.",
+  "discord": "https://discord.gg/SxBBSbfh",
+  "telegram": "https://t.me/RealCoinOfficial",
+  "twitter": "https://twitter.com/21realcoins",
+  "website": "https://21realcoins.com",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x8C03AD4Bd6dDcA45a8aeD4188F097CC93340cd96",
+  "id": "0x8C03AD4Bd6dDcA45a8aeD4188F097CC93340cd96"
+}
