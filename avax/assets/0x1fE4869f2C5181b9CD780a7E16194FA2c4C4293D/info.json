@@ -1,0 +1,14 @@
+{
+  "name": "SNO",
+  "symbol": "SNO Token",
+  "decimals": 18,
+  "description": "Bringing more degens and utility to the Avalanche-C Chain. $SNO is pegged at a ratio of 1:1 with $JOE. Earn and stake $SNOSHARE to help peg $SNO with seigniorage.",
+  "discord": "https://discord.gg/rP7junpZ",
+  "telegram": "",
+  "twitter": "https://twitter.com/SnowyOwlFinance",
+  "website": "https://snowyowl.finance/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://snowtrace.io/token/0x1fE4869f2C5181b9CD780a7E16194FA2c4C4293D",
+  "id": "0x1fE4869f2C5181b9CD780a7E16194FA2c4C4293D"
+}
