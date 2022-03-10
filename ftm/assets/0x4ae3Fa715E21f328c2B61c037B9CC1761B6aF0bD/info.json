@@ -1,0 +1,23 @@
+{
+  "name": "Poseidon",
+  "symbol": "POS",
+  "decimals": 18,
+  "description": "Poseidon Finance is an auto-staking protocol on Fantom Opera ecosystem.",
+  "discord": "https://discord.gg/poseidonfinance",
+  "telegram": "https://t.me/poseidonfinance",
+  "twitter": "https://twitter.com/poseidon_fi",
+  "website": "https://poseidonfinancexyz.com/#/",
+  "vested": [
+    "0x54b259be3bfc6e6b76f35b742d08f48679e42764",
+    "0x00205d806d128fcd707ec90441a10e95d8adbadb",
+    "0x0352c104e26d25b2ffa204ffe37bfc7b8dd1e341",
+    "0x0667ec775e43897ebc3199f6cf822c6028628f3e",
+    "0x2e1993335580611231dffc761b2592ef5eb6dd39",
+    "0xF1Fe16A0BFAC91d6Ca77Adc7797B2b8DdFF3C8b7"
+  ],
+  "audits": [
+    "https://solidity.finance/audits/Poseidon/"
+  ],
+  "explorer": "https://ftmscan.com/token/0x4ae3Fa715E21f328c2B61c037B9CC1761B6aF0bD",
+  "id": "0x4ae3Fa715E21f328c2B61c037B9CC1761B6aF0bD"
+}
