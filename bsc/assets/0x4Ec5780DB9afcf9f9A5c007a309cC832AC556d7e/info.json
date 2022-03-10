@@ -1,0 +1,14 @@
+{
+  "name": "Weetwo",
+  "symbol": "Weetwo",
+  "decimals": 9,
+  "description": "Weetwo is a deflationary token with a huge Charitable side. Reflections will make holders profits and Weetwo’s charity wallet will pay for veterinarian surgeries for the needy. Weetwo tokens are burned by sending them to the 0x0...dead address and a total of 510,000,428,707,927 has been burned from the original supply of 1,000,000,000,000,000 as of Dec 05, 2021.",
+  "discord": "",
+  "telegram": "",
+  "twitter": "https://twitter.com/weetwocares",
+  "website": "https://weetwo.live",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x4Ec5780DB9afcf9f9A5c007a309cC832AC556d7e",
+  "id": "0x4Ec5780DB9afcf9f9A5c007a309cC832AC556d7e"
+}
