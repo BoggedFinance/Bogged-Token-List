@@ -387,12 +387,20 @@
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6952.png"
       },
       {
+        "name": "Candle",
+        "symbol": "CNDL",
+        "address": "0x5423063af146F5abF88Eb490486E6B53FA135eC9",
+        "chainId": 137,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18327.png"
+      },
+      {
         "name": "Jetswap",
         "symbol": "pWings",
         "address": "0x845E76A8691423fbc4ECb8Dd77556Cb61c09eE25",
         "chainId": 137,
         "decimals": "",
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12774.png"
-      } 
+      }
     ]
   }

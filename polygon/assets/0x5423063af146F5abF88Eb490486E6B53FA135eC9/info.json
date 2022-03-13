@@ -1,0 +1,33 @@
+{
+    "name": "Candle",
+    "website": "https://candlelabs.org/",
+    "description": "Candle (CNDL) is the utility and governance token for the Candle Protocol.",
+    "explorer": "https://polygonscan.com/token/0x5423063af146F5abF88Eb490486E6B53FA135eC9",
+    "type": "POLYGON",
+    "symbol": "CNDL",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x5423063af146F5abF88Eb490486E6B53FA135eC9",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/candleplatforms/contracts"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/candlelabs"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/candlelabs"
+        },
+        {
+            "name": "medium",
+            "url": "https://candle.medium.com/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/candle"
+        }
+    ]
+}
