@@ -1,0 +1,14 @@
+{
+  "name": "Candle (PoS)",
+  "symbol": "CNDL",
+  "decimals": 18,
+  "description": "Candle (CNDL) is the utility and governance token for the Candle Protocol. This protocol is designed to decentralize social media and build out a community governed and moderated place to discuss and share thoughts and ideas. A comparison for how this might look like is Twitter, a centralized public social media app. In addition to this social app, they plan to add a platform for Religion and spirituality, enabling seamless access to churches and more from anywhere in the world, at anytime, and giving them a transparent and publicly audited infrastructure to operate on - at least that is their publically stated goal.Candle is backed by a network of VC's and other well-known investors, looking to kickstart a new era in communications and messaging. Coinbase is said to be the largest private backer, with speculation of a16z as well.",
+  "discord": "https://discord.gg/candle",
+  "telegram": "https://t.me/candlelabs",
+  "twitter": "https://twitter.com/candle_labs",
+  "website": "https://candlelabs.org",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://polygonscan.com/token/0x5423063af146F5abF88Eb490486E6B53FA135eC9",
+  "id": "0x5423063af146F5abF88Eb490486E6B53FA135eC9"
+}
