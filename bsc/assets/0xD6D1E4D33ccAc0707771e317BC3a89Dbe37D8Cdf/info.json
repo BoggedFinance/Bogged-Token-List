@@ -1,0 +1,18 @@
+{
+  "name": "Coin Fast Alert V2",
+  "symbol": "CFA",
+  "decimals": 18,
+  "description": "CFA Token is a payment token for services and several offers for Digital Marketing products on Crypto.",
+  "discord": "",
+  "telegram": "https://t.me/CoinFastest",
+  "twitter": "https://twitter.com/CoinFastAlert",
+  "website": "https://coinfastalert.com/",
+  "vested": [
+    "0x11c8E5e0253fb7d375fbD235A54F02b4eA552ab5"
+  ],
+  "audits": [
+    "https://www.certik.com/projects/coin-fast-alert"
+  ],
+  "explorer": "https://bscscan.com/token/0xD6D1E4D33ccAc0707771e317BC3a89Dbe37D8Cdf",
+  "id": "0xD6D1E4D33ccAc0707771e317BC3a89Dbe37D8Cdf"
+}
