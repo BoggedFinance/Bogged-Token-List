@@ -1,0 +1,14 @@
+{
+  "name": "Wrapped BSC GRECAS",
+  "symbol": "WBGCS",
+  "decimals": 18,
+  "description": "Wrapped BSC GRECAS (WBGCS) - is a community-driven DeFi token programmed to reward holders with a seamless yield and liquidity generation protocol where 13% tax on each trade, 5% remains in the liquidity lock pool, 5.5% is redistributed to all holders token, 2% reward when making a transaction on the network and swap",
+  "discord": "https://discord.com/invite/YvWDtytMJd",
+  "telegram": "https://t.me/GRECASPlatform",
+  "twitter": "https://twitter.com/GrecasToken",
+  "website": "http://www.grecas.club",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0xe1a499B4d829e522Ef6e2bfCdc63c4E19ae992f0",
+  "id": "0xe1a499B4d829e522Ef6e2bfCdc63c4E19ae992f0"
+}
