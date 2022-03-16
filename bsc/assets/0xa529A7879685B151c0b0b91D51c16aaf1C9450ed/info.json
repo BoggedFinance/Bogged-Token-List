@@ -1,0 +1,14 @@
+{
+  "name": "GRECAS",
+  "symbol": "GCS",
+  "decimals": 18,
+  "description": "GRECAS is a decentralized financial payment network that rebuilds the traditional payment stack on the blockchain. It utilizes a basket of fiat-pegged stablecoins, algorithmically stabilized by its reserve currency GCS, to facilitate programmable payments and open financial infrastructure development. As of December 2020, the network has transacted an estimated $299 billion for over 2 million users",
+  "discord": "https://discord.com/invite/YvWDtytMJd",
+  "telegram": "https://t.me/GRECASPlatform",
+  "twitter": "https://twitter.com/GrecasToken",
+  "website": "http://www.grecas.club",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0xa529A7879685B151c0b0b91D51c16aaf1C9450ed",
+  "id": "0xa529A7879685B151c0b0b91D51c16aaf1C9450ed"
+}
