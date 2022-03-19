@@ -610,7 +610,14 @@
         "chainId": 56,
         "decimals": "",
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11736.png"
-      }
-      
+      },
+      {
+        "name": "Safuu",
+        "symbol": "SAFU",
+        "address": "0xE5bA47fD94CB645ba4119222e34fB33F59C7CD90",
+        "chainId": 56,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18515.png"
+      },
     ]
   }
