@@ -1,0 +1,13 @@
+{
+    "name": "TerraUSD",
+    "website": "https://www.terra.money/",
+    "telegram": "https://t.me/TerraLunaChat",
+    "twitter": "https://twitter.com/terra_money",
+    "description": "Terra is a public blockchain protocol deploying a suite of algorithmic decentralized stablecoins which underpin a thriving ecosystem that brings DeFi to the masses.",
+    "explorer": "https://snowtrace.io/token/0xb599c3590F42f8F995ECfa0f85D2980B76862fc1",
+    "type": "ERC20",
+    "symbol": "UST",
+    "decimals": 6,
+    "status": "active",
+    "id": "0xb599c3590F42f8F995ECfa0f85D2980B76862fc1"
+}
