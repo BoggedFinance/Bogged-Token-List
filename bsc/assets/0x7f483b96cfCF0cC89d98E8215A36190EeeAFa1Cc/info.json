@@ -1,0 +1,14 @@
+{
+  "name": "IGOCOIN",
+  "symbol": "IGO",
+  "decimals": 16,
+  "description": "IGOCOIN is token on Binance Smart Chain network can be used in the ecosystem for rewards, and other Defi features like staking and farming.",
+  "discord": "",
+  "telegram": "https://t.me/joinchat/hUhMQvf_9TY5Njcy",
+  "twitter": "https://twitter.com/igocoin",
+  "website": "http://www.igocoin.org",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x7f483b96cfCF0cC89d98E8215A36190EeeAFa1Cc",
+  "id": "0x7f483b96cfCF0cC89d98E8215A36190EeeAFa1Cc"
+}
