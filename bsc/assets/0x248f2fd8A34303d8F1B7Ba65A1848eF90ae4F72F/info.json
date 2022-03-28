@@ -10,8 +10,7 @@
   "vested": [],
   "audits": [
     "https://moonarch.app/token/0x248f2fd8A34303d8F1B7Ba65A1848eF90ae4F72F",
-    "https://explorer.bitquery.io/bsc/token/0x248f2fd8a34303d8f1b7ba65a1848ef90ae4f72f",
-    "https://gopluslabs.io/token-security/56/0x248f2fd8A34303d8F1B7Ba65A1848eF90ae4F72F"
+    "https://explorer.bitquery.io/bsc/token/0x248f2fd8a34303d8f1b7ba65a1848ef90ae4f72f"
   ],
   "explorer": "https://bscscan.com/token/0x248f2fd8A34303d8F1B7Ba65A1848eF90ae4F72F",
   "id": "0x248f2fd8A34303d8F1B7Ba65A1848eF90ae4F72F"
