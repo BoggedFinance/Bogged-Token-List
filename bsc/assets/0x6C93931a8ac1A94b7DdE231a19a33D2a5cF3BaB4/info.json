@@ -1,0 +1,19 @@
+{
+  "name": "Greenlyght Coin",
+  "symbol": "GLC",
+  "decimals": 9,
+  "description": "Greenlyght Coin represents the bridge between crypto and cannabis, a merger unlike any company or project has done before. This is accomplished using our already-functional, groundbreaking utility backed by Greenlyght “The Delivery Company,” an established company going strong for over 5 years. For holders of Greenlyght Coin (GLC), that means the opportunity to earn rewards in the form of BUSD from real sales that Greenlyght makes. In addition to earning BUSD from a percentage of the sales that go through the Greenlyght Delivery Platform, holders can also earn free GLC by staking their coins in our complex, auto-compounding staking program. These two rewards programs go hand-in-hand and are explained in detail in our 2022 GLC Staking & Profit- Sharing Schedule On Our Website ",
+  "discord": "https://discord.gg/RaY7Y5q2EZ",
+  "telegram": "https://t.me/GreenlyghtCoinOfficial",
+  "twitter": "https://twitter.com/greenlyghtcoin",
+  "website": "https://www.greenlyghtcoin.com",
+  "vested": [
+    "0x5fe22a8a8abe0cb141533d588376ab89e7b7b0da",
+    "0x3b516864577c59b5b705a245ea5b15396278bd11"
+  ],
+  "audits": [
+    "https://dessertswap.finance/audits/GreenLyght-Coin-BSC-Audit-15783794.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0x6C93931a8ac1A94b7DdE231a19a33D2a5cF3BaB4",
+  "id": "0x6C93931a8ac1A94b7DdE231a19a33D2a5cF3BaB4"
+}

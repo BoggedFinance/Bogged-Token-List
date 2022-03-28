@@ -610,6 +610,14 @@
         "chainId": 56,
         "decimals": "",
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11736.png"
+      },
+      {
+        "name": "KnightSwap",
+        "symbol": "KNIGHT",
+        "address": "0xD23811058Eb6e7967D9a00dc3886E75610c4AbBa",
+        "chainId": 56,
+        "decimals": "",
+        "logoURI": "https://raw.githubusercontent.com/BoggedFinance/Bogged-Token-List/main/bsc/assets/0xD23811058Eb6e7967D9a00dc3886E75610c4AbBa/logo.png"
       }
     ]
   }
