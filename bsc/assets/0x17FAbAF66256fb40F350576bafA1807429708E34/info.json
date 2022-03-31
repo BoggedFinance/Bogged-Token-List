@@ -1,0 +1,14 @@
+{
+  "name": "RocketBUSD",
+  "symbol": "RocketBUSD",
+  "decimals": 18,
+  "description": "Rocket Genesis - community-powered software, gaming & blockchain technologyDeFi is rapidly growing in innovation, complexity, and population.Rocket exists to help simplify complexity, improve security, and accelerate performance through Rocket Genesis, its powerful, light and environmentally responsible decentralized infrastructure which hosts an ecosystem of solutions and games for an ever-growing DeFi community.Holders of the native utility token are rewarded with reflections and can use it in tools, games, community-based proposal voting and to unlock premium features & rewards.At Rocket, we envision and are committed to realizing a unified, community-powered future in DeFi with partners where challenges are opportunities and where trust is the default.www.rocketgenesis.com",
+  "discord": "https://www.discord.gg/rocketgenesis",
+  "telegram": "",
+  "twitter": "https://www.twitter.com/rocketgenesis",
+  "website": "https://www.rocketgenesis.com",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x17FAbAF66256fb40F350576bafA1807429708E34",
+  "id": "0x17FAbAF66256fb40F350576bafA1807429708E34"
+}
