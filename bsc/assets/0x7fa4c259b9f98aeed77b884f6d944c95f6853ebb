@@ -1,0 +1,13 @@
+{
+    "name": "KeeCoin",
+    "website": "https://www.keecoin.io",
+    "discord": "https://discord.gg/FCNEZR3GvQ",
+    "twitter": "https://twitter.com/KeecoinToken",
+    "description": "KeeCoin is a free de-fi dapps for manage your wallet",
+    "explorer": "https://bscscan.com/token/0x7fa4c259b9f98aeed77b884f6d944c95f6853ebb",
+    "type": "BEP20",
+    "symbol": "KEEC",
+    "decimals": 4,
+    "status": "active",
+    "id": "0x7fa4c259b9f98aeed77b884f6d944c95f6853ebb",
+}
