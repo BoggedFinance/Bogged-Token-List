@@ -1,0 +1,17 @@
+{
+    "name": "Koleecoin",
+    "website": "https://koleecoin.com",
+    "telegram": "https://t.me/koleecoin",
+    "discord": "https://discord.gg/wgBBdzdtY6",
+    "twitter": ,
+    "description": "DAO providing legal support for civil rights claims against the authorities, as well as the personal community token of Youtube Auditor Koleeberks.",
+    "explorer": "https://bscscan.com/token/0xbd1c0db633eb7e67339d27011d91b58b5272de36",
+    "type": "BEP20",
+    "symbol": "$KLE",
+    "decimals": 18,
+    "slippage": 0,
+    "status": "active",
+    "id": "0xbd1c0db633EB7E67339d27011d91b58b5272dE36",
+    "vested": [],
+    "audits": []
+}
