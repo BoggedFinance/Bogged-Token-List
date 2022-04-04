@@ -1,0 +1,18 @@
+{
+  "name": "Dabb Doge",
+  "symbol": "DDoge",
+  "decimals": 18,
+  "description": " DABB DOGE is a decentralized peer-to-peer digital currency that enables instant transactions to anyone anywhere in the world without any transaction fees. Dabb Doge was originated from the famous meme crypto “DOGE COIN”",
+  "discord": "https://discord.gg/DZXthG3rFB",
+  "telegram": "https://t.me/dabbdoge",
+  "twitter": "https://www.twitter.com/DabbDoge",
+  "website": "https://dabbdoge.com/",
+  "vested": [
+    "0xeaada674902489871e5752dc51c4a68f629a52c4"
+  ],
+  "audits": [
+    "https://github.com/TechRate/Smart-Contract-Audits/blob/main/March/Dabb%20Doge%20Full%20Smart%20Contract%20Security%20Audit.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0xC638a73969C0F7442Ba8F5Ffda9968434891034B",
+  "id": "0xC638a73969C0F7442Ba8F5Ffda9968434891034B"
+}
