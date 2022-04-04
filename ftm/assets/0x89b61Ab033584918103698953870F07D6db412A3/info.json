@@ -1,0 +1,16 @@
+{
+  "name": "KungFuu",
+  "symbol": "KNGFUU",
+  "decimals": 18,
+  "description": "KungFuu Finance is an auto-staking protocol on Fantom offering a 50,000% fixed APY.",
+  "discord": "https://discord.gg/DdUBYwyHPu",
+  "telegram": "",
+  "twitter": "https://twitter.com/kungfuu_fi",
+  "website": "https://www.kungfuu.app",
+  "vested": [
+    "0x914adbe1a641f1e4a8ce22776d342d4c2669f030"
+  ],
+  "audits": [],
+  "explorer": "https://ftmscan.com/token/0x89b61Ab033584918103698953870F07D6db412A3",
+  "id": "0x89b61Ab033584918103698953870F07D6db412A3"
+}
