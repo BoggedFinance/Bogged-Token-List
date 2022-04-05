@@ -160,7 +160,7 @@
         "address": "0xadbd1231fb360047525BEdF962581F3eee7b49fe",
         "chainId": 25,
         "decimals": "",
-        "logoURI": "https://app.cronaswap.org/images/tokens/0xadbd1231fb360047525BEdF962581F3eee7b49fe.svg"
+        "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xadbd1231fb360047525BEdF962581F3eee7b49fe/logo.png"
       },
       {
         "name": "Crogecoin",
