@@ -169,7 +169,7 @@
         "chainId": 25,
         "decimals": "",
         "logoURI": "https://raw.githubusercontent.com/BoggedFinance/Bogged-Token-List/df76e88ddad107ab4d408013c72999b81ef0d6a0/cro/assets/0xC4a174cCb5fb54a6721e11e0Ca961e42715023F9/logo.png",
-        "promo": true
+        "promo": false
       }
     ]
   }
