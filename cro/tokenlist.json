@@ -112,7 +112,7 @@
         "chainId": 25,
         "decimals": "",
         "logoURI": "https://raw.githubusercontent.com/BoggedFinance/Bogged-Token-List/df76e88ddad107ab4d408013c72999b81ef0d6a0/cro/assets/0xC4a174cCb5fb54a6721e11e0Ca961e42715023F9/logo.png",
-        "promo": false
+        "promo": true
       },
       {
         "name": "Mad Bucks",
@@ -120,8 +120,7 @@
         "address": "0x212331e1435A8df230715dB4C02B2a3A0abF8c61",
         "chainId": 25,
         "decimals": "",
-        "logoURI": "https://mm.finance//images/tokens/0x212331e1435A8df230715dB4C02B2a3A0abF8c61.svg",
-        "promo": false
+        "logoURI": "https://mm.finance//images/tokens/0x212331e1435A8df230715dB4C02B2a3A0abF8c61.svg"
       },
       {
         "name": "Savanna Token",
@@ -129,8 +128,7 @@
         "address": "0x654bAc3eC77d6dB497892478f854cF6e8245DcA9",
         "chainId": 25,
         "decimals": "",
-        "logoURI": "https://mm.finance//images/tokens/0x654bAc3eC77d6dB497892478f854cF6e8245DcA9.svg",
-        "promo": false
+        "logoURI": "https://mm.finance//images/tokens/0x654bAc3eC77d6dB497892478f854cF6e8245DcA9.svg"
       },
       {
         "name": "Savanna Share",
@@ -138,8 +136,7 @@
         "address": "0xf8b9facB7B4410F5703Eb29093302f2933D6E1Aa",
         "chainId": 25,
         "decimals": "",
-        "logoURI": "https://mm.finance//images/tokens/0xf8b9facB7B4410F5703Eb29093302f2933D6E1Aa.svg",
-        "promo": false
+        "logoURI": "https://mm.finance//images/tokens/0xf8b9facB7B4410F5703Eb29093302f2933D6E1Aa.svg"
       },
       {
         "name": "Mad Meerkat Optimizer",
@@ -147,8 +144,7 @@
         "address": "0x50c0C5bda591bc7e89A342A3eD672FB59b3C46a7",
         "chainId": 25,
         "decimals": "",
-        "logoURI": "https://mm.finance//images/tokens/0x50c0C5bda591bc7e89A342A3eD672FB59b3C46a7.svg",
-        "promo": false
+        "logoURI": "https://mm.finance//images/tokens/0x50c0C5bda591bc7e89A342A3eD672FB59b3C46a7.svg"
       },
       {
         "name": "Darkness Dollar",
@@ -156,8 +152,7 @@
         "address": "0x6582C738660bf0701f05b04DcE3c4E5Fcfcda47a",
         "chainId": 25,
         "decimals": "",
-        "logoURI": "https://mm.finance//images/tokens/0x6582C738660bf0701f05b04DcE3c4E5Fcfcda47a.svg",
-        "promo": false
+        "logoURI": "https://mm.finance//images/tokens/0x6582C738660bf0701f05b04DcE3c4E5Fcfcda47a.svg"
       },
       {
         "name": "Mad Meerkat ETF",
@@ -165,8 +160,7 @@
         "address": "0xB8Df27c687c6af9aFE845A2aFAD2D01e199f4878",
         "chainId": 25,
         "decimals": "",
-        "logoURI": "https://mm.finance//images/tokens/0xB8Df27c687c6af9aFE845A2aFAD2D01e199f4878.svg",
-        "promo": false
+        "logoURI": "https://mm.finance//images/tokens/0xB8Df27c687c6af9aFE845A2aFAD2D01e199f4878.svg"
       },
       {
         "name": "DarkCrypto Share",
@@ -174,8 +168,7 @@
         "address": "0x9D3BBb0e988D9Fb2d55d07Fe471Be2266AD9c81c",
         "chainId": 25,
         "decimals": "",
-        "logoURI": "https://mm.finance//images/tokens/0x9D3BBb0e988D9Fb2d55d07Fe471Be2266AD9c81c.svg",
-        "promo": false
+        "logoURI": "https://mm.finance//images/tokens/0x9D3BBb0e988D9Fb2d55d07Fe471Be2266AD9c81c.svg"
       },
       {
         "name": "Goal",
@@ -183,8 +176,7 @@
         "address": "0x00fe915a5209e74D5a88334cC2daA4541AEC8278",
         "chainId": 25,
         "decimals": "",
-        "logoURI": "https://mm.finance//images/tokens/0x00fe915a5209e74D5a88334cC2daA4541AEC8278.svg",
-        "promo": false
+        "logoURI": "https://mm.finance//images/tokens/0x00fe915a5209e74D5a88334cC2daA4541AEC8278.svg"
       },
       {
         "name": "Darkness Share",
@@ -192,8 +184,7 @@
         "address": "0xE727240728C1a5f95437b8b50AFDd0EA4AE5F0c8",
         "chainId": 25,
         "decimals": "",
-        "logoURI": "https://mm.finance//images/tokens/0xE727240728C1a5f95437b8b50AFDd0EA4AE5F0c8.svg",
-        "promo": false
+        "logoURI": "https://mm.finance//images/tokens/0xE727240728C1a5f95437b8b50AFDd0EA4AE5F0c8.svg"
       },
       {
         "name": "Pegasus Dollar",
@@ -201,8 +192,7 @@
         "address": "0x8EfBaA6080412D7832025b03B9239D0be1e2aa3B",
         "chainId": 25,
         "decimals": "",
-        "logoURI": "https://mm.finance//images/tokens/0x8EfBaA6080412D7832025b03B9239D0be1e2aa3B.svg",
-        "promo": false
+        "logoURI": "https://mm.finance//images/tokens/0x8EfBaA6080412D7832025b03B9239D0be1e2aa3B.svg"
       },
       {
         "name": "DarkCrypto",
@@ -210,8 +200,7 @@
         "address": "0x83b2AC8642aE46FC2823Bc959fFEB3c1742c48B5",
         "chainId": 25,
         "decimals": "",
-        "logoURI": "https://mm.finance//images/tokens/0x83b2AC8642aE46FC2823Bc959fFEB3c1742c48B5.svg",
-        "promo": false
+        "logoURI": "https://mm.finance//images/tokens/0x83b2AC8642aE46FC2823Bc959fFEB3c1742c48B5.svg"
       },
       {
         "name": "CROTAMA",
@@ -219,8 +208,7 @@
         "address": "0x4c76a10A658d71AdB6431765a0a3cA13B6e2D491",
         "chainId": 25,
         "decimals": "",
-        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19361.png",
-        "promo": false
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19361.png"
       },
       {
         "name": "VSHARE",
@@ -228,8 +216,7 @@
         "address": "0xdcC261c03cD2f33eBea404318Cdc1D9f8b78e1AD",
         "chainId": 25,
         "decimals": "",
-        "logoURI": "https://vvs.finance/images/tokens/0xdcC261c03cD2f33eBea404318Cdc1D9f8b78e1AD.svg",
-        "promo": false
+        "logoURI": "https://vvs.finance/images/tokens/0xdcC261c03cD2f33eBea404318Cdc1D9f8b78e1AD.svg"
       },
       {
         "name": "V3SToken",
@@ -237,8 +224,7 @@
         "address": "0xC7e99a2f064Cf86aF91Db252a9D8Bc16e6fE7427",
         "chainId": 25,
         "decimals": "",
-        "logoURI": "https://vvs.finance/images/tokens/0xC7e99a2f064Cf86aF91Db252a9D8Bc16e6fE7427.svg",
-        "promo": false
+        "logoURI": "https://vvs.finance/images/tokens/0xC7e99a2f064Cf86aF91Db252a9D8Bc16e6fE7427.svg"
       },
       {
         "name": "Artificial Liquid Intelligence Token",
@@ -246,8 +232,7 @@
         "address": "0x45C135C1CDCE8d25A3B729A28659561385C52671",
         "chainId": 25,
         "decimals": "",
-        "logoURI": "https://vvs.finance/images/tokens/0x45C135C1CDCE8d25A3B729A28659561385C52671.svg",
-        "promo": false
+        "logoURI": "https://vvs.finance/images/tokens/0x45C135C1CDCE8d25A3B729A28659561385C52671.svg"
       },
       {
         "name": "Tectonic Governance Token",
@@ -255,8 +240,7 @@
         "address": "0xDD73dEa10ABC2Bff99c60882EC5b2B81Bb1Dc5B2",
         "chainId": 25,
         "decimals": "",
-        "logoURI": "https://vvs.finance/images/tokens/0xDD73dEa10ABC2Bff99c60882EC5b2B81Bb1Dc5B2.svg",
-        "promo": false
+        "logoURI": "https://vvs.finance/images/tokens/0xDD73dEa10ABC2Bff99c60882EC5b2B81Bb1Dc5B2.svg"
       },
       {
         "name": "ApeCoin",
@@ -264,8 +248,7 @@
         "address": "0x9C62F89a8C9907582f21205Ce90443730361EA05",
         "chainId": 25,
         "decimals": "",
-        "logoURI": "https://vvs.finance/images/tokens/0x9C62F89a8C9907582f21205Ce90443730361EA05.svg",
-        "promo": false
+        "logoURI": "https://vvs.finance/images/tokens/0x9C62F89a8C9907582f21205Ce90443730361EA05.svg"
       },
       {
         "name": "SINGLE Token",
@@ -273,8 +256,7 @@
         "address": "0x0804702a4E749d39A35FDe73d1DF0B1f1D6b8347",
         "chainId": 25,
         "decimals": "",
-        "logoURI": "https://vvs.finance/images/tokens/0x0804702a4E749d39A35FDe73d1DF0B1f1D6b8347.svg",
-        "promo": false
+        "logoURI": "https://vvs.finance/images/tokens/0x0804702a4E749d39A35FDe73d1DF0B1f1D6b8347.svg"
       },
       {
         "name": "Croki",
@@ -282,8 +264,7 @@
         "address": "0x43e90012a3d69AeBdc2750424b41655776c6D598",
         "chainId": 25,
         "decimals": "",
-        "logoURI": "https://mm.finance//images/tokens/0x43e90012a3d69AeBdc2750424b41655776c6D598.svg",
-        "promo": false
+        "logoURI": "https://mm.finance//images/tokens/0x43e90012a3d69AeBdc2750424b41655776c6D598.svg"
       },
       {
         "name": "Mad Meerkat Finance",
@@ -291,8 +272,7 @@
         "address": "0x97749c9B61F878a880DfE312d2594AE07AEd7656",
         "chainId": 25,
         "decimals": "",
-        "logoURI": "https://mm.finance//images/tokens/0x97749c9B61F878a880DfE312d2594AE07AEd7656.svg",
-        "promo": false
+        "logoURI": "https://mm.finance//images/tokens/0x97749c9B61F878a880DfE312d2594AE07AEd7656.svg"
       }
     ]
   }
