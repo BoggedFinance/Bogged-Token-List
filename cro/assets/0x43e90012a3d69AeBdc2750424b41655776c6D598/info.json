@@ -1,0 +1,16 @@
+{
+  "name": "Croki",
+  "symbol": "$CROKI",
+  "decimals": 9,
+  "description": "We aim to be the Floki of the Cronos Blockchain. Built on a foundation of an amazing supportive community. Stealth launched to give everybody a fair shake. We have a hard working dev team to include influencers, contract developers, and web & dapp developers. With our wonderful community support we aim to build an entire utility based ecosystem.",
+  "discord": "https://discord.gg/SmDxuWxT",
+  "telegram": "https://t.me/CrokiCoin",
+  "twitter": "https://twitter.com/CrokiCoin",
+  "website": "http://croki.site/",
+  "vested": [],
+  "audits": [
+    "https://rugdoc.io/project/crokicoin/"
+  ],
+  "explorer": "https://cronoscan.com/token/0x43e90012a3d69AeBdc2750424b41655776c6D598",
+  "id": "0x43e90012a3d69AeBdc2750424b41655776c6D598"
+}
