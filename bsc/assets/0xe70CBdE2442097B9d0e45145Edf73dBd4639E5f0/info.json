@@ -1,0 +1,16 @@
+{
+  "name": "WallStreet Finance",
+  "symbol": "WSF",
+  "decimals": 5,
+  "description": "WSF rewards holders with a sustainable Fixed APY of 825,992.73% compounding EVERY 3 SECONDS",
+  "discord": "https://discord.com/invite/4VqtpRYhd5",
+  "telegram": "https://t.me/WallStreetFinanceApp",
+  "twitter": "",
+  "website": " https://www.wallstreetfinance.app/",
+  "vested": [],
+  "audits": [
+    "https://github.com/AuditRateTech/Smart-Contract-Audits/blob/main/WallStreet_Finance_0xe70CBdE2442097B9d0e45145Edf73dBd4639E5f0.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0xe70CBdE2442097B9d0e45145Edf73dBd4639E5f0",
+  "id": "0xe70CBdE2442097B9d0e45145Edf73dBd4639E5f0"
+}
