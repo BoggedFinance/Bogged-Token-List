@@ -524,14 +524,6 @@
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9848.png"
       },
       {
-        "name": "StaySAFU",
-        "symbol": "SAFU",
-        "address": "0x890cc7d14948478c98A6CD7F511E1f7f7f99F397",
-        "chainId": 56,
-        "decimals": "",
-        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11751.png"
-      },
-      {
         "name": "Birb",
         "symbol": "BIRB",
         "address": "0x82A479264B36104be4FDb91618a59A4fC0F50650",
