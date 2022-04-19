@@ -393,6 +393,14 @@
         "chainId": 137,
         "decimals": "",
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12774.png"
+      },
+      {
+        "name": "Sphere Finance",
+        "symbol": "SPHERE",
+        "address": "0x8D546026012bF75073d8A586f24A5d5ff75b9716",
+        "chainId": 137,
+        "decimals": "",
+        "logoURI": "https://raw.githubusercontent.com/BoggedFinance/Bogged-Token-List/main/polygon/assets/0x8D546026012bF75073d8A586f24A5d5ff75b9716/logo.png"
       } 
     ]
   }
