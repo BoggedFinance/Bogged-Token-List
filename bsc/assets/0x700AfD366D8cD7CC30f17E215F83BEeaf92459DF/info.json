@@ -1,0 +1,18 @@
+{
+  "name": "Apocalypse",
+  "symbol": "APOC",
+  "decimals": 9,
+  "description": "The Apocalypse Play-To-Earn NFT game on the Binance Smart Chain. Players are able to recruit their heroes, craft their weapons, wands and shields to fight mobsters and gain level.",
+  "discord": "https://discord.gg/Zj2ybWMnu2",
+  "telegram": "https://t.me/revoluziontoken",
+  "twitter": "https://twitter.com/RevoluzionToken",
+  "website": "https://apocgame.io/",
+  "vested": [
+    "0x80149ab7b0a8c8c8ecf8fa4d096748e4c311fd08"
+  ],
+  "audits": [
+    "https://github.com/coinscope-co/audits/blob/main/apoc/audit.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0x700AfD366D8cD7CC30f17E215F83BEeaf92459DF",
+  "id": "0x700AfD366D8cD7CC30f17E215F83BEeaf92459DF"
+}
