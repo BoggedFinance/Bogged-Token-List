@@ -10,6 +10,15 @@
         "logoURI": "https://raw.githubusercontent.com/BoggedFinance/Bogged-Token-List/main/cro/assets/0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23/logo.png"
       },
       {
+        "name": "Bogged Finance",
+        "symbol": "BOG",
+        "address": "0xB09FE1613fE03E7361319d2a43eDc17422f36B09",
+        "chainId": 25,
+        "decimals": "",
+        "logoURI": "https://raw.githubusercontent.com/BoggedFinance/Bogged-Token-List/main/bsc/assets/0xB09FE1613fE03E7361319d2a43eDc17422f36B09/logo.png",
+        "top": true
+      },
+      {
         "name": "USD Coin",
         "symbol": "USDC",
         "address": "0xc21223249CA28397B4B6541dfFaEcC539BfF0c59",
