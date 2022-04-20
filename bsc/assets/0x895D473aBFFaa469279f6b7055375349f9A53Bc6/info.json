@@ -1,0 +1,16 @@
+{
+  "name": "Shiba Rewards",
+  "symbol": "SHREW",
+  "decimals": 18,
+  "description": "Shiba Rewards was created out of frustration due to many new projects featuring high taxes with a majority collected going to the developers wallets rather than the investors. SHREW was designed to be a low tax, rewards token and features a 0% buy and transfer tax with a 10% sell tax. Simply hold Shiba Rewards to received the BSC pair of SHIB in your wallet with each sell transaction. With a number of Shiba / Floki inspired coins with high taxes with the largest percentage going towards the developers, Shiba Rewards aims to change that by valuing the investors most. ",
+  "discord": "https://discord.com/invite/5P8x7psTpX",
+  "telegram": "https://t.me/ShibaRewardsOfficial",
+  "twitter": "https://twitter.com/shrewtoken",
+  "website": "https://shibarewards.io",
+  "vested": [],
+  "audits": [
+    "https://github.com/AuditRateTech/Smart-Contract-Audits/blob/main/Shiba_Rewards_0x895D473aBFFaa469279f6b7055375349f9A53Bc6.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0x895D473aBFFaa469279f6b7055375349f9A53Bc6",
+  "id": "0x895D473aBFFaa469279f6b7055375349f9A53Bc6"
+}
