@@ -2,14 +2,12 @@
   "name": "CatGirl",
   "symbol": "CATGIRL",
   "decimals": 9,
-  "description": "CATGIRL¢ is an NFT focused, community driven crypto currency, with real world use.",
+  "description": "CATGIRL¢ is an NFT focused, community driven crypto currency, with real world use.Catgirl creates an in-depth entertainment platform consisting of digitally-engineered collectible Catgirls. Users can truly own Catgirls and verify their ownership on the blockchain. With customizable Catgirl NFTs coming soon to our Catgirl ecosystem, we will bring a multitude of ways to allow our users to express themselves.",
   "discord": "https://discord.gg/catgirlcoin",
   "telegram": "https://t.me/catgirlcoin",
   "twitter": "https://twitter.com/catgirlcoin",
   "website": "https://catgirl.io",
-  "vested": [
-    "0x000000000000000000000000000000000000dead"
-  ],
+  "vested": [],
   "audits": [
     "https://solidity.finance/audits/CatGirl/",
     "https://www.certik.com/projects/catgirl"
