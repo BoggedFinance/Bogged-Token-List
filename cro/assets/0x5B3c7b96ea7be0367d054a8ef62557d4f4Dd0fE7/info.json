@@ -1,0 +1,18 @@
+{
+  "name": "Crypto Kart Racing",
+  "symbol": "CKRACING",
+  "decimals": 18,
+  "description": "Crypto Kart Racing ($CKRACING) aims to be the biggest racing Play-2-Earn (P2E) project on the CRO network. With the simple gameplay mechanics, ability to pick up and play races quickly and earn whilst playing and earning unlockable items, as well as a very strong team behind the project, CK Racing has all of the right components to being one of the biggest on CRO.",
+  "discord": "",
+  "telegram": "https://t.me/cryptokartracing",
+  "twitter": "https://twitter.com/CKRacing_CRO",
+  "website": "https://www.cryptokartracing.com",
+  "vested": [
+    "0xdD6E31A046b828CbBAfb939C2a394629aff8BBdC"
+  ],
+  "audits": [
+    "https://github.com/solidproof/projects/blob/main/Crypto%20Kart%20Racing/SmartContract_Audit_Solidproof_CryptoKartRacing.pdf"
+  ],
+  "explorer": "https://cronoscan.com/token/0x5B3c7b96ea7be0367d054a8ef62557d4f4Dd0fE7",
+  "id": "0x5B3c7b96ea7be0367d054a8ef62557d4f4Dd0fE7"
+}
