@@ -1,0 +1,18 @@
+{
+  "name": "Revoluzion",
+  "symbol": "RVZ",
+  "decimals": 9,
+  "description": "The future of the Multi-DApp ecosystem is here, a Revoluzion! Full-on DApp integration including our Play-to-Earn web-based NFT game, Apocalypse. We are the only smart choice for your investment!",
+  "discord": "https://discord.gg/Zj2ybWMnu2",
+  "telegram": "https://t.me/revoluziontoken",
+  "twitter": "https://twitter.com/RevoluzionToken",
+  "website": "https://revoluzion.io/",
+  "vested": [
+    "0x80c276734f9124b296847eee8f7fadc0603cf741"
+  ],
+  "audits": [
+    "https://github.com/coinscope-co/audits/blob/main/rvz/audit.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0x7D89c67d3c4E72E8c5c64BE201dC225F99d16aCa",
+  "id": "0x7D89c67d3c4E72E8c5c64BE201dC225F99d16aCa"
+}
