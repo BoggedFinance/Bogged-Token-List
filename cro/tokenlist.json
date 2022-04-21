@@ -276,6 +276,14 @@
         "logoURI": "https://mm.finance//images/tokens/0x43e90012a3d69AeBdc2750424b41655776c6D598.svg"
       },
       {
+        "name": "Crodex Token",
+        "symbol": "CRX",
+        "address": "0xe243CCab9E66E6cF1215376980811ddf1eb7F689",
+        "chainId": 25,
+        "decimals": "",
+        "logoURI": "https://swap.crodex.app/tokenlogos/0xe243CCab9E66E6cF1215376980811ddf1eb7F689.png"
+      },
+      {
         "name": "Mad Meerkat Finance",
         "symbol": "MMF",
         "address": "0x97749c9B61F878a880DfE312d2594AE07AEd7656",
