@@ -1,0 +1,21 @@
+{
+    "name": "PetCoin.Love",
+    "website": "https://petcoin.love",
+    "telegram": "https://t.me/PetCoinLove",
+    "discord": "https://discord.gg/eCe4tkk2qZ",
+    "twitter": "https://twitter.com/officialpetcoin",
+    "description": "Crypto With a Cause!",
+    "explorer": "https://bscscan.com/token/0x0581fafb89bc15f13afe3ee7348fd667262b2732",
+    "type": "BEP20",
+    "symbol": "PETS",
+    "decimals": 9,
+    "slippage": 5,
+    "status": "active",
+    "id": "0x0581fafb89bc15f13afe3ee7348fd667262b2732",
+    "vested": [
+        "0x1EA4b64A3BA73849ef9f53176EBeAF47D6cC25F4"
+    ],
+    "audits": [
+        "https://www.certik.com/projects/petcoin"
+    ]
+}
