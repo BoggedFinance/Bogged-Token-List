@@ -1,0 +1,14 @@
+{
+  "name": "AEROCHAIN COIN v2",
+  "symbol": "AERO-V2",
+  "decimals": 9,
+  "description": "Aerochain is a blockchain that provides everything you need. Aerochain has an experienced and based on Dev team with plenty of experience behind them to see the project grow.",
+  "discord": "",
+  "telegram": "https://t.me/AEROCHAINCoin",
+  "twitter": "https://twitter.com/aerochaincoin",
+  "website": "https://aerochain.id",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x6B992D72bDA6a5463aefA01e4790ea3767Af91c2",
+  "id": "0x6B992D72bDA6a5463aefA01e4790ea3767Af91c2"
+}
