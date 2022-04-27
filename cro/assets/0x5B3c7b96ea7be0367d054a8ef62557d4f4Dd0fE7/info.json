@@ -2,14 +2,12 @@
   "name": "Crypto Kart Racing",
   "symbol": "CKRACING",
   "decimals": 18,
-  "description": "Crypto Kart Racing ($CKRACING) aims to be the biggest racing Play-2-Earn (P2E) project on the CRO network. With the simple gameplay mechanics, ability to pick up and play races quickly and earn whilst playing and earning unlockable items, as well as a very strong team behind the project, CK Racing has all of the right components to being one of the biggest on CRO.",
+  "description": "🚘 CRYPTO KART RACING 🚘 The FIRST P2E game on CRO, using Cronos Play. Play now - www.cryptokartracing.com/playIf you liked Mario Kart, then you’ll LOVE this!!💰Real Play-2-Earn✅Unique 3D created characters   🚘Fully 3D karts 🛤Multiple tracks  🚀Integrated NFTs - including cosmetic upgrades, playable characters, vehicles & unique effects!   ⚔️Multiplayer tournaments - PVP or PVE   💴Championships and tournaments with huge cash prizes ($5,000+)   ♥️Twitch and YouTube gaming ambassadors   📱Mobile versions of the game   ✅Massive Marketing  plans",
   "discord": "",
   "telegram": "https://t.me/cryptokartracing",
   "twitter": "https://twitter.com/CKRacing_CRO",
-  "website": "https://www.cryptokartracing.com",
-  "vested": [
-    "0xdD6E31A046b828CbBAfb939C2a394629aff8BBdC"
-  ],
+  "website": "https://cryptokartracing.com/",
+  "vested": [],
   "audits": [
     "https://github.com/solidproof/projects/blob/main/Crypto%20Kart%20Racing/SmartContract_Audit_Solidproof_CryptoKartRacing.pdf"
   ],
