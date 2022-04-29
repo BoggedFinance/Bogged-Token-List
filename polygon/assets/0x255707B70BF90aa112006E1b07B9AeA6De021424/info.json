@@ -1,0 +1,14 @@
+{
+  "name": "TETU Reward Token",
+  "symbol": "TETU",
+  "decimals": 18,
+  "description": "",
+  "discord": "",
+  "telegram": "",
+  "twitter": "",
+  "website": "https://tetu.io/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://polygonscan.com/token/0x255707B70BF90aa112006E1b07B9AeA6De021424",
+  "id": "0x255707B70BF90aa112006E1b07B9AeA6De021424"
+}
