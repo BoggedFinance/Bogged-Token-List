@@ -1,0 +1,14 @@
+{
+  "name": "TETU Reward Token",
+  "symbol": "TETU",
+  "decimals": 18,
+  "description": "",
+  "discord": "",
+  "telegram": "",
+  "twitter": "",
+  "website": "",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://ftmscan.com/token/0x65c9d9d080714cDa7b5d58989Dc27f897F165179",
+  "id": "0x65c9d9d080714cDa7b5d58989Dc27f897F165179"
+}
