@@ -1,0 +1,16 @@
+{
+  "name": "Sphere Finance",
+  "symbol": "SPHERE",
+  "decimals": 18,
+  "description": "The S&P 500 of Crypto",
+  "discord": "https://discord.gg/JVyCR2Kw4s",
+  "telegram": "https://t.me/SphereDeFi",
+  "twitter": "https://twitter.com/SphereDeFi",
+  "website": "https://sphere.finance",
+  "vested": [],
+  "audits": [
+    "https://www.certik.com/projects/sphere-finance"
+  ],
+  "explorer": "https://polygonscan.com/token/0x17e9C5b37283ac5fBE527011CeC257b832f03eb3",
+  "id": "0x17e9C5b37283ac5fBE527011CeC257b832f03eb3"
+}
