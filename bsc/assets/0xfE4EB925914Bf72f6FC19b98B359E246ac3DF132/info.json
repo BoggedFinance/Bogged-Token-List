@@ -1,0 +1,16 @@
+{
+  "name": "Macaucasinolisboa",
+  "symbol": "MCL",
+  "decimals": 6,
+  "description": "Token dedicated to virtual game expansion.",
+  "discord": "https://discord.gg/bWTT4zuUfJ",
+  "telegram": "https://t.me/macaucasinolisboa",
+  "twitter": "https://twitter.com/mcl_token",
+  "website": "https://macaucasinolisboa.xyz",
+  "vested": [
+    "0x51fba2E026A88F0F625b80c91f69CFA6EA170cb2"
+  ],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0xfE4EB925914Bf72f6FC19b98B359E246ac3DF132",
+  "id": "0xfE4EB925914Bf72f6FC19b98B359E246ac3DF132"
+}
