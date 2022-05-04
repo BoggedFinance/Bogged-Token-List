@@ -1,0 +1,14 @@
+{
+  "name": "RadioShack Token",
+  "symbol": "RADIO",
+  "decimals": 18,
+  "description": "RadioShack is a 100 year old brand embedded into the global consciousness, now on a mission to be the first protocol to bridge the gap to mainstream usage of blockchain and cryptocurrencies.As a first step, RadioShack is fixing the chaotic and dispersed nature of liquidity addition on today's AMMs. To solve this problem, RadioShack aims to significantly reduce the diameter of the graph of swappable tokens, and increase liquidity per pair. This will be achieved by using a single large-degree node (the RADIO node) to create what they refer to as The Starfish Topology: a pairing of the single large node with all swappable pairs.",
+  "discord": "https://discord.gg/radioshack",
+  "telegram": "https://t.me/radioshackfairlaunch",
+  "twitter": "https://twitter.com/radioshack",
+  "website": "https://www.radioshack.org/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x30807D3b851A31d62415B8bb7Af7dCa59390434a",
+  "id": "0x30807D3b851A31d62415B8bb7Af7dCa59390434a"
+}
