@@ -1,0 +1,16 @@
+{
+  "name": "Allspot",
+  "symbol": "ALT",
+  "decimals": 18,
+  "description": "Allspot is an officially registered Trademark and an LTD company providing import-export agency services, advisory and consultancy services relating to international trade. We are building the DAPP (Decentralized Allspot Payment Platform) a marketplace and a payment facility for buyers and sellers of goods and services in the international trade niche.",
+  "discord": "https://discord.com/invite/ZKvth2GDNr",
+  "telegram": "https://t.me/Allspotoken",
+  "twitter": "https://twitter.com/allspot_ALT",
+  "website": "https://allspot.store/",
+  "vested": [
+    "0xeaed594b5926a7d5fbbc61985390baaf936a6b8d"
+  ],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x2a6677F132D4aB9c9F8d6a72113094232eA1F830",
+  "id": "0x2a6677F132D4aB9c9F8d6a72113094232eA1F830"
+}
