@@ -1,0 +1,17 @@
+{
+  "name": "GemNodesV2",
+  "symbol": "GEM",
+  "decimals": 18,
+  "description": "",
+  "discord": "https://discord.gg/gemnodes",
+  "telegram": "",
+  "twitter": "https://twitter.com/Gem_Nodes",
+  "website": "https://gemnodes.finance/",
+  "vested": [],
+  "audits": [
+    "https://github.com/ContractWolf/smart-contract-audits/blob/main/ContractWolf_Audit_GemNodes_v2.pdf",
+    "https://twitter.com/SafuAudit/status/1521606208494395394?s=20&t=NpDqxO6Gon286OF1F4oMWQ"
+  ],
+  "explorer": "https://snowtrace.io/token/0xFE5e5c4223030222c3c57490949627A2bC2F7fe1",
+  "id": "0xFE5e5c4223030222c3c57490949627A2bC2F7fe1"
+}
