@@ -1,0 +1,18 @@
+{
+  "name": "FutiraToken",
+  "symbol": "FUT",
+  "decimals": 18,
+  "description": "Futira was founded as by Dr. Hatim Zaghloul;a pioneer in the field of telecommunications and his inventions were the cornerstone for the creation of most communications technology we use today. Technologies like 3G, 4G, 5G & WIFI would all have been unexistent if it weren't for his controbutions.Currently, we released Futira through a smart contract hosted on BSC, 10 billion tokens were minted to help start the fundraising process, and as a result, currently our towers are completed in the country of Chad, and our team is finalizing our legal status in Mauritania to start building the network.Chad and Mauritania are just the first steps on our way, but Futira's plan is much larger than those two countries, Futira plans to cover over 1 billion people with Internet and mobile services. Countries like Niger in Africa, Malysia and Indonesia in Asia are other countries where Futira plans to operate. When Futira Mobile is up and running it'll be one of the largest telecommunications networks on the planet.",
+  "discord": "https://discord.com/channels/928762588345561198/928762588345561201",
+  "telegram": "https://t.me/futiracoinofficial",
+  "twitter": "https://twitter.com/FutiraCoin/",
+  "website": "https://futiracoin.com/",
+  "vested": [
+    "0x660c31acabc91304d8c2ce058dc8df6773ffbaf8"
+  ],
+  "audits": [
+    "https://github.com/Quillhash/QuillAudit_Reports/blob/master/FutiraCoin%20Smart%20Contract%20Audit%20Report%20-%20QuillAudits.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0x660C31ACaBC91304D8c2Ce058Dc8dF6773FfBAF8",
+  "id": "0x660C31ACaBC91304D8c2Ce058Dc8dF6773FfBAF8"
+}
