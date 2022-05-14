@@ -1,0 +1,14 @@
+{
+  "name": "Baby Croge",
+  "symbol": "BABYCROGE",
+  "decimals": 9,
+  "description": "$BABYCROGE is a meme to utility token featuring a staking DAPP and coinflip game.",
+  "discord": "",
+  "telegram": "https://t.me/babycrogecoinn",
+  "twitter": "https://twitter.com/babycrogecoin",
+  "website": "https://babycroge.io",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://cronoscan.com/token/0xeeEB3389187E543B76385ddCCd5af9B972Ba2cC0",
+  "id": "0xeeEB3389187E543B76385ddCCd5af9B972Ba2cC0"
+}
