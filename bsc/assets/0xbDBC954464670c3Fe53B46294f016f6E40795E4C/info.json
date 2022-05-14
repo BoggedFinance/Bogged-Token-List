@@ -1,0 +1,14 @@
+{
+  "name": "Maldicoin",
+  "symbol": "MVC",
+  "decimals": 18,
+  "description": "Maldicoin is a decentralized financial payment network that rebuilds the traditional payment stack on the blockchain. It utilizes a basket of fiat-pegged stable coins, MVC is to facilitate programmable payments and open financial infrastructure development in the Maldives.",
+  "discord": "",
+  "telegram": "https://t.me/maldicoin",
+  "twitter": "",
+  "website": "https://maldicoin.finance",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0xbDBC954464670c3Fe53B46294f016f6E40795E4C",
+  "id": "0xbDBC954464670c3Fe53B46294f016f6E40795E4C"
+}
