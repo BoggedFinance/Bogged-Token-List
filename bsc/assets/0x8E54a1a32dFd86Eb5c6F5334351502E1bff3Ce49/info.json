@@ -1,0 +1,14 @@
+{
+  "name": "wrapped LONG",
+  "symbol": "wLONG",
+  "decimals": 0,
+  "description": "LONG NETWORK Core — Cryptographic decentralized blockchain network and open source LONG Coin, developed exclusively by enthusiasts.",
+  "discord": "",
+  "telegram": "https://longnetwork.github.io/",
+  "twitter": "",
+  "website": "https://longnetwork.github.io/#",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x8E54a1a32dFd86Eb5c6F5334351502E1bff3Ce49",
+  "id": "0x8E54a1a32dFd86Eb5c6F5334351502E1bff3Ce49"
+}
