@@ -1,0 +1,19 @@
+{
+  "name": "Autentk",
+  "symbol": "AUTK",
+  "decimals": 18,
+  "description": "Our main mission is to help you investor in your investment decision process, for this we will carry out careful and exhaustive analyzes so that you can invest with greater security. The crypto world is full of great projects, but there are many 'projects scam' and these will not pass our analysis positively. All projects will undergo a very well-founded analysis by AUTENTK, in order to inform the investor that he is not a victim of a scam. Our team will always be committed to alerting about the risks. Invest in your safety, invest in AUTENTK.",
+  "discord": "",
+  "telegram": "https://t.me/autentkofficial",
+  "twitter": "https://twitter.com/AutentkOficial",
+  "website": "https://www.autentk.com/",
+  "vested": [
+    "0x3f4d6bf08cb7a003488ef082102c2e6418a4551e",
+    "0x7f115a236af71790eb0499c0a8dd93bbe0ad57fe"
+  ],
+  "audits": [
+    "https://www.autentk.com/projects/1"
+  ],
+  "explorer": "https://bscscan.com/token/0x5d7ea7c1c8B1077bde12a164c139Aede6aaf9F5C",
+  "id": "0x5d7ea7c1c8B1077bde12a164c139Aede6aaf9F5C"
+}
