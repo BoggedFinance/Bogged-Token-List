@@ -1,0 +1,17 @@
+{
+  "name": "Batcoin",
+  "symbol": "BATS",
+  "decimals": 0,
+  "description": "Batcoin is digital currency that will create metaverse, game, swap and blockchain communication projects. Batcoin also aims to be of good value to help the animal foundations and preservation organizations. The developer deployed a safe contract that has only 2% tax reflection with locked liquidity and allowing it to grow organically. Batcoin is a purely community driven coin and aims to be one of the top leading coin in the crypto industry.",
+  "discord": "",
+  "telegram": "https://t.me/batcoin_official",
+  "twitter": "https://twitter.com/batcoin_bats?s=21",
+  "website": "https://www.batcoin.me/",
+  "vested": [],
+  "audits": [
+    "https://assets.website-files.com/62028f8eb0fc0a29c5f31a98/6257fc70e864f90cbbe1c458_Audit_batcoin.pdf",
+    "https://assets.website-files.com/62028f8eb0fc0a29c5f31a98/625872751621114dcd3901c2_KYC_batcoin.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0xAa731Eb48f701C132D5FA69B69f5eb4064d9BE34",
+  "id": "0xAa731Eb48f701C132D5FA69B69f5eb4064d9BE34"
+}
