@@ -1,0 +1,21 @@
+{
+  "name": "SOAKMONT V2",
+  "symbol": "SKMT",
+  "decimals": 18,
+  "description": "SOAK is a cryptocurrency powering the ecosystem of the future that will tokenize private equity assets.Our goal is to work with regulators to provide investors with a safe and proven framework for financing real estate projects on the blockchain.Subtokens will be created for each new asset and will represent the proof of ownership of the shares of a project. Each project can then use the SOAK ecosystem to distribute returns to asset owners all around the world.",
+  "discord": "https://discord.gg/soakmont",
+  "telegram": "https://t.me/soakmont",
+  "twitter": "https://twitter.com/getsoak",
+  "website": "https://Soakmont.com",
+  "vested": [
+    "0x14cb9f5b0e7b8db4a27b9a596df07888d9814ba7",
+    "0xbee33a5ee15ab1e9fd3b92996850aa75df42c501",
+    "0x9dbe46facb9f12211be812638352c87098903ed5",
+    "0x74d1275b7fb4c3d79d5a324c6eccc7dcfaf69793",
+    "0x11f2c5fd42cbc080e3d9348360739ea414259004",
+    "0x525020ed39da602527f810ab52641bcbc9973727"
+  ],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x1B2fdB1626285B94782af2Fda8e270E95cEbC3b4",
+  "id": "0x1B2fdB1626285B94782af2Fda8e270E95cEbC3b4"
+}
