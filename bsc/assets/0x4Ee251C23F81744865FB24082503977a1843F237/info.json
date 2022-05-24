@@ -1,0 +1,16 @@
+{
+  "name": "Karma",
+  "symbol": "KRMA",
+  "decimals": 9,
+  "description": "The Karma Protocol is a community driven, fair launched DeFi Token. Four functions occur during each trade: Reflection, LP Acquisition, Burn, and Charity Donations.",
+  "discord": "https://discord.gg/investishare",
+  "telegram": "https://t.me/KarmaOfficialGroup",
+  "twitter": "https://twitter.com/KarmaTokenBSC",
+  "website": "https://www.karmatoken.org/",
+  "vested": [
+    "0x2AEBE3199ffa065438BbF46B9756Ea0303b86Bb4"
+  ],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x4Ee251C23F81744865FB24082503977a1843F237",
+  "id": "0x4Ee251C23F81744865FB24082503977a1843F237"
+}
