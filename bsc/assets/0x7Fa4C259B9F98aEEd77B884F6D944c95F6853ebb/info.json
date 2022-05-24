@@ -1,0 +1,16 @@
+{
+  "name": "KeeCoin",
+  "symbol": "KEEC",
+  "decimals": 4,
+  "description": "KeeCoin Token free DAPP for Manage decentralized your Wallet ",
+  "discord": "https://discord.gg/FCNEZR3GvQ",
+  "telegram": "https://t.me/Keecoin_Token_Telegram",
+  "twitter": "https://twitter.com/KeecoinToken",
+  "website": "https://keecoin.io",
+  "vested": [],
+  "audits": [
+    "https://www.keecoin.io/application/view/assets/audit.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0x7Fa4C259B9F98aEEd77B884F6D944c95F6853ebb",
+  "id": "0x7Fa4C259B9F98aEEd77B884F6D944c95F6853ebb"
+}
