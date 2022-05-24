@@ -1,0 +1,14 @@
+{
+  "name": "MukiDAO",
+  "symbol": "MUKI",
+  "decimals": 18,
+  "description": "MukiDAO aims to support builders of the web3 economy. It is an open platform for proposals that are voted upon by $MUKI token holders. $MUKI is the governance token of the DAO. With $MUKI, you can decide the future of the DAO, what gets built and how to manage the DAO treasury.",
+  "discord": "",
+  "telegram": "https://t.me/mukidao_chat",
+  "twitter": "https://twitter.com/mukidao_io",
+  "website": "https://mukidao.io/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x4CF3eB9B424e76F6E06479111Ef29589275Dc641",
+  "id": "0x4CF3eB9B424e76F6E06479111Ef29589275Dc641"
+}
