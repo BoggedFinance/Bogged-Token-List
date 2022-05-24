@@ -1,0 +1,22 @@
+{
+  "name": "NUTGAIN",
+  "symbol": "NUTGV2",
+  "decimals": 9,
+  "description": "NutGain NFT Marketplace platform allows users to use $NUTGV2 (Bep-20) token built on Binance Smart Chain (BSC) to Buy and Sell any NFT’s Minted through $NUTGV2 token. The platform accepts transactions in the form of $NUTGV2, $BNB, and $MATIC.We are mainly focused on creating both utility and value for the NFT marketplace via different kinds of marketing techniques, mediums, and practices. To increase the liquidity pool stability of the $NUTGV2 Token, we have launched a staking platform. The Staking Dapps helps to maintain a steady liquidity pool, that provides earnings as high as 60% APR and comes with multiple periods of staking options.",
+  "discord": "",
+  "telegram": "https://t.me/nutgainofficial/113",
+  "twitter": "https://twitter.com/nutgainofficial",
+  "website": "https://www.nutgain.io",
+  "vested": [
+    "0x7ee058420e5937496f5a2096f04caa7721cf70cc",
+    "0x5e0a82b054ff32f42f3375f2c45ba2847f7b3996"
+  ],
+  "audits": [
+    "https://nutgain.io/wp-content/uploads/2022/05/RugFreeCoinAudit.pdf",
+    "https://nutgain.io/wp-content/uploads/2022/05/staking-Audit.pdf",
+    "https://github.com/coinscope-co/audits/blob/main/nutgv2/audit.pdf",
+    "https://github.com/Rugfreecoins/Smart-Contract-Audits/blob/main/Nut%20Gain%20NFT%20Marketplace%20Audit.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0xB149B030CFA47880aF0BDE4Cd36539E4C928b3eB",
+  "id": "0xB149B030CFA47880aF0BDE4Cd36539E4C928b3eB"
+}
