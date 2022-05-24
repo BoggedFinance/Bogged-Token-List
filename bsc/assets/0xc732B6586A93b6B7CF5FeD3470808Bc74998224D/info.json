@@ -1,0 +1,16 @@
+{
+  "name": "KmonCoin",
+  "symbol": "KMON",
+  "decimals": 18,
+  "description": "Kryptomon is an NFT Play-and-Earn blockchain game, where Pokémon meets Tamagotchi and CryptoKitties.Breed, Train and Fight with your NFT Kryptomon. It's a new world where trainers can live a new adventure on Blockchain.Set in the Kryptomon metaverse, community members play as ‘Trainers’ of their own individual monsters — Kryptomons — each of which is a completely unique digital asset connected to an NFT. Each has a unique but mutable genetic code made up of 38 randomised parameters that determine all of the aspects — physical and behavioral — of the creature.This not only ensures that each Kryptomon is unique but also brings to life each Kryptomon as a digital companion in the Kryptomon metaverse. They are capable of learning, falling sick, getting hungry, and protecting their trainers when out on an adventure in the physical world. In turn, trainers will have to care for, feed, and train their Kryptomon partners in order to grow and prepare for the battles ahead.Kryptomon creates the next step in the evolution of crypto-gaming by using advanced blockchain technologies, digital genetics, and location-based technologies.So what are you waiting for? Play and participate in the Kryptomon league to become the Kryptomon Metaverse Champion!",
+  "discord": "https://discord.com/invite/hYRjSfsWXt",
+  "telegram": "https://t.me/kryptomonofficial",
+  "twitter": "https://twitter.com/kryptomonteam",
+  "website": "http://kryptomon.co/",
+  "vested": [],
+  "audits": [
+    "https://drive.google.com/drive/folders/14LEAtPZyLKoagnG9XQ1rS5kP4HacThoF"
+  ],
+  "explorer": "https://bscscan.com/token/0xc732B6586A93b6B7CF5FeD3470808Bc74998224D",
+  "id": "0xc732B6586A93b6B7CF5FeD3470808Bc74998224D"
+}
