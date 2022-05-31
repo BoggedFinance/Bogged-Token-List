@@ -1,0 +1,19 @@
+{
+  "name": "Earthling",
+  "symbol": "ETLG",
+  "decimals": 18,
+  "description": "We want to make it easy for everyone to act on climate change. Helping people and the planet by becoming the largest web3 carbon offset project! ETLG is the backbone to support funding for the Earthling ecosystem and functions as governance token.",
+  "discord": "https://t.co/PoIgM0YwMo",
+  "telegram": "https://t.co/NSCRud1ztj",
+  "twitter": "https://twitter.com/earthlingeco",
+  "website": "https://www.earthling.eco",
+  "vested": [
+    "0x0c89c0407775dd89b12918b9c0aa42bf96518820",
+    "0x29c463e6d333aae41951bcefa9bcc2bf88b0a4c3"
+  ],
+  "audits": [
+    "https://solidity.finance/audits/Earthling/"
+  ],
+  "explorer": "https://bscscan.com/token/0x1F7d905c0c495DcA4C9E859c313b29179D272cA1",
+  "id": "0x1F7d905c0c495DcA4C9E859c313b29179D272cA1"
+}
