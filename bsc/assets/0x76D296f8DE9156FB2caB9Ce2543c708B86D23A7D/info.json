@@ -1,0 +1,14 @@
+{
+  "name": "WSOP Finance",
+  "symbol": "WSOP",
+  "decimals": 18,
+  "description": "WSOP Token that works on the Binance Smart Chain platform linked with other ecosystems and operates independentlyWSOP allows cryptocurrency trading without the involvement of centralized intermediaries",
+  "discord": "https://facebook.com/wsoptoken",
+  "telegram": "https://t.me/wsop_group",
+  "twitter": "https://twitter.com/wsop_token",
+  "website": "https://wsop-token.finance",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x76D296f8DE9156FB2caB9Ce2543c708B86D23A7D",
+  "id": "0x76D296f8DE9156FB2caB9Ce2543c708B86D23A7D"
+}
