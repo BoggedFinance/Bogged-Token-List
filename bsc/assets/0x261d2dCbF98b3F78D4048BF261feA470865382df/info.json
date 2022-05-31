@@ -1,0 +1,14 @@
+{
+  "name": "Spark Token",
+  "symbol": "SPK",
+  "decimals": 18,
+  "description": "",
+  "discord": "",
+  "telegram": "",
+  "twitter": "",
+  "website": "",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x261d2dCbF98b3F78D4048BF261feA470865382df",
+  "id": "0x261d2dCbF98b3F78D4048BF261feA470865382df"
+}
