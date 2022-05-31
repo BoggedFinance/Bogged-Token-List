@@ -1,0 +1,16 @@
+{
+  "name": "Lunar Flare",
+  "symbol": "LFG",
+  "decimals": 18,
+  "description": "Our 1% daily burn. That’s right… we burn 1% of the supply EVERY day! This isn’t some rhetorical benefit this is 100% verifiable and you will be able to see the burn EVERY day on the chart. Get your sunglasses out this kind of burn can be dangerous!!!",
+  "discord": "",
+  "telegram": "https://t.me/lunarflareportal",
+  "twitter": "https://twitter.com/LunarFlareLabs",
+  "website": "https://www.lunarflaregroup.com/",
+  "vested": [],
+  "audits": [
+    "https://t.co/KNtoPjuGEB"
+  ],
+  "explorer": "https://bscscan.com/token/0xf7eA59f855a861f3d27E094A1646D697AcD3a4e9",
+  "id": "0xf7eA59f855a861f3d27E094A1646D697AcD3a4e9"
+}
