@@ -1,0 +1,14 @@
+{
+  "name": "Cryptolandy",
+  "symbol": "CRYPL",
+  "decimals": 8,
+  "description": "Token CRYPL gives its owner the opportunity to receive reward from the fees of the game. 49% of the micropayments collected by the game are used to pay reward on active CRYPL tokens issued.  CRYPL is a governance token.The number of CRYPL tokens is limited to 100,000,000, over time, their value will only increase.",
+  "discord": "",
+  "telegram": "https://t.me/CryplChat",
+  "twitter": "https://twitter.com/Cryptolandy1",
+  "website": "https://cryptolandy.com/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0xE981Fb167EC130A1Bf31510993e9b553092F0E4e",
+  "id": "0xE981Fb167EC130A1Bf31510993e9b553092F0E4e"
+}
