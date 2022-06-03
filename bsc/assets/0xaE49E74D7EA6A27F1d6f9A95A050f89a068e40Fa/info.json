@@ -1,0 +1,16 @@
+{
+  "name": "Lunar Flare",
+  "symbol": "LFG",
+  "decimals": 18,
+  "description": "A premium hyper-deflationary burn token. Lunar Flare's Burn-O-nomics ensure that value is captured for holders every step of the way. Low fees, maximum value, and safety through its LP token burn function set this project to be a game-changer in the Binance Smartchain Token arena.",
+  "discord": "",
+  "telegram": "https://t.me/LunarFlarePortal",
+  "twitter": "https://www.twitter.com/LunarFlareLabs",
+  "website": "https://www.LunarFlareGroup.com",
+  "vested": [],
+  "audits": [
+    "https://dessertswap.finance/audits/LunaFlare-BSC-Audit-18326033.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0xaE49E74D7EA6A27F1d6f9A95A050f89a068e40Fa",
+  "id": "0xaE49E74D7EA6A27F1d6f9A95A050f89a068e40Fa"
+}
