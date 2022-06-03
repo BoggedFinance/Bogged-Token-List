@@ -1,0 +1,14 @@
+{
+  "name": "CZpegs SHARE Token",
+  "symbol": "CZshares",
+  "decimals": 18,
+  "description": "",
+  "discord": "https://discord.gg/k3aZEu25wE",
+  "telegram": "https://t.me/CZpegs",
+  "twitter": "https://twitter.com/CZpegs",
+  "website": "https://www.czpegs.com/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x8169a36EC368882207515D6F509A2E7Fc74203d3",
+  "id": "0x8169a36EC368882207515D6F509A2E7Fc74203d3"
+}
