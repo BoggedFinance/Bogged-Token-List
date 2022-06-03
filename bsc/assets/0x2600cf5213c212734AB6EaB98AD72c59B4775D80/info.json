@@ -1,0 +1,16 @@
+{
+  "name": "Lucky 7",
+  "symbol": "777",
+  "decimals": 18,
+  "description": "Auto-staking lock-to-earn protocol with 777,777.77% APY for your financial freedom",
+  "discord": "https://discord.com/invite/cswJFEJcjc",
+  "telegram": "https://t.me/Lucky7sFinance",
+  "twitter": "https://twitter.com/Lucky7sFinance",
+  "website": "https://www.lucky777.finance/",
+  "vested": [],
+  "audits": [
+    "https://aegisaudits.com/static/media/Lucky7-Audit.7801b72e.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0x2600cf5213c212734AB6EaB98AD72c59B4775D80",
+  "id": "0x2600cf5213c212734AB6EaB98AD72c59B4775D80"
+}
