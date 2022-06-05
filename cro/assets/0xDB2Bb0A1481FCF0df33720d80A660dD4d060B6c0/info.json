@@ -1,0 +1,14 @@
+{
+  "name": "CRONEX",
+  "symbol": "CRONEX",
+  "decimals": 9,
+  "description": "Cronex is a swap with the safety of investors in mind including the LP lockers with a burn function, if a project is found to be a scam after being reported by the community and the team doesn't respond within 24 hours the LP tokens held by said scammers are then burned to protect those who invested.The team behind Cronex is going to continually improve it via the introduction of new utilities and functions tied to or directly integrated into the swap itself. These include the integration of charting and the Croanalyst bot features that show the various functions of the contract a person is attempting to buy or sell, as well as other information.",
+  "discord": "https://discord.gg/cTbHC36mQm",
+  "telegram": "https://t.me/cronexfinance",
+  "twitter": "https://twitter.com/cronexfinance",
+  "website": "https://cronex.finance/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://cronoscan.com/token/0xDB2Bb0A1481FCF0df33720d80A660dD4d060B6c0",
+  "id": "0xDB2Bb0A1481FCF0df33720d80A660dD4d060B6c0"
+}
