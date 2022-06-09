@@ -1,0 +1,18 @@
+{
+  "name": "CHEETAH",
+  "symbol": "CHEETAH",
+  "decimals": 5,
+  "description": "CHEETAH is the highest yield auto-staking protocol to ever exist on the crypto scene.With a whopping 1,000,000,000% APY, and combined with advanced crypto utility, P2E games and NFTs, you're in for one of the most wide-reaching crypto projects.",
+  "discord": "https://discord.gg/cheetahfinance",
+  "telegram": "https://t.me/cheetahfinance",
+  "twitter": "https://twitter.com/cheetahbsc",
+  "website": "https://cheetah.finance",
+  "vested": [
+    "0xeaed594b5926a7d5fbbc61985390baaf936a6b8d"
+  ],
+  "audits": [
+    "https://github.com/interfinetwork/smart-contract-audits/blob/audit-updates/CheetahFinance_0x6a02d9f7fD9445A9978F1A8E3A24f1a8a7e6479a.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0x6a02d9f7fD9445A9978F1A8E3A24f1a8a7e6479a",
+  "id": "0x6a02d9f7fD9445A9978F1A8E3A24f1a8a7e6479a"
+}
