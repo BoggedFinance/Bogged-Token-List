@@ -1,0 +1,20 @@
+{
+  "name": "Rens Token",
+  "symbol": "RENS",
+  "decimals": 18,
+  "description": "Rens is a real estate token deployed on the Binance Smart Chain (BSC). Rens aims to integrate the existing real estate sector into the blockchain. It supports this idea with Metaverse and NFT trends.",
+  "discord": "",
+  "telegram": "https://t.me/renstokenBSC",
+  "twitter": "https://twitter.com/RensTokenBSC",
+  "website": "https://renstoken.io",
+  "vested": [
+    "0xeaed594b5926a7d5fbbc61985390baaf936a6b8d",
+    "0xd747085be5bb492243a6d2438a83d268d8b2e0a6",
+    "0x124d9bf2fecbc16b54ec4accdb14d44c2144f012"
+  ],
+  "audits": [
+    "https://github.com/solidproof/projects/tree/main/Rens/"
+  ],
+  "explorer": "https://bscscan.com/token/0x338DbFfc5A1D19473d4762a84b79fCdf2C6A4736",
+  "id": "0x338DbFfc5A1D19473d4762a84b79fCdf2C6A4736"
+}
