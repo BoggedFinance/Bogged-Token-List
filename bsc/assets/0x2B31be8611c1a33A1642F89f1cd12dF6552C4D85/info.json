@@ -1,0 +1,14 @@
+{
+  "name": "Willy PPCoin",
+  "symbol": "PPCoin",
+  "decimals": 18,
+  "description": "Experimental Willy's BEP20 Token with plans to make tight connection with NFTs. Taxes: 12% / Max Transaction: 500,000 (max per wallet 800,000). Set slippage to 15%From every TXn: 3% to burn, 2% to buyback, 3% back to liquidity, 3% back to holders, 1% to Willy Cum wallet",
+  "discord": "",
+  "telegram": "https://t.me/thewillynft",
+  "twitter": "https://twitter.com/TheWillyNFT",
+  "website": "https://thewilly.club/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x2B31be8611c1a33A1642F89f1cd12dF6552C4D85",
+  "id": "0x2B31be8611c1a33A1642F89f1cd12dF6552C4D85"
+}
