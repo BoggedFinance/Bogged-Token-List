@@ -1,11 +1,18 @@
 {
-    "name": "NFT-Art.Finance",
-    "symbol": "NFTART",
-    "type": "BEP20",
-    "decimals": 8,
-    "description": "Powering a new NFT/DeFi platform for all types of content.",
-    "website": "https://nft-art.finance/",
-    "explorer": "https://bscscan.com/token/0xf7844cb890f4c339c497aeab599abdc3c874b67a",
-    "status": "active",
-    "id": "0xF7844CB890F4C339c497aeAb599aBDc3c874B67A"
+  "name": "NFTArt.Finance",
+  "symbol": "NFTART",
+  "decimals": 9,
+  "description": "NFTART is a deflationary utility token on BSC powering the NFT ecosystem enter. The tokenomics rewards holders with a passive income where 5% is redistributed and 5% is burnt on every transaction on the blockchain.NFTART was stealth launched late March 2021 with no pre-sale. The smart contract ownership of the token is renounced, and all codes are audited externally for the investors’ safety.enter.art & enter.audio are the first platforms where NFTART is used as the utility token, but plans for the future are big and stretch far.On the Enter platforms you will find free and easy access features for everything you need as an NFT artist. You can choose up to 20% royalties on all future resales of your art, making sure that your wallet holdings increase with the value of your works.Enter offer easy access to minting, built-in royalty splitting, the ability to mint up to 20.000 NFTs at once, and has already been established as a go-to place for visual NFT art on Binance Smart Chain.",
+  "discord": "https://discord.gg/enter",
+  "telegram": "https://t.me/NFTART_Finance",
+  "twitter": "https://twitter.com/EnterNFT",
+  "website": "https://nft-art.finance/",
+  "vested": [
+    "0x58b0cd936e5b064c64eb76bdc40620f281817234"
+  ],
+  "audits": [
+    "https://github.com/TechRate/Smart-Contract-Audits/blob/main/NFTArt%20Finance.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0xF7844CB890F4C339c497aeAb599aBDc3c874B67A",
+  "id": "0xF7844CB890F4C339c497aeAb599aBDc3c874B67A"
 }
