@@ -1,0 +1,16 @@
+{
+  "name": "King Coin",
+  "symbol": "KINGS",
+  "decimals": 18,
+  "description": "King Coin is a Binance Smart Chain Crypto Token, there is made to power some Music & Art projects worldwide!We want to support little Artists around the World.",
+  "discord": "",
+  "telegram": "",
+  "twitter": "",
+  "website": "https://kingcoinofficial.com",
+  "vested": [
+    "0x7cb02754437107c0993cbaa86a91c58ea9a039e6"
+  ],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0xc7335f4481850C303d393dEeDdD00973cbBE040f",
+  "id": "0xc7335f4481850C303d393dEeDdD00973cbBE040f"
+}
