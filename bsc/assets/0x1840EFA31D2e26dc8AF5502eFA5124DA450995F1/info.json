@@ -1,0 +1,17 @@
+{
+  "name": "Sekopay Coin",
+  "symbol": "SEKO",
+  "decimals": 9,
+  "description": "Sekopay Coin (SEKO) is the cryptocurrency that will be used to trade and pay fees on the Sekopay cryptocurrency exchange.Open-source and freely available to everyone.Users will receive discounted transaction fees on Sekopay Exchange.SEKO can also be traded for other cryptocurrencies, such as Bitcoin, Ethereum, Binance coin.",
+  "discord": "https://discord.gg/3fmjMQg",
+  "telegram": "https://t.me/SekoPayCoin",
+  "twitter": "https://twitter.com/SekoPay",
+  "website": "https://sekopay.com/",
+  "vested": [
+    "0x9b289a797592cc760faf1b8a879fbdf596385c00",
+    "0xec8595264bbe0a1260376f55c3371daefb0548cb"
+  ],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x1840EFA31D2e26dc8AF5502eFA5124DA450995F1",
+  "id": "0x1840EFA31D2e26dc8AF5502eFA5124DA450995F1"
+}
