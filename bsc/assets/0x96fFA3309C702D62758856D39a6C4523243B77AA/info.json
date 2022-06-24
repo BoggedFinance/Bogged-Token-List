@@ -1,0 +1,14 @@
+{
+  "name": "Balance",
+  "symbol": "BLNC",
+  "decimals": 18,
+  "description": "",
+  "discord": "",
+  "telegram": "",
+  "twitter": "https://twitter.com/balancebsc",
+  "website": "https://balancetoken.io/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x96fFA3309C702D62758856D39a6C4523243B77AA",
+  "id": "0x96fFA3309C702D62758856D39a6C4523243B77AA"
+}
