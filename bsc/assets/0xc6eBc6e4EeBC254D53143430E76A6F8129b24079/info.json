@@ -1,0 +1,14 @@
+{
+  "name": "Mem Dinosaur Coin",
+  "symbol": "MEMDI",
+  "decimals": 18,
+  "description": "Mem Dinosaur Coin, MEMDI - The coin is created for a game similar to \"Google Dinosaur\", with the ability to earn MEMDI coins on game achievements and a referral system, within the game. MEMDI can be used as a means of payment, both in the game to improve the game character (dinosaur), and outside the game.",
+  "discord": "https://discord.gg/FZ3hycB9sb",
+  "telegram": "https://t.me/memdicoin",
+  "twitter": "https://twitter.com/memdicoin",
+  "website": "https://memdi.online",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0xc6eBc6e4EeBC254D53143430E76A6F8129b24079",
+  "id": "0xc6eBc6e4EeBC254D53143430E76A6F8129b24079"
+}
