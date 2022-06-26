@@ -1,33 +1,14 @@
 {
-    "name": "Adamant",
-    "website": "https://www.adamantcoin.com/",
-    "description": "Adamant (ADMC) is a hyperdeflationary token and is the Governance Token of the charity NFT Game Adamant Mine",
-    "explorer": "https://bscscan.com/token/0xA55EF2fB2B7b6A60371FD3def9B806E74a48bE69",
-    "type": "BEP20",
-    "symbol": "ADMC",
-    "decimals": 9,
-    "status": "active",
-    "id": "0xA55EF2fB2B7b6A60371FD3def9B806E74a48bE69",
-    "links": [
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/adamant/"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/adamantcoin"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/admcadamant"
-        },
-        {
-            "name": "medium",
-            "url": "https://adamantcoin.medium.com/"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/adamant"
-        }
-    ]
+  "name": "Adamant",
+  "symbol": "ADMC",
+  "decimals": 9,
+  "description": "Adamant Coin (ADMC) is the Utility token of the Play to earn, donate, and burn game, Adamant Mine!",
+  "discord": "https://discord.gg/adamant",
+  "telegram": "https://t.me/admcadamant",
+  "twitter": "https://twitter.com/adamantmine",
+  "website": "https://adamantcoin.com",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0xA55EF2fB2B7b6A60371FD3def9B806E74a48bE69",
+  "id": "0xA55EF2fB2B7b6A60371FD3def9B806E74a48bE69"
 }
