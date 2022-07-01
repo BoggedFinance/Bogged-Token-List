@@ -1,0 +1,17 @@
+{
+  "name": "DexKit",
+  "symbol": "KIT",
+  "decimals": 18,
+  "description": "DexKit (KIT) started their journey with a next-generation DEX ToolKit and now is much more than that. DexKit is an emergent DeFi platform (legally registered in Brazil) that uses ZRX (0x) protocol technologies to create advanced trading, swapping, atomic swap, market-making, and decentralized ERC-20 and ERC-721 (NFTs or Non-Fungible tokens) whitelabel and farming solutions for everyone. DexKit is using the concept of “toolKITs” to help give traders want they need; a well informed atomic trade (aka \"swap\") at the best price in real-time with DSWAP platform: the most powerful DEX aggregator fed with dozens of trading protocols using the old and trusty Uniswap UI style. DSWAP is available as a Whitelabel product. On KitDex decentralized exchange users will be able to place leverage orders, decentralized stop/limit orders, and private orders with all 0x protocol liquidity and view stats on the current decentralized protocols (read the documentation for further details). This dApp is also available as Whitelabel product. Inside the DeFi dashboard aka SuperApp, users will be able to enjoy a multifunctional tool that ranges from ERC20, BEP20, MATIC tokens management (sending, receiving, and exchange with 0x decentralized liquidity), mint and pet Kittygotchi NFT to Prediction's HUB access: the newest blockchain gaming system using rich data sources provided by Chainlink.DexKit DeFi dashboard is compatible with several blockchains such as Ethereum, Binance Chain, Polygon (to mention the most reputable), but it's also compatible with any 0x-based network. DexKit is aiming to build one of the biggest DeFi toolboxes available 24/7/365 for any mobile or low-end device. DexKit dashboard can also be opened and managed from Tesla electric vehicles or any car system with .js compatible browsers democratizing DeFi access for everyone.",
+  "discord": "https://discord.gg/9NT7YCn987",
+  "telegram": "https://t.me/dexkit",
+  "twitter": "https://twitter.com/dexkit",
+  "website": "https://dexkit.com",
+  "vested": [],
+  "audits": [
+    "https://www.certik.com/projects/dexkit",
+    "https://tools.staysafu.org/scan/free?a=0x314593fa9a2fa16432913dBcCC96104541d32D11"
+  ],
+  "explorer": "https://bscscan.com/token/0x314593fa9a2fa16432913dBcCC96104541d32D11",
+  "id": "0x314593fa9a2fa16432913dBcCC96104541d32D11"
+}
