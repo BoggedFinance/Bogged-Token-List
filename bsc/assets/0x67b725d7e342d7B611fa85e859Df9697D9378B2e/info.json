@@ -1,0 +1,14 @@
+{
+  "name": "The Sandbox",
+  "symbol": "SAND",
+  "decimals": 18,
+  "description": "",
+  "discord": "https://discord.com/invite/vAe4zvY",
+  "telegram": "https://t.me/sandboxgame",
+  "twitter": "https://twitter.com/thesandboxgame",
+  "website": "https://www.sandbox.game/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x67b725d7e342d7B611fa85e859Df9697D9378B2e",
+  "id": "0x67b725d7e342d7B611fa85e859Df9697D9378B2e"
+}
