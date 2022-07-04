@@ -1,0 +1,16 @@
+{
+  "name": "ISLIX",
+  "symbol": "ISX",
+  "decimals": 6,
+  "description": "ISX will be at the center of global payments that aims to enable hundreds of retail users, institutions, merchants, vendors, and ecosystem partners to easily participate in the crypto economy with instant conversions between digital and fiat currencies. Through upcoming virtual banking and payment applications, all major cryptographic assets supported by the platform will be instantly liquid and available in tens of millions of locations and online sites worldwide. The ISX also plans to introduce a decentralized platform for trading cryptocurrency digital stocks. While ISX's primary goal is to capitalize on its cryptographic payment capabilities, we are building our technology and product foundation. Consequently, this applies to as many DeFi-enabled products and services as possible.",
+  "discord": "",
+  "telegram": "https://t.me/isxislix",
+  "twitter": "https://twitter.com/islixisx",
+  "website": "https://islix.digital",
+  "vested": [],
+  "audits": [
+    "https://github.com/cyberscope-io/audits/blob/main/2-isx/audit.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0xa7582049357E59c2eA6F24e3FcaC33669dad5158",
+  "id": "0xa7582049357E59c2eA6F24e3FcaC33669dad5158"
+}
