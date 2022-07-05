@@ -1,0 +1,17 @@
+{
+  "name": "Elephant Money Stable",
+  "symbol": "TRUNK",
+  "decimals": 18,
+  "description": "ELEPHANT.MONEY STABLE is a future-proof way to compound profits made across your portfolio. ",
+  "discord": "https://discord.gg/elephant-money",
+  "telegram": "https://t.me/elephant_money",
+  "twitter": "https://www.twitter.com/ElephantStatus",
+  "website": "https://elephant.money",
+  "vested": [],
+  "audits": [
+    "https://certik.org/projects/elephant",
+    "https://solidity.finance/audits/ElephantMoney/"
+  ],
+  "explorer": "https://bscscan.com/token/0xdd325C38b12903B727D16961e61333f4871A70E0",
+  "id": "0xdd325C38b12903B727D16961e61333f4871A70E0"
+}
