@@ -1,0 +1,14 @@
+{
+  "name": "Funkcoins",
+  "symbol": "Funk",
+  "decimals": 18,
+  "description": "",
+  "discord": "",
+  "telegram": "https://t.me/FunkCoinsBR",
+  "twitter": "https://twitter.com/FunkCoins?s=09",
+  "website": "https://funkcoins.org/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x8CFBCd51B2989A4df07D32c8bC269271C493b756",
+  "id": "0x8CFBCd51B2989A4df07D32c8bC269271C493b756"
+}
