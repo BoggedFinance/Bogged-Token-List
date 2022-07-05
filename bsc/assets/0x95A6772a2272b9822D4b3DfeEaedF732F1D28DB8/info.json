@@ -1,0 +1,14 @@
+{
+  "name": "PegHub.com",
+  "symbol": "PHUB",
+  "decimals": 18,
+  "description": "PegHUB (PHUB) is the revenue sharing and governance token of the entire BOMB Money / CZpegs ecosystem. This includes all current projects and future projects within the ecosystem. Developer rewards will not be sent to the developer, they will instead be sent to smart contracts. These smart contracts will swap assets and buy PHUB token on the open market to provide staking rewards for PHUB token stakers. ",
+  "discord": "",
+  "telegram": "https://t.me/Peghub",
+  "twitter": "https://twitter.com/peghubdao",
+  "website": "https://peghub.com",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x95A6772a2272b9822D4b3DfeEaedF732F1D28DB8",
+  "id": "0x95A6772a2272b9822D4b3DfeEaedF732F1D28DB8"
+}
