@@ -1,0 +1,14 @@
+{
+  "name": "Jswap Finance Token",
+  "symbol": "JF",
+  "decimals": 18,
+  "description": "",
+  "discord": "",
+  "telegram": "",
+  "twitter": "",
+  "website": "",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x5fAc926Bf1e638944BB16fb5B787B5bA4BC85b0A",
+  "id": "0x5fAc926Bf1e638944BB16fb5B787B5bA4BC85b0A"
+}
