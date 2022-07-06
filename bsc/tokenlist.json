@@ -626,6 +626,22 @@
         "chainId": 56,
         "decimals": "",
         "logoURI": "https://raw.githubusercontent.com/BoggedFinance/Bogged-Token-List/main/bsc/assets/0xE5bA47fD94CB645ba4119222e34fB33F59C7CD90/logo.png"
+      },
+      {
+        "name": "ELEPHANT MONEY",
+        "symbol": "ELEPHANT",
+        "address": "0xE283D0e3B8c102BAdF5E8166B73E02D96d92F688",
+        "chainId": 56,
+        "decimals": "",
+        "logoURI": "https://static.bogged.finance/bsc/assets/0xE283D0e3B8c102BAdF5E8166B73E02D96d92F688/logo.png"
+      },
+      {
+        "name": "TRUNK",
+        "symbol": "TRUNK",
+        "address": "0xdd325C38b12903B727D16961e61333f4871A70E0",
+        "chainId": 56,
+        "decimals": "",
+        "logoURI": "https://static.bogged.finance/bsc/assets/0xdd325C38b12903B727D16961e61333f4871A70E0/logo.png"
       }
     ]
   }
