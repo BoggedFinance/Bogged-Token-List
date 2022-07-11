@@ -1,0 +1,16 @@
+{
+  "name": "PremiumBlock",
+  "symbol": "PRB",
+  "decimals": 18,
+  "description": "Premium Block is a multi-chain platform that allows users to create a pool and disperse cryptocurrencies within the pool addresses. Premium Block offers built-in features like DEX, farming, flash loan arbitrage, game, and governance ecosystem.",
+  "discord": "",
+  "telegram": "https://t.me/premiumblock",
+  "twitter": "https://twitter.com/PremiumBlock",
+  "website": "https://premiumblock.org/",
+  "vested": [],
+  "audits": [
+    "https://github.com/Premium-Block/security-audit-report"
+  ],
+  "explorer": "https://bscscan.com/token/0x59ff585AA42939853E2587b07ee8F94017584A88",
+  "id": "0x59ff585AA42939853E2587b07ee8F94017584A88"
+}
