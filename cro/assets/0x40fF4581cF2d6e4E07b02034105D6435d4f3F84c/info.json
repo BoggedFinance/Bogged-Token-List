@@ -1,0 +1,14 @@
+{
+  "name": "CGX Token",
+  "symbol": "CGX",
+  "decimals": 18,
+  "description": "Cougar Exchange represents the most quintessential financial solution capable of qualifying first-rate standards to provide all the financial features for an independent decentralized financial ecosystem.",
+  "discord": "https://discord.gg/5JNWQNZafU",
+  "telegram": "https://t.me/CougarExchange_Official",
+  "twitter": "https://twitter.com/cougarswap",
+  "website": "https://cgx.finance",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://cronoscan.com/token/0x40fF4581cF2d6e4E07b02034105D6435d4f3F84c",
+  "id": "0x40fF4581cF2d6e4E07b02034105D6435d4f3F84c"
+}
