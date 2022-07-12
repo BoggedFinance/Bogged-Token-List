@@ -1,0 +1,14 @@
+{
+  "name": "Mundeux",
+  "symbol": "MUX",
+  "decimals": 18,
+  "description": "Mundeux was created to make it easy for our users to invest, buy and swap on our decentralized social network. Our users have the ability to create accounts in one of the most secure ways using Metamask. Our decentralized social network has a rewards program for the most active users and they can be rewarded with points, products, money, or Mundeux tokens.",
+  "discord": "",
+  "telegram": "",
+  "twitter": "",
+  "website": "https://mundeux.com",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x6C0130C3faf3e6c40aD44cf2928f92c4a6d7B857",
+  "id": "0x6C0130C3faf3e6c40aD44cf2928f92c4a6d7B857"
+}
