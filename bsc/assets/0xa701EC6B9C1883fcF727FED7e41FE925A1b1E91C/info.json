@@ -1,0 +1,16 @@
+{
+  "name": "SAFE ZONE V2",
+  "symbol": "SAFU",
+  "decimals": 9,
+  "description": "Safe zone LLC is proving investors with a safe zone with our developments one being safe tools which is a kyc and audit analysis listing software we’re we only list the safest tokens around providing investors with all the tools needed to find safe investments, we also have use case nfts and play 2 earn game and meta game in development tons of use cases and growing fast! ",
+  "discord": "https://discord.gg/ykF8UNBq",
+  "telegram": "https://t.me/safezonev2",
+  "twitter": "http://www.twitter.com/safezone_token",
+  "website": "https://safe-zone.pro",
+  "vested": [],
+  "audits": [
+    "https://github.com/Coinsult/solidity/blob/main/SafeZoneAudit.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0xa701EC6B9C1883fcF727FED7e41FE925A1b1E91C",
+  "id": "0xa701EC6B9C1883fcF727FED7e41FE925A1b1E91C"
+}
