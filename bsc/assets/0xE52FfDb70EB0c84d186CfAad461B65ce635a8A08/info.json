@@ -1,0 +1,17 @@
+{
+  "name": "Dual Miner",
+  "symbol": "DUAL",
+  "decimals": 18,
+  "description": "DualMiner is a new Multi-Chain token created to general Dual Passive Income for High 12% APR Daily Rewards – All done for you Automatically! Buy $DUALMINER tokens in your wallet and earn passive income in $DUALMINER. DualMiner has 3 primary utility. Miner itself and DualMiner Native token combined and Anti-Dump. These 3 utilities will work hand in hand to sustain and provide growth for the project.",
+  "discord": "",
+  "telegram": "https://t.me/dualminermoney",
+  "twitter": "https://twitter.com/dual_miner",
+  "website": "https://dualminer.money/",
+  "vested": [],
+  "audits": [
+    "https://github.com/cyberscope-io/audits/blob/main/dual/audit.pdf",
+    "https://github.com/ContractChecker/KYC/blob/main/KYC_Certificate_By_ContractChecker_Dual_Miner_0xC51E869F1FD44c9dAb5f195477dE5f2Fd3e95D1a.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0xE52FfDb70EB0c84d186CfAad461B65ce635a8A08",
+  "id": "0xE52FfDb70EB0c84d186CfAad461B65ce635a8A08"
+}
