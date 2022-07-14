@@ -1,0 +1,16 @@
+{
+  "name": "UtilityCRO",
+  "symbol": "UCRO",
+  "decimals": 9,
+  "description": "UtilitlyCro is one of the first crypto coins that will be used in all forms for our digital world, as it is a decentralized token we will keep the security and mindset for a everyday user.",
+  "discord": "",
+  "telegram": "https://t.me/UtilityCro",
+  "twitter": "https://twitter.com/utilicro",
+  "website": "https://www.utilicro.com/",
+  "vested": [],
+  "audits": [
+    "https://github.com/KISHIELD/Audits/blob/main/KISHIELD_UtilityCRO_Audit_20220519.pdf"
+  ],
+  "explorer": "https://cronoscan.com/token/0x30078453DEaD93bdBC31b9A18AC0a6ece171F459",
+  "id": "0x30078453DEaD93bdBC31b9A18AC0a6ece171F459"
+}
