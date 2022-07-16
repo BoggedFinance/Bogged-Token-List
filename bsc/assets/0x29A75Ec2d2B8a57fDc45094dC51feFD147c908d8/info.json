@@ -1,0 +1,14 @@
+{
+  "name": "Turex",
+  "symbol": "TUR",
+  "decimals": 18,
+  "description": "Turex is a token based on the BNB Chain.The main economic direction of the token is its use as a means of mutual settlements in the commercial ecosystem of products and services.",
+  "discord": "",
+  "telegram": "https://t.me/turex_money",
+  "twitter": "https://twitter.com/turex_money",
+  "website": "https://turex.money/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x29A75Ec2d2B8a57fDc45094dC51feFD147c908d8",
+  "id": "0x29A75Ec2d2B8a57fDc45094dC51feFD147c908d8"
+}
