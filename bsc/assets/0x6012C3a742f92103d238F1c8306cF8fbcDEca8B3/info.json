@@ -1,0 +1,19 @@
+{
+  "name": "LuckyChip",
+  "symbol": "LC",
+  "decimals": 18,
+  "description": "LuckyChip is the 1st Web3 Casino with Play to Earn and Stake to Earn Features with Bet Mining and Bank Farming. Features✅Play to Earn-Bet Mining: 500%+APR farm on bet volume-Lucky Lottery: $1000+ free lottery everyday-Lucky Profit: Share 100% LuckyChip profit✅Stake to Earn:-Banker Edge: 100%+ APR profit as banker-Bank Farming: 500%+ APR Farm by staking-Lucky Profit: Share 100% LuckyChip profit",
+  "discord": "https://discord.io/luckychip",
+  "telegram": "https://t.me/luckychip",
+  "twitter": "https://twitter.com/LuckyChip_io",
+  "website": "https:// LuckyChip.io",
+  "vested": [],
+  "audits": [
+    "https://luckychip.io/certik",
+    "https://luckychip.io/peckshield1",
+    "https://luckychip.io/peckshield2",
+    "https://luckychip.io/peckshield3"
+  ],
+  "explorer": "https://bscscan.com/token/0x6012C3a742f92103d238F1c8306cF8fbcDEca8B3",
+  "id": "0x6012C3a742f92103d238F1c8306cF8fbcDEca8B3"
+}
