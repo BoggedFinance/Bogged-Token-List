@@ -1,0 +1,18 @@
+{
+  "name": "MYSTERY",
+  "symbol": "MYST",
+  "decimals": 9,
+  "description": "To be part of the growing Mystery Box community and enjoy all it’s benefits you will need to hold the Mystery token ($MYST). By becoming a holder, it will give you access to buy exclusive Mystery Boxes, buy our upcoming NFTs, contribute through our buy/sell taxes system for the development of this project, utilities, donations to selected charities organizations through our upcoming Non-Profit Organization(“Myster Lunch Box”), marketing, giveaways/rewards and much more super cool mysteries.",
+  "discord": "https://discord.com/invite/mystfits",
+  "telegram": "https://t.me/mysterbox_io",
+  "twitter": "https://twitter.com/mysterbox_io",
+  "website": "https://mysterbox.io/",
+  "vested": [
+    "0x0C89C0407775dd89b12918B9c0aa42Bf96518820"
+  ],
+  "audits": [
+    "https://solidity.finance/audits/MYSTERY/"
+  ],
+  "explorer": "https://bscscan.com/token/0xCdcaef3cE3a138C47ddB0B04a9b04649c13D50Ed",
+  "id": "0xCdcaef3cE3a138C47ddB0B04a9b04649c13D50Ed"
+}
