@@ -1,0 +1,14 @@
+{
+  "name": "bitBOMB BTC Peg",
+  "symbol": "bitBTC",
+  "decimals": 18,
+  "description": "The bitBTC token is algorithmically pegged to BTC at a ratio of 10,000:1.  This means that if BTC was $50,000, bitBTC would be worth $5.",
+  "discord": "https://discord.com/invite/94Aa4wSz3e",
+  "telegram": "https://t.me/bombmoneybsc",
+  "twitter": "https://twitter.com/BombMoneyBSC",
+  "website": "https://bitbomb.io/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x39739A969ff667C91a81252b3DDDFAe31aaE4Aeb",
+  "id": "0x39739A969ff667C91a81252b3DDDFAe31aaE4Aeb"
+}
