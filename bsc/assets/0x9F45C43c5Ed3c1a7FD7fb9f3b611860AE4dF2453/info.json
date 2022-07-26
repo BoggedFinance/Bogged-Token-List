@@ -1,0 +1,14 @@
+{
+  "name": "bitBOMB ADA Peg",
+  "symbol": "bitADA",
+  "decimals": 18,
+  "description": "The bitADA token is algorithmically pegged to ADA at a ratio of 1:1. This means that if ADA was $5, bitADA would also be $5.",
+  "discord": "https://discord.com/invite/94Aa4wSz3e",
+  "telegram": "https://t.me/bombmoneybsc",
+  "twitter": "https://twitter.com/BombMoneyBSC",
+  "website": "https://bitbomb.io/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x9F45C43c5Ed3c1a7FD7fb9f3b611860AE4dF2453",
+  "id": "0x9F45C43c5Ed3c1a7FD7fb9f3b611860AE4dF2453"
+}
