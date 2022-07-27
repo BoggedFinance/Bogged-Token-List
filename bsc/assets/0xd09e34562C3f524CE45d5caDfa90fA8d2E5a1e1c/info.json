@@ -1,0 +1,16 @@
+{
+  "name": "TikTak",
+  "symbol": "TikTak",
+  "decimals": 18,
+  "description": "1st Ever Safu Project Officially Approved By Pinksale. TikTak Token created by two bright students to prove that a bright future in crypto is not a dream! No chance of scam! A long term investment opportunity with a life-long dream behind it! As two young men, we think we should teach our big brothers a lesson. ",
+  "discord": "",
+  "telegram": "https://t.me/TikTak_Students",
+  "twitter": "https://twitter.com/tiktakstudy",
+  "website": "https://tiktak.study/",
+  "vested": [],
+  "audits": [
+    "https://github.com/ContractChecker/audits/blob/main/TikTak_Token_0xd09e34562C3f524CE45d5caDfa90fA8d2E5a1e1c_Smart_Contract_Security_Audit_By_ContractChecker.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0xd09e34562C3f524CE45d5caDfa90fA8d2E5a1e1c",
+  "id": "0xd09e34562C3f524CE45d5caDfa90fA8d2E5a1e1c"
+}
