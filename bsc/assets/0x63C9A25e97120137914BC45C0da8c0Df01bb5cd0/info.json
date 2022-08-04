@@ -1,0 +1,16 @@
+{
+  "name": "Trenches Reward Token",
+  "symbol": "TRST",
+  "decimals": 18,
+  "description": "Trenches Reward Token is Part of the Trenches Coin Ecosystem, all holders get BUSD REWARDS for holding, this is be the core Token that will power the Staking Structure of The Trenches Ecosystem.Trenches NftsTrenches Metaverse ",
+  "discord": "https://discord.gg/sgWWsR8TDM",
+  "telegram": "https://t.me/TRStrenches",
+  "twitter": "https://twitter.com/TrenchesCoin",
+  "website": "https://trenchescoin.com/",
+  "vested": [
+    "0xeaed594b5926a7d5fbbc61985390baaf936a6b8d"
+  ],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x63C9A25e97120137914BC45C0da8c0Df01bb5cd0",
+  "id": "0x63C9A25e97120137914BC45C0da8c0Df01bb5cd0"
+}
