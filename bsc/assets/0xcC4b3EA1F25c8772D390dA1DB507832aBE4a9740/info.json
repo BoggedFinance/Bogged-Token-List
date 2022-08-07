@@ -1,0 +1,14 @@
+{
+  "name": "CryptoSwapToken",
+  "symbol": "CST",
+  "decimals": 18,
+  "description": "CST makes the world go round.The CST token is the heart of the CryptoSwap ecosystem. Buy it, farm it, spend it and stake it!",
+  "discord": "https://discord.com/invite/xUZNT9Zzcp",
+  "telegram": "https://t.me/CryptoDevelopmentService",
+  "twitter": "https://twitter.com/CryptoDevelopm3",
+  "website": "https://cryptoswapdex.com/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0xcC4b3EA1F25c8772D390dA1DB507832aBE4a9740",
+  "id": "0xcC4b3EA1F25c8772D390dA1DB507832aBE4a9740"
+}
