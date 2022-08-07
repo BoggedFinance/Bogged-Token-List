@@ -1,0 +1,18 @@
+{
+  "name": "Goblin",
+  "symbol": "GOBLIN",
+  "decimals": 18,
+  "description": "GOBLIN Coin is the NFT-based game launched on IDO platform on top of Binance Smart Chain. Goblin Coin will allow game developers to raise money by pre-sellingunique in-game assets in NFT format. GOBLIN Coin is a GameFi Labsis a standalone game incubator in the WEB3.0 era.It provides game developers complete GameFi game design system and technical support to help game developers finish blockchain game development easily. P2EGA is a Play-to-Earn Guild Alliance Game. We hope to help millions of low-income people earn more profits through “Play-toEarn” games and bring more users to the platform!",
+  "discord": "",
+  "telegram": "https://t.me/goblincoinofficial",
+  "twitter": "https://twitter.com/Goblincoinio",
+  "website": "https://goblincoin.io/",
+  "vested": [
+    "0x7ee058420e5937496f5a2096f04caa7721cf70cc"
+  ],
+  "audits": [
+    "https://auditrate.tech/images/pdf/Goblin_0xDe2A66C92583332E8e1F0AEEb03DEB749A3fD33a.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0xDe2A66C92583332E8e1F0AEEb03DEB749A3fD33a",
+  "id": "0xDe2A66C92583332E8e1F0AEEb03DEB749A3fD33a"
+}
