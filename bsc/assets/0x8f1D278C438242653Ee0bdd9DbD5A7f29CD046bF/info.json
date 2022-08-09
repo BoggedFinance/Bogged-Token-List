@@ -1,0 +1,18 @@
+{
+  "name": "Tate Token",
+  "symbol": "TOPG",
+  "decimals": 18,
+  "description": "Tate Token $TOPG is the latest and most relevant token on the BNB Chain Network with a check-mate marketing strategy that gives Tate Token the potential to explode as impactfully as the Tate Brother’s rise to fame. ",
+  "discord": "",
+  "telegram": "https://t.me/TateTokenBSC",
+  "twitter": "https://twitter.com/TateTokenBSC",
+  "website": "https://tatetoken.net/",
+  "vested": [
+    "0xf8B2028591a5FF2384B11f08f1424Ac2829d1ecb"
+  ],
+  "audits": [
+    "https://github.com/interfinetwork/smart-contract-audits/blob/audit-updates/TateToken_0x8f1D278C438242653Ee0bdd9DbD5A7f29CD046bF.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0x8f1D278C438242653Ee0bdd9DbD5A7f29CD046bF",
+  "id": "0x8f1D278C438242653Ee0bdd9DbD5A7f29CD046bF"
+}
