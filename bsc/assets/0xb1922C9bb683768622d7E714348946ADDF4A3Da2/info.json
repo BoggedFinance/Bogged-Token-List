@@ -1,0 +1,14 @@
+{
+  "name": "BLOCKIFY",
+  "symbol": "BLFI",
+  "decimals": 18,
+  "description": "The Blockfarms Token, BLOCKIFY (BLFI) is a BEP20 token that originally launched on Binance Smart Chain. The main function of BLFI is to incentivize the liquidity provision to the Blockfarms platform. Users can stake their tokens to earn rewards, which is done by depositing Liquidity Provider tokens, or single staking in core pools. BLFI have low emission issuance, auto burning feature.",
+  "discord": "",
+  "telegram": "https://t.me/BLOCKIFY_PORTAL",
+  "twitter": "https://twitter.com/Blockifyfarm",
+  "website": "https://blockfarms.finance/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0xb1922C9bb683768622d7E714348946ADDF4A3Da2",
+  "id": "0xb1922C9bb683768622d7E714348946ADDF4A3Da2"
+}
