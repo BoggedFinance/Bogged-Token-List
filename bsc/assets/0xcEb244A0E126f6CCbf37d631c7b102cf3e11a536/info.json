@@ -1,0 +1,14 @@
+{
+  "name": "REVIVALX",
+  "symbol": "RVLX",
+  "decimals": 18,
+  "description": "RevivalX rewards staked holders in BUSD & RVLX with its tokenomics and static reflections in real-time, along with a consistent 33% APY paid out automatically with each transaction. We want to empower holders and further their ability to invest in themselves. RevivalX will give holders several sources of passive income through staking rewards.",
+  "discord": "https://discord.gg/revivaldefi",
+  "telegram": "https://t.me/revivaldefi",
+  "twitter": "https://twitter.com/revivalx",
+  "website": "https://revivalx.io/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0xcEb244A0E126f6CCbf37d631c7b102cf3e11a536",
+  "id": "0xcEb244A0E126f6CCbf37d631c7b102cf3e11a536"
+}
