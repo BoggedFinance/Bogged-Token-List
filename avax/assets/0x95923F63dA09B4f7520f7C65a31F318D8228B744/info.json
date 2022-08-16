@@ -1,0 +1,18 @@
+{
+  "name": "FOOK Token",
+  "symbol": "FOOK",
+  "decimals": 18,
+  "description": "FOOK Token (FOOK) is part of the FOOK Ecosystem. FOOK Token charges a 25% transaction tax that pays holders 23% USDC rewards based on volume, 1% to directly to liquidity, and 1% to marketing and development expenses. The FOOK Ecosystem includes three tokens including FOOK Token (25% tax with USDC rewards), FOOK Five (5% tax with BTC.b rewards), and FOOK Zero (0% Taxes), as well as FOOK Stake, FOOK App, and FOOK Music. FOOK Music is planned for release in late 2023.",
+  "discord": "",
+  "telegram": "https://t.me/FOOKTokenOfficial",
+  "twitter": "https://twitter.com/FookToken",
+  "website": "https://www.fooktoken.com/",
+  "vested": [
+    "0x9479c6484a392113bb829a15e7c9e033c9e70d30"
+  ],
+  "audits": [
+    "https://dessertswap.finance/audits/FookToken-Avalanche-Audit-18012403.pdf"
+  ],
+  "explorer": "https://snowtrace.io/token/0x95923F63dA09B4f7520f7C65a31F318D8228B744",
+  "id": "0x95923F63dA09B4f7520f7C65a31F318D8228B744"
+}
