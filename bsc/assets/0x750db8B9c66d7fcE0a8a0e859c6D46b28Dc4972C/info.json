@@ -1,0 +1,14 @@
+{
+  "name": "Cryft",
+  "symbol": "CRYFT",
+  "decimals": 18,
+  "description": "Cryft is a BSC token that is innovating crypto gift cards that can be used by anyone with or without crypto knowledge. We are exclusively on SafemoonSwap! ",
+  "discord": "https://cryft.gg",
+  "telegram": "",
+  "twitter": "https://twitter.com/cryftc",
+  "website": "https://cryftcards.com",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x750db8B9c66d7fcE0a8a0e859c6D46b28Dc4972C",
+  "id": "0x750db8B9c66d7fcE0a8a0e859c6D46b28Dc4972C"
+}
