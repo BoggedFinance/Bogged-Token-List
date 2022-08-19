@@ -1,0 +1,19 @@
+{
+  "name": "FarmerDoge",
+  "symbol": "CROP",
+  "decimals": 18,
+  "description": "Farmer Doge is the world's first multi-currency rewards token. This allows us to farm any cryptocurrency on the Binance smart chain. Buy & Hold Farmer Doge and let the team's crypto analysts build your portfolio with both top 200 cryptocurrencies & newly launched moonshots.",
+  "discord": "https://discord.gg/m64FT7KA",
+  "telegram": "https://t.me/FarmerDogeCrypto",
+  "twitter": "https://twitter.com/farmerdogebsc",
+  "website": "https://www.farmerdoge.net/",
+  "vested": [
+    "0x765b1a590cf2988b08411d9cc2ba342675571d22"
+  ],
+  "audits": [
+    "https://github.com/dappd-net/audits/blob/main/FarmerDoge_Dappd_Audit.pdf",
+    "https://uploads-ssl.webflow.com/61902044595dae18f9e01921/61fd831a4babbf3858759509_Farmer_Doge_Token_13766840.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0x288F7692a78aA9906Cf5790aF78a672078070535",
+  "id": "0x288F7692a78aA9906Cf5790aF78a672078070535"
+}
