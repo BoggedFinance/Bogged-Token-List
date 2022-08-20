@@ -1,0 +1,20 @@
+{
+  "name": "The Web3 Project",
+  "symbol": "TWEP",
+  "decimals": 18,
+  "description": "Building the future of WEB3.Earn passive APY of up to 20% compounding every 3 seconds just for Holding Stake for an extra 20% APY and get access to unique features and events.TWEP is the parent project of several revolutionary tools aimed to shape the future of web3:Whistle App \"Decentralized Lifestyle\" An All-in-one social app that puts the user first. The Playground A gaming platform where the metaverse becomes a reality. Featuring our own P2E game The Oshies Club An exclusive club to enjoy unique private events and network. NFT collections, Miners, Quantum investing, WUSD stablecoin...and much more!Don't just watch it happen, be a part of it!",
+  "discord": "https://discord.gg/crQkCE7Mn6",
+  "telegram": "https://t.me/TheWeb3ProjectPortal",
+  "twitter": "https://twitter.com/TheWeb3Project",
+  "website": "https://www.theweb3project.com/",
+  "vested": [
+    "0x407993575c91ce7643a4d4ccacc9a98c36ee1bbe",
+    "0xcca3c1d62c80834f8b303f45d89298866c097b1a",
+    "0x8ca5d2e1cdf875fb063a1d1f0f109bdee2624296"
+  ],
+  "audits": [
+    "https://www.certik.com/projects/the-web3-project"
+  ],
+  "explorer": "https://bscscan.com/token/0x1AEb3f66d96bFaF74fCBD15Dc21798De36F6F933",
+  "id": "0x1AEb3f66d96bFaF74fCBD15Dc21798De36F6F933"
+}
