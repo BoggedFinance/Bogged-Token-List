@@ -1,0 +1,16 @@
+{
+  "name": "Moonopoly",
+  "symbol": "MOOP",
+  "decimals": 18,
+  "description": "We bring you a Crypto Related Monopoly to your Home. Yes, you can order your Moonopoly Game and play it with your Friends and Families. Have a laugh while playing, because you will face some funny Crypto Cards. Also, you can play our Online Game, which will need our Moonopoly NFT’s!",
+  "discord": "",
+  "telegram": "https://t.me/moonopol",
+  "twitter": "https://twitter.com/Moonopolybsc",
+  "website": "https://moonopoly.online/",
+  "vested": [],
+  "audits": [
+    "https://github.com/papaexchange/Smart-Contract-Audits/blob/main/Papa-Audit%20Moonopoly%20Token.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0xd633BFcAB889C4A50b6256Bd4c4ebF1E55114B1f",
+  "id": "0xd633BFcAB889C4A50b6256Bd4c4ebF1E55114B1f"
+}
