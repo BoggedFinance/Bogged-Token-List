@@ -1,0 +1,16 @@
+{
+  "name": "Champion",
+  "symbol": "CHAM",
+  "decimals": 18,
+  "description": "$CHAM token - The share token from Champion Finance",
+  "discord": "https://discord.com/invite/NMDzWcS5qz",
+  "telegram": "https://t.me/ChampionFinance_Announcement",
+  "twitter": "https://twitter.com/Champion_io",
+  "website": "https://championfinance.io/",
+  "vested": [],
+  "audits": [
+    "https://github.com/0xGuard-com/audit-reports/blob/master/Champion%20Finance/Champion%20Finance.pdf"
+  ],
+  "explorer": "https://snowtrace.io/token/0xc65bC1E906771e105fBAcBD8dfE3862Ee7BE378E",
+  "id": "0xc65bC1E906771e105fBAcBD8dfE3862Ee7BE378E"
+}
