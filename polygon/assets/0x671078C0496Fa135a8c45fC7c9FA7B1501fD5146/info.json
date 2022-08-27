@@ -1,0 +1,16 @@
+{
+  "name": "KRISTIM",
+  "symbol": "KRSTM",
+  "decimals": 18,
+  "description": "We thrive to be a crypto unicorn growing from root community effort to big marketcap trough development of unique ideas and dapps around the token.Everyone as a community and holders develop all marketing and use cases.The Unicorn symbolism uniqueness,purity,rarity,freedom and growth.",
+  "discord": "",
+  "telegram": "https://t.me/wecryptohere",
+  "twitter": "",
+  "website": "https://krstm.tech",
+  "vested": [],
+  "audits": [
+    "https://cointool.app/audit/contract?chainId=137&address=0x671078C0496Fa135a8c45fC7c9FA7B1501fD5146"
+  ],
+  "explorer": "https://polygonscan.com/token/0x671078C0496Fa135a8c45fC7c9FA7B1501fD5146",
+  "id": "0x671078C0496Fa135a8c45fC7c9FA7B1501fD5146"
+}
