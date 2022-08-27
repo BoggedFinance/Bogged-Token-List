@@ -1,0 +1,14 @@
+{
+  "name": "ATA LIRA",
+  "symbol": "ATALIRA",
+  "decimals": 9,
+  "description": "ATALIRA is a BEP20 (BSC) community-driven token with a 10% tax rate. Then, 4% marketing fee. 5% LP-generating mechanism. 1% goes to the burn, ATASWAP Launched https://ataswap.com",
+  "discord": "",
+  "telegram": "https://t.me/ataliraofficial",
+  "twitter": "https://twitter.com/ataliraofficial",
+  "website": "https://atalira.net",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x8604d31F3683A22b328CF6F974A34233c3494ccf",
+  "id": "0x8604d31F3683A22b328CF6F974A34233c3494ccf"
+}
