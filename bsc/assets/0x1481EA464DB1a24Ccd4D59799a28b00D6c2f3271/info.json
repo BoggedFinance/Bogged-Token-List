@@ -1,0 +1,14 @@
+{
+  "name": "Moonway",
+  "symbol": "MW2",
+  "decimals": 18,
+  "description": "Moonway is a community-based token launched on 12 Nov 2021 and migrated to a new contract on Aug 16th, 2022. We've been around for a long time and aim for the Moon. A 7% tax is applied to all transactions, 2% of which are distributed to fellow Moonway holders. Another 2% tax is automatically added to a locked liquidity pool to generate an ever-rising price floor. 3% is sent for marketing. See more details at www.moonwaybsc.com",
+  "discord": "https://discord.gg/ay5Qdk82",
+  "telegram": "https://t.me/moonwaybsc",
+  "twitter": "https://twitter.com/moonwaybsc",
+  "website": "https://www.moonwaybsc.com/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x1481EA464DB1a24Ccd4D59799a28b00D6c2f3271",
+  "id": "0x1481EA464DB1a24Ccd4D59799a28b00D6c2f3271"
+}
