@@ -1,0 +1,20 @@
+{
+    "name": "Orclands Metaverse",
+    "website": "https://orc.land",
+    "telegram": "https://t.me/OrcLands",
+    "twitter": "https://twitter.com/orclands",
+    "description": "Orclands Metaverse is a Play 2 Earn Orc based game.",
+    "explorer": "https://bscscan.com/token/0x968f9c44879f67a29b1bfccf93ea82d46a72881f",
+    "type": "BEP20",
+    "symbol": "ORC",
+    "decimals": 9,
+    "slippage": 6,
+    "status": "active",
+    "id": "0x968f9c44879f67a29b1bfccf93ea82d46a72881f",
+    "vested": [
+        "0x968f9c44879f67a29b1bfccf93ea82d46a72881f"
+    ],
+    "audits": [
+        "https://cybercrimeshield.org/secure/orcland.pdf/"
+    ]
+}
