@@ -1,0 +1,14 @@
+{
+  "name": "Hummingbird Egg Token",
+  "symbol": "Hegg",
+  "decimals": 18,
+  "description": "HEGG (Hummingbird Egg) is our Masterchef Token released with NestSwap. It is given as a reward for liquidity mining, like $CAKE. The token additionally allows its holders to participate and stay longer in the platform's governance and even entitles them to other rewards. HEGG is an inflationary token. ",
+  "discord": "",
+  "telegram": "https://t.me/nestswap",
+  "twitter": "https://twitter.com/NestSwap_app",
+  "website": "https://nestswap.app/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x778682C19797d985c595429FbC51D67736013A86",
+  "id": "0x778682C19797d985c595429FbC51D67736013A86"
+}
