@@ -1,0 +1,14 @@
+{
+  "name": "Kuber DeFi",
+  "symbol": "KUBER",
+  "decimals": 18,
+  "description": "Kuber DeFi is a decentralized cryptocurrency token built on Binance Smart Chain network. It was created with the community and investor in mind.Our goal is to provide generational wealth to all of our loyal holders with a hyper-deflationary functionality and automatic staking to reward KUBER holders, all the while, providing multiple real world use cases to make KUBER a leader in the transition from fiat to crypto.",
+  "discord": "https://discord.gg/zETFjUETe2",
+  "telegram": "https://t.me/KuberOfficial",
+  "twitter": "https://twitter.com/kuberdefi",
+  "website": "https://kuberdefi.com/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x9399082Bd980BE65B9984202763f896d9D815459",
+  "id": "0x9399082Bd980BE65B9984202763f896d9D815459"
+}
