@@ -642,6 +642,38 @@
         "chainId": 56,
         "decimals": "",
         "logoURI": "https://static.bogged.finance/bsc/assets/0xdd325C38b12903B727D16961e61333f4871A70E0/logo.png"
+      },
+      {
+        "name": "XPERPS",
+        "symbol": "XPERPS",
+        "address": "0x849Cc5ef9DDd08691EE908aD8001003b4bF104e5",
+        "chainId": 56,
+        "decimals": "",
+        "logoURI": "https://static.bogged.finance/bsc/assets/0x849Cc5ef9DDd08691EE908aD8001003b4bF104e5/logo.png"
+      },
+      {
+        "name": "xGRO",
+        "symbol": "xGRO",
+        "address": "0x4AdAE3Ad22c4e8fb56D4Ae5C7Eb3abC0dd2d3379",
+        "chainId": 56,
+        "decimals": "",
+        "logoURI": "https://static.bogged.finance/bsc/assets/0x4AdAE3Ad22c4e8fb56D4Ae5C7Eb3abC0dd2d3379/logo.png"
+      },
+      {
+        "name": "Basic Attention Token",
+        "symbol": "BAT",
+        "address": "0x101d82428437127bF1608F699CD651e6Abf9766E",
+        "chainId": 56,
+        "decimals": "",
+        "logoURI": "https://static.bogged.finance/bsc/assets/0x101d82428437127bF1608F699CD651e6Abf9766E/logo.png"
+      },
+      {
+        "name": "SWIPE",
+        "symbol": "SXP",
+        "address": "0x47BEAd2563dCBf3bF2c9407fEa4dC236fAbA485A",
+        "chainId": 56,
+        "decimals": "",
+        "logoURI": "https://static.bogged.finance/bsc/assets/0x47BEAd2563dCBf3bF2c9407fEa4dC236fAbA485A/logo.png"
       }
     ]
   }
