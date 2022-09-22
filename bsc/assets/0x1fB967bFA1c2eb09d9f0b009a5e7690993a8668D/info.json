@@ -1,0 +1,14 @@
+{
+  "name": "SafeButt",
+  "symbol": "SAFEBUTT",
+  "decimals": 9,
+  "description": "Safe Bull Terrier (SAFEBUTT) is a community driven & fair launch token. SAFEBUTT is rug proof: the ownership is renounced & the LP tokens are burned.COMMUNITY DRIVENSAFEBUTT is a community driven and fair launch meme coin.AUTOMATIC LP2% out of each trade contributes toward automatically generating liquidity poolREDISTRIBUTION2% out of each trade is redistributed among the current Safebutt holders.RUG PROOFThe ownership is renounced and the LP keys are burned forever.",
+  "discord": "",
+  "telegram": "https://t.me/safebutt",
+  "twitter": "https://twitter.com/SafebuttBsc",
+  "website": "https://safebutt.net/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x1fB967bFA1c2eb09d9f0b009a5e7690993a8668D",
+  "id": "0x1fB967bFA1c2eb09d9f0b009a5e7690993a8668D"
+}
