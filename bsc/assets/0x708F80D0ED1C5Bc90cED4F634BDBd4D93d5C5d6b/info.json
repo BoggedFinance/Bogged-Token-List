@@ -1,0 +1,14 @@
+{
+  "name": "SATOSHI",
+  "symbol": "CoreDAO",
+  "decimals": 18,
+  "description": "This paper proposes a new, independent blockchain to operate at the core of Web 3. Powered by a new consensus mechanism, Satoshi Plus, Core is a Turing-complete blockchain leveraging the Bitcoin mining hashrate and the Ethereum Virtual Machine (EVM). Satoshi Plus applies a protocol-driven validator election mechanism to combine the optimal features of Proof of Work (PoW) and Delegated Proof of Stake (DPoS) in order to ensure the maximization of security, scalability, and decentralization.",
+  "discord": "",
+  "telegram": "https://t.me/coredao_finance",
+  "twitter": "https://twitter.com/coredao_finance",
+  "website": "https://coredao.finance",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x708F80D0ED1C5Bc90cED4F634BDBd4D93d5C5d6b",
+  "id": "0x708F80D0ED1C5Bc90cED4F634BDBd4D93d5C5d6b"
+}
