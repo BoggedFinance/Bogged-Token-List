@@ -1,0 +1,16 @@
+{
+  "name": "Ember",
+  "symbol": "Ember",
+  "decimals": 18,
+  "description": "We glow to empower new and recovering projects in the blockchain and cryptocurrency space through digital leadership, immersive experience design, and clean code. Ember is a driving force of technological advancement through creative thinking, technical advisory, digital governance, and a deep-rooted desire to bring education, stability, and trust to the blockchain industry.",
+  "discord": "https://discord.gg/BVFZ6gTcYn",
+  "telegram": "https://t.me/ember_token_io",
+  "twitter": "https://twitter.com/EmberToken",
+  "website": "https://embertoken.io",
+  "vested": [],
+  "audits": [
+    "https://irp.cdn-website.com/1b45ecb9/files/uploaded/EmberToken_AuditReport_InterFi.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0x36A8fCb1F8BcA02dc74eB34281DE3B9143eAE8E3",
+  "id": "0x36A8fCb1F8BcA02dc74eB34281DE3B9143eAE8E3"
+}
