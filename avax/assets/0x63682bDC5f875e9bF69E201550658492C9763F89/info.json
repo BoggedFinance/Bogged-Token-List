@@ -1,0 +1,14 @@
+{
+  "name": "Betswap.gg",
+  "symbol": "BSGG",
+  "decimals": 18,
+  "description": "",
+  "discord": "https://discord.gg/betswapgg",
+  "telegram": "https://t.me/Betswap_GG",
+  "twitter": "https://twitter.com/betswapgg",
+  "website": "https://betswap.gg/index.html",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://snowtrace.io/token/0x63682bDC5f875e9bF69E201550658492C9763F89",
+  "id": "0x63682bDC5f875e9bF69E201550658492C9763F89"
+}
