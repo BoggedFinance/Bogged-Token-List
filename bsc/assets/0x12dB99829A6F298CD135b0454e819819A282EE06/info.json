@@ -1,0 +1,16 @@
+{
+  "name": "Hawk",
+  "symbol": "HWK",
+  "decimals": 5,
+  "description": "Hawk Protocol provides a decentralized financial asset which rewards it's holders with a sustainable fixed compound interest model through use of it's unique protocol. The Auto Staking Protocol is a new financial protocol that makes staking easier, more efficient and awards Hawk Coin holders the highest stable returns directly in their wallets.",
+  "discord": "https://discord.gg/cEFgDCBxFz",
+  "telegram": "https://t.me/TheHawkCoin",
+  "twitter": "https://twitter.com/TheHawkCoin",
+  "website": "https://hawkcoin.net/",
+  "vested": [],
+  "audits": [
+    "https://github.com/cyberscope-io/audits/blob/main/hwk/audit.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0x12dB99829A6F298CD135b0454e819819A282EE06",
+  "id": "0x12dB99829A6F298CD135b0454e819819A282EE06"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Hacken Token",
+  "symbol": "HAI",
+  "decimals": 8,
+  "description": "",
+  "discord": "",
+  "telegram": "",
+  "twitter": "",
+  "website": "https://hacken.io/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0xaA9E582e5751d703F85912903bacADdFed26484C",
+  "id": "0xaA9E582e5751d703F85912903bacADdFed26484C"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "FiveToken",
+  "symbol": "FIVE",
+  "decimals": 18,
+  "description": "NFT5 is Vietnam’s first web 3.0 platform for crowdfunding, liberating for limitless creative passion. The platform is built on BSC (Binance Smart Chain) blockchain and co-founded by Remitano - one of the largest and oldest cryptocurrency exchanges in Vietnam. NFT5 was created with the goal of connecting Investors with Creators, helping potential creative projects to be developed and delivered to the community, contributing to creating a sustainable ecosystem.",
+  "discord": "",
+  "telegram": "https://t.me/nft5_remitano",
+  "twitter": "https://twitter.com/Nft5Social",
+  "website": "https://nft5.io/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x6F61810E3f4D128B2033B00E72E130EC60479b80",
+  "id": "0x6F61810E3f4D128B2033B00E72E130EC60479b80"
+}

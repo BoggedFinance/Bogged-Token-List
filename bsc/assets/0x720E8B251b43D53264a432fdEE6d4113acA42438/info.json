@@ -1,0 +1,17 @@
+{
+  "name": "A-Token",
+  "symbol": "AToken",
+  "decimals": 18,
+  "description": "Need a token, take a token - is the exact same principle as the penny tray at a store. You have nothing to lose, and we want to give you a crypto token that you can immediately cash out with no guilt, regret, or concerns. A Token is an auto-staking and auto-compounding decentralized protocol, on the Binance Smart Chain, providing holders with an annual yield of 7,678.343%. The contract uses an anti-dump drip methodology to shield and protect your holdings. We have created our own Sustainability Interest Mechanism (SIM) to support the sustainability of the protocol. The ultimate safeguard against pumps and dumps. Token holders are able to sell 1% per day.",
+  "discord": "",
+  "telegram": "https://t.me/needatoken",
+  "twitter": "https://twitter.com/needatoken",
+  "website": "https://atoken.info",
+  "vested": [
+    "0x3b64f4358bd316f0cc6e2e8ba7aff7b7e12b8a9b",
+    "0xa519ecf659255bbc34c8c80af9a94dc9144a3363"
+  ],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x720E8B251b43D53264a432fdEE6d4113acA42438",
+  "id": "0x720E8B251b43D53264a432fdEE6d4113acA42438"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Supreme Coin",
+  "symbol": "SUP",
+  "decimals": 18,
+  "description": "💎 $Supreme Coin, 𝗪𝗼𝗿𝗹𝗱’𝘀 𝗛𝗶𝗴𝗵𝗲𝘀𝘁 / 𝗙𝗮𝘀𝘁𝗲𝘀𝘁 / 𝗦𝗮𝗳𝗲𝘀𝘁 Auto-Staking & Compounding Protocol ✔️ 💰 Fixed Apy- 403,828.9% 🎁 Rebase Every 10 Minutes",
+  "discord": "",
+  "telegram": "https://t.me/officialsupremefinance_xyz",
+  "twitter": "https://twitter.com/Supreme_xyz",
+  "website": "https://supremefinance.xyz/",
+  "vested": [],
+  "audits": [
+    "https://www.kishield.com/assets/pdfs/KISHIELD_SUPREME_Audit_20220401.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0x983B9Ab65CCDccFdAEA3F7A973De6Fed4E0546B3",
+  "id": "0x983B9Ab65CCDccFdAEA3F7A973De6Fed4E0546B3"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Playermon",
+  "symbol": "PYM",
+  "decimals": 18,
+  "description": "Playermon is a boundless Play to Earn NFT Game Metaverse where anyone can explore and battle in the universe with their favorite space companions called Playermons!",
+  "discord": "https://discord.gg/playermon",
+  "telegram": "https://t.me/playermonofficial",
+  "twitter": "https://twitter.com/playermons",
+  "website": "https://playermon.com/",
+  "vested": [
+    "0x5ebf06348522209b16057e384562888b7aa6c017",
+    "0xfc3250a6439eb0d9942a222204a302434c6b40a0",
+    "0x182f576315392371916d5ba2e7f043af3429f229",
+    "0x49d5a9b8c0d881646d2bb309d704d6dd6f319000",
+    "0x986d82b4fb06650ec1fb47cd84073e4beea18033",
+    "0x7e157f367400ac39d21ef0edfeb0f35253a8ac1c",
+    "0xB6f1Dc6b1be16553781984bBa2CE77D816185198",
+    "0xa70ef20f26d400ba5b240a615d0fe948bfebdbab",
+    "0x077BCBDD33c50984664445B25008aAa043DA92b4"
+  ],
+  "audits": [
+    "https://www.certik.com/projects/playermon"
+  ],
+  "explorer": "https://polygonscan.com/token/0x0bD49815EA8e2682220BCB41524c0dd10Ba71d41",
+  "id": "0x0bD49815EA8e2682220BCB41524c0dd10Ba71d41"
+}

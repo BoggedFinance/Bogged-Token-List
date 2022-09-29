@@ -1,0 +1,14 @@
+{
+  "name": "Koku",
+  "symbol": "KOKU",
+  "decimals": 9,
+  "description": "In Samurai Legends, the $KOKU token serves as the primary in-game currency. Generated from farms on lands, $KOKU is quickly distributed to Daimyos and the Shogun through taxes and as wages to hired players who help to work the land.",
+  "discord": "https://discord.com/invite/Eg2DVrzktN",
+  "telegram": "https://t.me/samurailegends",
+  "twitter": "https://twitter.com/samuraiverse",
+  "website": "https://samurailegends.io/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0xaa39B60b5c4273f659674B6B34E3f187d16e7CfD",
+  "id": "0xaa39B60b5c4273f659674B6B34E3f187d16e7CfD"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "CZpegs BUSD",
+  "symbol": "CZbusd",
+  "decimals": 18,
+  "description": "",
+  "discord": "https://discord.gg/k3aZEu25wE",
+  "telegram": "https://t.me/CZpegs",
+  "twitter": "https://twitter.com/CZpegs",
+  "website": "https://www.czpegs.com/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0xa2A3Be47bEb973d48401010742D5E442177d037B",
+  "id": "0xa2A3Be47bEb973d48401010742D5E442177d037B"
+}

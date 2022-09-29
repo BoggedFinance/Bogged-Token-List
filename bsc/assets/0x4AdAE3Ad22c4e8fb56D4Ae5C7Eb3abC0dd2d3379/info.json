@@ -1,0 +1,16 @@
+{
+  "name": "xGrowth Token",
+  "symbol": "xGRO",
+  "decimals": 18,
+  "description": "All products built in the Growth DeFi ecosystem have revenue directed towards xGRO holders. xGRO is not only defiationary, but can be deposited to secure yield for users across our suite of platform products.Growth DeFi has been consistently active since early 2020, and has a top tier audit from Consensys Diligence.",
+  "discord": "",
+  "telegram": "https://t.me/growthdefi",
+  "twitter": "https://twitter.com/GrowthDefi",
+  "website": "https://perps.growthdefi.com/",
+  "vested": [],
+  "audits": [
+    "https://growthdefi.com/audits"
+  ],
+  "explorer": "https://bscscan.com/token/0x4AdAE3Ad22c4e8fb56D4Ae5C7Eb3abC0dd2d3379",
+  "id": "0x4AdAE3Ad22c4e8fb56D4Ae5C7Eb3abC0dd2d3379"
+}

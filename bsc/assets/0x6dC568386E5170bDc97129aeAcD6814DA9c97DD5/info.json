@@ -1,0 +1,16 @@
+{
+  "name": "TRENCHES COIN",
+  "symbol": "TRS",
+  "decimals": 18,
+  "description": "We are creating the Trenches coin to help those in need, coupled with fusing the Traditional and the crypto world.",
+  "discord": "https://discord.gg/sgWWsR8TDM",
+  "telegram": "https://t.me/TRStrenches",
+  "twitter": "https://twitter.com/TrenchesCoin",
+  "website": "https://trenchescoin.com",
+  "vested": [
+    "0xeaed594b5926a7d5fbbc61985390baaf936a6b8d"
+  ],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x6dC568386E5170bDc97129aeAcD6814DA9c97DD5",
+  "id": "0x6dC568386E5170bDc97129aeAcD6814DA9c97DD5"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "xPerpetuals Token",
+  "symbol": "xPERPS",
+  "decimals": 18,
+  "description": "xPERPS is a yield farm token linked to Growth DeFi's Perpetual Future Trading Platform (PERPS).",
+  "discord": "",
+  "telegram": "https://t.me/growthdefi",
+  "twitter": "https://twitter.com/GrowthDefi",
+  "website": "https://perps.growthdefi.com/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x849Cc5ef9DDd08691EE908aD8001003b4bF104e5",
+  "id": "0x849Cc5ef9DDd08691EE908aD8001003b4bF104e5"
+}

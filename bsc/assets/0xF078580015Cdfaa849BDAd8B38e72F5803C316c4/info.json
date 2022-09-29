@@ -1,0 +1,16 @@
+{
+  "name": "Son of Doge",
+  "symbol": "SOD",
+  "decimals": 9,
+  "description": "An innovative project which brings ‘meme’ and ‘utility’  together creating earth-shattering results.",
+  "discord": "https://discord.com/invite/HBbJgC5uh7",
+  "telegram": "https://t.me/SonOfDoge",
+  "twitter": "https://twitter.com/Sonofdoge_",
+  "website": "https://www.sonofdoge.website",
+  "vested": [],
+  "audits": [
+    "https://www.certik.com/projects/son-of-doge"
+  ],
+  "explorer": "https://bscscan.com/token/0xF078580015Cdfaa849BDAd8B38e72F5803C316c4",
+  "id": "0xF078580015Cdfaa849BDAd8B38e72F5803C316c4"
+}

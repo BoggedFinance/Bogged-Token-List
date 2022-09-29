@@ -1,11 +1,19 @@
 {
-    "name": "Cake Monster",
-    "website": "https://cake.monster",
-    "description": "A hyper-deflationary and elastic supply token that has unique reserve and reward mechanisms featuring an automated hybrid monetary policy.",
-    "explorer": "https://bscscan.com/token/0x8A5d7FCD4c90421d21d30fCC4435948aC3618B2f",
-    "type": "BEP20",
-    "symbol": "MONSTA",
-    "decimals": 18,
-    "status": "active",
-    "id": "0x8A5d7FCD4c90421d21d30fCC4435948aC3618B2f"
+  "name": "Cake Monster",
+  "symbol": "MONSTA",
+  "decimals": 18,
+  "description": "A Hyper-Deflationary and Dividend-Yielding asset on BNB Chain that introduces a new form of monetary policy. Cake Monster is a unique and elastic DeFi protocol that works in deflationary two year cycles on BNB Chain. The intrinsic token (MONSTA) value is backed by its non-correlated asset vault reserves (e.g BNB, CAKE), which are largely used to reward holders at the end of each cycle. While the total token supply is constantly decreasing with every transaction and gamified features, the non-correlated claimable backing value is constantly increasing, creating an interesting dance between future and current demand mechanisms via Staking. At its core, MONSTA is a Hyper-Deflationary, Dividend-Yielding token with unique reserve mechanisms and a hybrid monetary policy. It aims to combine sustainability, dividend yield, and reward generation with cute memes, NFTs, and gamification. We have put an additional focus on organic growth and upgradability of smart contracts. A fair and constantly improving ecosystem contributes to the quality and longevity of the project and will help us achieve our goals.",
+  "discord": "https://discord.gg/MonstaPartyNFTs",
+  "telegram": "https://t.me/cakemnstr",
+  "twitter": "https://twitter.com/thecakemnstr",
+  "website": "https://cake.monster/",
+  "vested": [
+    "0xab299186d619b5a2dd3c98d9fe810d30ec09c1e7",
+    "0xf7cddf60cd076d4d64c613489aa00dccf1e518f6"
+  ],
+  "audits": [
+    "https://solidity.finance/audits/CakeMonster/"
+  ],
+  "explorer": "https://bscscan.com/token/0x8A5d7FCD4c90421d21d30fCC4435948aC3618B2f",
+  "id": "0x8A5d7FCD4c90421d21d30fCC4435948aC3618B2f"
 }

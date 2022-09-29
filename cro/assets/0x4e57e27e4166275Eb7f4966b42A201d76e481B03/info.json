@@ -1,0 +1,14 @@
+{
+  "name": "Cougar Token",
+  "symbol": "CGS",
+  "decimals": 18,
+  "description": "Cronos CougarSwap provides a comprehensive Rewards Incentive Program circulated on Cronos Blockchain Network established at the highest stability and security level.",
+  "discord": "https://discord.gg/5JNWQNZafU",
+  "telegram": "https://t.me/CougarSwap_Multichain_Official",
+  "twitter": "https://twitter.com/cougarswap",
+  "website": "https://cougarswap.io",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://cronoscan.com/token/0x4e57e27e4166275Eb7f4966b42A201d76e481B03",
+  "id": "0x4e57e27e4166275Eb7f4966b42A201d76e481B03"
+}

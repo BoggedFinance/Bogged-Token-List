@@ -1,0 +1,16 @@
+{
+  "name": "Save the Soil",
+  "symbol": "STS",
+  "decimals": 18,
+  "description": "STS Tokens are the crypto voice of Saving The Soil, and the only digital currency that connects crypto currency with the health of the soil we grow our food in. The rewards with STS Tokens grow based on the performance of our commercial composting facilities, allowing for growing wallets and healthier soil.",
+  "discord": "",
+  "telegram": "https://t.me/STSToken",
+  "twitter": "https://twitter.com/SavetheSoil1",
+  "website": "https://silverdartconsulting.com/",
+  "vested": [
+    "0x3f4d6bf08cb7a003488ef082102c2e6418a4551e"
+  ],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x9dC5Fa9346d90119cf8F394570db2e35C81f09e0",
+  "id": "0x9dC5Fa9346d90119cf8F394570db2e35C81f09e0"
+}

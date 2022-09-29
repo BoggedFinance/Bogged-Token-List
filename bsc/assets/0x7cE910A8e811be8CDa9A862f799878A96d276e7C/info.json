@@ -1,0 +1,14 @@
+{
+  "name": "DCAP",
+  "symbol": "$DCAP",
+  "decimals": 18,
+  "description": "DCAP was designed to thrive and be supported by a growing portfolio of properties and cash flow assets. A token backed by property acquisition with cash flow, buybacks and an ecosystem that strives to bring higher education to unaccredited investors.",
+  "discord": "https://discord.gg/dcap",
+  "telegram": "",
+  "twitter": "https://twitter.com/dcapofficial",
+  "website": "https://dcap.finance",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x7cE910A8e811be8CDa9A862f799878A96d276e7C",
+  "id": "0x7cE910A8e811be8CDa9A862f799878A96d276e7C"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Croshi Inu",
+  "symbol": "CROSHI",
+  "decimals": 9,
+  "description": "Croshi Inu is a decentralised, peer-to-peer digital asset and meme token on the newly launched Cronos blockchain. It aims to rival its ERC relative, SHIBA INU and become one of the biggest players in the Cronos meme-space.Branding and token image is at the heart of their vision for success. Croshi wants to be a fun, and ‘easy to access’-token for all. Their low fees and easy accessibility through Crypto.com makes It possible for all walks of life to invest. Breaking the barriers for retail to invest easily and confidently is a priority.Croshi’s long-term mission is to bring an easy and seamless transaction process for all users on the Cronos Smart Chain. Our owners are Doxxed and have completed KYC with Mad Meerkat Finance and Rugdoctor.",
+  "discord": "",
+  "telegram": "https://t.me/croshiinu",
+  "twitter": "https://twitter.com/CroshiInu",
+  "website": "https://croshi.com/",
+  "vested": [
+    "0x05b711Df32d73ECaa877d45a637a2eB415e7995f",
+    "0xfD14D72EfcB6f5636D66140ddC8664Bdef9Dcf67"
+  ],
+  "audits": [],
+  "explorer": "https://cronoscan.com/token/0x10faae6A25354544081D1aa3438e66086218d851",
+  "id": "0x10faae6A25354544081D1aa3438e66086218d851"
+}

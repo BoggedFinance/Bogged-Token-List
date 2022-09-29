@@ -1,0 +1,14 @@
+{
+  "name": "EverRise",
+  "symbol": "RISE",
+  "decimals": 18,
+  "description": "The EverRise Token (RISE), the original buyback token, is a multi-chain collateralized cryptocurrency that serves as a utility token for cross-chain transfers and protects both the ecosystem and holders with its innovative Buyback and Staking protocol.On the EverRise protocol, the buyback fees collected from transactions are used to automatically buy RISE tokens from the open market, reducing sell pressure and increasing buy pressure. The bought back RISE tokens are then distributed to a high yield staking pool, where holders can stake their tokens within on-chain NFTs that are safely held in their wallets.EverRise is a blockchain technology company focused on increasing accessibility to DeFi by bringing security and multi-chain solutions to the space through an innovative ecosystem of decentralized applications (dApps): EverSwap (cross-chain tokenomic swap), EverBridge (block-speed fast bridge), EverMigrate (migration solution), EverOwn (smart contract locker) and the NFT Staking Lab (staking) are live. EverWallet, EverSale and EverLock coming soon.",
+  "discord": "https://discord.com/invite/everrise",
+  "telegram": "https://t.me/everriseofficial",
+  "twitter": "https://twitter.com/EverRise",
+  "website": "https://www.everrise.com/rise/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0xC17c30e98541188614dF99239cABD40280810cA3",
+  "id": "0xC17c30e98541188614dF99239cABD40280810cA3"
+}

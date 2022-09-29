@@ -1,0 +1,14 @@
+{
+  "name": "JUSD",
+  "symbol": "JUSD",
+  "decimals": 18,
+  "description": "",
+  "discord": "",
+  "telegram": "https://t.me/JETNFTDEFI",
+  "twitter": "https://twitter.com/jetnft_global",
+  "website": "https://linktr.ee/jetnft",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x650d05E1353ACffd4074b11bfa3f8a2fE9ad8f9f",
+  "id": "0x650d05E1353ACffd4074b11bfa3f8a2fE9ad8f9f"
+}

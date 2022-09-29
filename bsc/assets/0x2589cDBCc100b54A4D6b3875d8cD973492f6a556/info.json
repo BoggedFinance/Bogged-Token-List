@@ -1,0 +1,14 @@
+{
+  "name": "MysterBox Rewards",
+  "symbol": "MYSTERBOX",
+  "decimals": 9,
+  "description": "we have released MysterBox Rewards, which is the rewards token for our Mystery Ecosystem. Earn $BUSD reflections just by holding this token and we will be doing daily and weekly competitions and giveaways with MysterBox Rewards tokens!",
+  "discord": "https://discord.com/invite/mystfits",
+  "telegram": "https://t.me/mysterbox_io",
+  "twitter": "https://twitter.com/mysterbox_io",
+  "website": "https://mysterbox.io/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x2589cDBCc100b54A4D6b3875d8cD973492f6a556",
+  "id": "0x2589cDBCc100b54A4D6b3875d8cD973492f6a556"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "LockyBoxCoin",
+  "symbol": "LBC",
+  "decimals": 18,
+  "description": "One of the world's first blockchain technology powered, completely safe & decentralized lottery systems.",
+  "discord": "",
+  "telegram": "https://t.me/LockyBoxGlobal",
+  "twitter": "https://www.twitter.com/lockybox",
+  "website": "https://www.lockyboxcoin.com/",
+  "vested": [],
+  "audits": [
+    "https://contractwolf.io/projects/lockyboxcoin"
+  ],
+  "explorer": "https://bscscan.com/token/0xAADAC316bf05330077aD215528DDe18Ee8276DCd",
+  "id": "0xAADAC316bf05330077aD215528DDe18Ee8276DCd"
+}

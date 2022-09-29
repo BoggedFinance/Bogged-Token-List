@@ -1,0 +1,17 @@
+{
+  "name": "itentoken",
+  "symbol": "itn",
+  "decimals": 18,
+  "description": "",
+  "discord": "",
+  "telegram": "",
+  "twitter": "https://twitter.com/ItenToken",
+  "website": "https://itentoken.wuiltsite.com/",
+  "vested": [
+    "0xe63968e3438a27bf1F857C3752fE9bd64bb7A92A",
+    "0xB51cBdf13Eda393cff8c0f69e605f712434995df"
+  ],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0xe63968e3438a27bf1F857C3752fE9bd64bb7A92A",
+  "id": "0xe63968e3438a27bf1F857C3752fE9bd64bb7A92A"
+}

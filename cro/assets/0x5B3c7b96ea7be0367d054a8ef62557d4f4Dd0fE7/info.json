@@ -1,0 +1,16 @@
+{
+  "name": "Crypto Kart Racing",
+  "symbol": "CKRACING",
+  "decimals": 18,
+  "description": "🚘 CRYPTO KART RACING 🚘 The FIRST P2E game on CRO, using Cronos Play. Play now - www.cryptokartracing.com/playIf you liked Mario Kart, then you’ll LOVE this!!💰Real Play-2-Earn✅Unique 3D created characters   🚘Fully 3D karts 🛤Multiple tracks  🚀Integrated NFTs - including cosmetic upgrades, playable characters, vehicles & unique effects!   ⚔️Multiplayer tournaments - PVP or PVE   💴Championships and tournaments with huge cash prizes ($5,000+)   ♥️Twitch and YouTube gaming ambassadors   📱Mobile versions of the game   ✅Massive Marketing  plans",
+  "discord": "",
+  "telegram": "https://t.me/cryptokartracing",
+  "twitter": "https://twitter.com/CKRacing_CRO",
+  "website": "https://cryptokartracing.com/",
+  "vested": [],
+  "audits": [
+    "https://github.com/solidproof/projects/blob/main/Crypto%20Kart%20Racing/SmartContract_Audit_Solidproof_CryptoKartRacing.pdf"
+  ],
+  "explorer": "https://cronoscan.com/token/0x5B3c7b96ea7be0367d054a8ef62557d4f4Dd0fE7",
+  "id": "0x5B3c7b96ea7be0367d054a8ef62557d4f4Dd0fE7"
+}

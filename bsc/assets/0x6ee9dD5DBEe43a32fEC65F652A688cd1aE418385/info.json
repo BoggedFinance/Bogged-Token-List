@@ -1,0 +1,14 @@
+{
+  "name": "Money Island",
+  "symbol": "MONLAND",
+  "decimals": 9,
+  "description": "Money İsland is a meme token that only rewards investors for holding, the number of rewards received will increase over time if investors hold them longer.",
+  "discord": "",
+  "telegram": "https://t.me/MoneyIslandBsc",
+  "twitter": "https://twitter.com/MoneyIslandbsc",
+  "website": "https://www.moneyisland.me/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x6ee9dD5DBEe43a32fEC65F652A688cd1aE418385",
+  "id": "0x6ee9dD5DBEe43a32fEC65F652A688cd1aE418385"
+}

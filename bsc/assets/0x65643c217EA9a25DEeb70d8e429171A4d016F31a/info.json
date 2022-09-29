@@ -1,0 +1,18 @@
+{
+  "name": "Goldconio",
+  "symbol": "GCO",
+  "decimals": 18,
+  "description": "Accelerating blockchain technologies development, focusing on people and innovation.​Focusing on People Focused on our community and fair launch. Our dev team burned all of their tokens and participated with everyone else.Auto Liquidity To auto-generate liquidity with created a function that distribute liquidity into multiple exchanges pools.RFI Static Rewards Holders earn passive rewards through static reflection as they watch their balance of GoldConio grow indefinitely.4% is Redistributed to all existing holders3% is added to goldconio liquidity2% of goldconio tokens are burned1% is added to the GoldConio Ecosystem Growth Fund",
+  "discord": "https://discord.com/channels/969986588576731296/969986591307206690",
+  "telegram": "https://t.me/goldconioprotocol",
+  "twitter": "https://twitter.com/goldconio",
+  "website": "https://goldconio.com/",
+  "vested": [],
+  "audits": [
+    "https://goldconio.com/kyc",
+    "https://poocoin.app/tokens/0x65643c217ea9a25deeb70d8e429171a4d016f31a",
+    "https://scan.contracto.org/details/0x65643c217EA9a25DEeb70d8e429171A4d016F31a"
+  ],
+  "explorer": "https://bscscan.com/token/0x65643c217EA9a25DEeb70d8e429171A4d016F31a",
+  "id": "0x65643c217EA9a25DEeb70d8e429171A4d016F31a"
+}

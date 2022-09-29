@@ -1,0 +1,17 @@
+{
+  "name": "The Angry Panda Coin",
+  "symbol": "ANP",
+  "decimals": 18,
+  "description": "The Angry Panda Coin is one of the first tokens connected to a musician's career. This means that the better the musician's career does the higher the value. This makes holders who would be fans HODL in a way to support their favorite artist. ",
+  "discord": "https://discord.gg/R64ZZDDN",
+  "telegram": "https://t.me/+R4Gn_2ViNCc-GBB1",
+  "twitter": "https://twitter.com/DaRealFrd",
+  "website": "https://chat.whatsapp.com/Cc16PrI7JUt2OuJYBr2kDM",
+  "vested": [
+    "0xfA3fB20319bdF97f75FFC61587E8A85E5e94681c",
+    "0x2E64f80938c69D0E406bf69b714ac98a46176EdE"
+  ],
+  "audits": [],
+  "explorer": "https://polygonscan.com/token/0xc2c96559F0d80986fE72DAE4b79AcaE8E3fEBbF7",
+  "id": "0xc2c96559F0d80986fE72DAE4b79AcaE8E3fEBbF7"
+}

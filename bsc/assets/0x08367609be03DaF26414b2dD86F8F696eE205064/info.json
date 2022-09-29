@@ -1,0 +1,16 @@
+{
+  "name": "Meta NFT Generator (Upload to Earn)",
+  "symbol": "MTNG",
+  "decimals": 18,
+  "description": "🚀 Meta NFT Generator is a project in the Binance Smart Chain ecosystem, pioneering the newest “Upload to Earn” model, where uploaders (users) can quickly create NFT artwork using photos/videos directly from their gallery to send to crypto wallets and earn money in our marketplace or anywhere in the blockchain.Meta NFT Generator has differentials in its operation and economic structure, which provides the desire to use, hold the token and, consequently, longevity.Investors can feel safe about the MTNG Token:✅ Audited contract✅ Buy/sell fee always 0%✅ Renounced contract - check whitepaper✅ No Dump and no team tokens, supply locked with a schedule according to our roadmap",
+  "discord": "",
+  "telegram": "https://t.me/metanftgenerator",
+  "twitter": "https://twitter.com/generator_meta",
+  "website": "https://metanftgenerator.site/#about",
+  "vested": [],
+  "audits": [
+    "https://github.com/Coinsult/solidity/blob/main/MetanftgeneratorAudit.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0x08367609be03DaF26414b2dD86F8F696eE205064",
+  "id": "0x08367609be03DaF26414b2dD86F8F696eE205064"
+}

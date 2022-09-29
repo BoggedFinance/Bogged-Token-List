@@ -1,0 +1,16 @@
+{
+  "name": "WhaleSwap Token",
+  "symbol": "POD",
+  "decimals": 18,
+  "description": "WhaleSwap is the next-generation DEX, maximizing capital efficiency and yield with its innovative hybrid liquidity pools.",
+  "discord": "https://discord.gg/sGe8GKNZ3Z",
+  "telegram": "https://t.me/whaleswap",
+  "twitter": "https://twitter.com/whaleloans",
+  "website": "https://whaleswap.finance",
+  "vested": [],
+  "audits": [
+    "https://github.com/Whale-Swap/audits/blob/878e4671851d65c4fc9a35a7d2fec94a483e1d72/WhaleSwap_Audit.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0xDDed222297B3d08DAFDAc8f65eeB799B2674C78F",
+  "id": "0xDDed222297B3d08DAFDAc8f65eeB799B2674C78F"
+}

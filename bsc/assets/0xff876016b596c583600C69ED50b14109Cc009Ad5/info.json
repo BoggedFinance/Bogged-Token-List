@@ -1,0 +1,16 @@
+{
+  "name": "Red Rocket Token",
+  "symbol": "RRKT",
+  "decimals": 9,
+  "description": "What makes RRKT different from other tokens is that RRKT has a utility that will continually fuel its growth.RRKT is the first ever token built on the Binance smart chain for use by the website traffic industry. RRKT is the Pay-Per-Click token that powers the Red Rocket Website Traffic Platform at RedRocketTraffic.io. The Red Rocket Website Traffic Platform allows purchasing of high-quality website traffic with RRKT, where a portion of the RRKT used to purchase website traffic is burned. Members can also earn RRKT for FREE by viewing advertisements on the Red Rocket Website Traffic Platform.The unique utility of RRKT allows us to leverage the burn resulting from the use of RRKT on the Red Rocket Website Traffic Platform with RRKT tokenomics to send this token TO THE MOON!",
+  "discord": "",
+  "telegram": "",
+  "twitter": "https://twitter.com/redrocketrrkt",
+  "website": "https://redrocketrrkt.io/",
+  "vested": [
+    "0x3135ef52c7cb4b5bb64435259619a8d02948b19d"
+  ],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0xff876016b596c583600C69ED50b14109Cc009Ad5",
+  "id": "0xff876016b596c583600C69ED50b14109Cc009Ad5"
+}

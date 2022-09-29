@@ -1,0 +1,42 @@
+{
+  "name": "SamuraiLegends",
+  "symbol": "SMG",
+  "decimals": 9,
+  "description": "Samurai Legends is a samurai-themed NFT open-world GameFi Metaverse. Players fight PvP battles, build, strategize and engage in politics in order to survive and thrive. In this sandbox of conflict, players aspire to become Shogun and gain ultimate control over the game world.Samurai Legends ($SMG) is the ecosystem's primary token. These tokens will be used for every out-of-game utility, including the NFT marketplace currency and representation in governance votes. $SMG tokens are also set aside to provide staking rewards, sustain the play-to-earn mechanics, and fund a treasury for community initiatives. ",
+  "discord": "https://discord.com/invite/Eg2DVrzktN",
+  "telegram": "https://t.me/samurailegends",
+  "twitter": "https://twitter.com/samuraiverse",
+  "website": "https://samurailegends.io/",
+  "vested": [
+    "0x10195dc3d8501b9bb6dd1f064eefc2b815fbce2b",
+    "0xbbd2588f98897e33ef67db10afbae83d53a71147",
+    "0x0c89c0407775dd89b12918b9c0aa42bf96518820",
+    "0x56bc09b7acbf8c1376a564f0e0ab9c77782d037d",
+    "0x94fab5c81e760b32d14ad70cf5c79a4bda702981",
+    "0xc002184e1eea67d528f8ee488ff10bc67d1e716a",
+    "0x69b1bd97fa7a607d0cbc731f573d3e86dab3fca0",
+    "0xcdaa9aa6429f84418c549b2cb07ef2b17947fd5c",
+    "0x85cc64d7c5710d3f21fe6e491dcc846f6f43fa92",
+    "0x3b6d87fe8bbfb9188311e7ff468e45b9f6ae1882",
+    "0xb30ad1208eb7e6a9bc6f8de75fce791c2552eba2",
+    "0x913a11960b5c9681dcadb375ba9649e90a8e17ac",
+    "0x5e1d0c91589b92cc9636ec55181610c5890bc7e8",
+    "0x2823976503e8056ac7e3ebccffcd119cb58bd263",
+    "0x2762023e8ef0bec8161c46f7d63f559ce94dbf4c",
+    "0x19bb9cb4c2ead8075de80faa0f9f45d693ee967d",
+    "0xe1c390c9ab377a46c77e2dacc65f969e3477344a",
+    "0x91e38d60147330a52e41e67fe171e7396fb3f02b",
+    "0x7686faf12dad924d605e92fe4defe9b911ce267c",
+    "0x4521ff3e9b3d34ffd4374189f938888903e7573f",
+    "0x17f7876d13fe9f0ccbe4751a0cb91aacf60f98ad",
+    "0xc4f2e8f9e2f712498a42c2f527a76c12ea37eb42",
+    "0x8935e5da45bac112a5383e1a2160c4185423f9ae",
+    "0x90c56d60580c1d1a8238cffce479e474c4d91ed3",
+    "0x64f5f9f33eb946ccaa4a7c203cdaec844279c701"
+  ],
+  "audits": [
+    "https://hacken.io/wp-content/uploads/2022/03/SamuraiLegends_01032022SCAudit_Report3.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0x3Ca994D9f723736381d44388bC8dD1e7eE8C1653",
+  "id": "0x3Ca994D9f723736381d44388bC8dD1e7eE8C1653"
+}

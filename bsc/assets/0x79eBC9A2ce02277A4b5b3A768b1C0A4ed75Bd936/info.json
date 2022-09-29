@@ -1,11 +1,17 @@
 {
-    "name": "Catgirl",
-    "website": "https://www.catgirlcoin.com",
-    "description": "CATGIRL¢ is a NFT focused, community driven crypto currency, with real world use. By using deflationary and instant rewards, we want to maximize the benefits for coin holders.",
-    "explorer": "https://bscscan.com/token/0x79ebc9a2ce02277a4b5b3a768b1c0a4ed75bd936",
-    "type": "BEP20",
-    "symbol": "CATGIRL",
-    "decimals": 9,
-    "status": "active",
-    "id": "0x79eBC9A2ce02277A4b5b3A768b1C0A4ed75Bd936"
+  "name": "CatGirl",
+  "symbol": "CATGIRL",
+  "decimals": 9,
+  "description": "CATGIRL¢ is an NFT focused, community driven crypto currency, with real world use.Catgirl creates an in-depth entertainment platform consisting of digitally-engineered collectible Catgirls. Users can truly own Catgirls and verify their ownership on the blockchain. With customizable Catgirl NFTs coming soon to our Catgirl ecosystem, we will bring a multitude of ways to allow our users to express themselves.",
+  "discord": "https://discord.gg/catgirlcoin",
+  "telegram": "https://t.me/catgirlcoin",
+  "twitter": "https://twitter.com/catgirlcoin",
+  "website": "https://catgirl.io",
+  "vested": [],
+  "audits": [
+    "https://solidity.finance/audits/CatGirl/",
+    "https://www.certik.com/projects/catgirl"
+  ],
+  "explorer": "https://bscscan.com/token/0x79eBC9A2ce02277A4b5b3A768b1C0A4ed75Bd936",
+  "id": "0x79eBC9A2ce02277A4b5b3A768b1C0A4ed75Bd936"
 }

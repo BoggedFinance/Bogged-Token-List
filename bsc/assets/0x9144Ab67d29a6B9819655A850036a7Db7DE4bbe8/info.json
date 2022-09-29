@@ -1,0 +1,17 @@
+{
+  "name": "Infinity Lotto 2",
+  "symbol": "iLOTTO2",
+  "decimals": 18,
+  "description": "💎We Strive to Retain our Loyal Holders through  3% DIVIDENDS in BUSD.💵 to Stakers ⭐️Stakes     Chances to Jackpot     Earn Tokens      Get Paid to Stake📣Live lottery drawing. Jackpot split 3 ways. That's 6 winners a week!💰",
+  "discord": "",
+  "telegram": "https://t.me/infinitylotto",
+  "twitter": "https://twitter.com/InfinityLotto",
+  "website": "https://www.infinity-lotto.com/",
+  "vested": [
+    "0x407993575c91ce7643a4d4ccacc9a98c36ee1bbe",
+    "0x9144Ab67d29a6B9819655A850036a7Db7DE4bbe8"
+  ],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x9144Ab67d29a6B9819655A850036a7Db7DE4bbe8",
+  "id": "0x9144Ab67d29a6B9819655A850036a7Db7DE4bbe8"
+}

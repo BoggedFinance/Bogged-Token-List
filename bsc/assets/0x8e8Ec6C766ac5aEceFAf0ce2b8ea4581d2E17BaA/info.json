@@ -1,0 +1,16 @@
+{
+  "name": "BOUNDLESS DAO",
+  "symbol": "BND",
+  "decimals": 9,
+  "description": "BND is native rebase token for Boundless. Staking this token will give the holder daily rewards. BND token will be usable in variety of ways one of which is participating in Boundless Games like Jackpot and Roulette. ",
+  "discord": "https://discord.gg/boundlessdcf",
+  "telegram": "https://t.me/BoundlessCommunity",
+  "twitter": "https://twitter.com/BoundlessDCF",
+  "website": "https://boundless.money",
+  "vested": [],
+  "audits": [
+    "https://solidity.finance/audits/Boundless/"
+  ],
+  "explorer": "https://bscscan.com/token/0x8e8Ec6C766ac5aEceFAf0ce2b8ea4581d2E17BaA",
+  "id": "0x8e8Ec6C766ac5aEceFAf0ce2b8ea4581d2E17BaA"
+}

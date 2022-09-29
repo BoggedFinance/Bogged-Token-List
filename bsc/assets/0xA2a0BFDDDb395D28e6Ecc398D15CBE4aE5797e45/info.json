@@ -1,0 +1,14 @@
+{
+  "name": "TRIFLEPAY",
+  "symbol": "FLEPA",
+  "decimals": 18,
+  "description": "FLEPA is an BSC token that powers TRIFLEPAY, a Ecosystem payment platform for Ecomerence called triflepay/com Pear to Pear Money sending called Triflepay.io.FLEPA is used to trade between two currency which can reduce costing card fee for foreign transaction. FLEPA also act as a exchanger for sending money aboard by using peer to peer system.",
+  "discord": "",
+  "telegram": "https://t.me/TriflePay_FLEPA",
+  "twitter": "https://www.twitter.com/TriflePay",
+  "website": "https://www.triflepay.io",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0xA2a0BFDDDb395D28e6Ecc398D15CBE4aE5797e45",
+  "id": "0xA2a0BFDDDb395D28e6Ecc398D15CBE4aE5797e45"
+}

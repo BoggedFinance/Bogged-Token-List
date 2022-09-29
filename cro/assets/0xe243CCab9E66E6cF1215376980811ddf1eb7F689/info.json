@@ -1,0 +1,16 @@
+{
+  "name": "Crodex Token",
+  "symbol": "CRX",
+  "decimals": 18,
+  "description": "",
+  "discord": "https://discord.gg/xSCzBRYGy4",
+  "telegram": "https://t.me/crodexofficial",
+  "twitter": "https://twitter.com/crodexapp",
+  "website": "https://crodex.app/",
+  "vested": [],
+  "audits": [
+    "https://hacken.io/wp-content/uploads/2021/11/Crodex_23112021SCAudit_Report.pdf"
+  ],
+  "explorer": "https://cronoscan.com/token/0xe243CCab9E66E6cF1215376980811ddf1eb7F689",
+  "id": "0xe243CCab9E66E6cF1215376980811ddf1eb7F689"
+}

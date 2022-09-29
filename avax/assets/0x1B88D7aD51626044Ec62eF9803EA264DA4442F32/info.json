@@ -1,0 +1,16 @@
+{
+  "name": "ZooToken",
+  "symbol": "ZOO",
+  "decimals": 18,
+  "description": "ZooKeeper was created in order to fuel the ZooEcosystem with liquidity. It is an innovative dApp which uses ZooNFTs to boost liquidity mining. Users have access to these NFTs which have a real use case - enhancing LP farming, on top of their inherent trading possibilities.On ZooKeeper you can make use of $ZOO tokens in many ways such as farming (The Zoo), staking for NFTs (The Expedition), in the creation of more powerful NFTs (Crafting), or making use of them in trading NFTs (The Market).ZooEcosystem is a blockchain gaming-oriented ecosystem with a multi-chain focus and multi community spirit.It provides: Multi-chain access - farm $ZOO tokens and trade ZooNFTs on several networks (currently available on Avalanche and Wanchain, but more to come);Access to an NFT Marketplace - trade ZooGames NFTs and more on OpenZoo;Multi-chain gaming - connect to ZooGames from any available chain and play fun games.",
+  "discord": "https://discord.gg/ZooEcosystem",
+  "telegram": "https://t.me/ZooEcosystem",
+  "twitter": "https://twitter.com/ZooEcosystem",
+  "website": "https://Zoo.One",
+  "vested": [],
+  "audits": [
+    "https://github.com/ZooFarming/Audit/blob/main/%5BHAECHI%20AUDIT%5D%20Zoo%20Farming%20Security%20Audit%20Report_v1.1.pdf/"
+  ],
+  "explorer": "https://snowtrace.io/token/0x1B88D7aD51626044Ec62eF9803EA264DA4442F32",
+  "id": "0x1B88D7aD51626044Ec62eF9803EA264DA4442F32"
+}

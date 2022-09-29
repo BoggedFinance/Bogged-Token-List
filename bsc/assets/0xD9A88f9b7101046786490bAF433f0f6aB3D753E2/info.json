@@ -1,0 +1,14 @@
+{
+  "name": "Barbecue Token",
+  "symbol": "BBQ",
+  "decimals": 18,
+  "description": "",
+  "discord": "",
+  "telegram": "",
+  "twitter": "",
+  "website": "",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0xD9A88f9b7101046786490bAF433f0f6aB3D753E2",
+  "id": "0xD9A88f9b7101046786490bAF433f0f6aB3D753E2"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Crogecoin",
+  "symbol": "Croge",
+  "decimals": 9,
+  "description": "We are the first and largest meme coin in the cronos network. We have plans for a BSC to CRO bridge. It will be live this week, and attract huge attention. We are aiming for over 100m market cap by end of April. We also have the first and largest P2E game in CRONOS being launched this week as well",
+  "discord": "",
+  "telegram": "https://t.me/crogecoin",
+  "twitter": "Https://twitter.com/croge_cro",
+  "website": "https://Crogecoin.com",
+  "vested": [],
+  "audits": [
+    "https://github.com/AuditRateTech/Smart-Contract-Audits/blob/main/Crogecoin_0xC4a174cCb5fb54a6721e11e0Ca961e42715023F9.pdf"
+  ],
+  "explorer": "https://cronoscan.com/token/0xC4a174cCb5fb54a6721e11e0Ca961e42715023F9",
+  "id": "0xC4a174cCb5fb54a6721e11e0Ca961e42715023F9"
+}

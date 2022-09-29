@@ -1,0 +1,16 @@
+{
+  "name": "Victory",
+  "symbol": "AVIC",
+  "decimals": 18,
+  "description": "AVIC token - The pegged token from Champion FinanceThe first cross-chain elastic-algorithmic token pegged to $USDC",
+  "discord": "https://discord.com/invite/NMDzWcS5qz",
+  "telegram": "https://t.me/ChampionFinance_Announcement",
+  "twitter": "https://twitter.com/Champion_io",
+  "website": "https://championfinance.io/",
+  "vested": [],
+  "audits": [
+    "https://github.com/0xGuard-com/audit-reports/blob/master/Champion%20Finance/Champion%20Finance.pdf"
+  ],
+  "explorer": "https://snowtrace.io/token/0x59B18817CA9f4ad2dEE6FBf30132dF6AEb9D763d",
+  "id": "0x59B18817CA9f4ad2dEE6FBf30132dF6AEb9D763d"
+}

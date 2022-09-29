@@ -1,0 +1,17 @@
+{
+  "name": "KungFuu",
+  "symbol": "KNGFUU",
+  "decimals": 18,
+  "description": "KungFuu Finance is an auto-staking protocol on Fantom with a 50,000% fixed APY. Owners of Fork It, the leading DeFi fork listing ecosystem.",
+  "discord": "https://discord.gg/83vj9zBvdB",
+  "telegram": "https://t.me/kungfuu_fi",
+  "twitter": "https://twitter.com/kungfuu_fi",
+  "website": "https://www.kungfuu.app",
+  "vested": [
+    "0x29187b10a04B269Cf067AE013B3ab58d4affaC03",
+    "0x914aDbe1a641F1E4A8ce22776D342d4C2669f030"
+  ],
+  "audits": [],
+  "explorer": "https://ftmscan.com/token/0x89b61Ab033584918103698953870F07D6db412A3",
+  "id": "0x89b61Ab033584918103698953870F07D6db412A3"
+}

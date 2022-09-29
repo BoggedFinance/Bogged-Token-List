@@ -1,0 +1,16 @@
+{
+  "name": "Little Rabbit",
+  "symbol": "LTRBT",
+  "decimals": 9,
+  "description": "Littlerabbit is an incredibly promising project, goal achieving success on the Binance Smart Chain. Our aim is to maximize your investment with yield farming mechanism that provides sustainable and profitable yields combined with transparent security features.LTRBT Token is capable of gasless instant yield generation. This means that holders can generate yield just by holding the token in their wallet, without any further action required.",
+  "discord": "",
+  "telegram": "https://t.me/littlerabbitchat",
+  "twitter": "https://twitter.com/LTRBTtwt/",
+  "website": "https://littlerabbitproject.com/",
+  "vested": [],
+  "audits": [
+    "https://dessertswap.finance/audits/Little-Rabbit-BSC-Audit-20640364.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0x6C46422A0f7dbbAD9BEC3BbBC1189bfAf9794B05",
+  "id": "0x6C46422A0f7dbbAD9BEC3BbBC1189bfAf9794B05"
+}

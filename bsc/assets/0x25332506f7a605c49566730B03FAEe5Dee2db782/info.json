@@ -1,0 +1,14 @@
+{
+  "name": "Alqods Token",
+  "symbol": "PAG",
+  "decimals": 18,
+  "description": "",
+  "discord": "",
+  "telegram": "",
+  "twitter": "",
+  "website": "",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x25332506f7a605c49566730B03FAEe5Dee2db782",
+  "id": "0x25332506f7a605c49566730B03FAEe5Dee2db782"
+}

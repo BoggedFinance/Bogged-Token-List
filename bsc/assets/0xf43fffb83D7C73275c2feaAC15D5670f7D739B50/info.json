@@ -1,0 +1,14 @@
+{
+  "name": "CZpegs BNB",
+  "symbol": "CZbnb",
+  "decimals": 18,
+  "description": "",
+  "discord": "https://discord.gg/k3aZEu25wE",
+  "telegram": "https://t.me/CZpegs",
+  "twitter": "https://twitter.com/CZpegs",
+  "website": "https://www.czpegs.com/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0xf43fffb83D7C73275c2feaAC15D5670f7D739B50",
+  "id": "0xf43fffb83D7C73275c2feaAC15D5670f7D739B50"
+}

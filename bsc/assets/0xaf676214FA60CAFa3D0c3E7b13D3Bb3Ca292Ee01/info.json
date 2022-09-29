@@ -1,0 +1,14 @@
+{
+  "name": "BWM Token v2",
+  "symbol": "BWM ",
+  "decimals": 18,
+  "description": "BWM TOKEN is type of security that gives stockholders a share of ownership in a company (BWM Autotechnik in switzerland).BWM tokens are associating financial securities, such as BWM ordinary shares, with a blockchain token. Each token being associated with a public key, whoever owns the corresponding private key is the owner of the financial security.The evolution with security tokens is that the register is maintained using a decentralized and transparent infrastructure outside of the control of the issuing company, an BSC (Binance smart chain) hosted on the public BNB blockchain in the case of the Platform.Any security token owner can therefore independently assess its ownership, and the total number of security tokens issued by the company. Brokers can easily own and distribute security tokens issued by 3rd parties, and investors can independently exchange the security tokens among themselves.BWM tokens lend themselves to operational efficiencies by automating time-consuming operations, such as the issuance of shares and the maintenance of the shareholder register, compliance with securities regulation and transfer restrictions, the exchange of shares and the payment of dividends.By blending the efficiency of blockchain tokens with the regulatory security associated with financial securities, security tokens are widely seen as major evolution in the world finance. With BWM tokens, private companies can efficiently manage thousands of investors across geographies, accept very small investment tickets and organize the secondary exchange of their shares while remaining private.",
+  "discord": "",
+  "telegram": "https://t.me/+0pt1hhMlJ8g2OWQ0",
+  "twitter": "https://twitter.com/BWM_Token",
+  "website": "http://www.bwmautotechnik.com/token",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0xaf676214FA60CAFa3D0c3E7b13D3Bb3Ca292Ee01",
+  "id": "0xaf676214FA60CAFa3D0c3E7b13D3Bb3Ca292Ee01"
+}

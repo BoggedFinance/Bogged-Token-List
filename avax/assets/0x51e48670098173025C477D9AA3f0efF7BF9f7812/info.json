@@ -1,0 +1,18 @@
+{
+  "name": "DegenX",
+  "symbol": "DGNX",
+  "decimals": 18,
+  "description": "DGNX is a decentralized and governance token of the DegenX ecosystem, it is the token that powers and benefits all holders in the DegenX ecosystem. It is backed by its base asset, providing token with an ever-increasing intrinsic baseline value. Hold DGNX and you have the right to propose or vote on proposals, lock token with the DGNX LockR which is the most advanced multichain token Locker or stake DGNX or other tokens with StakeX smart contract.",
+  "discord": "https://discord.com/invite/pyaZqZrS",
+  "telegram": "https://t.me/DegenXportal",
+  "twitter": "https://twitter.com/DegenEcosystem",
+  "website": "https://dgnx.finance",
+  "vested": [
+    "0x8a0E3264Da08bf999AfF5a50AabF5d2dc89fab79"
+  ],
+  "audits": [
+    "https://github.com/solidproof/projects/blob/main/DGNX/SmartContract_Audit_Solidproof_DGNX_Main.pdf"
+  ],
+  "explorer": "https://snowtrace.io/token/0x51e48670098173025C477D9AA3f0efF7BF9f7812",
+  "id": "0x51e48670098173025C477D9AA3f0efF7BF9f7812"
+}

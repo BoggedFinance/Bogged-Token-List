@@ -1,0 +1,16 @@
+{
+  "name": "BossPay",
+  "symbol": "BPAY",
+  "decimals": 9,
+  "description": "",
+  "discord": "",
+  "telegram": "",
+  "twitter": "",
+  "website": "https://bosspay.co.in",
+  "vested": [],
+  "audits": [
+    "https://349888218-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F0EBaoPZCGRR58f9uinH4%2Fuploads%2FNLieTeYRORxCd28wGdWw%2Fbpay_hacken_audit.pdf?alt=media&token=8912d869-3859-483c-a726-ef3543403485"
+  ],
+  "explorer": "https://bscscan.com/token/0x5Ca5f0a2B4A582506258d857797720CB11dF3689",
+  "id": "0x5Ca5f0a2B4A582506258d857797720CB11dF3689"
+}

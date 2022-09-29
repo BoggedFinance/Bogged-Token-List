@@ -1,0 +1,16 @@
+{
+  "name": "Defiskeletons",
+  "symbol": "Skeleton",
+  "decimals": 18,
+  "description": "Defiskeletons is a utility project in DeFi category on binance smart chain. The project launched on 12th of may 2022 with the goal to develop useful decentralized applications to crypto traders. May it be beginner, rookie or pro. The dashboard allready offers contract analyzer, non custodial wallet, swap, watchlist, staking platform. The development running continously to build a full ecosystem before the team launch the main utility, the skeleton blockchain.",
+  "discord": "",
+  "telegram": "https://t.me/defiskeletons",
+  "twitter": "https://www.twitter.com/defiskeletons",
+  "website": "https://www.defiskeletons.com",
+  "vested": [],
+  "audits": [
+    "https://github.com/coinscope-co/audits/blob/main/skeleton/audit.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0xb0688E82D162Df5288A0D986DfFd4CF80AFb7897",
+  "id": "0xb0688E82D162Df5288A0D986DfFd4CF80AFb7897"
+}

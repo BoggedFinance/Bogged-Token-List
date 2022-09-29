@@ -1,0 +1,14 @@
+{
+  "name": "Coinspaid",
+  "symbol": "CPD",
+  "decimals": 18,
+  "description": "\"CoinsPaid is a B2B-oriented business (though it also has a personal crypto wallet), with over 800 merchants. In Q1 2022 the company increased its number of transactions by 128% and volumes by 263% compared to 2021 Q1. In Q2 CoinsPaid crossed the $1 billion per month mark. That means that CoinsPaid became one of the biggest crypto processing services worldwide.Today CoinsPaid business includes B2B payment gateway which supports more than 30 cryptocurrencies and 20+ fiat currencies, SaaS solution that helps businesses to start their own digital currency payment business, exchange and OTC desk. For B2C consumers the company developed its own hot wallet that allows to pay for goods and services in crypto with 0% fee.CoinsPaid also issued it’s own utility token - $CPD. It’s a fuel of the CoinsPaid ecosystem. $CPD holders could receive up to 20% discounts on fees for staking and up to 50% discounts on fees that are paid in $CPD. $CPD token is available on a number of DEXs and it will be listed on one of the Tier 1 or Tier 2 CEXs exchanges very soon.\"",
+  "discord": "",
+  "telegram": "https://t.me/CoinsPaid_Official",
+  "twitter": "https://twitter.com/coinspaid",
+  "website": "https://www.coinspaid.com",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x2406dCe4dA5aB125A18295f4fB9FD36a0f7879A2",
+  "id": "0x2406dCe4dA5aB125A18295f4fB9FD36a0f7879A2"
+}

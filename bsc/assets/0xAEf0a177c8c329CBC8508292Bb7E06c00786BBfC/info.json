@@ -1,25 +1,27 @@
 {
-  "name": "Puli Inu",
-  "website": "https://www.puli-inu.com",
-  "telegram": "https://t.me/Puli_Inu",
-  "description": "Powering P2E games every month. Store, swap, play, chat and earn tokens while introducing new investors to crypto.",
-  "explorer": "https://bscscan.com/token/0xaef0a177c8c329cbc8508292bb7e06c00786bbfc",
-  "discord": "https://discord.gg/252Fs93hM8",
-  "twitter": "https://twitter.com/puli_inu",
-  "type": "BEP20",
+  "name": "PULI INU",
   "symbol": "PULI",
   "decimals": 9,
-  "status": "active",
-  "id": "0xB09FE1613fE03E7361319d2a43eDc17422f36B09",
+  "description": "Puli (PULI) delivers simple yet very addicting P2E games supported by a novel NFT system. The first game, Puli Runner, was successfully launched on 31 January 2022. The team has also acquired a gaming studio for the development of future Play-to-Earn games. In addition, the token is supported by Lightspeed Crypto Services, LLC to support mobile game support on Android and IOS.The purpose and key features of the token include a 10% Buy and 10% Sell tax that are used to fund aggressive marketing, development, and  stable liquidity. In addition, the asset can be staked for added earnings with instructions available at their website.",
+  "discord": "https://discord.gg/puli",
+  "telegram": "https://t.me/Puli_Inu",
+  "twitter": "https://twitter.com/puli_token",
+  "website": "https://pulitoken.net/",
   "vested": [
     "0x864d434308997e9648838d23f3eedf5d0fd17bea",
-	"0xB0f3bCf61425Fcf3D24966e7ae8B4C83F92357a7",
-	"0x0A2cB95D2Ef1EE6511b45e366D0349FedB406c75",
-	"0xc569C21b0862B112Ed69bA9d2C6e9Ed86A036f9C",
-	"0x3ff5cbe338153063d8251d2b6a22a437ec09eef3"
+    "0x3ff5cbe338153063d8251d2b6a22a437ec09eef3",
+    "0x37a599bee8cd54e47224894abc9f1d2a5066a97e",
+    "0x29b145f6d8580922cfb975c99bcf8dab4326d1af",
+    "0xc569c21b0862b112ed69ba9d2c6e9ed86a036f9c",
+    "0x1d407b3a36124e14aa13513e0560f7f2c03dc9de",
+    "0x9f663cffc4c05e89a5be8d8f778ee910e19ecb6f",
+    "0x0e1ecb720ab2ed8e531a137ddf8c2eb5380e9ffb"
   ],
   "audits": [
+    "https://github.com/coinscope-co/audits/blob/main/puli/audit.pdf",
     "https://github.com/interfinetwork/smart-contract-audits/blob/audit-updates/PuliInu_0xAEf0a177c8c329CBC8508292Bb7E06c00786BBfC.pdf",
-	"https://github.com/coinscope-co/audits/blob/main/puli/audit.pdf"
-  ]
+    "https://www.certik.com/projects/puli-inu"
+  ],
+  "explorer": "https://bscscan.com/token/0xAEf0a177c8c329CBC8508292Bb7E06c00786BBfC",
+  "id": "0xAEf0a177c8c329CBC8508292Bb7E06c00786BBfC"
 }

@@ -1,0 +1,14 @@
+{
+  "name": "Wrapped NFTC",
+  "symbol": "WNFTC",
+  "decimals": 6,
+  "description": "Utility token for the New Financial International ecosystem.New Financial International is an innovative company providing its customers with a revolutionary and constantly evolvingecosystem of financial and technological products.After the first profitable years of operation, it became apparent that this ecosystem could be complemented with an additional product and service: a utility token serving multiple purposes for the company, the customers, the partners and the entire cryptocurrency market.",
+  "discord": "",
+  "telegram": "",
+  "twitter": "",
+  "website": "https://nftcoindao.io",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0xeC555d7cCc85543cde5A1230d54Bf08C494555e3",
+  "id": "0xeC555d7cCc85543cde5A1230d54Bf08C494555e3"
+}

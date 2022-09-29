@@ -1,0 +1,14 @@
+{
+  "name": "Trenches Reward Token",
+  "symbol": "TRST V2",
+  "decimals": 18,
+  "description": "",
+  "discord": "",
+  "telegram": "https://t.me/TRStrenches",
+  "twitter": "https://twitter.com/TrenchesCoin",
+  "website": "https://trenchescoin.com/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x200C62F63fD6a6A8837a06230d01Af41716d1351",
+  "id": "0x200C62F63fD6a6A8837a06230d01Af41716d1351"
+}

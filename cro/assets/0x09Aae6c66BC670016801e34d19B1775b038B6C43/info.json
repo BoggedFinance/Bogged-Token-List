@@ -1,0 +1,14 @@
+{
+  "name": "ApeCron",
+  "symbol": "APECRON",
+  "decimals": 9,
+  "description": "Ape cron mission, to provide the most user friendly experience adopted worldwide as the leading chart tracking/trading platform for all tokens on the Cronos network.",
+  "discord": "",
+  "telegram": "https://t.me/apecron",
+  "twitter": "https://twitter.com/apecronofficial",
+  "website": "http://apecron.com",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://cronoscan.com/token/0x09Aae6c66BC670016801e34d19B1775b038B6C43",
+  "id": "0x09Aae6c66BC670016801e34d19B1775b038B6C43"
+}

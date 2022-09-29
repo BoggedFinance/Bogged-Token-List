@@ -1,0 +1,14 @@
+{
+  "name": "Aisin COIN",
+  "symbol": "AiC",
+  "decimals": 4,
+  "description": "",
+  "discord": "",
+  "telegram": "https://t.me/Aisin_coin_AiC",
+  "twitter": "",
+  "website": "https://aic-coin.com",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x03C75D4F61C488d96a6DB9E5835409Bfd64B1069",
+  "id": "0x03C75D4F61C488d96a6DB9E5835409Bfd64B1069"
+}

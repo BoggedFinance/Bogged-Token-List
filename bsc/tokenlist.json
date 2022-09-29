@@ -364,6 +364,14 @@
         "logoURI": "https://assets.coingecko.com/coins/images/14498/small/ellipsis.png?1616556354"
       },
       {
+        "name": "BFG Token",
+        "symbol": "BFG",
+        "address": "0xBb46693eBbEa1aC2070E59B4D043b47e2e095f86",
+        "chainId": 56,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11038.png"
+      },
+      {
         "name": "Monsta Infinite",
         "symbol": "MONI",
         "address": "0x9573c88aE3e37508f87649f87c4dd5373C9F31e0",
@@ -524,14 +532,6 @@
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9848.png"
       },
       {
-        "name": "StaySAFU",
-        "symbol": "SAFU",
-        "address": "0x890cc7d14948478c98A6CD7F511E1f7f7f99F397",
-        "chainId": 56,
-        "decimals": "",
-        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11751.png"
-      },
-      {
         "name": "Birb",
         "symbol": "BIRB",
         "address": "0x82A479264B36104be4FDb91618a59A4fC0F50650",
@@ -588,12 +588,12 @@
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10334.png"
       },
       {
-        "name": "AutoShark",
-        "symbol": "JAWS",
-        "address": "0xdD97AB35e3C0820215bc85a395e13671d84CCBa2",
+        "name": "Helena Financial",
+        "symbol": "HELENA",
+        "address": "0xE350b08079f9523B24029B838184f177baF961Ff",
         "chainId": 56,
         "decimals": "",
-        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10303.png"
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19488.png"
       },
       {
         "name": "Nemesis DAO",
@@ -611,5 +611,69 @@
         "decimals": "",
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11736.png"
       },
+      {
+        "name": "KnightSwap",
+        "symbol": "KNIGHT",
+        "address": "0xD23811058Eb6e7967D9a00dc3886E75610c4AbBa",
+        "chainId": 56,
+        "decimals": "",
+        "logoURI": "https://raw.githubusercontent.com/BoggedFinance/Bogged-Token-List/main/bsc/assets/0xD23811058Eb6e7967D9a00dc3886E75610c4AbBa/logo.png"
+      },
+      {
+        "name": "SAFUU",
+        "symbol": "SAFUU",
+        "address": "0xE5bA47fD94CB645ba4119222e34fB33F59C7CD90",
+        "chainId": 56,
+        "decimals": "",
+        "logoURI": "https://raw.githubusercontent.com/BoggedFinance/Bogged-Token-List/main/bsc/assets/0xE5bA47fD94CB645ba4119222e34fB33F59C7CD90/logo.png"
+      },
+      {
+        "name": "ELEPHANT MONEY",
+        "symbol": "ELEPHANT",
+        "address": "0xE283D0e3B8c102BAdF5E8166B73E02D96d92F688",
+        "chainId": 56,
+        "decimals": "",
+        "logoURI": "https://static.bogged.finance/bsc/assets/0xE283D0e3B8c102BAdF5E8166B73E02D96d92F688/logo.png"
+      },
+      {
+        "name": "TRUNK",
+        "symbol": "TRUNK",
+        "address": "0xdd325C38b12903B727D16961e61333f4871A70E0",
+        "chainId": 56,
+        "decimals": "",
+        "logoURI": "https://static.bogged.finance/bsc/assets/0xdd325C38b12903B727D16961e61333f4871A70E0/logo.png"
+      },
+      {
+        "name": "xPERPS",
+        "symbol": "xPERPS",
+        "address": "0x849Cc5ef9DDd08691EE908aD8001003b4bF104e5",
+        "chainId": 56,
+        "decimals": "",
+        "logoURI": "https://static.bogged.finance/bsc/assets/0x849Cc5ef9DDd08691EE908aD8001003b4bF104e5/logo.png"
+      },
+      {
+        "name": "xGRO",
+        "symbol": "xGRO",
+        "address": "0x4AdAE3Ad22c4e8fb56D4Ae5C7Eb3abC0dd2d3379",
+        "chainId": 56,
+        "decimals": "",
+        "logoURI": "https://static.bogged.finance/bsc/assets/0x4AdAE3Ad22c4e8fb56D4Ae5C7Eb3abC0dd2d3379/logo.png"
+      },
+      {
+        "name": "Basic Attention Token",
+        "symbol": "BAT",
+        "address": "0x101d82428437127bF1608F699CD651e6Abf9766E",
+        "chainId": 56,
+        "decimals": "",
+        "logoURI": "https://static.bogged.finance/bsc/assets/0x101d82428437127bF1608F699CD651e6Abf9766E/logo.png"
+      },
+      {
+        "name": "SWIPE",
+        "symbol": "SXP",
+        "address": "0x47BEAd2563dCBf3bF2c9407fEa4dC236fAbA485A",
+        "chainId": 56,
+        "decimals": "",
+        "logoURI": "https://static.bogged.finance/bsc/assets/0x47BEAd2563dCBf3bF2c9407fEa4dC236fAbA485A/logo.png"
+      }
     ]
   }

@@ -1,0 +1,16 @@
+{
+  "name": "CRYPTOHEALTH",
+  "symbol": "CHT",
+  "decimals": 9,
+  "description": "Long term BSC Project aiming to provide hospital reimbursements, medical services, cryptocurrency donations, and much more. We aim to slowly develop as the first cryptocurrency company providing health insurance, crypto donations, and medical services to the general populationOwners are doxxed in the groups and will hold regular video chat and AMA every Saturday, 2PM UTC.Buy Tax - 10% Sell Tax - 10% High reflection rates at 5% and 7% for buys and sells, respectively. 1B total supply, 15% burned, deflationary tokenMax Wallet 5%, Max Transaction 1%",
+  "discord": "",
+  "telegram": "https://t.me/cryptohealth_official",
+  "twitter": "http://twitter.com/CryptoHealthBSC",
+  "website": "https://www.cryptohealth.life",
+  "vested": [
+    "0x407993575c91ce7643a4d4cCACc9A98c36eE1BBE"
+  ],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x57EE76aEe8B02C1E3ceA9cf2046f741b81916613",
+  "id": "0x57EE76aEe8B02C1E3ceA9cf2046f741b81916613"
+}

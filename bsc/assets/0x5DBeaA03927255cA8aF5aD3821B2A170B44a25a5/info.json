@@ -1,0 +1,16 @@
+{
+  "name": "DFS MAFIA",
+  "symbol": "DFSM",
+  "decimals": 9,
+  "description": "DFS MAFIA is a deflationary token focused on bringing crypto integration to fantasy sports. We are building a full scale fantasy sports platform with DFSM being the native token of the entire ecosystem. The platform will have our very own NFT marketplace, fiat and crypto based contests. ",
+  "discord": "https://discord.gg/8ndjr2Xgxm",
+  "telegram": "https://t.me/DFSMAFIA01",
+  "twitter": "https://twitter.com/DFSMAFIA99",
+  "website": "Https://www.dfs-mafia.com ",
+  "vested": [],
+  "audits": [
+    "https://dfs-mafia.com/dfsm-audit/"
+  ],
+  "explorer": "https://bscscan.com/token/0x5DBeaA03927255cA8aF5aD3821B2A170B44a25a5",
+  "id": "0x5DBeaA03927255cA8aF5aD3821B2A170B44a25a5"
+}

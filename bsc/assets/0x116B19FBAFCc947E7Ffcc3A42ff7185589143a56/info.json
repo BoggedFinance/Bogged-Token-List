@@ -1,0 +1,14 @@
+{
+  "name": "bitBOMB SHARE Token",
+  "symbol": "bitSHARE",
+  "decimals": 18,
+  "description": "bitSHARES are one of the ways to measure the value of the bitBOMB protocol and shareholder trust in its ability to consistently maintain its pegs. During epoch expansions the protocol mints BOMB and distributes it proportionally to all bitSHARE holders who have staked their tokens in the Boardroom. It is also the governance token of the bitBOMB protocol.",
+  "discord": "https://discord.com/invite/94Aa4wSz3e",
+  "telegram": "https://t.me/bombmoneybsc",
+  "twitter": "https://twitter.com/BombMoneyBSC",
+  "website": "https://bitbomb.io/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x116B19FBAFCc947E7Ffcc3A42ff7185589143a56",
+  "id": "0x116B19FBAFCc947E7Ffcc3A42ff7185589143a56"
+}

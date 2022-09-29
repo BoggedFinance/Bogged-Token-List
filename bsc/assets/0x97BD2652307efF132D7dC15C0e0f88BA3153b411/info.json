@@ -1,0 +1,14 @@
+{
+  "name": "MCD Token",
+  "symbol": "MCD",
+  "decimals": 18,
+  "description": "Token For Game",
+  "discord": "https://discord.gg/bWTT4zuUfJ",
+  "telegram": "https://t.me/macaucasinolisboa",
+  "twitter": "https://twitter.com/mcl_token",
+  "website": "https://macaucasinolisboa.xyz",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x97BD2652307efF132D7dC15C0e0f88BA3153b411",
+  "id": "0x97BD2652307efF132D7dC15C0e0f88BA3153b411"
+}

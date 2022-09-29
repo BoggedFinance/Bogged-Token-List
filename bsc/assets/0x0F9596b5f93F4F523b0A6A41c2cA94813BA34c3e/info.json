@@ -1,0 +1,14 @@
+{
+  "name": "PowerTrader",
+  "symbol": "XLCR",
+  "decimals": 18,
+  "description": "XLCR from PowerTrader.net provides PowerTrader's users with Premium features in our trading bots. We also perpetually purchase XLCR with portions of our trading bot fees!",
+  "discord": "",
+  "telegram": "https://t.me/PowerTraderSupport",
+  "twitter": "",
+  "website": "https://powertrader.net",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x0F9596b5f93F4F523b0A6A41c2cA94813BA34c3e",
+  "id": "0x0F9596b5f93F4F523b0A6A41c2cA94813BA34c3e"
+}

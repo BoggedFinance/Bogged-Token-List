@@ -1,0 +1,16 @@
+{
+  "name": "Splash Token",
+  "symbol": "Splash",
+  "decimals": 18,
+  "description": "Splassive is the first deflationary roi platform on the avax network! Bringing the best of other platforms like drip you have the opportunity to be on the ground floor Of something life changing",
+  "discord": "https://discord.gg/2TvWjsZpXd",
+  "telegram": "https://t.me/splassive_official",
+  "twitter": "https://twitter.com/splassive_com",
+  "website": "https://splassive.com",
+  "vested": [],
+  "audits": [
+    "https://github.com/Rugfreecoins/Smart-Contract-Audits/blob/main/Splash%20Financial%20Token%20.pdf"
+  ],
+  "explorer": "https://snowtrace.io/token/0xE16253892F126D068E711C2fdde6DB56969dBCf6",
+  "id": "0xE16253892F126D068E711C2fdde6DB56969dBCf6"
+}

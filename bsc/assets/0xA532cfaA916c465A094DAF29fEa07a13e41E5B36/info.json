@@ -1,0 +1,16 @@
+{
+  "name": "Hibiki.finance",
+  "symbol": "HIBIKI",
+  "decimals": 18,
+  "description": "Hibiki is an ecosystem of ERC20 and ERC721 token tooling that also offers GameFi in the form of collectible trading cards that can earn rewards for you. All tool usage within the system sends the fees to buy Hibiki, which is then used to give rewards, providing a more sustainable system over time, also ensuring a steady growth value wise while new tools and game modes are added. Furthermore, Hibiki expands over EVM chains, with the goal of providing the same services on all of them.",
+  "discord": "https://discord.gg/hibikifinance",
+  "telegram": "https://t.me/hibikifinance",
+  "twitter": "https://twitter.com/HibikiFinance/",
+  "website": "https://hibiki.finance/",
+  "vested": [],
+  "audits": [
+    "https://t.me/hibikifinance/8641"
+  ],
+  "explorer": "https://bscscan.com/token/0xA532cfaA916c465A094DAF29fEa07a13e41E5B36",
+  "id": "0xA532cfaA916c465A094DAF29fEa07a13e41E5B36"
+}

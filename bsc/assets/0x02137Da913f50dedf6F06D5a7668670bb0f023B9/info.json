@@ -1,0 +1,16 @@
+{
+  "name": "Blockstar Token",
+  "symbol": "BST",
+  "decimals": 18,
+  "description": "BlockStar Token (BST) is the next big real-life utility token in the world of Cryptocurrency. The First Social Media Platform built on blockchain technology!  BlockStar.site Fully KYC and Audit done Through TRU-AUDIT and Solid Proof",
+  "discord": "",
+  "telegram": "https://t.me/BlockStar_Social_Media",
+  "twitter": "https://twitter.com/BlockStar_BST",
+  "website": "https://blockstar.site/",
+  "vested": [
+    "0xfdf0ddcec77da7eb8fa5c443bdec1820ee38ccc3"
+  ],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x02137Da913f50dedf6F06D5a7668670bb0f023B9",
+  "id": "0x02137Da913f50dedf6F06D5a7668670bb0f023B9"
+}

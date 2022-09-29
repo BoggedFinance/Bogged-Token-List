@@ -1,0 +1,14 @@
+{
+  "name": "NUOVA LIRA",
+  "symbol": "LIRE",
+  "decimals": 18,
+  "description": "",
+  "discord": "",
+  "telegram": "https://t.me/nuovalira_io",
+  "twitter": "https://twitter.com/NuovaLira",
+  "website": "https://www.nuovalira.io",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0xD07B979E9E8D08980bFe57eA5072751a2E2d6C96",
+  "id": "0xD07B979E9E8D08980bFe57eA5072751a2E2d6C96"
+}

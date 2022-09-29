@@ -1,0 +1,16 @@
+{
+  "name": "USD+",
+  "symbol": "USD+",
+  "decimals": 6,
+  "description": "USD+ is a yield-generating stablecoin yielding 8-12% pa, via daily rebase. It is fully backed by a portfolio of liquid, yield generating, low risk DeFi assets (mostly, lending protocols and stable-to-stable liquidity pools in a way that allows to (1) avoid losses and generate profit every day (2) mint and redeem USD+ against USDC instantly on request.",
+  "discord": "https://discord.gg/7dEceNJqPq",
+  "telegram": "https://t.me/overnight_fi",
+  "twitter": "https://twitter.com/overnight_fi",
+  "website": "https://overnight.fi/",
+  "vested": [],
+  "audits": [
+    "https://hacken.io/audits/#overnight"
+  ],
+  "explorer": "https://polygonscan.com/token/0x236eeC6359fb44CCe8f97E99387aa7F8cd5cdE1f",
+  "id": "0x236eeC6359fb44CCe8f97E99387aa7F8cd5cdE1f"
+}

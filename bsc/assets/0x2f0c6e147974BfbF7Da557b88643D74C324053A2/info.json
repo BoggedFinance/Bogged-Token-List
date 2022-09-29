@@ -1,0 +1,16 @@
+{
+  "name": "Catcoin",
+  "symbol": "CATS",
+  "decimals": 0,
+  "description": "CATCOIN - launched on November 2021 by Miaoshi Nekomoto (Satoshi Nakamoto's Cat) as a community-influenced project with big goals but little funding  $CATS is now completely owned and run by its amazing community",
+  "discord": "https://discord.gg/rNv9vPxpGN",
+  "telegram": "https://t.me/catcoin_bsc",
+  "twitter": "http://twitter.com/officialcatcoin",
+  "website": "https://www.Catcoin.io",
+  "vested": [],
+  "audits": [
+    "https://certik.com/projects/catcoin/"
+  ],
+  "explorer": "https://bscscan.com/token/0x2f0c6e147974BfbF7Da557b88643D74C324053A2",
+  "id": "0x2f0c6e147974BfbF7Da557b88643D74C324053A2"
+}

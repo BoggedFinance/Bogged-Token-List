@@ -1,0 +1,19 @@
+{
+  "name": "PayChain",
+  "symbol": "PACHA",
+  "decimals": 9,
+  "description": "PayChain is a decentralized, reward, secure payment token. $PACHA will be the reward and earnings token from PayFlow. Users can earn $PACHA tokens whenever each transaction happens.",
+  "discord": "",
+  "telegram": "https://t.me/payflowtoken",
+  "twitter": "https://twitter.com/paychainfinance",
+  "website": "https://paychain.finance",
+  "vested": [
+    "0x0030079d8257919571c57f4e62d143e31c4d1008",
+    "0x146c89dbcf0c884373ed25fd7e608df030a34aec"
+  ],
+  "audits": [
+    "https://github.com/coinscope-co/audits/blob/main/pacha/audit.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0xF670F753fFb498ec004E02b1fD488f94795e82d6",
+  "id": "0xF670F753fFb498ec004E02b1fD488f94795e82d6"
+}

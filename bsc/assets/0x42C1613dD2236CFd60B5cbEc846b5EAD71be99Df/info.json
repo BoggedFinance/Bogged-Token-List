@@ -1,0 +1,18 @@
+{
+  "name": "WALTERINU",
+  "symbol": "$WINU",
+  "decimals": 18,
+  "description": "Walter Inu is a 100% community-driven memecoin based on the famous bull terrier \"Walter\" meme that went viral in 2018. The community has already established itself as one of the most active on Twitter with a multitude of memes being spread daily. The team is very ambitious with aspirations of creating multiple usecases such as a \"Meme Creator\", a launchpad referred to as \"The Dog House\", as well as integrating a full-fledged DAO infrastructure in the future. With ties to Doge & Cheems as being an original dog meme, the community believes they will take the meme market by storm.",
+  "discord": "https://discord.gg/DKMkNd6AnE",
+  "telegram": "https://t.me/Walterinuofficial",
+  "twitter": "https://twitter.com/WalterInuBSC",
+  "website": "http://walterinu.io",
+  "vested": [
+    "0x8a6e2125cdd31d741c85752913025adcecb80b7d"
+  ],
+  "audits": [
+    "https://github.com/interfinetwork/smart-contract-audits/blob/audit-updates/WalterInu_0x42C1613dD2236CFd60B5cbEc846b5EAD71be99Df.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0x42C1613dD2236CFd60B5cbEc846b5EAD71be99Df",
+  "id": "0x42C1613dD2236CFd60B5cbEc846b5EAD71be99Df"
+}

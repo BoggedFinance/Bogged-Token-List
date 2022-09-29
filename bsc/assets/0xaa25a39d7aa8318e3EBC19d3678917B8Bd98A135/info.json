@@ -1,0 +1,16 @@
+{
+  "name": "Caash",
+  "symbol": "CASH",
+  "decimals": 18,
+  "description": "Caash is a decentralized app ecosystem pushing self-crypto custody forward. Hold CASH, our governance token for BTC dividends. Crypto should be fast, fun, and easy-to-use so that's why we're building Caash Me, which helps people recognize they're sending you funds, and Caash Swap, which allows for an instant, permission-less trading experience, and more.",
+  "discord": "https://discord.gg/caash",
+  "telegram": "https://t.me/caash_io",
+  "twitter": "https://twitter.com/CaashDAO",
+  "website": "https://caash.io/",
+  "vested": [],
+  "audits": [
+    "https://github.com/SpyWolfNetwork/Smart_Contract_Audits/blob/main/April/Caash_0xaa25a39d7aa8318e3ebc19d3678917b8bd98a135.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0xaa25a39d7aa8318e3EBC19d3678917B8Bd98A135",
+  "id": "0xaa25a39d7aa8318e3EBC19d3678917B8Bd98A135"
+}

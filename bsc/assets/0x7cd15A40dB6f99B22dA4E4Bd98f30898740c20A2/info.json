@@ -1,0 +1,14 @@
+{
+  "name": "LVW COIN",
+  "symbol": "LVW",
+  "decimals": 18,
+  "description": "",
+  "discord": "",
+  "telegram": "",
+  "twitter": "",
+  "website": "https://lvwcoin.live",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x7cd15A40dB6f99B22dA4E4Bd98f30898740c20A2",
+  "id": "0x7cd15A40dB6f99B22dA4E4Bd98f30898740c20A2"
+}

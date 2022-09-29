@@ -1,0 +1,14 @@
+{
+  "name": "BUSD Buffet",
+  "symbol": "BBFT",
+  "decimals": 18,
+  "description": "",
+  "discord": "https://discord.gg/busdbuffet",
+  "telegram": "https://t.me/busdbuffet",
+  "twitter": "https://twitter.com/busdbuffet",
+  "website": "https://busdbuffet.com",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x07335A076184C0453aE1987169D9c7ab7047a974",
+  "id": "0x07335A076184C0453aE1987169D9c7ab7047a974"
+}

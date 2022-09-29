@@ -1,0 +1,16 @@
+{
+  "name": "$DOWN Vault [via ChainPort.io]",
+  "symbol": "DOWN",
+  "decimals": 18,
+  "description": "$DOWN is an innovative experiment in social-token economics; wherein the ERC20 has been deployed by 'sharding' and NFT, and the underlying NFT functions as an inaccessible, multi-chain vault.  *Inaccessible to remove, trade, transfer or otherwise modify its' held assets.  Deposits are still viable.  In addition to a growing reserve of NFTs and fungible assets; the Emblem Vault under-pinning the value of $DOWN contains 10% of the tokens' supply; creating a positive and perpetual feedback loop of value accrual that we've dubbed \"quantum compounding\". ",
+  "discord": "https://discord.haus/dappgooselabs",
+  "telegram": "https://t.me/downdiscussion",
+  "twitter": "https://twitter.com/downtoken",
+  "website": "https://brucethegoose.art/down",
+  "vested": [
+    "0x8b2439e9D4CAf977a4b3D36c3F5ac1897881d6EB"
+  ],
+  "audits": [],
+  "explorer": "https://polygonscan.com/token/0xa584484f422bFC2128566f8f954b7f2E31e94cC8",
+  "id": "0xa584484f422bFC2128566f8f954b7f2E31e94cC8"
+}

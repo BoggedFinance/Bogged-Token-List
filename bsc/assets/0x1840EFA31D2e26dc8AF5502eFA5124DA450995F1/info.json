@@ -1,0 +1,14 @@
+{
+  "name": "Sekopay Coin",
+  "symbol": "SEKO",
+  "decimals": 9,
+  "description": "",
+  "discord": "",
+  "telegram": "",
+  "twitter": "",
+  "website": "https://sekopay.com/buy-seko/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x1840EFA31D2e26dc8AF5502eFA5124DA450995F1",
+  "id": "0x1840EFA31D2e26dc8AF5502eFA5124DA450995F1"
+}

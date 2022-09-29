@@ -1,0 +1,16 @@
+{
+  "name": "wave token",
+  "symbol": "wave",
+  "decimals": 18,
+  "description": "",
+  "discord": "https://discord.gg/2TvWjsZpXd",
+  "telegram": "https://t.me/splassive_official",
+  "twitter": "https://twitter.com/splassive_com",
+  "website": "https://splassive.com",
+  "vested": [],
+  "audits": [
+    "https://github.com/Rugfreecoins/Smart-Contract-Audits/blob/main/Splash%20Financial%20Token%20.pdf"
+  ],
+  "explorer": "https://snowtrace.io/token/0xbc6f589171d6d66EB44ebCC92dFFb570Db4208da",
+  "id": "0xbc6f589171d6d66EB44ebCC92dFFb570Db4208da"
+}

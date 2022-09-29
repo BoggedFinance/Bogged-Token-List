@@ -1,0 +1,14 @@
+{
+  "name": "bitBOMB DOT Peg",
+  "symbol": "bitDOT",
+  "decimals": 18,
+  "description": "The bitDOT token is algorithmically pegged to DOT at a ratio of 1:1. This means that if DOT was $15, bitDOT would also be $15.",
+  "discord": "https://discord.com/invite/94Aa4wSz3e",
+  "telegram": "https://t.me/bombmoneybsc",
+  "twitter": "https://twitter.com/BombMoneyBSC",
+  "website": "https://bitbomb.io/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x123c62f04c9D70bD6F04E6282434c728F04eBD50",
+  "id": "0x123c62f04c9D70bD6F04E6282434c728F04eBD50"
+}

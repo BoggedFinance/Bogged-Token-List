@@ -1,0 +1,14 @@
+{
+  "name": "Hectagon",
+  "symbol": "HECTA",
+  "decimals": 9,
+  "description": "Hectagon is the world’s first DAO-governed Web3 VC funding platform. It is a financial platform with no entry barriers to entry: Anyone can join the Hectagon network, invest, and contribute value to projects that Hectagon invests with.",
+  "discord": "https://discord.com/invite/N9dF9j5ysk",
+  "telegram": "https://t.me/HectagonFinance",
+  "twitter": "https://twitter.com/HectagonFinance",
+  "website": "https://www.hectagon.finance/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x343915085b919fbd4414F7046f903d194c6F60EE",
+  "id": "0x343915085b919fbd4414F7046f903d194c6F60EE"
+}

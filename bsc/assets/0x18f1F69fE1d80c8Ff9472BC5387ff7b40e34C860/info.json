@@ -1,0 +1,18 @@
+{
+  "name": "Papa Token",
+  "symbol": "PAPA",
+  "decimals": 18,
+  "description": "The Papa Token is the utility token of PapaExchange.The Papa Token (PAPA) is a DeFi token on the BSC network.Whenever a Buy/Sell occurs the following 3 functions occur.Refelection: 5% redistribution to existing holdersLP Acquisition 2.5% is added to liquidityProject and charity fund: 2.5%",
+  "discord": "https://discord.gg/Nn4U7TQMpj",
+  "telegram": "https://t.me/+qdB3gofNQD4wNDVh",
+  "twitter": "https://twitter.com/papaexchange",
+  "website": "https://www.papaexchange.online/",
+  "vested": [
+    "0x81e0ef68e103ee65002d3cf766240ed1c070334d"
+  ],
+  "audits": [
+    "https://github.com/AnalytixAudit/Solidity/blob/main/Audit%20Papa%20Token.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0x18f1F69fE1d80c8Ff9472BC5387ff7b40e34C860",
+  "id": "0x18f1F69fE1d80c8Ff9472BC5387ff7b40e34C860"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "CGO Token",
+  "symbol": "CGO",
+  "decimals": 18,
+  "description": "The Cougar Optimizer is designed with the aim of optimizing the profits of DeFi users based on the power of compounding interest, saving users time, and enabling higher yields through creative automation, optimal compounding frequency, and highly efficient gas utilization.",
+  "discord": "",
+  "telegram": "https://t.me/CougarSwap_Multichain_Official",
+  "twitter": "https://twitter.com/cougarswap",
+  "website": "https://cgo.finance",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://cronoscan.com/token/0x869c3e35Ef9E5F50003D9a2A80f1D61d670D4CB6",
+  "id": "0x869c3e35Ef9E5F50003D9a2A80f1D61d670D4CB6"
+}

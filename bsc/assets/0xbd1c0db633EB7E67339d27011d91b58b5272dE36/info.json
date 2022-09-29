@@ -1,0 +1,14 @@
+{
+  "name": "Koleecoin",
+  "symbol": "$KLE",
+  "decimals": 18,
+  "description": "DAO providing legal support for civil rights claims against the authorities, as well as the personal community token of Youtube Auditor Koleeberks.",
+  "discord": "https://discord.gg/wgBBdzdtY6",
+  "telegram": "https://t.me/koleecoin",
+  "twitter": "",
+  "website": "https://koleecoin.com",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0xbd1c0db633EB7E67339d27011d91b58b5272dE36",
+  "id": "0xbd1c0db633EB7E67339d27011d91b58b5272dE36"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "SOLANA",
+  "symbol": "SOL",
+  "decimals": 18,
+  "description": "",
+  "discord": "https://discord.com/invite/pquxPsq",
+  "telegram": "https://t.me/solana",
+  "twitter": "https://twitter.com/solana",
+  "website": "https://solana.com/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x570A5D26f7765Ecb712C0924E4De545B89fD43dF",
+  "id": "0x570A5D26f7765Ecb712C0924E4De545B89fD43dF"
+}

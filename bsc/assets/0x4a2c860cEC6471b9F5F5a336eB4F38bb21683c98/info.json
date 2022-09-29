@@ -1,0 +1,16 @@
+{
+  "name": "GreenSatoshiToken",
+  "symbol": "GST",
+  "decimals": 8,
+  "description": "Green Satoshi Token (GST) is the game token of STEPN — a Web 3.0 lifestyle app with in-built fun social elements and gamification design. STEPN is the first move-to-earn NFT game where players earn GST tokens by walking, jogging, and running outdoors while wearing NFT Sneakers. GST tokens can also be used to level up and mint new Sneakers, and players can sell/rent their NFT sneakers on the App Marketplace.",
+  "discord": "https://discord.com/invite/stepn",
+  "telegram": "https://t.me/stepnofficial",
+  "twitter": "https://twitter.com/Stepnofficial",
+  "website": "https://stepn.com/",
+  "vested": [],
+  "audits": [
+    "https://hackmd.io/@verilog/stepn-audit"
+  ],
+  "explorer": "https://bscscan.com/token/0x4a2c860cEC6471b9F5F5a336eB4F38bb21683c98",
+  "id": "0x4a2c860cEC6471b9F5F5a336eB4F38bb21683c98"
+}

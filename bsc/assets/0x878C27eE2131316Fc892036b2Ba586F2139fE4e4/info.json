@@ -1,0 +1,16 @@
+{
+  "name": "BespokenToken",
+  "symbol": "BKT",
+  "decimals": 18,
+  "description": "BKT & BTX Are Binance Smart Chain Tokens for Project Bespoken. BKT Tokens Are Being Issued Pre-Launch of The Project's Utility - Coin Flips. Coin Flips Deepen The Trade Types Available To Users Trading In Crypto Futures.  Dually Used As Reward Tokens, BKT & BTX Are Used To Reward Trader Activity For Participation In The Finance Fee Fundraising Pool, Made Available To A Short List Of Pre-Launched Projects ",
+  "discord": "",
+  "telegram": "",
+  "twitter": "",
+  "website": "https://bespoken-token-rewards.42web.io/index.html",
+  "vested": [
+    "0x63fcbf44110a668fAd99fE55590945080f391b8E"
+  ],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x878C27eE2131316Fc892036b2Ba586F2139fE4e4",
+  "id": "0x878C27eE2131316Fc892036b2Ba586F2139fE4e4"
+}

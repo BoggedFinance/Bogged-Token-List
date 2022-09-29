@@ -1,0 +1,14 @@
+{
+  "name": "Telegram Cat",
+  "symbol": "TGCat",
+  "decimals": 9,
+  "description": "Telegram Cat is a community-driven coin inspired by the social hype of Memecoin. Telegram's vision for the future is to develop TeleCat, a Decentralized Messaging App that meets Decentralized Banking powered by Blockchain Technology.",
+  "discord": "",
+  "telegram": "https://t.me/portal_telegramcat",
+  "twitter": "https://twitter.com/cat_telegram",
+  "website": "https://telegramcat.net/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x8623ede7aD4E8EFa97B6646B37752A8fc7d63F97",
+  "id": "0x8623ede7aD4E8EFa97B6646B37752A8fc7d63F97"
+}

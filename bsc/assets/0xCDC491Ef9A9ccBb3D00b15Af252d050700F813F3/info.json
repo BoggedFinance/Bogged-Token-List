@@ -1,0 +1,14 @@
+{
+  "name": "Build-a-Block Token",
+  "symbol": "BUILD",
+  "decimals": 4,
+  "description": "BuildABlock is a Web3 Services company. The company provides DEFI & Web3 related development for users, project developers and companies alike. BUILD Token, is the company’s native currency, acting as a store of capital and core token in the BUILD ecosystem.  A Portion of all services sales must be paid in the native currency which is then burned by the team. The Build ecosystem contains a full stack yield farm, and a native farm token.",
+  "discord": "",
+  "telegram": "https://t.me/buildablocktoken",
+  "twitter": "https://twitter.com/BuildBlockToken",
+  "website": "https://build-a-block.com/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0xCDC491Ef9A9ccBb3D00b15Af252d050700F813F3",
+  "id": "0xCDC491Ef9A9ccBb3D00b15Af252d050700F813F3"
+}

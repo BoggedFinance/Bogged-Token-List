@@ -1,0 +1,18 @@
+{
+  "name": "DELOT.IO",
+  "symbol": "DELOT",
+  "decimals": 18,
+  "description": "DELOT is the world’s first innovative decentralized lottery game for token holders.DELOT token is the utility token that is used in the Lottery game.The more token you hold the more ticket you get.The more ticket you have the more chance to win the grand prize.",
+  "discord": "",
+  "telegram": "https://t.me/delot_io",
+  "twitter": "https://twitter.com/delot_io",
+  "website": "https://www.delot.io",
+  "vested": [
+    "0xeaed594b5926a7d5fbbc61985390baaf936a6b8d"
+  ],
+  "audits": [
+    "https://github.com/solidproof/projects/blob/main/Delot/SmartContract_Audit_Solidproof_Delot.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0x3e24BBb2c9a0f2fAEcFDBDCa20BBa6F35b73C4CB",
+  "id": "0x3e24BBb2c9a0f2fAEcFDBDCa20BBa6F35b73C4CB"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Go BNB",
+  "symbol": "GOBNB",
+  "decimals": 18,
+  "description": "GoBNB is a vetted BNB reflection token on BNB Smart Chain with an auto-claim feature. We made it simple; just hold $GOBNB tokens in your wallet and earn BNB as a reward. 6% BNB rewards are automatically distributed to the holders.",
+  "discord": "",
+  "telegram": "https://t.me/gobnbtoken",
+  "twitter": "https://twitter.com/gobnbtoken",
+  "website": "https://gobnbtoken.com/",
+  "vested": [],
+  "audits": [
+    "https://dessertswap.finance/audits/GoBNB-BSC-Audit-16131004.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0x6fD26cbCbA4aC758a5Bf30577cA44C6E6eFD401D",
+  "id": "0x6fD26cbCbA4aC758a5Bf30577cA44C6E6eFD401D"
+}

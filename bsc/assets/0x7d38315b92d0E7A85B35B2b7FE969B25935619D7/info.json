@@ -1,0 +1,16 @@
+{
+  "name": "Ecoin Finance",
+  "symbol": "ECOIN",
+  "decimals": 18,
+  "description": "ECOIN FINANCE is a decentralized & deflationary BEP20 token that is powered by \"BNB Chain\" network, the previous Binance Smart Chain. ECOIN will be an online payment platform through our integrated debit card. People around the world will be able to make easy, fast, and secure payments using your ECOIN balance. Besides that, you will watch your balance of ECOIN grow up by the reflections of our tokenomics each transaction.We will also develop our own user-friendly crypto wallet app for Android & iOS where you can securely store, buy and exchange your favourite crypto’s and also the NFTs. This wallet will show all transactions, balances, and will also allow you to send and receive cryptocurrencies.",
+  "discord": "https://discord.com/invite/n5RK7JxDkX",
+  "telegram": "https://t.me/Ecoin_token",
+  "twitter": "https://twitter.com/ecoin_finance_",
+  "website": "https://ecoin-finance.com/",
+  "vested": [],
+  "audits": [
+    "https://www.certik.com/projects/ecoin-finance"
+  ],
+  "explorer": "https://bscscan.com/token/0x7d38315b92d0E7A85B35B2b7FE969B25935619D7",
+  "id": "0x7d38315b92d0E7A85B35B2b7FE969B25935619D7"
+}

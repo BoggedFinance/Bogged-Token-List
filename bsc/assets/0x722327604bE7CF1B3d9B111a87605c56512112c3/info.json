@@ -1,0 +1,14 @@
+{
+  "name": "S39 Token",
+  "symbol": "S39",
+  "decimals": 18,
+  "description": "Exchange Token",
+  "discord": "https://discord.gg/6EvmmuPjdx",
+  "telegram": "https://t.me/+pmPsbEV9cOhiZjg1",
+  "twitter": "https://twitter.com/s39token",
+  "website": " https://s39token.com/ ",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x722327604bE7CF1B3d9B111a87605c56512112c3",
+  "id": "0x722327604bE7CF1B3d9B111a87605c56512112c3"
+}

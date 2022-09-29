@@ -1,0 +1,18 @@
+{
+  "name": "AltSwitch",
+  "symbol": "ALTS",
+  "decimals": 9,
+  "description": "First-of-its-kind Universal Rewards Protocol empowering its community with a cyclical economic model from a decentralized tax system. Powered by its ecosystem of NFTs, DAO, Play-To-Earn, Hardware Wallet and AltApps & Services. Building commerce of the largest modern scale on an Alternate Universe (Metaverse).The mother of all soon to be built Apps & Services for Web 3.0 that will generate revenue of rewards back to its community",
+  "discord": "https://bit.ly/3NGMQEw",
+  "telegram": "https://bit.ly/3lO07ir",
+  "twitter": "https://bit.ly/3wVhYcq",
+  "website": "https://altswitch.io/",
+  "vested": [
+    "0xBC1d9c7B5B8B290E4D4eCd3AAC149Ed3937287F9"
+  ],
+  "audits": [
+    "https://github.com/coinscope-co/audits/blob/main/alts/audit.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0x2ec79904C2aB4F8b6e8e89c743CB7F7a88DFc0fE",
+  "id": "0x2ec79904C2aB4F8b6e8e89c743CB7F7a88DFc0fE"
+}

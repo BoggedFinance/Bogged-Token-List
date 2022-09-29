@@ -1,0 +1,16 @@
+{
+  "name": "Titi Financial ",
+  "symbol": "TITI",
+  "decimals": 18,
+  "description": "Get ready to be a part of a community that will reshape how memes are done. Our ecosystem is a wide one with immense utility. ",
+  "discord": "https://discord.gg/kfR8Dc7BsQ",
+  "telegram": "https://t.me/titi_financial",
+  "twitter": "https://twitter.com/titi_financial",
+  "website": "https://www.titicaca.finance/",
+  "vested": [],
+  "audits": [
+    "https://twitter.com/SolidProof_io/status/1494630180467494914"
+  ],
+  "explorer": "https://bscscan.com/token/0xE618eF7C64AFedE59A81CEf16d0161c914eBab17",
+  "id": "0xE618eF7C64AFedE59A81CEf16d0161c914eBab17"
+}

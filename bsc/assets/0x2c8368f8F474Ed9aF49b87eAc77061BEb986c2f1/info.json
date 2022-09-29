@@ -1,41 +1,14 @@
 {
-    "name": "LeonicornSwap",
-    "website": "https://leonicornswap.com",
-    "description": "Leonicorn Swap is an Advance AMM with features Like NFT Marketplace, Lottery, IDO and many other advanced features.",
-    "explorer": "https://bscscan.com/token/0x2c8368f8f474ed9af49b87eac77061beb986c2f1",
-    "type": "BEP20",
-    "symbol": "LEOS",
-    "decimals": 8,
-    "status": "active",
-    "id": "0x2c8368f8F474Ed9aF49b87eAc77061BEb986c2f1",
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/Leonicornswap"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/swapleonicorn"
-        },
-        {
-            "name": "telegram",
-            "url": "https://t.me/leonicornswap"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://leonicornswap.com/images/whitepaper.pdf"
-        },
-        {
-            "name": "facebook",
-            "url": "https://facebook.com/Leonicorn-Swap-104821111837719"
-        },
-        {
-            "name": "reddit",
-            "url": "https://reddit.com/r/LeonicornSwap"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/leonicorn-swap/"
-        }
-    ]
+  "name": "LeonicornSwap",
+  "symbol": "LEOS",
+  "decimals": 8,
+  "description": "LEOS is the principal ecosystem token of LeonicornSwap powered by Binance Smart Chain. It also acts as a governance token on our DEX,allowing LEOS holders to influence decisions concerning theproject as proposing or deciding on new feature proposals andassist in shaping the DEX platform’s future. Soon you will be able to play games like Dice to mine our new CUBS token and receive daily dividends.",
+  "discord": "",
+  "telegram": "https://t.me/leonicornswap",
+  "twitter": "https://twitter.com/swapleonicorn",
+  "website": "https://leonicornswap.com",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x2c8368f8F474Ed9aF49b87eAc77061BEb986c2f1",
+  "id": "0x2c8368f8F474Ed9aF49b87eAc77061BEb986c2f1"
 }

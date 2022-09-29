@@ -1,0 +1,16 @@
+{
+  "name": "Flash Token",
+  "symbol": "FLASH",
+  "decimals": 18,
+  "description": "Founded in May 2021 and launched in December 2021, Flash Technologies create a money transfer ecosystem. Its goal is to allow users to directly exchange their cryptocurrencies via BUSD to cash, with the possibility of exchanging fiat for cryptocurrency and vice versa. Currently, the most common way to exchange currency in the Crypto world is to send assets to Centralized Exchanges (CEX) such as Binance and Coinbase, then subsequently transfer the crypto to the user’s bank account. The objective of Flash Technologies is to remove this long-winded process making the steps for transfer swift, efficient, and subsequently easier.",
+  "discord": "",
+  "telegram": "https://t.me/flashtokenenglish",
+  "twitter": "https://mobile.twitter.com/Flash_Techno_Of",
+  "website": "https://www.flash-token.com/en/",
+  "vested": [],
+  "audits": [
+    "https://github.com/interfinetwork/smart-contract-audits/blob/audit-updates/Flash_AuditReport_InterFi.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0x311E015E2e255Dd14edDc4a2107e39649dc81c5D",
+  "id": "0x311E015E2e255Dd14edDc4a2107e39649dc81c5D"
+}

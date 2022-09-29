@@ -128,7 +128,7 @@
         "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
         "chainId": 137,
         "decimals": "",
-        "logoURI": "https://info.quickswap.exchange/static/media/eth.5fc0c9bd.png"
+        "logoURI": "https://vvs.finance/images/tokens/0xe44Fd7fCb2b1581822D0c862B68222998a0c299a.svg"
       },
       {
         "name": "PYR Token",
@@ -393,6 +393,6 @@
         "chainId": 137,
         "decimals": "",
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/12774.png"
-      } 
+      }
     ]
   }

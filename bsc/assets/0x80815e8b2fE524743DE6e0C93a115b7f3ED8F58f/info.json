@@ -1,0 +1,14 @@
+{
+  "name": "Ghost of Luna Token",
+  "symbol": "GOLT",
+  "decimals": 18,
+  "description": "",
+  "discord": "https://discord.gg/jVkgehRa2X",
+  "telegram": "https://t.me/ghostofluna",
+  "twitter": "",
+  "website": "https://www.lunaghost.com",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x80815e8b2fE524743DE6e0C93a115b7f3ED8F58f",
+  "id": "0x80815e8b2fE524743DE6e0C93a115b7f3ED8F58f"
+}

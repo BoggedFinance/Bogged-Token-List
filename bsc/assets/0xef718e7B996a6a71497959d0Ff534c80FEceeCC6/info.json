@@ -1,0 +1,16 @@
+{
+  "name": "eSolen",
+  "symbol": "ESOL",
+  "decimals": 9,
+  "description": "$ESOL is a token that manages to aggregate 3 revolutionary technologies. Recharge Electroposts + Renewable Energies + Blockchain. Tokenizing all excess energy into a utility token that can be used as a payment method within our platforms.",
+  "discord": "",
+  "telegram": "https://t.me/esolenmobitech",
+  "twitter": "https://twitter.com/esolenmobitech",
+  "website": "https://www.esolen.org",
+  "vested": [
+    "0xabCe3A27bcd921810118298041AfB7ecE21B8d7f"
+  ],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0xef718e7B996a6a71497959d0Ff534c80FEceeCC6",
+  "id": "0xef718e7B996a6a71497959d0Ff534c80FEceeCC6"
+}

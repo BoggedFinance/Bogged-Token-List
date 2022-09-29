@@ -1,0 +1,17 @@
+{
+  "name": "Butterfly Cash",
+  "symbol": "bCASH",
+  "decimals": 18,
+  "description": "bCash is an ERC-20 token on the Avalanche blockchain that started as an experiment but exploded in popularity thanks to the immediate onboarding of several key builders and creators in the AVAX NFT eco-system.",
+  "discord": "https://discord.butterflycash.io/",
+  "telegram": "",
+  "twitter": "https://twitter.com/bCASH_AVAX",
+  "website": "https://butterflycash.io/",
+  "vested": [
+    "0x959AC6a298048C6F9c9760CA2D4306bEd28F70fd",
+    "0x4D714E07A96e31e249355e425b8d8f81d83b886D"
+  ],
+  "audits": [],
+  "explorer": "https://snowtrace.io/token/0x4BA16DaF8ed418deD920C66e45cc3eaFFDE53Ac7",
+  "id": "0x4BA16DaF8ed418deD920C66e45cc3eaFFDE53Ac7"
+}

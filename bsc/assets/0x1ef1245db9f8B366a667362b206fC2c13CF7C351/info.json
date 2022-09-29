@@ -1,0 +1,16 @@
+{
+  "name": "MetaVapp",
+  "symbol": "VAPP",
+  "decimals": 18,
+  "description": "MetaVapp offering virtual experiences through personal NFT Avatars and QR code-based business locations on the Binance Smart Chain.",
+  "discord": "",
+  "telegram": "https://t.me/metavappofficial",
+  "twitter": "https://twitter.com/metaVapp",
+  "website": "https://metavapp.io/",
+  "vested": [],
+  "audits": [
+    "https://github.com/AuditRateTech/Smart-Contract-Audits/blob/main/MetaVapp_0x1ef1245db9f8B366a667362b206fC2c13CF7C351.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0x1ef1245db9f8B366a667362b206fC2c13CF7C351",
+  "id": "0x1ef1245db9f8B366a667362b206fC2c13CF7C351"
+}

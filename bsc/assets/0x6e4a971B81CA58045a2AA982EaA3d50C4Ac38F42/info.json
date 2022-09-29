@@ -1,0 +1,14 @@
+{
+  "name": "Bridge",
+  "symbol": "BRG",
+  "decimals": 18,
+  "description": "About Bridge Oracle:Public Oracle on BSC Due to the nature of blockchain systems, they are not able to access real world data. Bridge oracle system is a technology through which external data can be injected.",
+  "discord": "",
+  "telegram": "https://t.me/BridgeOracle",
+  "twitter": "https://twitter.com/Bridge_Oracle",
+  "website": "https://Bridge.link",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x6e4a971B81CA58045a2AA982EaA3d50C4Ac38F42",
+  "id": "0x6e4a971B81CA58045a2AA982EaA3d50C4Ac38F42"
+}

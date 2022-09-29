@@ -1,0 +1,14 @@
+{
+  "name": "PTX",
+  "symbol": "PTX",
+  "decimals": 5,
+  "description": "PTX is an auto-compounding token listed on the Binance Smart Chain network. ",
+  "discord": "https://discord.gg/protocolx",
+  "telegram": "https://t.me/ProtocolX_PTX ",
+  "twitter": "https://twitter.com/protocolx_ ",
+  "website": "https://protocol-x.io/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x5Ec500C5C6f0a270b633d5D5f0c3b9eB9b041455",
+  "id": "0x5Ec500C5C6f0a270b633d5D5f0c3b9eB9b041455"
+}

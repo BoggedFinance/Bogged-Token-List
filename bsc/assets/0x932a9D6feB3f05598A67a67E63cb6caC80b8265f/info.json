@@ -1,0 +1,14 @@
+{
+  "name": "BlanchCoin",
+  "symbol": "BC",
+  "decimals": 18,
+  "description": "",
+  "discord": "https://discord.gg/Ax63ZN3AVt",
+  "telegram": "https://t.me/+IozS5dSHj7syMjVk",
+  "twitter": "",
+  "website": "http://blanchco.net",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x932a9D6feB3f05598A67a67E63cb6caC80b8265f",
+  "id": "0x932a9D6feB3f05598A67a67E63cb6caC80b8265f"
+}

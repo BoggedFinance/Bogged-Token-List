@@ -1,0 +1,14 @@
+{
+  "name": "Zeroloss",
+  "symbol": "ZLT",
+  "decimals": 18,
+  "description": "ZEROLOSS is a smart DeFi 3.0 utility dApp and exchange platform built for sustainability with the POE and Proactive Market Making (PMM) algorithm. Zeroloss have developed an automatic smart contract audit tool to check every token contract address on-chain automatically for any potential contract flaws that might endanger investors when they buy, hold or swap such token. our zeroloss rug checker does this and returns all the important informations to the user. interoperability is at the core of Zeroloss as the utility, ZLT is the currency.",
+  "discord": "https://discord.gg/brUDkCb72M",
+  "telegram": "https://t.me/zerolossofficial",
+  "twitter": "https://twitter.com/Zeroloss_defi",
+  "website": "https://zeroloss.org",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x05D8762946fA7620b263E1e77003927addf5f7E6",
+  "id": "0x05D8762946fA7620b263E1e77003927addf5f7E6"
+}

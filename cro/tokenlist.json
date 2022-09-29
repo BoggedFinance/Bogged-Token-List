@@ -1,6 +1,5 @@
-
 {
-    "name": "Bogged Finance Polygon",
+    "name": "Bogged Finance Cronos",
     "tokens": [
       {
         "name": "Wrapped CRO",
@@ -9,6 +8,15 @@
         "chainId": 25,
         "decimals": "",
         "logoURI": "https://raw.githubusercontent.com/BoggedFinance/Bogged-Token-List/main/cro/assets/0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23/logo.png"
+      },
+      {
+        "name": "Bogged Finance",
+        "symbol": "BOG",
+        "address": "0xB09FE1613fE03E7361319d2a43eDc17422f36B09",
+        "chainId": 25,
+        "decimals": "",
+        "logoURI": "https://raw.githubusercontent.com/BoggedFinance/Bogged-Token-List/main/bsc/assets/0xB09FE1613fE03E7361319d2a43eDc17422f36B09/logo.png",
+        "top": true
       },
       {
         "name": "USD Coin",
@@ -91,14 +99,6 @@
         "logoURI": "https://vvs.finance/images/tokens/0xe6801928061CDbE32AC5AD0634427E140EFd05F9.svg"
       },
       {
-        "name": "PEGASUS",
-        "symbol": "SUS",
-        "address": "0x5b5Fe1238aca91C65683aCd7f9D9Bf922e271EAA",
-        "chainId": 25,
-        "decimals": "",
-        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4795.png"
-      },
-      {
         "name": "Binance USD",
         "symbol": "BUSD",
         "address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
@@ -107,44 +107,172 @@
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4687.png"
       },
       {
-        "name": "Photonswap",
-        "symbol": "PHOTON",
-        "address": "0xbdd4e5660839a088573191A9889A262c0Efc0983",
+        "name": "CronaSwap",
+        "symbol": "CRONA",
+        "address": "0xadbd1231fb360047525BEdF962581F3eee7b49fe",
         "chainId": 25,
         "decimals": "",
-        "logoURI": "https://raw.githubusercontent.com/photonswap-dev/default-token-list/master/logos/cro/0xbdd4e5660839a088573191A9889A262c0Efc0983/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/cronaswap/default-token-list/main/assets/tokens/cronos/0xadbd1231fb360047525BEdF962581F3eee7b49fe/logo.png"
       },
       {
-        "name": "Mad Meerkat Finance",
-        "symbol": "MM",
-        "address": "0x97749c9B61F878a880DfE312d2594AE07AEd7656",
+        "name": "Crogecoin",
+        "symbol": "Croge",
+        "address": "0xC4a174cCb5fb54a6721e11e0Ca961e42715023F9",
         "chainId": 25,
         "decimals": "",
-        "logoURI": "https://dexscreener.com/img/dexes/mmfinance.png"
+        "logoURI": "https://raw.githubusercontent.com/BoggedFinance/Bogged-Token-List/df76e88ddad107ab4d408013c72999b81ef0d6a0/cro/assets/0xC4a174cCb5fb54a6721e11e0Ca961e42715023F9/logo.png"
       },
       {
-        "name": "CROCOS",
-        "symbol": "CRC",
-        "address": "0x34bAC19d5EAd9f92252eA81Ca9014799C32ff123",
+        "name": "Mad Bucks",
+        "symbol": "MAD",
+        "address": "0x212331e1435A8df230715dB4C02B2a3A0abF8c61",
         "chainId": 25,
         "decimals": "",
-        "logoURI": "https://i.ibb.co/WFD1B3Z/logo.png"
+        "logoURI": "https://mm.finance//images/tokens/0x212331e1435A8df230715dB4C02B2a3A0abF8c61.svg"
       },
       {
-        "name": "CROW",
-        "symbol": "CROW",
-        "address": "0x285c3329930a3fd3C7c14bC041d3E50e165b1517",
+        "name": "Savanna Token",
+        "symbol": "SVN",
+        "address": "0x654bAc3eC77d6dB497892478f854cF6e8245DcA9",
         "chainId": 25,
         "decimals": "",
-        "logoURI": "https://crowfi.app/images/tokens/0xf9872a4ea77278f06613a817d563012bfc7761b3.svg"
+        "logoURI": "https://mm.finance//images/tokens/0x654bAc3eC77d6dB497892478f854cF6e8245DcA9.svg"
       },
       {
-        "name": "ELK Finance",
-        "symbol": "ELK",
-        "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
+        "name": "Savanna Share",
+        "symbol": "MSHARE",
+        "address": "0xf8b9facB7B4410F5703Eb29093302f2933D6E1Aa",
         "chainId": 25,
         "decimals": "",
-        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10095.png"
+        "logoURI": "https://mm.finance//images/tokens/0xf8b9facB7B4410F5703Eb29093302f2933D6E1Aa.svg"
+      },
+      {
+        "name": "Mad Meerkat Optimizer",
+        "symbol": "MMO",
+        "address": "0x50c0C5bda591bc7e89A342A3eD672FB59b3C46a7",
+        "chainId": 25,
+        "decimals": "",
+        "logoURI": "https://mm.finance//images/tokens/0x50c0C5bda591bc7e89A342A3eD672FB59b3C46a7.svg"
+      },
+      {
+        "name": "Darkness Dollar",
+        "symbol": "DUSD",
+        "address": "0x6582C738660bf0701f05b04DcE3c4E5Fcfcda47a",
+        "chainId": 25,
+        "decimals": "",
+        "logoURI": "https://mm.finance//images/tokens/0x6582C738660bf0701f05b04DcE3c4E5Fcfcda47a.svg"
+      },
+      {
+        "name": "Mad Meerkat ETF",
+        "symbol": "METF",
+        "address": "0xB8Df27c687c6af9aFE845A2aFAD2D01e199f4878",
+        "chainId": 25,
+        "decimals": "",
+        "logoURI": "https://mm.finance//images/tokens/0xB8Df27c687c6af9aFE845A2aFAD2D01e199f4878.svg"
+      },
+      {
+        "name": "DarkCrypto Share",
+        "symbol": "SKY",
+        "address": "0x9D3BBb0e988D9Fb2d55d07Fe471Be2266AD9c81c",
+        "chainId": 25,
+        "decimals": "",
+        "logoURI": "https://mm.finance//images/tokens/0x9D3BBb0e988D9Fb2d55d07Fe471Be2266AD9c81c.svg"
+      },
+      {
+        "name": "Goal",
+        "symbol": "GOAL",
+        "address": "0x00fe915a5209e74D5a88334cC2daA4541AEC8278",
+        "chainId": 25,
+        "decimals": "",
+        "logoURI": "https://mm.finance//images/tokens/0x00fe915a5209e74D5a88334cC2daA4541AEC8278.svg"
+      },
+      {
+        "name": "Darkness Share",
+        "symbol": "NESS",
+        "address": "0xE727240728C1a5f95437b8b50AFDd0EA4AE5F0c8",
+        "chainId": 25,
+        "decimals": "",
+        "logoURI": "https://mm.finance//images/tokens/0xE727240728C1a5f95437b8b50AFDd0EA4AE5F0c8.svg"
+      },
+      {
+        "name": "Pegasus Dollar",
+        "symbol": "PES",
+        "address": "0x8EfBaA6080412D7832025b03B9239D0be1e2aa3B",
+        "chainId": 25,
+        "decimals": "",
+        "logoURI": "https://mm.finance//images/tokens/0x8EfBaA6080412D7832025b03B9239D0be1e2aa3B.svg"
+      },
+      {
+        "name": "DarkCrypto",
+        "symbol": "DARK",
+        "address": "0x83b2AC8642aE46FC2823Bc959fFEB3c1742c48B5",
+        "chainId": 25,
+        "decimals": "",
+        "logoURI": "https://mm.finance//images/tokens/0x83b2AC8642aE46FC2823Bc959fFEB3c1742c48B5.svg"
+      },
+      {
+        "name": "CROTAMA",
+        "symbol": "CROTAMA",
+        "address": "0x4c76a10A658d71AdB6431765a0a3cA13B6e2D491",
+        "chainId": 25,
+        "decimals": "",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19361.png"
+      },
+      {
+        "name": "VSHARE",
+        "symbol": "VSHARE",
+        "address": "0xdcC261c03cD2f33eBea404318Cdc1D9f8b78e1AD",
+        "chainId": 25,
+        "decimals": "",
+        "logoURI": "https://vvs.finance/images/tokens/0xdcC261c03cD2f33eBea404318Cdc1D9f8b78e1AD.svg"
+      },
+      {
+        "name": "V3SToken",
+        "symbol": "V3S",
+        "address": "0xC7e99a2f064Cf86aF91Db252a9D8Bc16e6fE7427",
+        "chainId": 25,
+        "decimals": "",
+        "logoURI": "https://vvs.finance/images/tokens/0xC7e99a2f064Cf86aF91Db252a9D8Bc16e6fE7427.svg"
+      },
+      {
+        "name": "Artificial Liquid Intelligence Token",
+        "symbol": "ALI",
+        "address": "0x45C135C1CDCE8d25A3B729A28659561385C52671",
+        "chainId": 25,
+        "decimals": "",
+        "logoURI": "https://vvs.finance/images/tokens/0x45C135C1CDCE8d25A3B729A28659561385C52671.svg"
+      },
+      {
+        "name": "Tectonic Governance Token",
+        "symbol": "TONIC",
+        "address": "0xDD73dEa10ABC2Bff99c60882EC5b2B81Bb1Dc5B2",
+        "chainId": 25,
+        "decimals": "",
+        "logoURI": "https://vvs.finance/images/tokens/0xDD73dEa10ABC2Bff99c60882EC5b2B81Bb1Dc5B2.svg"
+      },
+      {
+        "name": "ApeCoin",
+        "symbol": "APE",
+        "address": "0x9C62F89a8C9907582f21205Ce90443730361EA05",
+        "chainId": 25,
+        "decimals": "",
+        "logoURI": "https://vvs.finance/images/tokens/0x9C62F89a8C9907582f21205Ce90443730361EA05.svg"
+      },
+      {
+        "name": "SINGLE Token",
+        "symbol": "SINGLE",
+        "address": "0x0804702a4E749d39A35FDe73d1DF0B1f1D6b8347",
+        "chainId": 25,
+        "decimals": "",
+        "logoURI": "https://vvs.finance/images/tokens/0x0804702a4E749d39A35FDe73d1DF0B1f1D6b8347.svg"
+      },
+      {
+        "name": "Croki",
+        "symbol": "$CROKI",
+        "address": "0x43e90012a3d69AeBdc2750424b41655776c6D598",
+        "chainId": 25,
+        "decimals": "",
+        "logoURI": "https://mm.finance//images/tokens/0x43e90012a3d69AeBdc2750424b41655776c6D598.svg"
       },
       {
         "name": "Crodex Token",
@@ -152,15 +280,15 @@
         "address": "0xe243CCab9E66E6cF1215376980811ddf1eb7F689",
         "chainId": 25,
         "decimals": "",
-        "logoURI": "https://raw.githubusercontent.com/elkfinance/tokens/main/logos/cronos/0xe243CCab9E66E6cF1215376980811ddf1eb7F689/logo.png"
+        "logoURI": "https://swap.crodex.app/tokenlogos/0xe243CCab9E66E6cF1215376980811ddf1eb7F689.png"
       },
       {
-        "name": "CronaSwap",
-        "symbol": "CRONA",
-        "address": "0xadbd1231fb360047525BEdF962581F3eee7b49fe",
+        "name": "Mad Meerkat Finance",
+        "symbol": "MMF",
+        "address": "0x97749c9B61F878a880DfE312d2594AE07AEd7656",
         "chainId": 25,
         "decimals": "",
-        "logoURI": "https://app.cronaswap.org/images/tokens/0xadbd1231fb360047525BEdF962581F3eee7b49fe.svg"
+        "logoURI": "https://mm.finance//images/tokens/0x97749c9B61F878a880DfE312d2594AE07AEd7656.svg"
       }
     ]
   }

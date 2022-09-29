@@ -1,0 +1,14 @@
+{
+  "name": "Hedge Fund",
+  "symbol": "Hedge Fund",
+  "decimals": 18,
+  "description": "Hedge Fund is a token that yields 20% rewards of Fook Token (AVAX). Fook Token pays holders 23% in USDC rewards, so by buying Hedge Fund, you will receive 20% of Fook + 23% in USDC rewards. Hedge Fund has a goal to take the rewards and invest in other projects, which will increase the value of Hedge Fund's Investment Portfolio, which will be used for buy backs of Hedge Fund.",
+  "discord": "",
+  "telegram": "https://t.me/HedgeFundAvax",
+  "twitter": "https://twitter.com/HedgeFund_Avax",
+  "website": "https://hedgefundavax.com",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://snowtrace.io/token/0xe387cF241B6685D405C575ce35db78ed4844B34a",
+  "id": "0xe387cF241B6685D405C575ce35db78ed4844B34a"
+}

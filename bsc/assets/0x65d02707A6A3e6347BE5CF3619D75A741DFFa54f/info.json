@@ -1,0 +1,17 @@
+{
+  "name": "GAINJUICE",
+  "symbol": "GJUICE",
+  "decimals": 9,
+  "description": "GainJuice is an Auto Rewards community token that was created with intentions not to only build a flawless reward system mining game on the RPG chain but also to help with exposing the world to Rangers Protocol and showing how important this technology is to our future Web3 metaverse.",
+  "discord": "",
+  "telegram": "https://t.me/GAINJUICED",
+  "twitter": "https://twitter.com/gainjuice",
+  "website": "https://gainjuice.co",
+  "vested": [
+    "0x3f4d6bf08cb7a003488ef082102c2e6418a4551e",
+    "0x407993575c91ce7643a4d4ccacc9a98c36ee1bbe"
+  ],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x65d02707A6A3e6347BE5CF3619D75A741DFFa54f",
+  "id": "0x65d02707A6A3e6347BE5CF3619D75A741DFFa54f"
+}

@@ -1,14 +1,14 @@
 {
-    "name": "Meyers Token",
-    "website": "https://www.MeyersToken.com",
-    "telegram": "https://t.me/meyerstoken",
-    "twitter": "https://twitter.com/MeyersToken",
-    "description": "Meyers Token is a Worldwide Geocaching Treasure Hunt for physically hidden wallets containing 100,000 Meyers Tokens on Each. Explore the world & Inherit the Future!",
-    "explorer": "https://bscscan.com/token/0x5d0d52c464d7970af7f537c2963aa09fbaf6dde0",
-    "type": "BEP20",
-    "symbol": "MEYERS",
-    "decimals": 9,
-    "slippage": 12,
-    "status": "active",
-    "id": "0x5d0d52c464d7970af7f537c2963aa09fbaf6dde0"
+  "name": "Meyers Token",
+  "symbol": "MEYERS",
+  "decimals": 9,
+  "description": "Meyers Token is a BEP-20 asset on the Binance Smart Chain that transforms real world treasure hunting into tokenized asset ownership. The project aims to encourage this by hiding Land Drops containing Meyers Tokens all around the globe. Treasure hunters will need to combine elements of puzzle, mystery, and exercise higher level thinking and analysis to determine where a Land Drop is hidden. Additionally, Meyers Token aims to incentivize going outside to enjoy the great outdoors and spark excitement in the cryptocurrency community.",
+  "discord": "https://discord.gg/SSH35zefgH",
+  "telegram": "https://t.me/meyerstoken",
+  "twitter": "https://www.twitter.com/MeyersToken",
+  "website": "https://meyerstoken.com/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x5D0D52c464d7970aF7f537c2963Aa09Fbaf6DDE0",
+  "id": "0x5D0D52c464d7970aF7f537c2963Aa09Fbaf6DDE0"
 }

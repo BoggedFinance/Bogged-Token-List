@@ -1,0 +1,16 @@
+{
+  "name": "Ape Hero Power",
+  "symbol": "POW",
+  "decimals": 18,
+  "description": "Ape Heroes is an NFT project and ecosystem on Binance Smart Chain. We minted out in October 2021 and since then we’ve grown into a multi-collection project with a marketplace, launchpad, and various platform tools to cater to the BSC community. $POW is our ecosystem’s token. $POW’s current utility is buying Whitelist access, entering raffles, taking part in auctions, hatching dinos, and soon minting projects on our launchpad. $POW is minted via our staking feature and is currently tradable on ApeSwap.",
+  "discord": "http://discord.gg/J9XUBPWEcQ",
+  "telegram": "https://t.me/ApeHeroes",
+  "twitter": "https://twitter.com/ApeHeroesBSC",
+  "website": "https://apeheroes.com",
+  "vested": [
+    "0xd9051617f8Df78CcC00A9118B1f0fb2400515CE6"
+  ],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x5ae5A6d4A950B5d909b337C23a80ECe89147A605",
+  "id": "0x5ae5A6d4A950B5d909b337C23a80ECe89147A605"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "FUT",
+  "symbol": "FUT",
+  "decimals": 18,
+  "description": "未来社区是 DEFI 领域最具发展性的社区之一，其技术、机制、文化方面都进行了颠覆性的革新，致力于让广大普通用户公平获得心满意足的可观回报。未来社区，首发未来通证 FUT ，恒量发行9999枚。核心机制有二级市场收放机制、反巨鲸机制、极致通缩机制、蜂群效应等行业首创方案，在诸多行业成功案例之上更加优化创新，同时注重社区文化建设，未来通证 FUT ，势必成为 DEFI 领域极具影响力的集大成之作！",
+  "discord": "",
+  "telegram": "https://t.me/abcdefg123456789000a",
+  "twitter": "https://twitter.com/FUT28791173?s=05",
+  "website": "https://futdao.io",
+  "vested": [],
+  "audits": [
+    "https://kdocs.cn/l/cncKba2Qz1GA",
+    "https://kdocs.cn/l/ceb0KlgWuKyr"
+  ],
+  "explorer": "https://bscscan.com/token/0xaE21BFe30aFf40A66Bc9a950D61C1a6B1c82Ad2A",
+  "id": "0xaE21BFe30aFf40A66Bc9a950D61C1a6B1c82Ad2A"
+}

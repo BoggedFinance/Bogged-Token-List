@@ -1,0 +1,16 @@
+{
+  "name": "Luzion Protocol",
+  "symbol": "LZN",
+  "decimals": 5,
+  "description": "Luzion Protocol is an auto staking, auto rebase, auto liquidity, auto dividend and auto burn function protocol. It's develop to ensure a peace of mind for holders with a secured and transparent protocol. Staking are automated and paid at every 15 minutes or per epoch and dividends are paid at every hour. A simple buy-hold-earn system that grows your LZN portfolio and BUSD rewards in your wallet at a lightning fast pace.",
+  "discord": "https://discord.apocgame.io",
+  "telegram": "https://t.me/revoluziontoken",
+  "twitter": "https://twitter.com/RevoluzionToken",
+  "website": "https://luzion.io",
+  "vested": [],
+  "audits": [
+    "https://github.com/coinscope-co/audits/blob/main/lzn/audit.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0x291C4e4277F8717e0552D108dBd7f795a9fEF016",
+  "id": "0x291C4e4277F8717e0552D108dBd7f795a9fEF016"
+}

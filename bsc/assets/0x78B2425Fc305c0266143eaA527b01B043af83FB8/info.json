@@ -1,0 +1,14 @@
+{
+  "name": "Vetter Skylabs Token",
+  "symbol": "VSL",
+  "decimals": 9,
+  "description": "",
+  "discord": "",
+  "telegram": "https://t.me/skylabsvsl",
+  "twitter": "https://twitter.com/vetterplatform",
+  "website": "https://vetter.ai/skylabs/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x78B2425Fc305c0266143eaA527b01B043af83FB8",
+  "id": "0x78B2425Fc305c0266143eaA527b01B043af83FB8"
+}
