@@ -1,0 +1,16 @@
+{
+  "name": "BrightyPad",
+  "symbol": "BYP",
+  "decimals": 18,
+  "description": "BrightyPad is a brand-new integrated cross-chain ecosystem that introduces an all-in-one solution to launch and manage all your decentralized assets. BrightyPad will be supporting all the existing major blockchains while seamlessly functioning parallel to our custom software.",
+  "discord": "",
+  "telegram": "https://t.me/BrightyPadCommunity",
+  "twitter": "https://twitter.com/BrightyPad",
+  "website": "http://brightypad.com/",
+  "vested": [],
+  "audits": [
+    "https://github.com/solidproof/projects/blob/main/Brightypad/SmartContract_Audit_Solidproof_BrightyPad.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0x6785342b199aa152F69f577AC241A88663B5d57A",
+  "id": "0x6785342b199aa152F69f577AC241A88663B5d57A"
+}
