@@ -1,0 +1,17 @@
+{
+  "name": "COLLIE INU",
+  "symbol": "COLLIE",
+  "decimals": 18,
+  "description": "The most intelligent and smartest dog in the world. Collie Inu is loyal and protective. He loves to work, defend his family and please both owners and holders. His mission is to provide a safe place for the Investor community by protecting their bags with additional security measures. Collie Inu aims to be the most known and most used cryptocurrency in the world. Collie Inu is run by dedicated and experienced team members, we have multiple utilities and a well-planned long-term roadmap.",
+  "discord": "",
+  "telegram": "https://linktr.ee/collieinu_token",
+  "twitter": "https://twitter.com/Collieinu_token",
+  "website": "https://linktr.ee/collieinu_token",
+  "vested": [],
+  "audits": [
+    "https://github.com/cyberscope-io/audits/blob/main/collie/audit.pdf",
+    "https://github.com/coinscope-co/kyc/blob/main/collie/kyc.png"
+  ],
+  "explorer": "https://bscscan.com/token/0x31491c35C094A0336f4859Dd94aB9466709deC45",
+  "id": "0x31491c35C094A0336f4859Dd94aB9466709deC45"
+}
