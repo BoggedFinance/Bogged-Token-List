@@ -1,0 +1,16 @@
+{
+  "name": "FuYoH",
+  "symbol": "FYH",
+  "decimals": 9,
+  "description": "FuYoH is an Asia meme token with aims to be used widely that give back rewards. Fun for the community and long-term benefit for holders. FuYoH will focus on 4 area which is Trading, Community Events, Asia Meme NFT and Games. We are not creating tokens to solve the world’s biggest blockchain issues but instead a token that can be use to trade, swap, play games and NFT collection",
+  "discord": "https://discord.gg/Vzy4E3veMH",
+  "telegram": "https://t.me/fuyohasia",
+  "twitter": "https://twitter.com/AsiaFuyoh",
+  "website": "https://www.fuyoh.asia",
+  "vested": [
+    "0x2621816be08e4279cf881bc640be4089bfaf491a"
+  ],
+  "audits": [],
+  "explorer": "https://polygonscan.com/token/0x0d450bf37Ec899cCA90ede124b3E69C9Ae2F2F1C",
+  "id": "0x0d450bf37Ec899cCA90ede124b3E69C9Ae2F2F1C"
+}
