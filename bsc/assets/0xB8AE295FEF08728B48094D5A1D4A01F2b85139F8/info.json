@@ -1,0 +1,14 @@
+{
+  "name": "Maincoin",
+  "symbol": "MNC",
+  "decimals": 18,
+  "description": "Maincoin is a digital currency based on the BNB Chain.The main economic direction of the token is its use as a means of mutual settlements in the commercial ecosystem of products and services.Using the Maincoin token and its ecosystem, you can make purchases or conduct business anywhere in the world.",
+  "discord": "",
+  "telegram": "https://t.me/maincoin_money",
+  "twitter": "https://twitter.com/mnc_maincoin",
+  "website": "https://maincoin.money/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0xB8AE295FEF08728B48094D5A1D4A01F2b85139F8",
+  "id": "0xB8AE295FEF08728B48094D5A1D4A01F2b85139F8"
+}
