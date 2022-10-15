@@ -1,0 +1,14 @@
+{
+  "name": "Lira",
+  "symbol": "LIRA",
+  "decimals": 18,
+  "description": "Lira is a utility token used to purchase goods or services.",
+  "discord": "https://discord.gg/T8xUu9nhFn",
+  "telegram": "https://t.me/lirafinancial",
+  "twitter": "https://twitter.com/lirafinancial",
+  "website": "https://lira.financial/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0xA80a006A48dc7203EB3AA7E0b3816918d242CFC4",
+  "id": "0xA80a006A48dc7203EB3AA7E0b3816918d242CFC4"
+}
