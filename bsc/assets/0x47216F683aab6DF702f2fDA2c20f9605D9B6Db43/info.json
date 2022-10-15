@@ -1,0 +1,16 @@
+{
+  "name": "OXF Token",
+  "symbol": "OXF",
+  "decimals": 9,
+  "description": "OXF token",
+  "discord": "",
+  "telegram": "https://t.me/oxftoken",
+  "twitter": "",
+  "website": "",
+  "vested": [
+    "0x47216f683aab6df702f2fda2c20f9605d9b6db43"
+  ],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x47216F683aab6DF702f2fDA2c20f9605D9B6Db43",
+  "id": "0x47216F683aab6DF702f2fDA2c20f9605D9B6Db43"
+}
