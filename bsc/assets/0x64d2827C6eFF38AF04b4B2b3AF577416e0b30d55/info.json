@@ -1,0 +1,14 @@
+{
+  "name": "gobciti",
+  "symbol": "gobs",
+  "decimals": 18,
+  "description": "Gobciti is an investment platform designed for fractional and non-fractional property sales, running within the Binance Smart Chain network.GOBS is the platform's native utility token used to:*Buy the fractions of each property, which are sold on our platform and future real estate investment project, in the planning period to build the property.*Used for reward on our decentralized exchange (DEX) running within the Binance Smart Chain network.*The GOBS token will allow access to special functions and use cases, not accessible by users without the token*Used for governance votes to determine how resources are allocated for new projects. * Over time, more utility for the token will also be added.*Gobciti officially launches the GOBS token.* Maximum created supply of GOBS coins 300,000,000",
+  "discord": "",
+  "telegram": "https://t.me/gobcit",
+  "twitter": "https://twitter.com/gobciti",
+  "website": "https://gobciti.com",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x64d2827C6eFF38AF04b4B2b3AF577416e0b30d55",
+  "id": "0x64d2827C6eFF38AF04b4B2b3AF577416e0b30d55"
+}
