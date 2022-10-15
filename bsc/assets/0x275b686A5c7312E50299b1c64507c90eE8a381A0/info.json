@@ -1,0 +1,21 @@
+{
+  "name": "Charlie Finance",
+  "symbol": "CHT",
+  "decimals": 9,
+  "description": "Charlie Finance is one of the most transformative technologies since the invention of the Internet.Charlie Finance stands firmly in support of financial freedom and the liberty that it provides globally for anyone to voluntarily participate in a permissionless and decentralized network.Products that let you borrow, save, invest, trade, and more . Its based on open-source technology that anyone can program with.",
+  "discord": "",
+  "telegram": "https://t.me/charlie_finance",
+  "twitter": "https://twitter.com/charlie_inu",
+  "website": "https://charliefinance.io",
+  "vested": [
+    "0x7ceeef78b204c28aba3a320177895041c7477a19",
+    "0x0166a1001b2f07d971a166268f9bda5fc59d585d",
+    "0xeB06125Ae287C51AEC25E4C7EeE66Ca49bC51023"
+  ],
+  "audits": [
+    "https://github.com/ContractWolf/smart-contract-audits/blob/main/ContractWolf_Audit_CharlieFinance.pdf",
+    "https://drive.google.com/file/d/1YYpPxK7AwydieKFzTOF4AS7NDqyo1CU1/view"
+  ],
+  "explorer": "https://bscscan.com/token/0x275b686A5c7312E50299b1c64507c90eE8a381A0",
+  "id": "0x275b686A5c7312E50299b1c64507c90eE8a381A0"
+}
