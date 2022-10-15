@@ -1,0 +1,14 @@
+{
+  "name": "COMPOUNDED",
+  "symbol": "CMPD",
+  "decimals": 4,
+  "description": "A revolutionary token in the Binance Smart Chain ecosystem. Our brand new approach and advanced tokenomics rewards holders with hyper-compounded $BUSD rewards. Simply hold $CMPD to earn fully automated $BUSD rewards directly to your wallet daily or manually claim from the dashboard where you can also track your earnings!",
+  "discord": "https://discord.gg/Mf9ezggwpN",
+  "telegram": "https://t.me/compounded",
+  "twitter": "https://twitter.com/compoundedtoken",
+  "website": "https://compounded.finance",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0xc54c111BCaFCe191457D876C56306dDE3a376457",
+  "id": "0xc54c111BCaFCe191457D876C56306dDE3a376457"
+}
