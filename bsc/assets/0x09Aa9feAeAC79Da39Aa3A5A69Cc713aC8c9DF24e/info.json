@@ -1,0 +1,16 @@
+{
+  "name": "Upload Token",
+  "symbol": "UPLOAD",
+  "decimals": 9,
+  "description": "What is Upload?Upload is the worlds first smart phone web3 application utilizing LiDAR (Light Detection and Ranging) technology to scan real life objects in 3D and convert into a NFT by using your mobile phone.What is the purpose of Upload?Uploads vision is the to become the Metaverse’s leading web3 decentralized go to platform utilizing innovative smart phone technology tailored towards mass adoption for everyday smart phone owners to bridge any tangible item within the physical world and transfer it across with them into the digital world by using their mobile device.Users will have full control of their scanned property.You can store this 3D scan in your phone gallery, sell this NFT if you want or use it in Upload Meta world and build your own world.",
+  "discord": "",
+  "telegram": "https://t.me/uploadportal",
+  "twitter": "https://twitter.com/uploadtoken",
+  "website": "https://uploadtokenbsc.com/",
+  "vested": [],
+  "audits": [
+    "https://www.cognitos.io/audit-uploadtoken"
+  ],
+  "explorer": "https://bscscan.com/token/0x09Aa9feAeAC79Da39Aa3A5A69Cc713aC8c9DF24e",
+  "id": "0x09Aa9feAeAC79Da39Aa3A5A69Cc713aC8c9DF24e"
+}
