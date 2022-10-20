@@ -1,0 +1,20 @@
+{
+  "name": "Daric",
+  "symbol": "RIC",
+  "decimals": 9,
+  "description": "Daric is a self-staking reflection meme token designed to become scarcer over time. The token is a decentralized and community-driven by following all security protocols. For more information on Daric's security features, please read our white paper.✅ The Liquidity pool is locked for ever (200 years)✅ Ownership of the contract has been renounced✅ 100% community-driven and decentralized✅ 3% Burning In every Buy&Sell , 3% Reward, 1% Charity and 2%Team✅ Guaranteed monthly manual burning for 24 months (At least 5 billion per month)✅ There are no hidden or unknown functions and unusual code in the contract✅ One of the most secure smart contracts in BSC that following all security protocols✅ Specified separate charity wallet",
+  "discord": "",
+  "telegram": "https://t.me/Daric_RIC",
+  "twitter": "https://twitter.com/Daric_RIC",
+  "website": "https://daric.site",
+  "vested": [
+    "0x9a573cBD7CFC1Ee939dE832496Cb2fBe5cc7a4d9",
+    "0x25C033355417A1a89B2d0f1F8A7C101295a1229E",
+    "0xf3ffc7dD87827857Dc9ee235D6457d3F43a35C1D",
+    "0xce7C20B098332cb80Ae841d95e56d386D2d461E6",
+    "0xFB9Ddac59c8d8D699aA53135044A7a46d8A1bf49"
+  ],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0xa6E87A2D98f23AdEfBe925cc9130BEde1aeAc9DA",
+  "id": "0xa6E87A2D98f23AdEfBe925cc9130BEde1aeAc9DA"
+}
