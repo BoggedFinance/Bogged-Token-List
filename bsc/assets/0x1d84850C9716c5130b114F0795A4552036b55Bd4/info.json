@@ -1,0 +1,14 @@
+{
+  "name": "Anubit",
+  "symbol": "ANB",
+  "decimals": 18,
+  "description": "Anubit was created to be a fast, low cost alternative to traditional forms of payment. Our utility is positioned to be the next financial utility token to be used globally by consumers and businesses, worldwide.",
+  "discord": "https://discord.gg/QPMHDMUe",
+  "telegram": "https://t.me/anubitofficial",
+  "twitter": "https://twitter.com/anubit_official",
+  "website": "https://www.anubit.com/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x1d84850C9716c5130b114F0795A4552036b55Bd4",
+  "id": "0x1d84850C9716c5130b114F0795A4552036b55Bd4"
+}
