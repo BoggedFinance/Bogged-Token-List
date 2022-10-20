@@ -2,13 +2,15 @@
   "name": "RocketVerse",
   "symbol": "RKV",
   "decimals": 9,
-  "description": "We are a project created through the BSC blockchain (Binance Smart Chain), in order to provide fun and opportunities for gains through the game RocketVerse Arena, which will have several different modes of gameplay.",
+  "description": "We are a project created through the BSC (Binance Smart Chain) blockchain with the aim of providing fun and earning opportunities through the RocketVerse Arena game, which will have several different modes of gameplay.",
   "discord": "",
   "telegram": "https://t.me/RocketVerseOFFICIAL",
-  "twitter": "https://twitter.com/rockverseinc",
-  "website": "https://rocketversearena.com/",
+  "twitter": "https://twitter.com/rocketverseinc",
+  "website": "https://www.rocketversearena.com/",
   "vested": [],
-  "audits": [],
+  "audits": [
+    "https://app.solidproof.io/projects/rocketverse"
+  ],
   "explorer": "https://bscscan.com/token/0x9d7F4f7d036BDF08740d18557C63E50284E73231",
   "id": "0x9d7F4f7d036BDF08740d18557C63E50284E73231"
 }
