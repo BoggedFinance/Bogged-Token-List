@@ -1,0 +1,14 @@
+{
+  "name": "PRISMVIO",
+  "symbol": "PRISM",
+  "decimals": 18,
+  "description": "PRISMVIO Blockchain Media Social Platform",
+  "discord": "",
+  "telegram": "https://t.me/prismvio",
+  "twitter": "https://twitter.com/prismvio",
+  "website": "https://www.prismvio.com",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x4884c46a704D2804Be30fb9136Be54e40cc0798e",
+  "id": "0x4884c46a704D2804Be30fb9136Be54e40cc0798e"
+}
