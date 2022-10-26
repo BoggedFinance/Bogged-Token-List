@@ -1,0 +1,14 @@
+{
+  "name": "Beecoin",
+  "symbol": "BEE",
+  "decimals": 18,
+  "description": "",
+  "discord": "",
+  "telegram": "",
+  "twitter": "",
+  "website": "",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x8aB6C3dfec784c5f6a3FD889b2cCb14813B47c07",
+  "id": "0x8aB6C3dfec784c5f6a3FD889b2cCb14813B47c07"
+}
