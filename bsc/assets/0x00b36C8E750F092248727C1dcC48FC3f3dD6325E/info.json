@@ -1,0 +1,14 @@
+{
+  "name": "Bitcoin Token",
+  "symbol": "BTCT",
+  "decimals": 18,
+  "description": "What is Bitcoin Token?Bitcoin Token was created as an alternative to BITCOIN, with a supply of only 21 million tokens, it promises to create a large community to gradually grow.",
+  "discord": "",
+  "telegram": "https://t.me/BitcoinTokenGem",
+  "twitter": "https://twitter.com/BitcoinTokenGem",
+  "website": "https://btctoken.digital",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x00b36C8E750F092248727C1dcC48FC3f3dD6325E",
+  "id": "0x00b36C8E750F092248727C1dcC48FC3f3dD6325E"
+}
