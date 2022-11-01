@@ -1,0 +1,16 @@
+{
+  "name": "GAMMA",
+  "symbol": "GAM",
+  "decimals": 9,
+  "description": "- G A M M A -Multichain NFT PlatformBuilt for sporting events all over the world. Utility : - Multichain NFT Platform ( Starting with BSC, ETH, Polygon ) - Sporting Events NFT's With BUSD Rewards ( Weekly ) - Betting PlatformNative : ✅ KYC & AUDIT by Cognitos✅ LP Locked Unicrypt ✅ Tax 8 / 8 %✅ Side Wallets LockedTelegram : https://t.me/gammaportalWebsite : https://gamma-hub.net/Smart Contract : 0x16E511684287a68862c4C597e518E3F2A31C0720",
+  "discord": "",
+  "telegram": "https://t.me/gammaportal",
+  "twitter": "",
+  "website": "https://www.gamma-hub.net/",
+  "vested": [],
+  "audits": [
+    "https://www.cognitos.io/audit-gamma"
+  ],
+  "explorer": "https://bscscan.com/token/0x16E511684287a68862c4C597e518E3F2A31C0720",
+  "id": "0x16E511684287a68862c4C597e518E3F2A31C0720"
+}
