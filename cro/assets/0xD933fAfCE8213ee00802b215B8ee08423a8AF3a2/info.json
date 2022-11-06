@@ -1,0 +1,17 @@
+{
+  "name": "BRIAR",
+  "symbol": "BRIAR",
+  "decimals": 6,
+  "description": "Briar Systems building a web 3 ecosystem from the ground up. Supporting and developing all fields from political Lobbying to mental health and addiction recovery.",
+  "discord": "https://discord.gg/QpQtrbFp",
+  "telegram": "https://t.me/+nBC_8TZUNQ5mYmMx",
+  "twitter": "https://twitter.com/cronos_fan?s=21&t=Lm39KnU0lYE-q03M5raVNw",
+  "website": "https://www.briarsystems.com/",
+  "vested": [
+    "0x87cf748198d910cbeacfde4f43b49f53590db19e",
+    "0x67c087ba6a6915d36a6ab21d6170359259d8aa2c"
+  ],
+  "audits": [],
+  "explorer": "https://cronoscan.com/token/0xD933fAfCE8213ee00802b215B8ee08423a8AF3a2",
+  "id": "0xD933fAfCE8213ee00802b215B8ee08423a8AF3a2"
+}
