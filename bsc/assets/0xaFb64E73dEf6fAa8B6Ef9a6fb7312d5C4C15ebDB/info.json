@@ -1,0 +1,18 @@
+{
+  "name": "Grove Token",
+  "symbol": "GVR",
+  "decimals": 18,
+  "description": "GroveToken is a green crypto which has a mission to Create wealth, for all holders, by harnessing the opportunities of a secure, decentralized digital currency in an environmentally conscious way. By compensating nature for years of abuse, Grove will create a healthier, wealthier future for all.",
+  "discord": "https://discord.gg/wD6UrT7V83",
+  "telegram": "https://t.me/Grovetoken",
+  "twitter": "https://twitter.com/GroveToken?t=PKmq6tNxFqgrnc2uH75Wlw&s=09",
+  "website": "https://www.grovetoken.com/",
+  "vested": [],
+  "audits": [
+    "https://global-uploads.webflow.com/62b03f7c4e77803f83b758a2/62b970f02efd58351af12fe1_Grove-Token-BSC-Audit-16632525.pdf",
+    "https://global-uploads.webflow.com/62b03f7c4e77803f83b758a2/62b971067d4844481a1f2bee_Brewlabs.pdf",
+    "https://www.certik.com/projects/grovetoken"
+  ],
+  "explorer": "https://bscscan.com/token/0xaFb64E73dEf6fAa8B6Ef9a6fb7312d5C4C15ebDB",
+  "id": "0xaFb64E73dEf6fAa8B6Ef9a6fb7312d5C4C15ebDB"
+}
