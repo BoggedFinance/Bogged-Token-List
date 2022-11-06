@@ -1,0 +1,14 @@
+{
+  "name": "HorseaFi",
+  "symbol": "HORSEA",
+  "decimals": 18,
+  "description": "A new crypto birthed by Explorer of the Ocean community. Simply explore, rescue, collect and hold as 1% from each transaction is automatically redistributed to Horsea.Fi holders. Horsea.Fi primary utility is building a explorer community to spread awareness of sea-animals.",
+  "discord": "",
+  "telegram": "https://t.me/HorseaFi",
+  "twitter": "https://twitter.com/horseaFi",
+  "website": "https://horsea.finance/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0xF234d609887997771689c4CCFa35B6a1D5C7f304",
+  "id": "0xF234d609887997771689c4CCFa35B6a1D5C7f304"
+}
