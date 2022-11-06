@@ -1,0 +1,14 @@
+{
+  "name": "Ajax Coin",
+  "symbol": "AJAX",
+  "decimals": 9,
+  "description": "Creating payment gateways and crypto exchange",
+  "discord": "",
+  "telegram": "https://t.me/AjaxCoinGroup",
+  "twitter": "",
+  "website": "https://ajax.finance",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0xB910d0cCeB25DE3d359cEDD02E30b1Ca2A9238d7",
+  "id": "0xB910d0cCeB25DE3d359cEDD02E30b1Ca2A9238d7"
+}
