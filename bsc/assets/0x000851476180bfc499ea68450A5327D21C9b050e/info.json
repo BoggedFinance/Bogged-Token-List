@@ -1,0 +1,17 @@
+{
+  "name": "SLAM TOKEN",
+  "symbol": "SLAM",
+  "decimals": 18,
+  "description": "SLAM holders get paid dividends once a month, just by holding +1,000 SLAM in their wallets.",
+  "discord": "",
+  "telegram": "https://t.me/SlamToken",
+  "twitter": "https://twitter.com/SlamToken",
+  "website": "https://slamtoken.com",
+  "vested": [
+    "0x8c865f7561cc05c3260df8b54a8a2510ffbcc8d3",
+    "0x32b138c0860e016f7856a978d5260151683e4184"
+  ],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x000851476180bfc499ea68450A5327D21C9b050e",
+  "id": "0x000851476180bfc499ea68450A5327D21C9b050e"
+}
