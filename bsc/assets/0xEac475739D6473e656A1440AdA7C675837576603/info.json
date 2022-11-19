@@ -2,14 +2,14 @@
   "name": "PetCoin.Love",
   "symbol": "PETS",
   "decimals": 18,
-  "description": "PetCoin is a crypto with a cause! With every PetCoin transaction, a portion of the transaction fee is donated to organizations that provide rescue and shelter for animals in need. <3",
-  "discord": "https://discord.gg/petcoin",
+  "description": "PetCoin is a cryptocurrency with a cause. Our goal is to save the life of pets around the world utilizing cryptocurrency as a transparent alternative to traditional donation means.",
+  "discord": "https://discord.gg/JZz99SahYJ",
   "telegram": "https://t.me/PetCoinLove",
-  "twitter": "https://twitter.com/officialpetcoin",
-  "website": "https://petcoin.love",
+  "twitter": "https://twitter.com/OfficialPetCoin",
+  "website": "https://petcoin.love/",
   "vested": [],
   "audits": [
-    "https://www.petcoin.love/PetCoin-Audit.pdf"
+    "https://www.petcoin.love/audit"
   ],
   "explorer": "https://bscscan.com/token/0xEac475739D6473e656A1440AdA7C675837576603",
   "id": "0xEac475739D6473e656A1440AdA7C675837576603"
