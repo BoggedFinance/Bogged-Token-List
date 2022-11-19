@@ -1,0 +1,14 @@
+{
+  "name": "DogeBit",
+  "symbol": "Dog",
+  "decimals": 9,
+  "description": "TOKEN OF MEMES TokenThe DogeBit token is our official currency that allows investors to hold millions in their wallets.",
+  "discord": "",
+  "telegram": "",
+  "twitter": "https://twitter.com/DogeBitDog",
+  "website": "",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x1DE5Dbcb14Cb8CB9e6A73677066181325CE53f7c",
+  "id": "0x1DE5Dbcb14Cb8CB9e6A73677066181325CE53f7c"
+}
