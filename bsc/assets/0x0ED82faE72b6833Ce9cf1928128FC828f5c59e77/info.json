@@ -1,0 +1,16 @@
+{
+  "name": "Uniqo",
+  "symbol": "UNIQO",
+  "decimals": 18,
+  "description": "Uniqo is a new and innovative DeFi product that facilitates stable and secure investment. Powered by a unique protocol that strategically manages inflation and deflation, Uniqo helps to protect investors from traditional risks while providing a way to earn passive income.",
+  "discord": "https://discord.gg/uniqo",
+  "telegram": "https://t.me/uniqo_finance",
+  "twitter": "https://twitter.com/UniqoFinance",
+  "website": "https://uniqo.finance/",
+  "vested": [],
+  "audits": [
+    "https://531136645-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FkbWhj8GOF8XipAtLUHrI%2Fuploads%2FzmTplX01nXPSrPtN4jXs%2FUniqo%20Smart%20Contract%20Audit%20-%20FairyProof%20v1.0.0.pdf?alt=media&token=55e9982e-4184-43bc-9281-d56debd25b66"
+  ],
+  "explorer": "https://bscscan.com/token/0x0ED82faE72b6833Ce9cf1928128FC828f5c59e77",
+  "id": "0x0ED82faE72b6833Ce9cf1928128FC828f5c59e77"
+}
