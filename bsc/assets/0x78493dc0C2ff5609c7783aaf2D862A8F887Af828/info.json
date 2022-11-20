@@ -1,0 +1,16 @@
+{
+  "name": "Argentina Fan Token",
+  "symbol": "ARGENTINA",
+  "decimals": 9,
+  "description": "Argentina Fan tokens is a community driven token built on the bsc chain. We support a great soccer team, we think Argentina is even better than Brazil.Argentina Fan token will be sold with BNB parity and liquidity locked along 180 days. Our biggest GOAL is to be listed on a major exchange as soon as possible. This project will be financed by NFT sales, stakes and sponsorships. Total Initial Supply: 1,000,000,000,000 Argentina Fan Tokens. 1. PancakeSwap Liquidity: 95% of Total Supply, Locked for 180 days. 2. Reserved for major exchange listings: 5% of Total Supply. 3. Buy tax fee is designed to be 2%, Sell tax fee is designed to be 2%",
+  "discord": "",
+  "telegram": "https://t.me/ArgentinaFanTokenBsc",
+  "twitter": "https://twitter.com/ArgentinaFanToken",
+  "website": "https://www.argentinafantoken.fun/",
+  "vested": [],
+  "audits": [
+    "https://app.staysafu.org/scan/free?a=0x78493dc0c2ff5609c7783aaf2d862a8f887af828"
+  ],
+  "explorer": "https://bscscan.com/token/0x78493dc0C2ff5609c7783aaf2D862A8F887Af828",
+  "id": "0x78493dc0C2ff5609c7783aaf2D862A8F887Af828"
+}
