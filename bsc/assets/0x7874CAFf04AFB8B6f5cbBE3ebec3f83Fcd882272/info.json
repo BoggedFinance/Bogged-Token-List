@@ -1,0 +1,16 @@
+{
+  "name": "Jeet Detector Bot",
+  "symbol": "JDB",
+  "decimals": 9,
+  "description": "",
+  "discord": "https://discord.gg/jdb",
+  "telegram": "https://t.me/JDBportal",
+  "twitter": "https://twitter.com/jdb_data",
+  "website": "http://jdbot.info/",
+  "vested": [],
+  "audits": [
+    "ttps://github.com/SafuAudit/smart-contract-audits/blob/main/JDBot.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0x7874CAFf04AFB8B6f5cbBE3ebec3f83Fcd882272",
+  "id": "0x7874CAFf04AFB8B6f5cbBE3ebec3f83Fcd882272"
+}
