@@ -1,0 +1,16 @@
+{
+  "name": "Shiba World Cup",
+  "symbol": "SWC",
+  "decimals": 18,
+  "description": "At SHIBA-WORLDCUP, we are giving everyone the chance to join the biggest crypto soccer community investing in our sport bet fund.",
+  "discord": "",
+  "telegram": "https://t.me/shibawolrdcup_ENG",
+  "twitter": "http://twitter.com/Shibawc",
+  "website": "https://shiba-worldcup.io/",
+  "vested": [],
+  "audits": [
+    "https://github.com/solidproof/projects/blob/main/Shiba%20World%20Cup/SmartContract_Audit_Solidproof_Shiba_WorldCup.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0x27DCC73CbBbe57d006303316dD3e91A0D5d58eeA",
+  "id": "0x27DCC73CbBbe57d006303316dD3e91A0D5d58eeA"
+}
