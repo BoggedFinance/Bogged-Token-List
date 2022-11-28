@@ -1,0 +1,14 @@
+{
+  "name": "Ringgit Malaysia Token",
+  "symbol": "RMT",
+  "decimals": 6,
+  "description": "",
+  "discord": "",
+  "telegram": "",
+  "twitter": "",
+  "website": "",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x427f134AB16d583A4600DBc4c95C2397a263F0A7",
+  "id": "0x427f134AB16d583A4600DBc4c95C2397a263F0A7"
+}
