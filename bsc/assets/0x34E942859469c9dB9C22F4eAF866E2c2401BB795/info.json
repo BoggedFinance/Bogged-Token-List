@@ -1,0 +1,16 @@
+{
+  "name": "CoinMooner",
+  "symbol": "MOONER",
+  "decimals": 18,
+  "description": "Hey hey! CoinMooner team here! We have awesome news and an amazing investment opportunity.A bit more than 5 months have passed since the launch of CoinMooner and we continue to expand during this time and constantly evolve. No one knew us at first but already in first 2 months we managed to achieve great success and build a well-known brand in the crypto community. In as little as 3 months, according to the Cloudflare data, we went from 0 to 1 million unique users per month and currently averaging 25 000 - 60 000 unique visitors daily. We are constantly developing new features, implementing new ideas, partnerships thus we are constantly growing.We are not going to stop! We have lots of very ambitious plans that we would like to share with you so that you could become a part of this great success! Introducing $MOONER:1) Established brand that cares about its reputation2) Ambitious development plans, built on a successful working project3) Hard working team with huge experience in large scale projects4) 24/7 Massive marketing exposure from 25 to 60k daily users5) Real use case - Games, NFT, Growing Crypto Platform and much moreAre you looking for a safe investment? CoinMooner token is the right choice! Get ready to make some X's gains!",
+  "discord": "https://discord.com/invite/rWKTSNVNAK",
+  "telegram": "https://t.me/CoinMoonerPromo/",
+  "twitter": "https://twitter.com/CoinMoonerCom/",
+  "website": "https://coinmooner.com/",
+  "vested": [],
+  "audits": [
+    "https://coinmooner.com/mooner-audit.pdf?v=2"
+  ],
+  "explorer": "https://bscscan.com/token/0x34E942859469c9dB9C22F4eAF866E2c2401BB795",
+  "id": "0x34E942859469c9dB9C22F4eAF866E2c2401BB795"
+}
