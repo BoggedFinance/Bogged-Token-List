@@ -1,0 +1,16 @@
+{
+  "name": "BusdPrinter",
+  "symbol": "BPR",
+  "decimals": 9,
+  "description": "Bep20 token, rewarding people 5% from taxes",
+  "discord": "",
+  "telegram": "https://t.me/BusdPrinters",
+  "twitter": "https://twitter.com/BusdPrinters",
+  "website": "http://www.busdprinters.com",
+  "vested": [],
+  "audits": [
+    "https://github.com/KRYPTAUDIT/Smart-Contracts-Audits/blob/main/BUSDPRINTER_AUDIT_KRYPTAUDIT.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0x55E8d5ba6A859a4ff46F175bB3e7F003e16Db821",
+  "id": "0x55E8d5ba6A859a4ff46F175bB3e7F003e16Db821"
+}
