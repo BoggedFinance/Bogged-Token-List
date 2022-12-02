@@ -2,13 +2,16 @@
   "name": "BeeCoin",
   "symbol": "BCO",
   "decimals": 18,
-  "description": "",
+  "description": "The main purpose of the bee coin is to help the bees. If bees were extinct for three years, there would be no planet. Our future goals are to help all those involved with bees, as well as donations to organizations that protect the bee ecosystem. The bee coin has no handling and the processing is original and autonomous with low brand circulation. Like bees if we unite we can achieve the best for ourselves and our planet.The project created on 19/02/2022, is a smart trading platform that allows buyers to make fast and decentralized transactions. With low brand circulation it pays off and is a reliable investment for fast and secure transactions, aiming to link the interests of bees with the interests of buyers.",
   "discord": "",
-  "telegram": "https://t.me/BCO_BeeCoin",
+  "telegram": "https://t.me/BeeCoinBCO",
   "twitter": "https://twitter.com/bee_coin",
-  "website": "https://www.beecoin.in/",
+  "website": "https://beecoin.in",
   "vested": [],
-  "audits": [],
+  "audits": [
+    "https://github.com/Coinsult/solidity/blob/main/BeeCoinAudit.pdf",
+    "https://beecoin.in/download-reports"
+  ],
   "explorer": "https://bscscan.com/token/0x248f2fd8A34303d8F1B7Ba65A1848eF90ae4F72F",
   "id": "0x248f2fd8A34303d8F1B7Ba65A1848eF90ae4F72F"
 }
