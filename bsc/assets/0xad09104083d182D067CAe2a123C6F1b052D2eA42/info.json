@@ -1,0 +1,16 @@
+{
+  "name": "LOIS",
+  "symbol": "LOIS",
+  "decimals": 18,
+  "description": "LOIS Token is an investment platform and Token which is made for scientific R&D to support high technologies, scholars and the feasibility of turning ideas into products.",
+  "discord": "",
+  "telegram": "https://t.me/Loiscoin",
+  "twitter": "https://twitter.com/AFehresti",
+  "website": "https://lois.zone/",
+  "vested": [],
+  "audits": [
+    "https://github.com/EtherAuthority/Audit/blob/main/LOIS-Token-Smart-Contracts-Security-Audit-Report.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0xad09104083d182D067CAe2a123C6F1b052D2eA42",
+  "id": "0xad09104083d182D067CAe2a123C6F1b052D2eA42"
+}
