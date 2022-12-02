@@ -2,16 +2,13 @@
   "name": "BeeCoin",
   "symbol": "BCO",
   "decimals": 18,
-  "description": "A smart trading platform that allows buyers to make fast and decentralized transactions. With low brand circulation it pays off and is a reliable investment for fast and secure transactions, aiming to link the interests of the Bees with the interests of the buyers.",
+  "description": "",
   "discord": "",
   "telegram": "https://t.me/BCO_BeeCoin",
   "twitter": "https://twitter.com/bee_coin",
-  "website": "https://beecoin.in",
+  "website": "https://www.beecoin.in/",
   "vested": [],
-  "audits": [
-    "https://moonarch.app/token/0x248f2fd8A34303d8F1B7Ba65A1848eF90ae4F72F",
-    "https://explorer.bitquery.io/bsc/token/0x248f2fd8a34303d8f1b7ba65a1848ef90ae4f72f"
-  ],
+  "audits": [],
   "explorer": "https://bscscan.com/token/0x248f2fd8A34303d8F1B7Ba65A1848eF90ae4F72F",
   "id": "0x248f2fd8A34303d8F1B7Ba65A1848eF90ae4F72F"
 }
