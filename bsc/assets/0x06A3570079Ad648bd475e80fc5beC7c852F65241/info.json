@@ -1,0 +1,14 @@
+{
+  "name": "Viu Ganhou",
+  "symbol": "VG",
+  "decimals": 9,
+  "description": "Token usado para pagamento dos usuários do aplicativo Viu Ganhou.",
+  "discord": "",
+  "telegram": "https://t.me/viuganhouu",
+  "twitter": "",
+  "website": "",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x06A3570079Ad648bd475e80fc5beC7c852F65241",
+  "id": "0x06A3570079Ad648bd475e80fc5beC7c852F65241"
+}
