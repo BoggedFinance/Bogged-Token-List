@@ -1,0 +1,14 @@
+{
+  "name": "Wrapped Ocvcoin",
+  "symbol": "WOCV",
+  "decimals": 18,
+  "description": "Wrapped Ocvcoin is the exact equivalent of native Ocvcoin. Almost lossless interchangeable.",
+  "discord": "https://discord.gg/NYYarPzNRA",
+  "telegram": "",
+  "twitter": "https://twitter.com/ocvcoin",
+  "website": "https://ocvcoin.com/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x04F97bC4E942a5C3Fb8E180a885F87819fA18a61",
+  "id": "0x04F97bC4E942a5C3Fb8E180a885F87819fA18a61"
+}
