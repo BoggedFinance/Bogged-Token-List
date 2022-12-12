@@ -1,0 +1,16 @@
+{
+  "name": "PlanetCats",
+  "symbol": "CATCOIN",
+  "decimals": 4,
+  "description": "PlanetCats is a community-driven project with solid tokenomics. Our ticker is $CATCOIN on the Binance Smart Chain. We create sustainable solutions that save the rainforests and earn Passive income while fighting deforestation. Using the blockchain technology with a community of supporters and investors that want to save Earth while developing solutions so that preserving becomes more valuable than slash and burning.",
+  "discord": "",
+  "telegram": "https://t.me/catcoin",
+  "twitter": "https://twitter.com/PlanetCats_com",
+  "website": "https://planetcats.com/",
+  "vested": [],
+  "audits": [
+    "https://contractwolf.io/projects/planetcats"
+  ],
+  "explorer": "https://bscscan.com/token/0xA3a7f7ccc7b3f5BE5828f92cC33Cf5cAfb027443",
+  "id": "0xA3a7f7ccc7b3f5BE5828f92cC33Cf5cAfb027443"
+}
