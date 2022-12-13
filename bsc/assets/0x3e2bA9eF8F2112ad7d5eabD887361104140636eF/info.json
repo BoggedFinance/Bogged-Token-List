@@ -1,0 +1,14 @@
+{
+  "name": "ANT Defi",
+  "symbol": "ANT",
+  "decimals": 18,
+  "description": "Decentralized global financial platform, based on Pow and Web3 on the principle of accumulation and fairness",
+  "discord": "https://discord.gg/zHVQ7dzvzs",
+  "telegram": "https://t.me/antdefi_finance",
+  "twitter": "https://twitter.com/antdefi_finance",
+  "website": "https://antdefi.finance",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x3e2bA9eF8F2112ad7d5eabD887361104140636eF",
+  "id": "0x3e2bA9eF8F2112ad7d5eabD887361104140636eF"
+}
