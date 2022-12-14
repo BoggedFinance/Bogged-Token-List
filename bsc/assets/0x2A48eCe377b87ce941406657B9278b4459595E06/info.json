@@ -1,0 +1,14 @@
+{
+  "name": "Lunatics",
+  "symbol": "LunaT",
+  "decimals": 9,
+  "description": "Lunatics is an obscure, totally unique project that is hyper-deflationary and is designed to both Reward Lunatics holders in Luna Classic and Burn the supply of Terra Luna Classic.We are a Community of Lunatics Dedicating our project to burning the supply of Luna Classic. Since Our main focus is reducing the supply of Luna Classic, all of our utilities will assist with those burns. Our contract automatically burns Luna Classic. Plus more to come in the futureFrom the beginning, we wanted to bring a project together, to not only BURN Luna Classic, but to also reward our holders WITH Luna Classic. What you decide to do with your rewards, is up to each individual. You can keep it, sell it, or our personal favourite, send it to the burn wallet, to help further burn even more Luna Classic!!The contract will buy Luna Classic Tokens and send to the designated Burn Wallet on every buy/sell. These Luna Classic Tokens will be in a multisig wallet for added security. We will send the Luna Classic Tokens to the Terra Luna Classic Dead Wallet and burn those tokens Live on Twitter and YouTube.",
+  "discord": "https://discord.gg/B8Dv6NSHem",
+  "telegram": "https://t.me/LunaticsTokenOfficial",
+  "twitter": "https://twitter.com/LunaticsToken",
+  "website": "htttps://www.lunaticstoken.com",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x2A48eCe377b87ce941406657B9278b4459595E06",
+  "id": "0x2A48eCe377b87ce941406657B9278b4459595E06"
+}
