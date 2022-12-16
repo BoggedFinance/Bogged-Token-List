@@ -1,0 +1,16 @@
+{
+  "name": "Rentier",
+  "symbol": "RANT",
+  "decimals": 18,
+  "description": "Our company, #Rentier, is dedicated to promotingsustainability and reducing waste through innovativerecycling solutions. As part of our commitment tosupporting a more environmentally-friendly future, we are excitedto announce the launch of our new token, $RANT",
+  "discord": "",
+  "telegram": "https://t.me/Rentiertk",
+  "twitter": "https://twitter.com/Rentiertoken",
+  "website": "https://rentierrant.blogspot.com/",
+  "vested": [],
+  "audits": [
+    "https://pancakeswap.finance/swap?outputCurrency=0xF7a67c5287d2D30eBC6E21f879901e5787Ed0aE3"
+  ],
+  "explorer": "https://bscscan.com/token/0xF7a67c5287d2D30eBC6E21f879901e5787Ed0aE3",
+  "id": "0xF7a67c5287d2D30eBC6E21f879901e5787Ed0aE3"
+}
