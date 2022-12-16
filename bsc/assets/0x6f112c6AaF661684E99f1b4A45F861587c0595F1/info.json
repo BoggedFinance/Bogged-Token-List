@@ -1,0 +1,17 @@
+{
+    "name": "TATA Coin",
+    "website": "https://tatacoin.net",
+    "telegram": "https://t.me/TATACoinGroup",
+    "discord": "https://discord.gg/Gx8PJ6XDZF",
+    "twitter": "https://twitter.com/TATA_Coin",
+    "description": "TATA Coin is a 100% Community-Driven Cryptocurrency, aims to make decentralized finance completely secure and to provide the most secure payment system. Please read the whitepaper for more details.",
+    "explorer": "https://bscscan.com/token/0x6f112c6AaF661684E99f1b4A45F861587c0595F1",
+    "type": "BEP20",
+    "symbol": "TATA",
+    "decimals": 18,
+    "slippage": 0.5,
+    "status": "active",
+    "id": "0x6f112c6AaF661684E99f1b4A45F861587c0595F1",
+    "vested": [ ],
+    "audits": [ ]
+}
