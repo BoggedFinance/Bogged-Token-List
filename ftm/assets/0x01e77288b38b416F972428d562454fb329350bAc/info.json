@@ -1,0 +1,14 @@
+{
+  "name": "MUMMY",
+  "symbol": "MMY",
+  "decimals": 18,
+  "description": "Mummy Finance is a swap and perpetual DEX that offers a variety of trading options and high liquidity for a wide range of blue chip crypto assets.",
+  "discord": "https://discord.gg/xqSJaw8sUB",
+  "telegram": "https://t.me/mummyftm",
+  "twitter": "https://twitter.com/mummyftm",
+  "website": "https://www.mummy.finance/#/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://ftmscan.com/token/0x01e77288b38b416F972428d562454fb329350bAc",
+  "id": "0x01e77288b38b416F972428d562454fb329350bAc"
+}
