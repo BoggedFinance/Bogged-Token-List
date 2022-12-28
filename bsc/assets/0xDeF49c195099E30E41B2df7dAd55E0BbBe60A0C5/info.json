@@ -1,0 +1,16 @@
+{
+  "name": "SRX",
+  "symbol": "SRX",
+  "decimals": 18,
+  "description": "The official syrup.finance governance token.",
+  "discord": "",
+  "telegram": "https://t.me/syrupfinance",
+  "twitter": "https://twitter.com/syrupfinance",
+  "website": "https://syrup.finance",
+  "vested": [],
+  "audits": [
+    "https://github.com/Syrup-Finance/syrup-contracts/tree/main/audits"
+  ],
+  "explorer": "https://bscscan.com/token/0xDeF49c195099E30E41B2df7dAd55E0BbBe60A0C5",
+  "id": "0xDeF49c195099E30E41B2df7dAd55E0BbBe60A0C5"
+}
