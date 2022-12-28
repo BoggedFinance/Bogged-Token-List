@@ -1,0 +1,16 @@
+{
+  "name": "GTOKEN REWARD PROTOCOL",
+  "symbol": "GTOKEN",
+  "decimals": 18,
+  "description": "The Gtoken is a reward protocol tokenization module from the project THe GTAG Nexus, Where Gtoken acts as the payout token for the user’s NFT BASED STAKING and is distributed as per grading mechanisms of the Hashtag or string Text’s Lerformance on various social media channels that the project is integrated with. ",
+  "discord": "",
+  "telegram": "https://t.me/+iCQo0pV_YF45Y2I1",
+  "twitter": "",
+  "website": "Https://Mygtags.com",
+  "vested": [
+    "0x0c89c0407775dd89b12918b9c0aa42bf96518820"
+  ],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0xC0F3a59C5276a73D058C48E1D3104fc69540B8F2",
+  "id": "0xC0F3a59C5276a73D058C48E1D3104fc69540B8F2"
+}
