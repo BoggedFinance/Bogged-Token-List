@@ -1,0 +1,16 @@
+{
+  "name": "KundaToken",
+  "symbol": "KUNDA",
+  "decimals": 18,
+  "description": "THE FIRST MANGA CRYPTOCURRENCYWhat are the functions of the KUNDA token at the moment?To serve as the governance of all the KundaComics system and our editorial line. We will buy the best manga and put them at the free service of all our holders. Remember that we are the first crypto manga publishers in the world.Improve our metaverse and provide an increasingly engaging experiencePowering the Paint to Earn system. Are you an artist? Sell your work to us and you will receive KUNDA.Feed the Earn NFTs system. Holding our NFTs you will earn a percentage in KUNDA every day. Read more.Free weekly Airdrop on our website. Read more.https://p2pb2b.com/trade/KUNDA_USDT/",
+  "discord": "",
+  "telegram": "https://t.me/KundaToken",
+  "twitter": "http://twitter.com/kundacomics",
+  "website": "https://kundacomics.com/",
+  "vested": [],
+  "audits": [
+    "https://github.com/AnalytixAudit/Solidity/blob/main/Audit_KundaToken.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0xB077D85bf82c19B1d292E2E7Ad7d70AdcBCFC026",
+  "id": "0xB077D85bf82c19B1d292E2E7Ad7d70AdcBCFC026"
+}
