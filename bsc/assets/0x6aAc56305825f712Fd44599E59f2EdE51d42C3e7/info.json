@@ -1,0 +1,19 @@
+{
+  "name": "Brewlabs",
+  "symbol": "BREWLABS",
+  "decimals": 9,
+  "description": "BREWLABS is a utility token with a fixed 1 billion across multiple chains. It acts as the lifeblood of the Brewlabs ecosystem that provides multiple defi utility for the users including staking pool, LP farm, LP constructor, zapper, airdrop tool, LP & token locker, bridge, NFT ecosystem etc. with more under development. Brewlabs is a service provider company registered in Australia that provides contract development, pool & farm hosting, auditing and many other custom service to clients in the crypto and fiat industry.",
+  "discord": "https://discord.gg/sDUCeAJMxn",
+  "telegram": "https://t.me/brewlabs",
+  "twitter": "https://twitter.com/TeamBrewlabs",
+  "website": "https://brewlabs.info/",
+  "vested": [
+    "0x408c4ada67ae1244dfec7d609dea3c232843189a",
+    "0x64961ffd0d84b2355ec2b5d35b0d8d8825a774dc"
+  ],
+  "audits": [
+    "https://www.certik.com/projects/brewlabs"
+  ],
+  "explorer": "https://bscscan.com/token/0x6aAc56305825f712Fd44599E59f2EdE51d42C3e7",
+  "id": "0x6aAc56305825f712Fd44599E59f2EdE51d42C3e7"
+}
