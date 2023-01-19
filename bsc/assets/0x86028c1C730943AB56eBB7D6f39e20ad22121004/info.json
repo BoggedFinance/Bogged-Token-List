@@ -1,0 +1,18 @@
+{
+  "name": "Crypto 4 A Cause Fund",
+  "symbol": "C4C",
+  "decimals": 18,
+  "description": "Crypto 4 A Cause is a project token that aims to revolutionize charitable giving by leveraging the power of blockchain technology. With Crypto 4 A Cause, users will have the ability to vote on proposals to donate money to a variety of charities, and they will also have the opportunity to earn tokens through a play-to-earn game that is inspired by popular titles like Grand Theft Auto & Cyberpunk.The decentralized nature of the Crypto 4 A Cause DAO allows users to have a say in where their donations go. By voting on proposals, users can choose which charities they want to support and how much they want to contribute. This ensures that the funds are used in a transparent and accountable manner, as all votes and transactions are recorded on the blockchain.In addition to voting on proposals, users will also be able to submit their own proposals for charitable projects. This allows the community to come together and collaborate on making a positive impact in the world.To further engage the community and provide additional utility for token holders, Crypto 4 A Cause will also feature a play-to-earn game that is inspired by Grand Theft Auto. This game will allow users to earn tokens through gameplay, which they can then use to vote on proposals or hold as an investment.The game will be set in a virtual world with various missions and challenges that players can complete to earn tokens. It will also include a marketplace where players can buy and sell virtual goods using the Crypto 4 A Cause token.",
+  "discord": "https://discord.gg/7muPZnsFBy",
+  "telegram": "https://t.me/C4CCrypto4ACause",
+  "twitter": "https://twitter.com/Crypto4ACauseF",
+  "website": "https://www.crypto4ac.net",
+  "vested": [
+    "0x407993575c91ce7643a4d4ccacc9a98c36ee1bbe",
+    "0xeaed594b5926a7d5fbbc61985390baaf936a6b8d",
+    "0x7742f943de076d2fd98d56c1f82a4dfe4dc4e6ba"
+  ],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x86028c1C730943AB56eBB7D6f39e20ad22121004",
+  "id": "0x86028c1C730943AB56eBB7D6f39e20ad22121004"
+}
