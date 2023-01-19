@@ -1,0 +1,16 @@
+{
+  "name": "Legendary PAW",
+  "symbol": "PAW",
+  "decimals": 18,
+  "description": "Legendary Paw is a blockchain-based project that aims to create a complete ecosystem for its community. It offers a range of products and services including games, smart contracts, cryptocurrency, non-fungible tokens (NFTs), staking, decentralized exchange (DEX), auctions, and more. The project places a strong emphasis on security and user control over their digital assets. The PAW coin is designed to be scalable, secure, and fully decentralized. The project also plans to introduce a credit and debit card that will allow members to easily access their digital assets and provide payment processing services for online and offline stores. The project also has a number of NFT collections available on OpenSea, some of which include access to special events, worlds, and gatherings. The project also has a focus on decentralization and low fees for crypto exchange, where the user is always in control of their assets.",
+  "discord": "https://discord.gg/AGt8UxmSkD",
+  "telegram": "https://t.me/LegendaryPaw",
+  "twitter": "https://twitter.com/LegendaryPaw",
+  "website": "https://legendarypaw.com/",
+  "vested": [
+    "0x2C247674cc3D00ebA68355350b58e999a5032A72"
+  ],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x1f0E5F4AFFeDeE2e525148b6576E36026CC2Fa40",
+  "id": "0x1f0E5F4AFFeDeE2e525148b6576E36026CC2Fa40"
+}
