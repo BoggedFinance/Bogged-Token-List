@@ -1,0 +1,14 @@
+{
+  "name": "Interest",
+  "symbol": "INT",
+  "decimals": 9,
+  "description": "The biggest TRIPLE reflection token with incorporated auto-claim feature. Simply hold INT tokens in your wallet and you'll earn BTC, Safemoon & Grove.10% of every buy/sell is taken and redistributed to all Interest holder",
+  "discord": "",
+  "telegram": "https://t.me/interesttoken",
+  "twitter": "https://twitter.com/interestbsc",
+  "website": "https://interestbsc.online",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0xbB72E492cb7169ab7936505B32e9BBE538Ce0C51",
+  "id": "0xbB72E492cb7169ab7936505B32e9BBE538Ce0C51"
+}
