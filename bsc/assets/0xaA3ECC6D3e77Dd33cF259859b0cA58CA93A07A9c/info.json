@@ -1,0 +1,17 @@
+{
+  "name": "Global payment currency electronic ",
+  "symbol": "Gpay ",
+  "decimals": 18,
+  "description": "GPAY es un token de utilidad descentralizado con una oferta total de 21 millones y la moneda nativa del proyecto GRUPO GPAY profundamente comprometido con los principios de seguridad, velocidad y libertad financiera. \"GPAY es una solución global de código abierto diseñada para llegar a todos los sectores de la economía. GPAY se utilizará como instrumento de intercambio en el comercio nacional e internacional, adquisición de diversos productos de grandes fábricas en China, EE. UU. y Europa\", 💎El 2 % de cada transacción de compra/venta se distribuye automáticamente entre los titulares de GPAY, otro 2 % se dirige a marketing/influencers y el 1 % se destina automáticamente al fondo de liquidez. 💎El 40% del suministro total está bloqueado por 1 año hasta el 14 de enero de -2025",
+  "discord": "https://discord.gg/UZKx86Bm8M",
+  "telegram": "https://t.me/gpaycoins",
+  "twitter": "https://twitter.com/Gpaycoinss",
+  "website": "https://gpaycoins.com/",
+  "vested": [],
+  "audits": [
+    "https://www.coinscope.co/coin/gpay/audit",
+    "https://www.coinscope.co/coin/gpay/kyc"
+  ],
+  "explorer": "https://bscscan.com/token/0xaA3ECC6D3e77Dd33cF259859b0cA58CA93A07A9c",
+  "id": "0xaA3ECC6D3e77Dd33cF259859b0cA58CA93A07A9c"
+}
