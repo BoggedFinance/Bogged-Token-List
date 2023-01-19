@@ -1,0 +1,14 @@
+{
+  "name": "Bingschain",
+  "symbol": "BINGS",
+  "decimals": 0,
+  "description": "A decentralized network based smart contract and blockchain ecosystem. A EVM product. ",
+  "discord": "",
+  "telegram": "https://t.me/bingsnetwork",
+  "twitter": "https://twitter.com/bingsnetwork ",
+  "website": "https://bings.network",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x07800715245D547Ad6b483f34Ce8c392523AC8eC",
+  "id": "0x07800715245D547Ad6b483f34Ce8c392523AC8eC"
+}
