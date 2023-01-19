@@ -1,0 +1,14 @@
+{
+  "name": "Lira",
+  "symbol": "LIRA",
+  "decimals": 18,
+  "description": "Lira is a utility token used to purchase goods or services.",
+  "discord": "https://discord.gg/T8xUu9nhFn",
+  "telegram": "https://t.me/lirafinancial",
+  "twitter": "https://twitter.com/lirafinancial",
+  "website": "https://lira.financial/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://snowtrace.io/token/0x8031c44b96Ec8c9B66aB16c2c164e8dEEb361a3f",
+  "id": "0x8031c44b96Ec8c9B66aB16c2c164e8dEEb361a3f"
+}
