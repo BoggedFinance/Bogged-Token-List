@@ -1,0 +1,16 @@
+{
+  "name": "LWD NFT DOLLAR",
+  "symbol": "LWDNFT$",
+  "decimals": 18,
+  "description": "LWD NFT Dollar is a token of LWD Project, can be traded for NFTs only (and other tokens but liquidity is $1)Created by Mr2FIRE, Founder &  CEO of LWD Project.Visit our social media for more information.",
+  "discord": "https://discord.gg/h5k3vCtQfn",
+  "telegram": "https://t.me/LWD_Project_G",
+  "twitter": "https://twitter.com/whitelazercoin",
+  "website": "https://lwd-project.nftify.network",
+  "vested": [],
+  "audits": [
+    "https://cointool.app/audit/contract?chainId=137&address=0xB0f5aE66cEab250089c4E731eA1abCAfA7ca2F42"
+  ],
+  "explorer": "https://polygonscan.com/token/0xB0f5aE66cEab250089c4E731eA1abCAfA7ca2F42",
+  "id": "0xB0f5aE66cEab250089c4E731eA1abCAfA7ca2F42"
+}
