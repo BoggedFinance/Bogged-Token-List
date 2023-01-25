@@ -1,0 +1,14 @@
+{
+  "name": "SHIBKING INU",
+  "symbol": "Shibking",
+  "decimals": 18,
+  "description": "Shibking Inu 是一个社区驱动的模因令牌，旨在成为2022年最强大的社区运营DAO之一。Shibking Inu 是社区构建分散社区时进行的实验，有了它，您将在社区中提出任何建议，并且将来会有更多的DAO社区获得更多好处。SHIBKING 社区是这个项目的核心，并将继续成长。Buy Tax:12%； Sell Tax:13%； 每笔交易的 10% 用于持有人的 SHIB 奖励，每笔交易的 1% 打入营销钱包， 1% 添加到流动性池中。",
+  "discord": "",
+  "telegram": "https://t.me/shibkingcn",
+  "twitter": "https://twitter.com/ShibkinginuDao",
+  "website": "https://www.shibking.io/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x8424b4C691473C873067B65d5f40f3ff0bf7463e",
+  "id": "0x8424b4C691473C873067B65d5f40f3ff0bf7463e"
+}
