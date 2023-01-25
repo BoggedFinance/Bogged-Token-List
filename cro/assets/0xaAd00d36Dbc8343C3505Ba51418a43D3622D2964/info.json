@@ -1,0 +1,16 @@
+{
+  "name": "Crolon Mars",
+  "symbol": "CLMRS",
+  "decimals": 18,
+  "description": "Crolon Mars - An innovative project, birthing a Multiverse, connecting multiple Meta Worlds to form lasting relationships.What is Crolon Mars (CLMRS) Crolon Mars is a decentralized Meta World, which operates not only a Metaverse of it's own.",
+  "discord": "https://discord.com/invite/xygU8V7M4b",
+  "telegram": "https://t.me/crolon_mars",
+  "twitter": "https://twitter.com/CrolonMars",
+  "website": "https://crolonmars.com/",
+  "vested": [],
+  "audits": [
+    "https://github.com/interfinetwork/smart-contract-audits/blob/audit-updates/CrolonMars_AuditReport_InterFi.pdf"
+  ],
+  "explorer": "https://cronoscan.com/token/0xaAd00d36Dbc8343C3505Ba51418a43D3622D2964",
+  "id": "0xaAd00d36Dbc8343C3505Ba51418a43D3622D2964"
+}
