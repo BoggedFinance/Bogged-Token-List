@@ -1,0 +1,18 @@
+{
+  "name": "POPSToken",
+  "symbol": "POPS",
+  "decimals": 18,
+  "description": "The POPs token is the native DEX token of SwapsicleDEX. It has a total supply of 100M tokens with roughly 40% of our supply in circulation by the end of 2023. POPS or as we sometimes refer to it as \"proof of participation\" derives its value by granting holders access to products that offer some of the best returns in Defi on layer 1 tokens. Similar to a Costco membership, holding sPOPS (the staked version of POPS) allows you to interact with different products that offer layer 1 rewards and stablecoin yields of fixed 20% APR’s. These products have limited slots available to remain sustainable, to ensure that we always have the rewards ready, prior to releasing new spots and products as we never rely on user funds or deposits to fund any of our staking products.",
+  "discord": "https://discord.com/invite/6UxVtUS4F8",
+  "telegram": "",
+  "twitter": "https://twitter.com/SwapsicleDEX",
+  "website": "https://www.swapsicle.io",
+  "vested": [
+    "0x5268C2331658Cb0B2858cfa9DB27D8F22f5434Bc"
+  ],
+  "audits": [
+    "https://www.certik.com/projects/swapsicle"
+  ],
+  "explorer": "https://snowtrace.io/token/0x240248628B7B6850352764C5dFa50D1592A033A8",
+  "id": "0x240248628B7B6850352764C5dFa50D1592A033A8"
+}
