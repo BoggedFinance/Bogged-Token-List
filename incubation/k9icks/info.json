@@ -1,0 +1,17 @@
+{
+  "name": "K9icks",
+  "symbol": "K9",
+  "decimals": 18,
+  "description": "",
+  "discord": "https://discord.gg/k9icks",
+  "telegram": "https://t.me/+lMD1tWJC7jM0Nzc1",
+  "twitter": "https://twitter.com/k9icks",
+  "website": "https://k9icks.io/",
+  "vested": [],
+  "audits": [
+    "https://github.com/BoggedFinance/Bogged-Token-List/blob/main/incubation/k9icks/token-audit.pdf",
+    "https://github.com/BoggedFinance/Bogged-Token-List/blob/main/incubation/k9icks/team-kyc.pdf"
+  ],
+  "explorer": "",
+  "id": ""
+}
