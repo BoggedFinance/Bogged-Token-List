@@ -1,0 +1,16 @@
+{
+  "name": "CubeBase",
+  "symbol": "CUBEB",
+  "decimals": 18,
+  "description": "Cubebase has a token that rewards holders in BUSD!Dex and launchpad on the works.",
+  "discord": "",
+  "telegram": "https://t.me/cubebasetg",
+  "twitter": "https://twitter.com/cubebasetoken",
+  "website": "https://cubebase.net",
+  "vested": [],
+  "audits": [
+    "https://contractwolf.io/projects/gempad-dividend-tokens"
+  ],
+  "explorer": "https://bscscan.com/token/0x348AF621847FD7032DD1863F08262FD83d859C1d",
+  "id": "0x348AF621847FD7032DD1863F08262FD83d859C1d"
+}
