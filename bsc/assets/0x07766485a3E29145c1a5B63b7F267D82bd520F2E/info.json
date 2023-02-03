@@ -1,0 +1,16 @@
+{
+  "name": "Charity Coin",
+  "symbol": "CC",
+  "decimals": 18,
+  "description": "Charity Coin Is Establishing A New Standard Of Decentralized Finance For Charity.",
+  "discord": "",
+  "telegram": "https://t.me/CharityTokenTG",
+  "twitter": "https://twitter.com/TokenForCharity",
+  "website": "https://www.tokenforcharity.net/",
+  "vested": [],
+  "audits": [
+    "https://drive.google.com/file/d/12zsk4hzUjtlX-Sminjw91kblnh6QX9Pf/view?usp=share_link"
+  ],
+  "explorer": "https://bscscan.com/token/0x07766485a3E29145c1a5B63b7F267D82bd520F2E",
+  "id": "0x07766485a3E29145c1a5B63b7F267D82bd520F2E"
+}
