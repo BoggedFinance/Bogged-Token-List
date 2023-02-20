@@ -1,0 +1,17 @@
+{
+  "name": "Infinity Rocket Token",
+  "symbol": "IRT",
+  "decimals": 18,
+  "description": "Infinity Rocket is a multi-purpose Launchpad platform that allows you to simplify the launch and promotion of any projects on the blockchain.",
+  "discord": "",
+  "telegram": "https://t.me/irocketeng",
+  "twitter": "https://twitter.com/iRocketToken",
+  "website": "https://irocket.pro",
+  "vested": [],
+  "audits": [
+    "https://github.com/TechRate/Smart-Contract-Audits/blob/main/December/Infinity%20Rocket%20Token%20Full%20Smart%20Contract%20Security%20Audit.pdf",
+    "https://irocket.pro/docs/Infinity%20Rocket%20BSC%20Audit%2012789501.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0xCBE5BcA571628894A38836b0baE833ff012f71D8",
+  "id": "0xCBE5BcA571628894A38836b0baE833ff012f71D8"
+}
