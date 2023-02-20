@@ -1,0 +1,16 @@
+{
+  "name": "MultiMoney.Global",
+  "symbol": "MMGT",
+  "decimals": 18,
+  "description": "The Next Level Most Advanced Decentralized Earning Program. The Fastest, Easiest And Risk-Free Way To Be Financially Free is Multimoney.global",
+  "discord": "",
+  "telegram": "",
+  "twitter": "https://twitter.com/team_mmgt",
+  "website": "https://multimoney.global/",
+  "vested": [],
+  "audits": [
+    "https://multimoney.global/audit.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0x44C4eDDef663fC65E93987A153c31314cC4C9eb1",
+  "id": "0x44C4eDDef663fC65E93987A153c31314cC4C9eb1"
+}
