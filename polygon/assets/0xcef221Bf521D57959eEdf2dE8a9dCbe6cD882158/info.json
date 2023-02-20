@@ -1,0 +1,16 @@
+{
+  "name": "Big Core",
+  "symbol": "Bcore",
+  "decimals": 4,
+  "description": "Big Core is a MEME coin deployed on CORE Mainnet Network created to be the first MEME coin on the CORE Mainnet Network, we will use it for competitions (weekly-daily-monthly) and games hosted by the core team of Baby CORE Coin & other teams, we are building a games & competitions company (on Discord, Twitter, Telegram & Instagram)",
+  "discord": "https://discord.gg/uHAXxzx",
+  "telegram": "https://t.me/BigCore_G",
+  "twitter": "https://twitter.com/BigCore_Off",
+  "website": "https://bigcoreproject.wixsite.com/bigcore",
+  "vested": [],
+  "audits": [
+    "https://cointool.app/audit/contract?chainId=137&address=0xcef221Bf521D57959eEdf2dE8a9dCbe6cD882158"
+  ],
+  "explorer": "https://polygonscan.com/token/0xcef221Bf521D57959eEdf2dE8a9dCbe6cD882158",
+  "id": "0xcef221Bf521D57959eEdf2dE8a9dCbe6cD882158"
+}
