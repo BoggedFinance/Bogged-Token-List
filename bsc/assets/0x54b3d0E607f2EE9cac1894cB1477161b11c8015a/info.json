@@ -1,0 +1,16 @@
+{
+  "name": "MARS IDOL",
+  "symbol": "MARSIDOL",
+  "decimals": 9,
+  "description": "Mars Idol is a global platform that provides aspiring singers and actors with the opportunity to showcase their talents and achieve their dreams. With its mission to support and encourage aspiring artists, Mars Idol offers a platform to perform and share their work with the world.  Through its funding support program, Mars Idol provides financial assistance to help artists take their careers to the next level. Whether it's funding for recording sessions, music videos, or acting projects, Mars Idol empowers artists to turn their passions into realities. With a commitment to helping artists achieve their goals, Mars Idol is a trusted and valuable resource for those seeking to make their mark in the entertainment industry.",
+  "discord": "",
+  "telegram": "https://t.me/marsidol",
+  "twitter": "https://twitter.com/mars_idol",
+  "website": "http://marsidol.in",
+  "vested": [],
+  "audits": [
+    "https://audits.super.site/marsidol-audit"
+  ],
+  "explorer": "https://bscscan.com/token/0x54b3d0E607f2EE9cac1894cB1477161b11c8015a",
+  "id": "0x54b3d0E607f2EE9cac1894cB1477161b11c8015a"
+}
