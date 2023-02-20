@@ -1,0 +1,16 @@
+{
+  "name": "JumpToken",
+  "symbol": "JMPT",
+  "decimals": 18,
+  "description": "",
+  "discord": "https://discord.gg/dFDrSX73Xw",
+  "telegram": "https://t.me/jumptask",
+  "twitter": "https://twitter.com/JumpTask_app",
+  "website": "https://jumptask.io/",
+  "vested": [],
+  "audits": [
+    "https://github.com/Quillhash/QuillAudit_Reports/blob/master/JumpToken%20Audit%20Report%20-%20QuillAudits.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0x88D7e9B65dC24Cf54f5eDEF929225FC3E1580C25",
+  "id": "0x88D7e9B65dC24Cf54f5eDEF929225FC3E1580C25"
+}
