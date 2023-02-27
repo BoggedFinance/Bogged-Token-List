@@ -1,0 +1,14 @@
+{
+  "name": "ShibaInuPay",
+  "symbol": "SHIBAY",
+  "decimals": 18,
+  "description": "Pay for goods and services instantly using your SHIBAY cryptocurrency as a means of payment. 💳💵",
+  "discord": "",
+  "telegram": "https://t.me/shibay_channel",
+  "twitter": "https://twitter.com/shibapayinu",
+  "website": "https://shibaypay.com",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x0fF0eeCEB900c6008bDdE65479B5624d4e3415Dc",
+  "id": "0x0fF0eeCEB900c6008bDdE65479B5624d4e3415Dc"
+}
