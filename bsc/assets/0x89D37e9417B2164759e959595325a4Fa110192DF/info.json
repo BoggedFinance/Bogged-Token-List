@@ -1,0 +1,16 @@
+{
+  "name": "GamerGains Token",
+  "symbol": "GamerGains",
+  "decimals": 9,
+  "description": "GamerGains (Platform)GamerGains Labs is the world's first token and cryptocurrency based gaming and earning platform serving traditional gamers, a community of hundreds of millions of people around the world who enjoy playing on PCs and consoles like Xbox and PlayStation.https://coinbrain.com/coins/bnb-0x89d37e9417b2164759e959595325a4fa110192df?utm_source=embed&utm_campaign=embed_widgets&utm_medium=coinsniper.net",
+  "discord": "https://discord.gg/gamergains",
+  "telegram": "https://t.me/gamergains",
+  "twitter": "https://twitter.org/gamergains_",
+  "website": "https://gamergains.com/",
+  "vested": [
+    "0x89D37e9417B2164759e959595325a4Fa110192DF"
+  ],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x89D37e9417B2164759e959595325a4Fa110192DF",
+  "id": "0x89D37e9417B2164759e959595325a4Fa110192DF"
+}
