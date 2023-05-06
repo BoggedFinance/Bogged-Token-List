@@ -1,0 +1,20 @@
+{
+  "name": "Incinerator",
+  "symbol": "INCN",
+  "decimals": 18,
+  "description": "Incinerator is a AAA Play to Earn Skill-Based Game Incubator for itself and other crypto projects, aimed at connecting console and mobile gamers to crypto gaming.",
+  "discord": "https://discord.gg/aP8K2Df4",
+  "telegram": "https://t.me/IncineratorBSCPortal",
+  "twitter": "https://twitter.com/IncinerateBSC",
+  "website": "https://incinerator.app",
+  "vested": [
+    "0x36b34364e17373c05300bc3e827bf7cac34541be",
+    "0x6f1fb7231db66a5337a31b009172cabd0ee31b1d",
+    "0x4ef4c81c90a9eeeb0348f835b4884d7847b4d35f"
+  ],
+  "audits": [
+    "https://www.cognitos.io/incinerator-audit"
+  ],
+  "explorer": "https://bscscan.com/token/0x61a3747C6A8CA66a30E2F465A59f1d93dafCE23e",
+  "id": "0x61a3747C6A8CA66a30E2F465A59f1d93dafCE23e"
+}
