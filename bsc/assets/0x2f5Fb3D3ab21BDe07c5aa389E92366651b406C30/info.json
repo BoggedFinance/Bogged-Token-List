@@ -1,0 +1,16 @@
+{
+  "name": "BlocX",
+  "symbol": "BLX",
+  "decimals": 9,
+  "description": "BlocX Layer 1 Blockchain",
+  "discord": "https://discord.gg/SZzR7djzqc",
+  "telegram": "https://t.me/blocxchain",
+  "twitter": "https://twitter.com/BL0CXCHAIN",
+  "website": "https://blocxchain.org",
+  "vested": [],
+  "audits": [
+    "https://www.rdauditors.com/wp-content/uploads/2023/04/BlocX-Smart-Contract-Security-Report.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0x2f5Fb3D3ab21BDe07c5aa389E92366651b406C30",
+  "id": "0x2f5Fb3D3ab21BDe07c5aa389E92366651b406C30"
+}
