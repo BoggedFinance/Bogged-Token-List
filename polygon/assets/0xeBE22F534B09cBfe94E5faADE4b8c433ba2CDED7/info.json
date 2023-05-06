@@ -1,0 +1,14 @@
+{
+  "name": "lucine coin",
+  "symbol": "UIE",
+  "decimals": 9,
+  "description": "Token to share knowledge.",
+  "discord": "",
+  "telegram": "",
+  "twitter": "",
+  "website": "https://www.lucineformation.com/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://polygonscan.com/token/0xeBE22F534B09cBfe94E5faADE4b8c433ba2CDED7",
+  "id": "0xeBE22F534B09cBfe94E5faADE4b8c433ba2CDED7"
+}
