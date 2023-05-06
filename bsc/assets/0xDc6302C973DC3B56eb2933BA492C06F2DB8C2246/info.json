@@ -1,0 +1,16 @@
+{
+  "name": "BeanFlip",
+  "symbol": "$BEAN",
+  "decimals": 18,
+  "description": "BESC Ecosystem:Blockchain, BeanSwap, BeanBridge, BeanWallet, Beans Palace, Beans SportsBook, 3 collections of passive income NFTs and growing daily huge developments hugely undervalued!!Portal: https://t.me/BeanEcosystem",
+  "discord": "",
+  "telegram": "https://t.me/BeanEcosystem",
+  "twitter": "",
+  "website": "https://besceco.finance",
+  "vested": [],
+  "audits": [
+    "https://github.com/NovosAuditKYC/Novos_Audit/blob/main/Novos_Audit_BeanFlip.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0xDc6302C973DC3B56eb2933BA492C06F2DB8C2246",
+  "id": "0xDc6302C973DC3B56eb2933BA492C06F2DB8C2246"
+}
