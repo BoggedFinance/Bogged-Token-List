@@ -1,0 +1,16 @@
+{
+  "name": "VIP TOKEN",
+  "symbol": "VIP",
+  "decimals": 9,
+  "description": "VIP Token is your special access pass to exclusive concerts, special events, clubs and more! Hold VIP Token and use the VIP app to achieve different tier levels based on the amount of tokens you own. Join us and live the dream! ",
+  "discord": "",
+  "telegram": "https://t.me/VIP_TOKEN_CHAT",
+  "twitter": "https://mobile.twitter.com/token_vip",
+  "website": "https://viptoken.io",
+  "vested": [],
+  "audits": [
+    "https://viptoken.io/viptoken_audit.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0x6759565574De509b7725ABb4680020704B3F404e",
+  "id": "0x6759565574De509b7725ABb4680020704B3F404e"
+}
