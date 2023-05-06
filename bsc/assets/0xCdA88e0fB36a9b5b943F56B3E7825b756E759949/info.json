@@ -1,0 +1,16 @@
+{
+  "name": "Pario",
+  "symbol": "PARIO",
+  "decimals": 4,
+  "description": "Pario is a blockchain-powered platform committed to empowering creators and innovators in the world of finance. We believe that the potential of blockchain technology is limitless, and we empower our audience to unleash their creativity and build the future they envision. Our rug-free launchpad sets us apart from competitors, ensuring unparalleled security and trust for our users.With ParioPad, our launchpad platform, we provide a safe, secure, and reliable way to invest in new cryptocurrency projects, enabling our audience to invest with confidence and drive the growth and adoption of the blockchain industry.",
+  "discord": "",
+  "telegram": "https://t.me/ParioEcosystem",
+  "twitter": "https://twitter.com/ParioEcosystem",
+  "website": "https://pario.company/",
+  "vested": [],
+  "audits": [
+    "https://github.com/Tech-Audit/Smart-Contract-Audits/blob/main/TECHAUDIT_PARIO.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0xCdA88e0fB36a9b5b943F56B3E7825b756E759949",
+  "id": "0xCdA88e0fB36a9b5b943F56B3E7825b756E759949"
+}
