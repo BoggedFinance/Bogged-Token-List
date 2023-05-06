@@ -1,0 +1,16 @@
+{
+  "name": "Revoltance",
+  "symbol": "RVLT",
+  "decimals": 18,
+  "description": "It is our intent to produce a project that can survive both bear and bull markets by not forcing holders to hold long term for rewards. We have all experienced being locked into a high tax token over the last year and not getting the benefit of what a high tax token has to offer… reflections. Revoltance will break the mold of being stuck in high tax tokens with limited options. For those who do elect to buy and hold a unique rewards system will be put into place in the first quarter of 2023. Revoltance Token will have a unique tax structure (3%) that will allow its holders to benefit from either holding or trading . It is our desire to have a project where the holder is encouraged to hold or trade as they see fit depending on the current market status, provide profitable utilities and maintain real world solidity in the project itself.",
+  "discord": "https://discord.gg/3Wr5rHyF5E",
+  "telegram": "https://t.me/d4W6CgQ4_C9kMzlk/3168",
+  "twitter": "https://twitter.com/Revoltance",
+  "website": "https://revoltance.com/",
+  "vested": [],
+  "audits": [
+    "https://github.com/interfinetwork/project-delivery-data/blob/main/Revoltance/Revoltance_AuditReport_InterFi.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0x3E05385F64B8Ff3D47A63e1FaeF0585372717B41",
+  "id": "0x3E05385F64B8Ff3D47A63e1FaeF0585372717B41"
+}
