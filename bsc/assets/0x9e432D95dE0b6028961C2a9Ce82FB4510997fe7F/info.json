@@ -1,0 +1,16 @@
+{
+  "name": "VISEU",
+  "symbol": "VIS",
+  "decimals": 18,
+  "description": "Este token foi criado para combater a inflação no distrito de Viseu!",
+  "discord": "",
+  "telegram": "https://t.me/vis_token",
+  "twitter": "https://twitter.com/TokenVis",
+  "website": "https://tokenvis.nicepage.io/",
+  "vested": [
+    "0xfAfAf8EA24140c39F1b79a88402dFAA0FBA5f778"
+  ],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x9e432D95dE0b6028961C2a9Ce82FB4510997fe7F",
+  "id": "0x9e432D95dE0b6028961C2a9Ce82FB4510997fe7F"
+}
