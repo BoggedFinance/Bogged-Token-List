@@ -1,0 +1,16 @@
+{
+  "name": "Borzoi Inu",
+  "symbol": "BORZ",
+  "decimals": 9,
+  "description": "Decentralized wolfhound living on the Binance Smart Chain.",
+  "discord": "https://discord.gg/GUzQGE3KTJ",
+  "telegram": "https://t.me/BORZTalk/",
+  "twitter": "https://twitter.com/WolfgangBorzoi",
+  "website": "https://borztoken.com/",
+  "vested": [],
+  "audits": [
+    "https://github.com/interfinetwork/project-delivery-data/blob/main/Borzoi%20Inu/BorzoiInu_AuditReport_InterFi.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0x08DA9EB6147694e671A455d946A620A70d721EaE",
+  "id": "0x08DA9EB6147694e671A455d946A620A70d721EaE"
+}
