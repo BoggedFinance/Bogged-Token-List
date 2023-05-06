@@ -1,0 +1,16 @@
+{
+  "name": "Avanger News",
+  "symbol": "AVANGER",
+  "decimals": 18,
+  "description": "Avalanche'da topluluğu genişletmek!Avalanche topluluğuna değer veriyoruz bu nedenle Avalanche c-chain'de topluluk için çeşitli ödül dağıtım etkinlikleri düzenliyoruz ancak diğerlerinden farklı olarak bunu akıllı sözleşmeler ile yapıyoruz böylelikle avalanche'a topluluk genelinde daha derin etkiler bırakmayı amaçlıyoruz.",
+  "discord": "",
+  "telegram": "https://t.me/AvangerNews",
+  "twitter": "https://twitter.com/AvangerNews",
+  "website": "https://avangernews.com/avangerdex/",
+  "vested": [
+    "0xf43f06410692d6f1c1f9fcfe8cc0aae06a98a0bd"
+  ],
+  "audits": [],
+  "explorer": "https://snowtrace.io/token/0x03E4aB5d133c96928A5fbc39dB645d3faf6514E6",
+  "id": "0x03E4aB5d133c96928A5fbc39dB645d3faf6514E6"
+}
