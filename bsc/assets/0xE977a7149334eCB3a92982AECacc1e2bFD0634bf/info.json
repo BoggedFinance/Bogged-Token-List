@@ -1,0 +1,20 @@
+{
+  "name": "Lucky",
+  "symbol": "LUCKY",
+  "decimals": 18,
+  "description": "The $LUCKY Token is a dividends-from-a-service token. Purchasing $LUCKY tokens is equivalent to acquiring shares in a business and receiving dividends instantaneously from all of our ecosystem’s revenue sources.Our first DApp and flagship game is LucKey, a simple game with game theory underpinning its design ensuring it's a viral sensation. One lucky winner will receive a massive windfall, and others have the chance make a tidy profit or recoup their losses!",
+  "discord": "",
+  "telegram": "https://t.me/LuckysGames",
+  "twitter": "https://twitter.com/Luckys_Games",
+  "website": "https://www.luckys-games.com",
+  "vested": [
+    "0x407993575c91ce7643a4d4ccacc9a98c36ee1bbe"
+  ],
+  "audits": [
+    "https://audits.safuaudit.com/LuckyToken.pdf",
+    "https://audits.safuaudit.com/LuckyKeysGame.pdf",
+    "https://audits.safuaudit.com/LuckyFarm.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0xE977a7149334eCB3a92982AECacc1e2bFD0634bf",
+  "id": "0xE977a7149334eCB3a92982AECacc1e2bFD0634bf"
+}
