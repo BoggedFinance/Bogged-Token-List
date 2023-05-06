@@ -1,0 +1,16 @@
+{
+  "name": "Incinerator",
+  "symbol": "INCN",
+  "decimals": 18,
+  "description": "AAA P2E Incubator with 2% passive BNB sent to your wallet. Need another revenue stream for your project? Visit our website and schedule a chat!",
+  "discord": "https://discord.gg/2M4Q6HN7XR",
+  "telegram": "https://t.me/IncineratorBSCPortal",
+  "twitter": "https://twitter.com/IncinerateBSC",
+  "website": "http://incinerator.app",
+  "vested": [
+    "0x2a4c09eefd4c16156429955a4abc5ad2c3beac1d"
+  ],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x151338B5c5be992a500E8699828a25b7E577eff5",
+  "id": "0x151338B5c5be992a500E8699828a25b7E577eff5"
+}
