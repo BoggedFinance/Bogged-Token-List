@@ -2,13 +2,15 @@
   "name": "DogeArmy",
   "symbol": "DOGRMY",
   "decimals": 9,
-  "description": "DogeArmy Token ($DOGRMY) is a Dogecoin reward token for DOGE fans. Our goal is to create a community where every doge fan can come together.",
+  "description": "DogeArmy Token ($DOGRMY) is a Dogecoin reward token for DOGE fans. Our goal is to create a community where every doge fan can come together.From each transaction transaction of DOGRMY, 7% in Dogecoin is automatically distributed to holders.The more DOGRMY held the more DOGE received. Just add the Binance-Peg Dogecoin Token contract address to wallet and watch rewards grow.",
   "discord": "",
   "telegram": "https://t.me/dogrmytoken",
   "twitter": "https://twitter.com/DogrmyToken",
   "website": "https://dogearmy.app/",
   "vested": [],
-  "audits": [],
+  "audits": [
+    "https://dessertswap.finance/audits/DogeArmy-Token-BSC-Audit-25351401.pdf"
+  ],
   "explorer": "https://bscscan.com/token/0xbF758F2AFEC32B92E8008b5671088D42aF616515",
   "id": "0xbF758F2AFEC32B92E8008b5671088D42aF616515"
 }
