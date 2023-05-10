@@ -1,0 +1,14 @@
+{
+  "name": "EasyVest",
+  "symbol": "EVT",
+  "decimals": 2,
+  "description": "EasyVest is a Decentralized Financial  Payment Network Service Provider Based in the United Kingdom, Rebuilding the Traditional Payment Stack on the Blockchain. It utilizes a basket of fiat-pegged stable-coins, algorithmically Stabilized by Reserve Currency (EVT) to facilitate programmable payments and open financial infrastructure development.",
+  "discord": "",
+  "telegram": "https://t.me/EasyVest365",
+  "twitter": "https://twitter.com/EasyVest_HQ",
+  "website": "https://easyvest.net/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0xcfd38FDCb624c0D754d9Aba6F6dA0A7B45f00927",
+  "id": "0xcfd38FDCb624c0D754d9Aba6F6dA0A7B45f00927"
+}
