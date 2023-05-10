@@ -1,0 +1,14 @@
+{
+  "name": "Lion Coin",
+  "symbol": "Lion Coin",
+  "decimals": 18,
+  "description": "Lion Coin is a cryptocurrency based on blockchain technology, which aims to provide a secure and efficient means of transferring digital value. Inspired by the majestic animal that is a symbol of courage, strength and leadership, Lion Coin aims to be a cryptocurrency that can be used by people around the world. ",
+  "discord": "",
+  "telegram": "https://t.me/LionCoin7",
+  "twitter": "https://twitter.com/LionCoin7",
+  "website": "https://bnblion.wordpress.com/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x6446AeDA6CF828C40e12F37FEfa8b45d0940933D",
+  "id": "0x6446AeDA6CF828C40e12F37FEfa8b45d0940933D"
+}
