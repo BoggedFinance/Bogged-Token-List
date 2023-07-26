@@ -1,0 +1,16 @@
+{
+  "name": "Froggies Token",
+  "symbol": "FRGST",
+  "decimals": 18,
+  "description": "Froggies Token is a deflationary meme token that focuses primarily on providing its investors and community with use-case, utility and fun.",
+  "discord": "https://discord.gg/8CaBXnQRAt",
+  "telegram": "https://t.me/officialfroggiestoken",
+  "twitter": "https://www.twitter.com/froggiestoken",
+  "website": "https://www.froggiestoken.com",
+  "vested": [],
+  "audits": [
+    "https://skynet.certik.com/projects/froggies-token"
+  ],
+  "explorer": "https://bscscan.com/token/0x440758dF68A045DB3F2517257F27330a12438656",
+  "id": "0x440758dF68A045DB3F2517257F27330a12438656"
+}
