@@ -1,0 +1,19 @@
+{
+  "name": "ARAB PEPE",
+  "symbol": "APEPE",
+  "decimals": 18,
+  "description": "ArabPepe is a unique memecoin aiming to redefine the snack industry with a focus on halal, gelatine-free products. We're collaborating with Middle East manufacturers to distribute high-quality snacks worldwide. 30% of net profits will support the memecoin ecosystem, with 15% each allocated for buying and burning APEPE and CLRS tokens. Partnerships with meme projects will enable themed product launches every six months. Join ArabPepe to enjoy healthy snacks, support memecoin growth, and celebrate meme culture.",
+  "discord": "",
+  "telegram": "http://t.me/ArabPepeBSC",
+  "twitter": "https://www.twitter.com/ArabPepeBSC",
+  "website": "https://www.arabpepe.com",
+  "vested": [
+    "0xccfea47065dedd9e0f54d5ac91dc3cb2f4be5530",
+    "0x8df9317894c214af78269ee718c380d38d9060a5",
+    "0x222a9bf8eff674e12625867813d51a2187f349aa",
+    "0x2169ed1c4ad101c5fbc2208945e489a44ff9faba"
+  ],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x463464927671a2e8d406A1a3E64093D42a181C44",
+  "id": "0x463464927671a2e8d406A1a3E64093D42a181C44"
+}
