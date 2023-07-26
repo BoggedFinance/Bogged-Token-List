@@ -1,0 +1,16 @@
+{
+  "name": "Pepe Prime",
+  "symbol": "PRP",
+  "decimals": 9,
+  "description": "'Pepe Prime is a completely community-focused coin. We will take the community's opinion at every step and move forward in the way the majority wants. By joining Pepe Prime, you will become a part of a community in the crypto world and we will work together for the success of Pepe Prime!'",
+  "discord": "",
+  "telegram": "https://t.me/PepePrimeGlobal",
+  "twitter": "https://twitter.com/PepePrimeBsc",
+  "website": "https://www.pepeprime.live/",
+  "vested": [],
+  "audits": [
+    "https://github.com/AnalytixAudit/Solidity/blob/main/20230509_Analytix%20Audit_Pepe%20Prime_Audit.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0xc61b77Ec73BEb344404a3E3b9Bb23524A1cB5562",
+  "id": "0xc61b77Ec73BEb344404a3E3b9Bb23524A1cB5562"
+}
