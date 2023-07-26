@@ -1,0 +1,16 @@
+{
+  "name": "PEPEFLOKI",
+  "symbol": "PEPEF",
+  "decimals": 18,
+  "description": "We have combined two of the most hyped coins in the crypto market - FLOKI and PEPE. We believe in the power of hype, and we're harnessing the power to create a one-of-a-kind project that's sure to turn heads. By bringing together two of the most popular tokens in the market, we're creating a unique opportunity for investors and enthusiasts alike.",
+  "discord": "",
+  "telegram": "https://t.me/pepefloki_portal",
+  "twitter": "https://twitter.com/pepe_floki",
+  "website": "https://pepefloki.io/",
+  "vested": [],
+  "audits": [
+    "https://github.com/AnalytixAudit/Solidity/blob/main/20230502_Analytix%20Audit_PEPEFLOKI_Audit.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0x4e2434294a722329B6B64e0c2Fca51B2533D7015",
+  "id": "0x4e2434294a722329B6B64e0c2Fca51B2533D7015"
+}
