@@ -1,0 +1,14 @@
+{
+  "name": "Degen Protocol Elite",
+  "symbol": "SH33P",
+  "decimals": 18,
+  "description": "Degen Protocol SH33P is a community-driven Elite Token, built to serve the Degen Protocol community. It features advanced liquidity mechanics and deflationary tokenomics to assist in circulating supply reduction.",
+  "discord": "",
+  "telegram": "https://t.me/DegenProtocol",
+  "twitter": "https://twitter.com/Degen__Protocol",
+  "website": "https://degenprotocol.io",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x60C8b8C8B24Db45A78fdA6a686C36930429D27d0",
+  "id": "0x60C8b8C8B24Db45A78fdA6a686C36930429D27d0"
+}
