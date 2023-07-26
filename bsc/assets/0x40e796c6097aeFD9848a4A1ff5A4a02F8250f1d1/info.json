@@ -1,0 +1,14 @@
+{
+  "name": "Bit Pardo",
+  "symbol": "PARDO",
+  "decimals": 18,
+  "description": "PARDO is the cryptocurrency of the Bit Pardo platform, you can use PARDO in a wide range of applications developed on our platform",
+  "discord": "",
+  "telegram": "https://t.me/+6LSmOrJ-iOw4MWUx",
+  "twitter": "https://twitter.com/BitPardo",
+  "website": "https://bit-pardo.com/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x40e796c6097aeFD9848a4A1ff5A4a02F8250f1d1",
+  "id": "0x40e796c6097aeFD9848a4A1ff5A4a02F8250f1d1"
+}
