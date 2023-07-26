@@ -1,0 +1,22 @@
+{
+  "name": "POWER CRYPTO WORLD",
+  "symbol": "PCW",
+  "decimals": 18,
+  "description": "Established on November 11, 2021, Power Crypto World (PCW) is a meme coin built on the Binance Smart Chain. It was founded by Kamadef, an entrepreneurial visionary hailing from the United States of America. PCW has embarked on a profound mission to elevate cryptocurrency assets to the forefront of worldwide financial activities, aiming to showcase this emerging paradigm within the global finance landscape. As an open-source digital currency, PCW was created with the purpose of evolving into a multi-dimensional entity that seamlessly integrates crypto, music, art, and philanthropy.PCW's inception marked the beginning of an exciting journey, driven by a shared vision to revolutionize the world of finance. With its foundation firmly rooted in the principles of decentralization and blockchain technology, PCW strives to disrupt traditional financial systems and provide individuals with greater control over their financial assets. By leveraging the transparency, security, and efficiency of the Binance Smart Chain, PCW aims to offer users a reliable and innovative platform to engage with digital assets.Central to PCW's identity and vision is its charming meme baby bull mascot. This playful symbol embodies the ambitious aspirations and relentless pursuit of growth inherent in the PCW community. Representing the spirit of resilience and optimism, the mascot serves as a rallying point for individuals who believe in the transformative power of cryptocurrencies and the opportunities they present for a brighter future.PCW's platform boasts a diverse range of digital services and features, catering to the needs and interests of its growing user base. With a commitment to transparency and accountability, PCW employs a contact audit financial reporting methodology. This standard accounting practice utilizes financial statements to reveal an organization's monetary information and performance. By adopting this approach, PCW ensures that its stakeholders are provided with comprehensive and accurate insights into the financial health and operational efficiency of the project.Furthermore, PCW's software tokens operate as a high-quality theory of cash within their respective networks. Serving as a medium of exchange, these tokens enable seamless transactions and foster economic activity within the PCW ecosystem. Drawing comparisons to fiat currencies, PCW's software tokens have the potential to redefine the way individuals perceive and interact with digital currencies, paving the way for widespread adoption and integration in various sectors.In conclusion, Power Crypto World (PCW) represents a dynamic and forward-thinking initiative within the cryptocurrency landscape. Founded on the principles of decentralization, transparency, and innovation, PCW seeks to elevate cryptocurrency assets to a prominent position in global finance. With its open-source nature and multi-dimensional vision, PCW aims to merge crypto, music, art, and philanthropy into a cohesive entity. Through its platform's digital services, contact audit financial reporting, and software tokens, PCW strives to create a transformative and inclusive ecosystem that empowers individuals to engage with digital assets and shape the future of finance.",
+  "discord": "https://discord.com/invite/ffvHRXJkdZ",
+  "telegram": "https://t.me/+A7Fp1xARJVtiZTYx",
+  "twitter": "https://twitter.com/PCWcrypto",
+  "website": "https://powercryptoworld.com/home",
+  "vested": [
+    "0xEba631474B2944efc9792E6e9175A773bcf08efC"
+  ],
+  "audits": [
+    "https://cointool.app/audit/contract?chainId=56&address=0x9370a51C9F2Ae6B23719ab74f05261891C609A23",
+    "https://app.staysafu.org/scan/free?a=0x9370a51C9F2Ae6B23719ab74f05261891C609A23",
+    "https://www.honeypot.is/?address=0x9370a51C9F2Ae6B23719ab74f05261891C609A23",
+    "https://gemprotocol.io/tokens/0x9370a51C9F2Ae6B23719ab74f05261891C609A23",
+    "https://moonarch.app/token/0x9370a51C9F2Ae6B23719ab74f05261891C609A23"
+  ],
+  "explorer": "https://bscscan.com/token/0x9370a51C9F2Ae6B23719ab74f05261891C609A23",
+  "id": "0x9370a51C9F2Ae6B23719ab74f05261891C609A23"
+}
