@@ -1,0 +1,14 @@
+{
+  "name": "CRYPTO_STREET",
+  "symbol": "CST",
+  "decimals": 18,
+  "description": "Crypto Street is a P2P blockchain financial platform that focuses on innovating the blockchain financial market. Crypto Street provides diversified financial services, with its main business being staking, investment, and mining. The exclusive blockchain security technology \"Hybrid\" allows users to enjoy a true zero-risk blockchain mining industry",
+  "discord": "",
+  "telegram": "https://t.me/cstcryptostreet",
+  "twitter": "https://twitter.com/cstcryptostreet",
+  "website": "https://cryptostreet.live/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x0a92285241b0ea93Eff4195Db4530AF1a4bcfE0c",
+  "id": "0x0a92285241b0ea93Eff4195Db4530AF1a4bcfE0c"
+}
