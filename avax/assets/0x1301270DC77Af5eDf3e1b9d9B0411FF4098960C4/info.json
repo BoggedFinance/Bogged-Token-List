@@ -1,0 +1,16 @@
+{
+  "name": "Institutional LandWolf",
+  "symbol": "ILW",
+  "decimals": 9,
+  "description": "Avalanche's first institutional memecoin is $ILW.Reflection %0,1",
+  "discord": "",
+  "telegram": "https://t.me/InstitutionalLandWolf",
+  "twitter": "https://twitter.com/landwolf_ilw",
+  "website": "https://flatearthcoin.xyz",
+  "vested": [
+    "0x738cb7b67c8438A2be3e2fafE1A5271ae0029A8D"
+  ],
+  "audits": [],
+  "explorer": "https://snowtrace.io/token/0x1301270DC77Af5eDf3e1b9d9B0411FF4098960C4",
+  "id": "0x1301270DC77Af5eDf3e1b9d9B0411FF4098960C4"
+}
