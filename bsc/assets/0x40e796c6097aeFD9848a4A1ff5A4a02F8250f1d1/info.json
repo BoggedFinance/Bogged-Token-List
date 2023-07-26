@@ -8,7 +8,9 @@
   "twitter": "https://twitter.com/BitPardo",
   "website": "https://bit-pardo.com/",
   "vested": [],
-  "audits": [],
+  "audits": [
+    "https://cointool.app/audit/contract?chainId=56&address=0x40e796c6097aeFD9848a4A1ff5A4a02F8250f1d1"
+  ],
   "explorer": "https://bscscan.com/token/0x40e796c6097aeFD9848a4A1ff5A4a02F8250f1d1",
   "id": "0x40e796c6097aeFD9848a4A1ff5A4a02F8250f1d1"
 }
