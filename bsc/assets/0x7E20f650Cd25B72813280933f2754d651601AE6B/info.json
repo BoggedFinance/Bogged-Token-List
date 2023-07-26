@@ -1,0 +1,21 @@
+{
+  "name": "VBNB",
+  "symbol": "VBNB",
+  "decimals": 4,
+  "description": "🔥🔥🔥 Ficha VBNB 🔥🔥🔥✨Nombre del token: VBNB✨Símbolo: VBNB✨Dirección del contrato: 0x7E20f650Cd25B72813280933f2754d651601AE6B✨Precio: $0.001514964952240✨Capitalización de mercado: $118,167,266,274✨Fecha de lanzamiento: 9 de mayo de 2023Más información detallada: https://coinalpha.app/token/0x7E20f650Cd25B72813280933f2754d651601AE6B✅ Sitio web: https://tokenworkcom.wordpress.com/#jp-carousel-50✅Twitter : https://twitter.com/RaulAra78303627✅ Telegrama: https://telegram.com/@Eduar633✅ URL de Coinmarketcap: https://coinmarketcap.com/dexscan/bsc/0xa83d25833f79c78926a5c1ebeb869a104dccc420/✅ Url Coingecko: https://www.geckoterminal.com/es/bsc/pools/0x500e49bf2e7640100599e90e96e562610928fceb✅ URL del libro blanco: https://tokenworkcom.wordpress.com/#jp-carousel-50✅ Vista de gráfico: https://coinalpha.app/chart/0x7E20f650Cd25B72813280933f2754d651601AE6B",
+  "discord": "https://discord.com/channels/@me",
+  "telegram": "http://t.me/@ReporVBNB",
+  "twitter": "https://twitter.com/RaulAra78303627",
+  "website": "https://tokenworkcom.wordpress.com/#jp-carousel-50",
+  "vested": [
+    "0x40968913544195fc0609f21a514cf26c30fbc7f7",
+    "0x88ba24271277393bca735a6381fa0b67c8ecfbff",
+    "0x407993575c91ce7643a4d4ccacc9a98c36ee1bbe"
+  ],
+  "audits": [
+    "https://tokenworkcom.wordpress.com/#jp-carousel-50",
+    "https://bscscan.com/token/0x7E20f650Cd25B72813280933f2754d651601AE6B"
+  ],
+  "explorer": "https://bscscan.com/token/0x7E20f650Cd25B72813280933f2754d651601AE6B",
+  "id": "0x7E20f650Cd25B72813280933f2754d651601AE6B"
+}
