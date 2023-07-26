@@ -1,0 +1,16 @@
+{
+  "name": "RainbowSix",
+  "symbol": "RSIX",
+  "decimals": 18,
+  "description": "Token RainbowSix (RSIX)",
+  "discord": "",
+  "telegram": "https://t.me/TokenRainbowSix",
+  "twitter": "https://twitter.com/TokenRainbowSix",
+  "website": "https://www.rainbowsix.biz/",
+  "vested": [],
+  "audits": [
+    "https://www.rainbowsix.biz/_files/ugd/85f6b1_164eec026a1d4a0abb79778a7ed3cef7.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0x4Fc0Dc6f38D9FCf01F25627Abb809aa1BE934d6F",
+  "id": "0x4Fc0Dc6f38D9FCf01F25627Abb809aa1BE934d6F"
+}
