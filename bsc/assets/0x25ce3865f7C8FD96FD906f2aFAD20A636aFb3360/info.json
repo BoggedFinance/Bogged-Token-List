@@ -1,0 +1,14 @@
+{
+  "name": "PEPEARMY",
+  "symbol": "PEPEARMY",
+  "decimals": 18,
+  "description": "PEPEARMY: The most memeable memecoin on BNB Smart ChainPEPEARMY is a reflection token on BNB Smart Chain with an auto-claim feature. Earn reward every day by holding PEPEARMY in your wallet.",
+  "discord": "",
+  "telegram": "https://t.me/pepearmytoken",
+  "twitter": "https://twitter.com/pepearmytoken",
+  "website": "https://pepearmytoken.com/",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x25ce3865f7C8FD96FD906f2aFAD20A636aFb3360",
+  "id": "0x25ce3865f7C8FD96FD906f2aFAD20A636aFb3360"
+}
