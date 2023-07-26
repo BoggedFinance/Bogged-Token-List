@@ -2,13 +2,17 @@
   "name": "AICTBNETWORK",
   "symbol": "CTB",
   "decimals": 18,
-  "description": "",
+  "description": "https:// aictbnetwork.com ​",
   "discord": "https://discord.com/channels/1090632324166725662/1102876952416751666",
   "telegram": "https://t.me/CTBPARTNERSNETWORK",
   "twitter": "https://twitter.com/CominityBot",
-  "website": "https://aictbnetwork.com",
-  "vested": [],
-  "audits": [],
+  "website": "https:// aictbnetwork.com ​",
+  "vested": [
+    "0xBC66460b9300BeE6bA61DB1CF0B07F8f0eE0a0D8"
+  ],
+  "audits": [
+    "https://bscscan.com/token/0xbc66460b9300bee6ba61db1cf0b07f8f0ee0a0d8"
+  ],
   "explorer": "https://bscscan.com/token/0xBC66460b9300BeE6bA61DB1CF0B07F8f0eE0a0D8",
   "id": "0xBC66460b9300BeE6bA61DB1CF0B07F8f0eE0a0D8"
 }
