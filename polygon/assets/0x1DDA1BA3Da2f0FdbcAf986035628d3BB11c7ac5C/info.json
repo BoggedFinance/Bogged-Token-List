@@ -1,0 +1,14 @@
+{
+  "name": "Catcoin",
+  "symbol": "Cat",
+  "decimals": 18,
+  "description": "Catcoin (CAT) é uma criptomoeda descentralizada criada na plataforma Ethereum usando o Remix IDE. Inspirada pelo amor e carinho que as pessoas têm pelos nossos amigos felinos, a Catcoin visa trazer a comunidade de amantes de gatos para o mundo das criptomoedas.A Catcoin foi desenvolvida com um propósito único: apoiar e promover a causa animal, especificamente ajudando gatos e abrigos de animais em todo o mundo. Uma parte das taxas de transação da Catcoin será destinada a instituições de resgate e proteção de gatos.",
+  "discord": "",
+  "telegram": "https://t.me/M9lHetCXPBk2OWFh",
+  "twitter": "https://twitter.com/Catcoin_ia?t=oTjh-QGpaAiEShznBqCbiA&s=09",
+  "website": "https://beacons.ai/catcoin_ia",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://polygonscan.com/token/0x1DDA1BA3Da2f0FdbcAf986035628d3BB11c7ac5C",
+  "id": "0x1DDA1BA3Da2f0FdbcAf986035628d3BB11c7ac5C"
+}
