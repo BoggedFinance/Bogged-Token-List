@@ -1,0 +1,14 @@
+{
+  "name": "EtheraX",
+  "symbol": "ETX",
+  "decimals": 18,
+  "description": "EtheraX is a cryptocurrency forked from Ethereum, initially deployed on the Polygon network before transitioning to its mainnet. It combines the best of Ethereum's features with Polygon's efficiency and scalability. With rapid transactions, low fees, and smart contract capabilities, EtheraX aims to empower users and developers in its growing ecosystem.",
+  "discord": "",
+  "telegram": "https://t.me/EtheraX",
+  "twitter": "https://twitter.com/etherax_",
+  "website": "",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://polygonscan.com/token/0x837405372590d77ABA4D4Aa7566530fd0b9a1C48",
+  "id": "0x837405372590d77ABA4D4Aa7566530fd0b9a1C48"
+}
