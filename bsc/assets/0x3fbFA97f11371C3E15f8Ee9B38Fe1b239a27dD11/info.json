@@ -1,0 +1,14 @@
+{
+  "name": "PYUSD",
+  "symbol": "PYUSD",
+  "decimals": 18,
+  "description": "PYUSD is a community token that had its ownership renounced and given to the community upon its creation. The decentralization of power allows PYUSD to flourish as a 100% community-driven project with markedly engaged holders and rapid growth on a daily basis",
+  "discord": "",
+  "telegram": "https://t.me/pyusdbsctoken",
+  "twitter": "",
+  "website": "",
+  "vested": [],
+  "audits": [],
+  "explorer": "https://bscscan.com/token/0x3fbFA97f11371C3E15f8Ee9B38Fe1b239a27dD11",
+  "id": "0x3fbFA97f11371C3E15f8Ee9B38Fe1b239a27dD11"
+}
