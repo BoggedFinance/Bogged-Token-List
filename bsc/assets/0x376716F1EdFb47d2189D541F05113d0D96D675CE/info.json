@@ -1,0 +1,16 @@
+{
+  "name": "MasterKey Finance",
+  "symbol": "MKF",
+  "decimals": 18,
+  "description": "Master Key Finance is proud to present the $MKF (Master Key Token). $MKF is a BSC blockchain platform designed to produce and distribute wealth while filling a massive void in the crypto space. Hold $MKF to receive 4% USDT rewards for buy and 5% sell transactions. These rewards are only a platform for additional rewards. Holders will also receive rewards from three different internal collection/reflection transactions with the utilities. Loyalty holders of 2 million+ $MKF tokens will qualify for additional FLEX rewards.",
+  "discord": "https://discord.gg/SgRT4JBB",
+  "telegram": "https://t.me/MasterKeyOfficial",
+  "twitter": "https://twitter.com/MasterKey_Fin",
+  "website": "https://masterkey.finance/",
+  "vested": [],
+  "audits": [
+    "https://github.com/interfinetwork/project-delivery-data/blob/main/MasterKey%20Finance/MasterKeyFinance_AuditReport_InterFi.pdf"
+  ],
+  "explorer": "https://bscscan.com/token/0x376716F1EdFb47d2189D541F05113d0D96D675CE",
+  "id": "0x376716F1EdFb47d2189D541F05113d0D96D675CE"
+}
