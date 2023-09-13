@@ -1,0 +1,15 @@
+{
+    "name": SMP BONUS",
+    "website": "https://smpbonus.com/",
+    "telegram": "https://t.me/+sLv11p9xs004MTE1",
+    "description": "SMP Bonus best crypto payment for marketplace staking payment.",
+    "explorer": "https://bscscan.com/token/0xe7a069884a9a8b4a937fac868c75ad8ba3610861",
+    "type": "BEP20",
+    "symbol": "SMP",
+    "decimals": 6,
+    "slippage": 11,
+    "status": "active",
+    "id": "0xe7a069884a9a8b4a937fac868c75ad8ba3610861",
+    "vested": [],
+    "audits": []
+}
