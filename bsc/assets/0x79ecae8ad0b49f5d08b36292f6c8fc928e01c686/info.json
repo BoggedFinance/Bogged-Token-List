@@ -1,0 +1,18 @@
+{
+    "name": "Fan Meme",
+    "website": "https://www.fanmeme.online/",
+    "telegram": "https://t.me/FanMemeCoin",
+    "twitter": "https://twitter.com/FanMemeCoin",
+    "description": "Fan Meme Coin.",
+    "explorer": "https://bscscan.com/token/0x79ECAE8aD0b49f5d08b36292F6C8Fc928e01C686",
+    "type": "BEP20",
+    "symbol": "FM",
+    "decimals": 18,
+    "slippage": 17,
+    "status": "active",
+    "id": "0x79ECAE8aD0b49f5d08b36292F6C8Fc928e01C686",
+    "vested": [
+    ],
+    "audits": [
+    ]
+}

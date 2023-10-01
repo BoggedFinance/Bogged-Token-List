@@ -674,6 +674,14 @@
         "chainId": 56,
         "decimals": "",
         "logoURI": "https://static.bogged.finance/bsc/assets/0x47BEAd2563dCBf3bF2c9407fEa4dC236fAbA485A/logo.png"
+      },
+      {
+        "name": "FanMeme",
+        "symbol": "FM",
+        "address": "0x79ecae8ad0b49f5d08b36292f6c8fc928e01c686",
+        "chainId": 56,
+        "decimals": "",
+        "logoURI": "https://static.bogged.finance/bsc/assets/0x79ecae8ad0b49f5d08b36292f6c8fc928e01c686/logo.png"
       }
     ]
   }
