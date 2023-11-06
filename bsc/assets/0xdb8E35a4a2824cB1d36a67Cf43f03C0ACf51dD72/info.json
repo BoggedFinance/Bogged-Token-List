@@ -1,0 +1,18 @@
+{
+  "name": "Socialudo",
+  "symbol": "LUDO",
+  "decimals": 18,
+  "description": "Socialudo is a basic ludo game which is playable on the blockchain. Each dice thrown on Socialudo is randomly generated with Chainlink VRF. The winning player of the game receives LUDO tokens. A 5% deduction is made for each transaction. 2% of this deduction is redistributed to all beneficiaries as a reward. The more $LUDO’s you have in your wallet, the more rewards you will receive. All beneficiaries are rewarded at the rate of $LUDO in their wallet. 1% of this deduction is burning. The remainder (2%) feeds $LUDO liquidity, preventing inflation and increasing the $LUDO value.",
+  "discord": "",
+  "telegram": "https://telegram.me/socialudogame",
+  "twitter": "https://twitter.com/socialudogame",
+  "website": "https://socialudo.com/",
+  "vested": [
+    
+  ],
+  "audits": [
+    
+  ],
+  "explorer": "https://bscscan.com/token/0xdb8E35a4a2824cB1d36a67Cf43f03C0ACf51dD72",
+  "id": "0xdb8E35a4a2824cB1d36a67Cf43f03C0ACf51dD72"
+}
