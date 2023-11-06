@@ -444,14 +444,6 @@
         "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8335.png"
       },
       {
-        "name": "Mdex",
-        "symbol": "MDX",
-        "address": "0x9C65AB58d8d978DB963e63f2bfB7121627e3a739",
-        "chainId": 56,
-        "decimals": "",
-        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8335.png"
-      },
-      {
         "name": "OLYMPUS",
         "symbol": "OLYMPUS",
         "address": "0x9C65AB58d8d978DB963e63f2bfB7121627e3a739",
@@ -466,14 +458,6 @@
         "chainId": 56,
         "decimals": "",
         "logoURI": "https://assets.coingecko.com/coins/images/18198/small/mGky0OOh_400x400.jpg?1630965301"
-      },
-      {
-        "name": "SafeMoon",
-        "symbol": "SAFEMOON",
-        "address": "0x42981d0bfbAf196529376EE702F2a9Eb9092fcB5",
-        "chainId": 56,
-        "decimals": "",
-        "logoURI": "https://assets.coingecko.com/coins/images/21863/small/photo_2021-12-22_14.43.36.jpeg?1640155440"
       },
       {
         "name": "SafeMoon",
