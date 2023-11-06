@@ -674,6 +674,14 @@
         "chainId": 56,
         "decimals": "",
         "logoURI": "https://static.bogged.finance/bsc/assets/0x47BEAd2563dCBf3bF2c9407fEa4dC236fAbA485A/logo.png"
+      },
+      {
+        "name": "PetCoin.Love",
+        "symbol": "PETS",
+        "address": "0xEac475739D6473e656A1440AdA7C675837576603",
+        "chainId": 56,
+        "decimals": "18",
+        "logoURI": "https://www.petcoin.love/logo/PetCoin_P.png"
       }
     ]
   }
